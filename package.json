@@ -1,0 +1,43 @@
+{
+  "name": "vocabbuilder",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Private, self-hosted vocabulary acquisition app: Colombian Spanish, Brazilian Portuguese, Southern Vietnamese, Russian, Ukrainian, Polish.",
+  "author": "Lango",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "build": "node scripts/build-web.mjs",
+    "dev": "node scripts/dev.mjs",
+    "start": "node --disable-warning=ExperimentalWarning server/index.ts",
+    "cli": "node --disable-warning=ExperimentalWarning server/cli.ts",
+    "migrate": "node --disable-warning=ExperimentalWarning server/cli.ts migrate",
+    "backup": "node --disable-warning=ExperimentalWarning server/cli.ts backup create",
+    "typecheck": "tsc -p tsconfig.json && tsc -p web/tsconfig.json",
+    "test": "node --disable-warning=ExperimentalWarning --test --test-concurrency=1 \"tests/unit/**/*.test.ts\" \"tests/integration/**/*.test.ts\"",
+    "test:unit": "node --disable-warning=ExperimentalWarning --test \"tests/unit/**/*.test.ts\"",
+    "test:integration": "node --disable-warning=ExperimentalWarning --test --test-concurrency=1 \"tests/integration/**/*.test.ts\"",
+    "test:e2e": "npm run build && playwright test -c tests/e2e/playwright.config.ts",
+    "test:all": "npm run typecheck && npm test && npm run test:e2e"
+  },
+  "dependencies": {
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "@tanstack/react-virtual": "3.14.10",
+    "@types/node": "26.6.3",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "esbuild": "0.28.2",
+    "playwright": "1.63.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-icons": "5.7.0",
+    "tailwind-merge": "3.6.0",
+    "tailwindcss": "4.3.3",
+    "typescript": "6.0.3"
+  }
+}

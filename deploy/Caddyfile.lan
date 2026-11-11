@@ -1,0 +1,33 @@
+# VocabBuilder — Caddy for LAN access without a public domain (Caddy's internal certificate authority).
+# Select it in .env:   VB_CADDYFILE=./deploy/Caddyfile.lan
+# VB_DOMAIN may list several addresses, e.g.   VB_DOMAIN="vocab.lan, 192.168.1.20"
+#
+# Each device must trust Caddy's root certificate once (install it as a trusted CA):
+#   docker compose cp caddy:/data/caddy/pki/authorities/local/root.crt ./vocabbuilder-root.crt
+# then install vocabbuilder-root.crt on your phone/tablet/computer (see docs/DEPLOYMENT.md).
+#
+# Using Tailscale? Prefer the regular deploy/Caddyfile with your machine's *.ts.net name:
+# Caddy fetches publicly trusted Tailscale certificates automatically, so no root certificate
+# has to be installed on your devices.
+# Reference: https://caddyserver.com/docs/caddyfile/directives/tls
+{
+	{$CADDY_EMAIL_OPTION}
+	admin localhost:2019
+}
+
+(vocabbuilder) {
+	encode zstd gzip
+	request_body {
+		max_size 1GB
+	}
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		-Server
+	}
+	reverse_proxy app:3000
+}
+
+{$VB_DOMAIN} {
+	tls internal
+	import vocabbuilder
+}

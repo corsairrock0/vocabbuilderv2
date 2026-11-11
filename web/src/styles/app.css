@@ -1,0 +1,480 @@
+/* © 2026 Lango. All rights reserved. Proprietary — see LICENSE. */
+@import "tailwindcss";
+
+/* shadcn/ui theme (Tailwind v4, OKLCH tokens), with the app's own additions: the language colour as primary, answer
+   feedback colours (success, warning, destructive with soft tints), the highlighter mark and the serif for words. */
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+  font-family: "VB Serif";
+  src: url("/fonts/vb-serif.woff") format("woff");
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-soft: oklch(0.971 0.022 25);
+  --success: oklch(0.52 0.13 150);
+  --success-soft: oklch(0.975 0.04 150);
+  --warning: oklch(0.55 0.12 85);
+  --warning-soft: oklch(0.977 0.055 95);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.9 0 0);
+  /* The language's colour: identity only (the daily Start, progress bars, the active tab, selected rows, focus). */
+  --lang: oklch(0.45 0.05 260);
+  --lang-soft: oklch(0.965 0.012 260);
+  --lang-foreground: oklch(0.99 0 0);
+  --ring: var(--lang);
+  --mark: oklch(0.95 0.09 100);
+  --chart-1: var(--lang);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.955 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: var(--lang);
+  color-scheme: light;
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-soft: oklch(0.29 0.065 25);
+  --success: oklch(0.79 0.15 150);
+  --success-soft: oklch(0.29 0.05 150);
+  --warning: oklch(0.84 0.13 88);
+  --warning-soft: oklch(0.31 0.05 88);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --lang: oklch(0.78 0.08 260);
+  --lang-soft: oklch(0.3 0.04 260);
+  --lang-foreground: oklch(0.145 0 0);
+  --mark: oklch(0.42 0.08 100);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.922 0 0);
+  --sidebar-primary-foreground: oklch(0.205 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  color-scheme: dark;
+}
+
+/* Language colours (identity only): OKLCH hues away from the green and red of answer feedback, dark enough for white
+   text (5.7:1 or better) in the light theme; the dark theme's take dark text. */
+[data-lang="es"] { --lang: oklch(0.52 0.12 60); --lang-soft: oklch(0.965 0.03 70); }
+[data-lang="pt"] { --lang: oklch(0.5 0.09 182); --lang-soft: oklch(0.965 0.025 182); }
+[data-lang="vi"] { --lang: oklch(0.52 0.15 350); --lang-soft: oklch(0.965 0.025 350); }
+[data-lang="ru"] { --lang: oklch(0.5 0.13 300); --lang-soft: oklch(0.965 0.025 300); }
+[data-lang="uk"] { --lang: oklch(0.5 0.13 260); --lang-soft: oklch(0.965 0.025 260); }
+[data-lang="pl"] { --lang: oklch(0.5 0.1 225); --lang-soft: oklch(0.965 0.025 225); }
+[data-lang] { --lang-foreground: oklch(0.99 0 0); }
+.dark [data-lang="es"], .dark[data-lang="es"] { --lang: oklch(0.8 0.12 72); --lang-soft: oklch(0.3 0.05 72); }
+.dark [data-lang="pt"], .dark[data-lang="pt"] { --lang: oklch(0.76 0.1 182); --lang-soft: oklch(0.29 0.04 182); }
+.dark [data-lang="vi"], .dark[data-lang="vi"] { --lang: oklch(0.75 0.13 350); --lang-soft: oklch(0.3 0.05 350); }
+.dark [data-lang="ru"], .dark[data-lang="ru"] { --lang: oklch(0.74 0.11 300); --lang-soft: oklch(0.3 0.05 300); }
+.dark [data-lang="uk"], .dark[data-lang="uk"] { --lang: oklch(0.78 0.1 260); --lang-soft: oklch(0.3 0.05 260); }
+.dark [data-lang="pl"], .dark[data-lang="pl"] { --lang: oklch(0.76 0.09 220); --lang-soft: oklch(0.3 0.04 220); }
+.dark [data-lang], .dark[data-lang] { --lang-foreground: oklch(0.145 0 0); }
+
+.high-contrast {
+  --muted-foreground: oklch(0.38 0.02 264);
+  --border: oklch(0.72 0.015 264);
+  --input: oklch(0.6 0.02 264);
+}
+.dark.high-contrast {
+  --muted-foreground: oklch(0.84 0.015 264);
+  --border: oklch(1 0 0 / 28%);
+  --input: oklch(1 0 0 / 38%);
+}
+
+@theme inline {
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+  --font-word: "VB Serif", "Noto Serif", Georgia, "Times New Roman", serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-lang: var(--lang);
+  --color-lang-soft: var(--lang-soft);
+  --color-lang-foreground: var(--lang-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-soft: var(--destructive-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-mark: var(--mark);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    font-size: calc(100% * var(--font-scale, 1));
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    font-variant-numeric: tabular-nums;
+    min-height: 100dvh;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+  /* Components draw their own focus ring (ring-[3px] ring-ring/50). */
+  [data-slot]:focus-visible {
+    outline: none;
+  }
+  ::selection {
+    background: var(--lang-soft);
+  }
+  h1, h2, h3 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  button:not(:disabled), [role="button"]:not([aria-disabled="true"]), summary {
+    cursor: pointer;
+  }
+  dialog {
+    color: inherit;
+  }
+}
+
+/* ------------------------------------------------------------------ motion (the subset of tw-animate-css we use) */
+@keyframes enter {
+  from {
+    opacity: var(--tw-enter-opacity, 1);
+    transform: translate3d(var(--tw-enter-translate-x, 0), var(--tw-enter-translate-y, 0), 0) scale3d(var(--tw-enter-scale, 1), var(--tw-enter-scale, 1), var(--tw-enter-scale, 1));
+  }
+}
+@keyframes exit {
+  to {
+    opacity: var(--tw-exit-opacity, 1);
+    transform: translate3d(var(--tw-exit-translate-x, 0), var(--tw-exit-translate-y, 0), 0) scale3d(var(--tw-exit-scale, 1), var(--tw-exit-scale, 1), var(--tw-exit-scale, 1));
+  }
+}
+@utility animate-in {
+  animation: enter var(--tw-duration, 160ms) cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+@utility animate-out {
+  animation: exit var(--tw-duration, 140ms) ease-in both;
+}
+@utility fade-in-0 { --tw-enter-opacity: 0; }
+@utility fade-out-0 { --tw-exit-opacity: 0; }
+@utility zoom-in-95 { --tw-enter-scale: 0.95; }
+@utility zoom-out-95 { --tw-exit-scale: 0.95; }
+@utility zoom-in-90 { --tw-enter-scale: 0.9; }
+@utility slide-in-from-bottom { --tw-enter-translate-y: 100%; }
+@utility slide-out-to-bottom { --tw-exit-translate-y: 100%; }
+@utility slide-in-from-top { --tw-enter-translate-y: -100%; }
+@utility slide-out-to-top { --tw-exit-translate-y: -100%; }
+@utility slide-in-from-right { --tw-enter-translate-x: 100%; }
+@utility slide-out-to-right { --tw-exit-translate-x: 100%; }
+@utility slide-in-from-left { --tw-enter-translate-x: -100%; }
+@utility slide-out-to-left { --tw-exit-translate-x: -100%; }
+@utility slide-in-from-bottom-2 { --tw-enter-translate-y: 0.5rem; }
+@utility slide-in-from-bottom-4 { --tw-enter-translate-y: 1rem; }
+@utility slide-in-from-top-2 { --tw-enter-translate-y: -0.5rem; }
+@utility slide-out-to-bottom-2 { --tw-exit-translate-y: 0.5rem; }
+
+@keyframes shimmer {
+  from { background-position: 150% 0; }
+  to { background-position: -50% 0; }
+}
+@keyframes pop {
+  0% { transform: scale(0.6); opacity: 0; }
+  60% { transform: scale(1.12); opacity: 1; }
+  100% { transform: scale(1); }
+}
+@utility animate-pop {
+  animation: pop 320ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-6px); }
+  40% { transform: translateX(5px); }
+  60% { transform: translateX(-3px); }
+  80% { transform: translateX(2px); }
+}
+@utility animate-shake {
+  animation: shake 360ms ease-in-out both;
+}
+
+/* Modal <dialog> backdrops (components/ui/dialog.tsx). */
+dialog[data-slot]::backdrop {
+  background: rgb(8 10 18 / 0.48);
+  backdrop-filter: blur(2px);
+  animation: backdrop-in 200ms ease-out both;
+}
+dialog[data-slot][data-state="closed"]::backdrop {
+  animation: backdrop-out 160ms ease-in both;
+}
+@keyframes backdrop-in {
+  from { opacity: 0; }
+}
+@keyframes backdrop-out {
+  to { opacity: 0; }
+}
+
+/* ------------------------------------------------------------------ the app's typographic pieces */
+@layer components {
+  /* Words of the language being learned: the serif, like a dictionary headword. */
+  .word {
+    font-family: var(--font-word);
+    font-weight: 500;
+    letter-spacing: -0.005em;
+    line-height: 1.15;
+  }
+  .hint {
+    font-size: 0.8125rem;
+    line-height: 1.45;
+    color: var(--muted-foreground);
+  }
+  .label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 500;
+    margin-bottom: 0.4rem;
+  }
+  .mark {
+    background: linear-gradient(transparent 55%, var(--mark) 55%);
+    padding: 0 0.1em;
+  }
+  .blank {
+    display: inline-block;
+    min-width: 4.5ch;
+    border-bottom: 2.5px solid var(--lang);
+    margin: 0 0.15em;
+    transform: translateY(-0.1em);
+  }
+  /* A typed answer: a large serif line under the prompt. */
+  .answer-line {
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid var(--input);
+    background: transparent;
+    font-family: var(--font-word);
+    font-size: clamp(1.5rem, 5.5vw, 2.1rem);
+    padding: 0.35rem 0.1rem;
+    color: var(--foreground);
+    text-align: center;
+    transition: border-color 150ms;
+    border-radius: 0;
+  }
+  .answer-line:focus {
+    outline: none;
+    border-bottom-color: var(--lang);
+  }
+  .answer-line::placeholder {
+    color: color-mix(in oklab, var(--muted-foreground) 60%, transparent);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+  }
+}
+
+/* ------------------------------------------------------------------ a few pieces that are not components */
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 color-mix(in oklab, var(--lang) 45%, transparent); }
+  100% { box-shadow: 0 0 0 14px transparent; }
+}
+.playing {
+  animation: pulse-ring 1s ease-out infinite;
+}
+.reduce-motion *, .reduce-motion *::before, .reduce-motion *::after {
+  animation: none !important;
+  transition: none !important;
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.safe-top {
+  padding-top: env(safe-area-inset-top);
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Identify practice: the photo, the dot that marks the thing to name, and the magnifier for small things. */
+.identify-frame {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: calc(var(--radius) * 1.4);
+  background: var(--muted);
+  border: 1px solid var(--border);
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+.identify-frame > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.identify-dot {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;
+  border-radius: 9999px;
+  background: #ff4f2e;
+  border: 3px solid #ffffff;
+  box-shadow: 0 0 0 2px rgb(0 0 0 / 0.45), 0 2px 10px rgb(0 0 0 / 0.45);
+  pointer-events: none;
+}
+.identify-dot::after {
+  content: '';
+  position: absolute;
+  inset: -12px;
+  border-radius: 9999px;
+  border: 3px solid #ffffff;
+  box-shadow: 0 0 0 1.5px rgb(0 0 0 / 0.35);
+  animation: identify-pulse 1.8s ease-out infinite;
+}
+/* In the magnifier the mark is a ring, so the small thing under it stays visible. */
+.identify-dot-still {
+  width: 30px;
+  height: 30px;
+  margin: -15px 0 0 -15px;
+  background: transparent;
+  border-width: 3px;
+}
+.identify-dot-still::after {
+  display: none;
+}
+@keyframes identify-pulse {
+  0% { transform: scale(0.55); opacity: 1; }
+  80%, 100% { transform: scale(1.5); opacity: 0; }
+}
+.identify-loupe {
+  position: absolute;
+  border-radius: 9999px;
+  border: 3px solid #ffffff;
+  box-shadow: 0 0 0 1px rgb(0 0 0 / 0.25), 0 6px 22px rgb(0 0 0 / 0.4);
+  background-color: var(--muted);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+/* Declension tables: a coloured bar beside each case name (the name and its role carry the meaning). */
+.case-head {
+  display: block;
+  border-left: 3px solid var(--case, var(--border));
+  padding-left: 0.55rem;
+}
+.case-nom { --case: oklch(0.6 0.03 255); }
+.case-gen { --case: oklch(0.58 0.13 150); }
+.case-dat { --case: oklch(0.55 0.17 300); }
+.case-acc { --case: oklch(0.56 0.15 255); }
+.case-ins { --case: oklch(0.64 0.15 55); }
+.case-loc { --case: oklch(0.53 0.17 15); }
+.case-voc { --case: oklch(0.66 0.12 95); }
+.dark .case-nom { --case: oklch(0.72 0.03 255); }
+.dark .case-gen { --case: oklch(0.74 0.13 150); }
+.dark .case-dat { --case: oklch(0.72 0.15 300); }
+.dark .case-acc { --case: oklch(0.72 0.13 255); }
+.dark .case-ins { --case: oklch(0.76 0.13 55); }
+.dark .case-loc { --case: oklch(0.7 0.15 15); }
+.dark .case-voc { --case: oklch(0.8 0.11 95); }
+mark.mark { color: inherit; }
+
+/* Keyboard hints are noise on touch screens. */
+@media (hover: none) and (pointer: coarse) {
+  [data-slot="kbd"] {
+    display: none;
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "politics": {
+    "es": [
+      {
+        "lemma": "general",
+        "text": "Su abuelo fue general del ejército.",
+        "keep": true
+      },
+      {
+        "lemma": "político",
+        "text": "Esta noche hay un debate político en televisión.",
+        "keep": true
+      },
+      {
+        "lemma": "disparar",
+        "text": "El jugador disparó desde lejos y metió un golazo.",
+        "keep": true
+      },
+      {
+        "lemma": "disparar",
+        "text": "Los precios de la comida se dispararon este año.",
+        "keep": true
+      },
+      {
+        "lemma": "caballo",
+        "text": "Movió el caballo y me ganó la partida.",
+        "keep": true
+      }
+    ],
+    "pt": [
+      {
+        "lemma": "guerra",
+        "text": "As crianças fizeram uma guerra de travesseiros.",
+        "keep": true
+      },
+      {
+        "lemma": "presidente",
+        "text": "O presidente da empresa chega amanhã.",
+        "keep": true
+      },
+      {
+        "lemma": "assassino",
+        "text": "A baleia assassina é muito inteligente.",
+        "keep": true
+      },
+      {
+        "lemma": "atacar",
+        "text": "Os críticos atacaram o novo filme do diretor.",
+        "keep": true
+      }
+    ],
+    "vi": [
+      {
+        "lemma": "trận",
+        "text": "Bộ phim tái hiện một trận chiến thời cổ đại.",
+        "drop": true
+      }
+    ],
+    "ru": [
+      {
+        "lemma": "украинский",
+        "text": "Мы слушали украинские народные песни.",
+        "drop": true
+      },
+      {
+        "lemma": "ход",
+        "text": "Чей сейчас ход в этой партии?",
+        "keep": true
+      },
+      {
+        "lemma": "депутат",
+        "text": "Депутат встретился с жителями нашего района.",
+        "keep": true
+      },
+      {
+        "lemma": "голос",
+        "text": "Он получил больше всего голосов на конкурсе.",
+        "keep": true
+      },
+      {
+        "lemma": "бой",
+        "text": "В каких боях он участвовал?",
+        "drop": true
+      },
+      {
+        "lemma": "бой",
+        "text": "В полночь мы услышали бой часов.",
+        "keep": true
+      }
+    ],
+    "uk": [
+      {
+        "lemma": "партія",
+        "text": "Він ніколи не був членом жодної партії.",
+        "keep": true
+      },
+      {
+        "lemma": "партія",
+        "text": "Магазин отримав нову партію взуття.",
+        "keep": true
+      },
+      {
+        "lemma": "режим",
+        "text": "В аеропорту діє суворий режим безпеки.",
+        "keep": true
+      },
+      {
+        "lemma": "заступник",
+        "text": "Я заступник Тома.",
+        "keep": true
+      },
+      {
+        "lemma": "голос",
+        "text": "Пропозиція отримала більшість голосів.",
+        "keep": true
+      },
+      {
+        "lemma": "міністерство",
+        "text": "Це Міністерство праці?",
+        "keep": true
+      },
+      {
+        "lemma": "міністерство",
+        "text": "Я працюю у Міністерстві закордонних справ.",
+        "keep": true
+      },
+      {
+        "lemma": "вогонь",
+        "text": "На полігоні солдати вели вогонь по мішенях.",
+        "drop": true
+      }
+    ],
+    "pl": [
+      {
+        "lemma": "głos",
+        "text": "Każdy członek klubu ma jeden głos.",
+        "keep": true
+      },
+      {
+        "lemma": "prezydent",
+        "text": "Prezydent miasta otworzył nowy most.",
+        "keep": true
+      },
+      {
+        "lemma": "wybrać",
+        "text": "Mieszkańcy wybrali nowego burmistrza.",
+        "keep": true
+      },
+      {
+        "lemma": "akcja",
+        "text": "Wzięliśmy udział w akcji sprzątania parku.",
+        "keep": true
+      },
+      {
+        "lemma": "rosyjski",
+        "text": "Ten film ma rosyjskie napisy.",
+        "keep": true
+      },
+      {
+        "lemma": "wybór",
+        "text": "W niedzielę idziemy na wybory.",
+        "keep": true
+      }
+    ]
+  },
+  "crude": {
+    "es": [
+      {
+        "lemma": "maldito",
+        "text": "Dicen que esa casa vieja está maldita.",
+        "keep": true
+      },
+      {
+        "lemma": "puta",
+        "text": "Decirle puta a una mujer es un insulto muy grave.",
+        "drop": true
+      }
+    ],
+    "uk": [
+      {
+        "lemma": "належати",
+        "text": "Кит належить до ссавців, а не до риб.",
+        "keep": true
+      }
+    ],
+    "pt": [
+      {
+        "lemma": "puta",
+        "text": "Não chame ninguém de puta, porque é muito ofensivo.",
+        "drop": true
+      }
+    ],
+    "pl": [
+      {
+        "lemma": "kurwa",
+        "text": "Kurwa, znowu spóźniłem się na autobus!",
+        "drop": true
+      }
+    ]
+  }
+}

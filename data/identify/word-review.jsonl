@@ -1,0 +1,781 @@
+{"scene": "S001", "n": 2, "lang": "es", "keep": ["niña", "niñita"], "drop": ["chica", "muchacha"], "first": "niña", "why": "girl of about ten: chica and muchacha suggest a teen or young woman in Colombia"}
+{"scene": "S001", "n": 2, "lang": "pt", "keep": ["menina"], "drop": [], "first": "menina", "why": ""}
+{"scene": "S001", "n": 2, "lang": "vi", "keep": ["con gái"], "drop": [], "first": "con gái", "why": ""}
+{"scene": "S001", "n": 2, "lang": "ru", "keep": ["девочка"], "drop": [], "first": "девочка", "why": ""}
+{"scene": "S001", "n": 2, "lang": "uk", "keep": ["дівчинка", "дівчатко"], "drop": ["дівчина"], "first": "дівчинка", "why": "a girl of about ten: дівчина is a young woman"}
+{"scene": "S001", "n": 2, "lang": "pl", "keep": [], "drop": ["dziewczyna"], "first": null, "why": "a girl of about ten: dziewczyna is a teen or young woman; dziewczynka needed"}
+{"scene": "S002", "n": 1, "lang": "es", "keep": ["señor", "abuelo", "anciano"], "drop": [], "first": "abuelo", "why": ""}
+{"scene": "S002", "n": 1, "lang": "pt", "keep": ["senhor", "idoso"], "drop": [], "first": "idoso", "why": ""}
+{"scene": "S002", "n": 1, "lang": "vi", "keep": ["ông", "ông già"], "drop": [], "first": "ông", "why": ""}
+{"scene": "S002", "n": 1, "lang": "ru", "keep": ["старик", "дедушка"], "drop": [], "first": "дедушка", "why": ""}
+{"scene": "S002", "n": 1, "lang": "uk", "keep": ["дід", "дідусь"], "drop": [], "first": "дідусь", "why": ""}
+{"scene": "S002", "n": 2, "lang": "es", "keep": ["niña", "niñita"], "drop": ["chica", "muchacha"], "first": "niña", "why": "girl of about eight: chica and muchacha suggest a teen or young woman in Colombia"}
+{"scene": "S002", "n": 2, "lang": "pt", "keep": ["menina"], "drop": [], "first": "menina", "why": ""}
+{"scene": "S002", "n": 2, "lang": "vi", "keep": ["con gái"], "drop": [], "first": "con gái", "why": ""}
+{"scene": "S002", "n": 2, "lang": "ru", "keep": ["девочка"], "drop": [], "first": "девочка", "why": ""}
+{"scene": "S002", "n": 2, "lang": "uk", "keep": ["дівчинка", "дівчатко"], "drop": ["дівчина"], "first": "дівчинка", "why": "a girl of about eight: дівчина is a young woman"}
+{"scene": "S002", "n": 2, "lang": "pl", "keep": [], "drop": ["dziewczyna"], "first": null, "why": "a girl of about eight: dziewczyna is a teen or young woman; dziewczynka needed"}
+{"scene": "S003", "n": 3, "lang": "es", "keep": ["señal"], "drop": [], "first": "señal", "why": ""}
+{"scene": "S003", "n": 3, "lang": "pt", "keep": ["placa"], "drop": [], "first": "placa", "why": ""}
+{"scene": "S003", "n": 3, "lang": "ru", "keep": ["знак"], "drop": [], "first": "знак", "why": ""}
+{"scene": "S003", "n": 3, "lang": "pl", "keep": ["znak"], "drop": [], "first": "znak", "why": ""}
+{"scene": "S003", "n": 5, "lang": "es", "keep": ["vía", "carretera"], "drop": [], "first": "carretera", "why": ""}
+{"scene": "S003", "n": 5, "lang": "pt", "keep": ["estrada"], "drop": [], "first": "estrada", "why": ""}
+{"scene": "S003", "n": 5, "lang": "vi", "keep": ["đường"], "drop": [], "first": "đường", "why": ""}
+{"scene": "S004", "n": 1, "lang": "es", "keep": ["hombre", "señor"], "drop": [], "first": "hombre", "why": ""}
+{"scene": "S004", "n": 1, "lang": "pt", "keep": ["homem"], "drop": [], "first": "homem", "why": ""}
+{"scene": "S004", "n": 1, "lang": "vi", "keep": ["đàn ông"], "drop": [], "first": "đàn ông", "why": ""}
+{"scene": "S004", "n": 1, "lang": "ru", "keep": ["мужчина"], "drop": [], "first": "мужчина", "why": ""}
+{"scene": "S004", "n": 1, "lang": "uk", "keep": ["чоловік"], "drop": [], "first": "чоловік", "why": ""}
+{"scene": "S004", "n": 1, "lang": "pl", "keep": ["mężczyzna"], "drop": [], "first": "mężczyzna", "why": ""}
+{"scene": "S004", "n": 4, "lang": "pt", "keep": ["barbeiro"], "drop": [], "first": "barbeiro", "why": ""}
+{"scene": "S004", "n": 4, "lang": "pl", "keep": ["fryzjer"], "drop": [], "first": "fryzjer", "why": ""}
+{"scene": "S004", "n": 6, "lang": "es", "keep": ["niño"], "drop": ["chico", "muchacho"], "first": "niño", "why": "boy of about ten: chico and muchacho suggest a teen or young man in Colombia"}
+{"scene": "S004", "n": 6, "lang": "pt", "keep": ["garoto", "menino"], "drop": [], "first": "menino", "why": ""}
+{"scene": "S004", "n": 6, "lang": "vi", "keep": ["con trai"], "drop": [], "first": "con trai", "why": ""}
+{"scene": "S004", "n": 6, "lang": "ru", "keep": ["мальчик"], "drop": [], "first": "мальчик", "why": ""}
+{"scene": "S004", "n": 6, "lang": "uk", "keep": ["хлопець", "хлопчик"], "drop": [], "first": "хлопчик", "why": ""}
+{"scene": "S004", "n": 6, "lang": "pl", "keep": ["chłopak", "chłopiec"], "drop": [], "first": "chłopiec", "why": ""}
+{"scene": "S006", "n": 1, "lang": "es", "keep": ["boxeador"], "drop": [], "first": "boxeador", "why": ""}
+{"scene": "S006", "n": 1, "lang": "vi", "keep": ["võ sĩ"], "drop": [], "first": "võ sĩ", "why": ""}
+{"scene": "S006", "n": 1, "lang": "ru", "keep": ["боксёр"], "drop": [], "first": "боксёр", "why": ""}
+{"scene": "S006", "n": 4, "lang": "es", "keep": ["estómago", "barriga", "abdomen"], "drop": [], "first": "barriga", "why": ""}
+{"scene": "S006", "n": 4, "lang": "pt", "keep": ["barriga"], "drop": [], "first": "barriga", "why": ""}
+{"scene": "S006", "n": 4, "lang": "vi", "keep": ["bụng"], "drop": [], "first": "bụng", "why": ""}
+{"scene": "S007", "n": 1, "lang": "es", "keep": ["entrenador"], "drop": [], "first": "entrenador", "why": ""}
+{"scene": "S007", "n": 1, "lang": "pt", "keep": ["técnico", "treinador"], "drop": [], "first": "técnico", "why": ""}
+{"scene": "S007", "n": 1, "lang": "vi", "keep": ["huấn luyện viên"], "drop": [], "first": "huấn luyện viên", "why": ""}
+{"scene": "S007", "n": 1, "lang": "ru", "keep": ["тренер"], "drop": [], "first": "тренер", "why": ""}
+{"scene": "S007", "n": 1, "lang": "uk", "keep": ["тренер"], "drop": [], "first": "тренер", "why": ""}
+{"scene": "S007", "n": 1, "lang": "pl", "keep": ["trener"], "drop": [], "first": "trener", "why": ""}
+{"scene": "S007", "n": 2, "lang": "es", "keep": ["jugador", "futbolista"], "drop": [], "first": "jugador", "why": ""}
+{"scene": "S007", "n": 2, "lang": "pt", "keep": ["jogador"], "drop": [], "first": "jogador", "why": ""}
+{"scene": "S007", "n": 2, "lang": "vi", "keep": ["cầu thủ"], "drop": [], "first": "cầu thủ", "why": ""}
+{"scene": "S007", "n": 2, "lang": "ru", "keep": ["футболист"], "drop": [], "first": "футболист", "why": ""}
+{"scene": "S007", "n": 2, "lang": "uk", "keep": ["футболіст"], "drop": [], "first": "футболіст", "why": ""}
+{"scene": "S007", "n": 2, "lang": "pl", "keep": ["piłkarz"], "drop": [], "first": "piłkarz", "why": ""}
+{"scene": "S007", "n": 4, "lang": "es", "keep": ["portero"], "drop": [], "first": "portero", "why": ""}
+{"scene": "S007", "n": 4, "lang": "vi", "keep": ["thủ môn"], "drop": [], "first": "thủ môn", "why": ""}
+{"scene": "S007", "n": 4, "lang": "ru", "keep": ["вратарь"], "drop": [], "first": "вратарь", "why": ""}
+{"scene": "S007", "n": 4, "lang": "uk", "keep": ["воротар"], "drop": [], "first": "воротар", "why": ""}
+{"scene": "S007", "n": 4, "lang": "pl", "keep": ["bramkarz"], "drop": [], "first": "bramkarz", "why": ""}
+{"scene": "S007", "n": 5, "lang": "es", "keep": ["árbitro"], "drop": [], "first": "árbitro", "why": ""}
+{"scene": "S007", "n": 5, "lang": "pt", "keep": ["juiz"], "drop": [], "first": "juiz", "why": ""}
+{"scene": "S007", "n": 5, "lang": "vi", "keep": ["trọng tài"], "drop": [], "first": "trọng tài", "why": ""}
+{"scene": "S007", "n": 5, "lang": "ru", "keep": ["судья"], "drop": [], "first": "судья", "why": ""}
+{"scene": "S007", "n": 5, "lang": "uk", "keep": ["суддя"], "drop": [], "first": "суддя", "why": ""}
+{"scene": "S007", "n": 5, "lang": "pl", "keep": ["sędzia"], "drop": [], "first": "sędzia", "why": ""}
+{"scene": "S007", "n": 7, "lang": "pt", "keep": ["torcida"], "drop": [], "first": "torcida", "why": ""}
+{"scene": "S007", "n": 7, "lang": "ru", "keep": ["фанат", "болельщик"], "drop": [], "first": "болельщик", "why": ""}
+{"scene": "S007", "n": 7, "lang": "uk", "keep": ["вболівальник"], "drop": [], "first": "вболівальник", "why": ""}
+{"scene": "S007", "n": 7, "lang": "pl", "keep": ["kibic"], "drop": [], "first": "kibic", "why": ""}
+{"scene": "S008", "n": 1, "lang": "pt", "keep": ["faixa"], "drop": [], "first": "faixa", "why": ""}
+{"scene": "S008", "n": 3, "lang": "es", "keep": ["bus"], "drop": [], "first": "bus", "why": ""}
+{"scene": "S008", "n": 3, "lang": "pt", "keep": ["ônibus"], "drop": [], "first": "ônibus", "why": ""}
+{"scene": "S008", "n": 3, "lang": "vi", "keep": ["xe buýt"], "drop": ["xe khách"], "first": "xe buýt", "why": "red city bus; xe khách is an intercity coach"}
+{"scene": "S008", "n": 5, "lang": "pt", "keep": ["sinal"], "drop": [], "first": "sinal", "why": ""}
+{"scene": "S008", "n": 5, "lang": "vi", "keep": ["đèn đỏ"], "drop": [], "first": "đèn đỏ", "why": ""}
+{"scene": "S010", "n": 2, "lang": "vi", "keep": ["cồn"], "drop": [], "first": "cồn", "why": ""}
+{"scene": "S011", "n": 2, "lang": "es", "keep": ["piloto"], "drop": [], "first": "piloto", "why": ""}
+{"scene": "S011", "n": 2, "lang": "pt", "keep": ["piloto"], "drop": [], "first": "piloto", "why": ""}
+{"scene": "S011", "n": 2, "lang": "vi", "keep": ["phi công"], "drop": [], "first": "phi công", "why": ""}
+{"scene": "S011", "n": 2, "lang": "ru", "keep": ["пилот", "лётчик"], "drop": [], "first": "пилот", "why": ""}
+{"scene": "S011", "n": 2, "lang": "uk", "keep": ["пілот"], "drop": [], "first": "пілот", "why": ""}
+{"scene": "S011", "n": 2, "lang": "pl", "keep": ["pilot"], "drop": [], "first": "pilot", "why": ""}
+{"scene": "S011", "n": 4, "lang": "pt", "keep": ["pista"], "drop": [], "first": "pista", "why": ""}
+{"scene": "S011", "n": 4, "lang": "vi", "keep": ["đường băng"], "drop": [], "first": "đường băng", "why": ""}
+{"scene": "S012", "n": 5, "lang": "es", "keep": ["poste"], "drop": [], "first": "poste", "why": ""}
+{"scene": "S013", "n": 1, "lang": "es", "keep": ["niño"], "drop": [], "first": "niño", "why": ""}
+{"scene": "S013", "n": 1, "lang": "pt", "keep": ["criança"], "drop": [], "first": "criança", "why": ""}
+{"scene": "S013", "n": 1, "lang": "vi", "keep": ["trẻ em", "trẻ con", "con nít"], "drop": [], "first": "con nít", "why": ""}
+{"scene": "S013", "n": 1, "lang": "ru", "keep": ["ребёнок"], "drop": [], "first": "ребёнок", "why": ""}
+{"scene": "S013", "n": 1, "lang": "uk", "keep": ["дитина"], "drop": [], "first": "дитина", "why": ""}
+{"scene": "S013", "n": 1, "lang": "pl", "keep": ["dziecko"], "drop": [], "first": "dziecko", "why": ""}
+{"scene": "S013", "n": 2, "lang": "ru", "keep": ["хоккеист"], "drop": [], "first": "хоккеист", "why": ""}
+{"scene": "S013", "n": 3, "lang": "es", "keep": ["pareja"], "drop": [], "first": "pareja", "why": ""}
+{"scene": "S013", "n": 3, "lang": "pt", "keep": ["casal"], "drop": [], "first": "casal", "why": ""}
+{"scene": "S013", "n": 3, "lang": "ru", "keep": ["пара"], "drop": [], "first": "пара", "why": ""}
+{"scene": "S013", "n": 3, "lang": "uk", "keep": ["пара"], "drop": [], "first": "пара", "why": ""}
+{"scene": "S013", "n": 3, "lang": "pl", "keep": ["para"], "drop": [], "first": "para", "why": ""}
+{"scene": "S013", "n": 4, "lang": "es", "keep": ["joven", "adolescente"], "drop": [], "first": "adolescente", "why": ""}
+{"scene": "S013", "n": 4, "lang": "pt", "keep": ["rapaz", "jovem", "moço", "adolescente"], "drop": ["moça"], "first": "adolescente", "why": "teenage boy: moça is feminine"}
+{"scene": "S013", "n": 4, "lang": "ru", "keep": ["подросток"], "drop": [], "first": "подросток", "why": ""}
+{"scene": "S013", "n": 4, "lang": "uk", "keep": ["підліток"], "drop": [], "first": "підліток", "why": ""}
+{"scene": "S013", "n": 4, "lang": "pl", "keep": ["nastolatek"], "drop": [], "first": "nastolatek", "why": ""}
+{"scene": "S014", "n": 1, "lang": "ru", "keep": ["пушка"], "drop": [], "first": "пушка", "why": ""}
+{"scene": "S014", "n": 1, "lang": "uk", "keep": ["гармата"], "drop": [], "first": "гармата", "why": ""}
+{"scene": "S014", "n": 1, "lang": "pl", "keep": ["działo"], "drop": [], "first": "działo", "why": ""}
+{"scene": "S014", "n": 6, "lang": "ru", "keep": ["замок"], "drop": [], "first": "замок", "why": ""}
+{"scene": "S014", "n": 6, "lang": "uk", "keep": ["замок"], "drop": [], "first": "замок", "why": "castle is за́мок; the display замо́к has the lock's stress"}
+{"scene": "S014", "n": 6, "lang": "pl", "keep": ["zamek"], "drop": [], "first": "zamek", "why": ""}
+{"scene": "S016", "n": 5, "lang": "ru", "keep": ["скала"], "drop": [], "first": "скала", "why": ""}
+{"scene": "S016", "n": 5, "lang": "uk", "keep": ["скеля"], "drop": [], "first": "скеля", "why": ""}
+{"scene": "S016", "n": 5, "lang": "pl", "keep": ["skała"], "drop": [], "first": "skała", "why": ""}
+{"scene": "S017", "n": 3, "lang": "es", "keep": ["artista", "pintor"], "drop": [], "first": "pintor", "why": ""}
+{"scene": "S017", "n": 3, "lang": "pt", "keep": ["artista", "pintor"], "drop": [], "first": "pintor", "why": ""}
+{"scene": "S017", "n": 3, "lang": "vi", "keep": ["hoạ sĩ"], "drop": [], "first": "hoạ sĩ", "why": ""}
+{"scene": "S017", "n": 3, "lang": "ru", "keep": ["художник"], "drop": [], "first": "художник", "why": ""}
+{"scene": "S017", "n": 3, "lang": "uk", "keep": ["художник"], "drop": ["художниця"], "first": "художник", "why": "an older man: художниця is feminine"}
+{"scene": "S017", "n": 3, "lang": "pl", "keep": ["artysta", "malarz"], "drop": [], "first": "malarz", "why": ""}
+{"scene": "S017", "n": 6, "lang": "es", "keep": ["músico"], "drop": [], "first": "músico", "why": ""}
+{"scene": "S017", "n": 6, "lang": "pt", "keep": ["músico"], "drop": [], "first": "músico", "why": ""}
+{"scene": "S017", "n": 6, "lang": "vi", "keep": ["nhạc sĩ"], "drop": [], "first": "nhạc sĩ", "why": ""}
+{"scene": "S017", "n": 6, "lang": "ru", "keep": ["музыкант"], "drop": [], "first": "музыкант", "why": ""}
+{"scene": "S017", "n": 6, "lang": "uk", "keep": ["музикант"], "drop": [], "first": "музикант", "why": ""}
+{"scene": "S017", "n": 6, "lang": "pl", "keep": ["muzyk"], "drop": [], "first": "muzyk", "why": ""}
+{"scene": "S018", "n": 6, "lang": "es", "keep": ["grano", "barro"], "drop": [], "first": "barro", "why": ""}
+{"scene": "S018", "n": 6, "lang": "pt", "keep": ["espinha"], "drop": [], "first": "espinha", "why": ""}
+{"scene": "S018", "n": 6, "lang": "vi", "keep": ["mụn"], "drop": [], "first": "mụn", "why": ""}
+{"scene": "S018", "n": 7, "lang": "es", "keep": ["dentista"], "drop": [], "first": "dentista", "why": ""}
+{"scene": "S018", "n": 7, "lang": "pt", "keep": ["dentista"], "drop": [], "first": "dentista", "why": ""}
+{"scene": "S018", "n": 7, "lang": "vi", "keep": ["nha sĩ"], "drop": [], "first": "nha sĩ", "why": ""}
+{"scene": "S018", "n": 7, "lang": "pl", "keep": ["dentysta"], "drop": [], "first": "dentysta", "why": ""}
+{"scene": "S019", "n": 2, "lang": "es", "keep": ["pared"], "drop": ["muro"], "first": "pared", "why": "interior room wall is pared; muro is an outdoor or boundary wall"}
+{"scene": "S019", "n": 2, "lang": "pt", "keep": ["parede"], "drop": ["muro"], "first": "parede", "why": "interior room wall is parede; muro is an outdoor or boundary wall"}
+{"scene": "S019", "n": 2, "lang": "vi", "keep": ["tường"], "drop": [], "first": "tường", "why": ""}
+{"scene": "S020", "n": 4, "lang": "ru", "keep": ["шляпа"], "drop": [], "first": "шляпа", "why": ""}
+{"scene": "S020", "n": 4, "lang": "uk", "keep": [], "drop": ["шапка"], "first": null, "why": "brimmed felt hat; шапка is a knitted cap"}
+{"scene": "S020", "n": 4, "lang": "pl", "keep": ["kapelusz"], "drop": [], "first": "kapelusz", "why": ""}
+{"scene": "S020", "n": 5, "lang": "es", "keep": ["camisa"], "drop": [], "first": "camisa", "why": ""}
+{"scene": "S020", "n": 5, "lang": "pt", "keep": ["camisa"], "drop": [], "first": "camisa", "why": ""}
+{"scene": "S020", "n": 5, "lang": "vi", "keep": ["áo", "sơ mi"], "drop": [], "first": "sơ mi", "why": ""}
+{"scene": "S021", "n": 2, "lang": "es", "keep": ["abuela"], "drop": [], "first": "abuela", "why": ""}
+{"scene": "S021", "n": 2, "lang": "pt", "keep": ["senhora"], "drop": [], "first": "senhora", "why": ""}
+{"scene": "S021", "n": 2, "lang": "vi", "keep": ["bà", "bà già"], "drop": [], "first": "bà già", "why": ""}
+{"scene": "S021", "n": 2, "lang": "ru", "keep": ["бабушка"], "drop": [], "first": "бабушка", "why": ""}
+{"scene": "S021", "n": 2, "lang": "uk", "keep": ["бабуся"], "drop": [], "first": "бабуся", "why": ""}
+{"scene": "S021", "n": 2, "lang": "pl", "keep": ["babcia"], "drop": [], "first": "babcia", "why": ""}
+{"scene": "S022", "n": 1, "lang": "ru", "keep": ["пушка"], "drop": [], "first": "пушка", "why": ""}
+{"scene": "S022", "n": 1, "lang": "uk", "keep": ["гармата"], "drop": [], "first": "гармата", "why": ""}
+{"scene": "S022", "n": 1, "lang": "pl", "keep": ["działo"], "drop": [], "first": "działo", "why": ""}
+{"scene": "S022", "n": 3, "lang": "es", "keep": ["pistola"], "drop": [], "first": "pistola", "why": ""}
+{"scene": "S022", "n": 3, "lang": "pt", "keep": ["pistola", "revólver"], "drop": [], "first": "pistola", "why": ""}
+{"scene": "S022", "n": 3, "lang": "vi", "keep": ["súng"], "drop": [], "first": "súng", "why": ""}
+{"scene": "S022", "n": 5, "lang": "ru", "keep": ["форма"], "drop": [], "first": "форма", "why": ""}
+{"scene": "S022", "n": 5, "lang": "uk", "keep": ["форма"], "drop": [], "first": "форма", "why": ""}
+{"scene": "S022", "n": 5, "lang": "pl", "keep": ["mundur"], "drop": [], "first": "mundur", "why": ""}
+{"scene": "S023", "n": 2, "lang": "es", "keep": ["veterinario"], "drop": [], "first": "veterinario", "why": ""}
+{"scene": "S023", "n": 4, "lang": "es", "keep": ["mujer"], "drop": ["señora"], "first": "mujer", "why": "young woman of about twenty; señora implies a mature woman"}
+{"scene": "S023", "n": 4, "lang": "pt", "keep": ["mulher"], "drop": [], "first": "mulher", "why": ""}
+{"scene": "S023", "n": 4, "lang": "vi", "keep": ["phụ nữ", "đàn bà"], "drop": [], "first": "phụ nữ", "why": ""}
+{"scene": "S023", "n": 4, "lang": "ru", "keep": ["женщина"], "drop": [], "first": "женщина", "why": ""}
+{"scene": "S023", "n": 4, "lang": "uk", "keep": ["жінка"], "drop": [], "first": "жінка", "why": ""}
+{"scene": "S023", "n": 4, "lang": "pl", "keep": ["kobieta"], "drop": [], "first": "kobieta", "why": ""}
+{"scene": "S024", "n": 5, "lang": "es", "keep": ["teléfono"], "drop": [], "first": "teléfono", "why": ""}
+{"scene": "S024", "n": 5, "lang": "pt", "keep": ["telefone", "celular"], "drop": [], "first": "celular", "why": ""}
+{"scene": "S024", "n": 5, "lang": "vi", "keep": ["điện thoại", "điện thoại di động"], "drop": [], "first": "điện thoại", "why": ""}
+{"scene": "S024", "n": 6, "lang": "es", "keep": ["control"], "drop": [], "first": "control", "why": ""}
+{"scene": "S025", "n": 3, "lang": "ru", "keep": ["церковь"], "drop": [], "first": "церковь", "why": ""}
+{"scene": "S025", "n": 3, "lang": "uk", "keep": ["церква"], "drop": ["костел"], "first": "церква", "why": "Orthodox church with onion dome; костел is a Roman Catholic church"}
+{"scene": "S025", "n": 3, "lang": "pl", "keep": ["kościół"], "drop": [], "first": "kościół", "why": "Orthodox church: cerkiew is the exact word, kościół the general one"}
+{"scene": "S026", "n": 1, "lang": "es", "keep": ["jugador", "futbolista"], "drop": [], "first": "jugador", "why": ""}
+{"scene": "S026", "n": 1, "lang": "pt", "keep": ["jogador"], "drop": [], "first": "jogador", "why": ""}
+{"scene": "S026", "n": 1, "lang": "vi", "keep": ["cầu thủ"], "drop": [], "first": "cầu thủ", "why": ""}
+{"scene": "S026", "n": 1, "lang": "ru", "keep": ["игрок", "футболист"], "drop": [], "first": "футболист", "why": ""}
+{"scene": "S026", "n": 1, "lang": "uk", "keep": ["гравець", "футболіст"], "drop": [], "first": "футболіст", "why": ""}
+{"scene": "S026", "n": 1, "lang": "pl", "keep": ["piłkarz"], "drop": [], "first": "piłkarz", "why": ""}
+{"scene": "S028", "n": 3, "lang": "es", "keep": ["campo"], "drop": [], "first": "campo", "why": ""}
+{"scene": "S028", "n": 3, "lang": "pt", "keep": ["campo", "plantação"], "drop": [], "first": "campo", "why": ""}
+{"scene": "S028", "n": 3, "lang": "vi", "keep": ["đồng", "ruộng"], "drop": [], "first": "đồng", "why": ""}
+{"scene": "S029", "n": 4, "lang": "es", "keep": ["miel"], "drop": [], "first": "miel", "why": ""}
+{"scene": "S029", "n": 4, "lang": "pt", "keep": ["mel"], "drop": [], "first": "mel", "why": ""}
+{"scene": "S029", "n": 4, "lang": "vi", "keep": ["mật", "mật ong"], "drop": [], "first": "mật ong", "why": ""}
+{"scene": "S030", "n": 2, "lang": "uk", "keep": ["замок"], "drop": [], "first": "замок", "why": ""}
+{"scene": "S030", "n": 2, "lang": "pl", "keep": ["zamek"], "drop": [], "first": "zamek", "why": ""}
+{"scene": "S030", "n": 6, "lang": "es", "keep": ["planta"], "drop": [], "first": "planta", "why": ""}
+{"scene": "S030", "n": 6, "lang": "vi", "keep": ["cây"], "drop": ["chậu"], "first": "cây", "why": "dot marks the plant; chậu is the pot or basin"}
+{"scene": "S031", "n": 2, "lang": "es", "keep": ["torta"], "drop": [], "first": "torta", "why": ""}
+{"scene": "S031", "n": 2, "lang": "pt", "keep": ["bolo"], "drop": [], "first": "bolo", "why": ""}
+{"scene": "S031", "n": 2, "lang": "vi", "keep": ["bánh"], "drop": [], "first": "bánh", "why": ""}
+{"scene": "S031", "n": 4, "lang": "ru", "keep": ["конфета"], "drop": [], "first": "конфета", "why": ""}
+{"scene": "S031", "n": 4, "lang": "uk", "keep": [], "drop": ["цукерок"], "first": null, "why": "the singular is цукерка; цукерок reads as genitive plural"}
+{"scene": "S031", "n": 4, "lang": "pl", "keep": ["słodycze", "cukierek"], "drop": [], "first": "cukierek", "why": ""}
+{"scene": "S032", "n": 1, "lang": "es", "keep": ["periodista", "reportero"], "drop": [], "first": "periodista", "why": ""}
+{"scene": "S032", "n": 1, "lang": "pt", "keep": ["repórter", "jornalista"], "drop": [], "first": "repórter", "why": ""}
+{"scene": "S032", "n": 1, "lang": "vi", "keep": ["nhà báo"], "drop": [], "first": "nhà báo", "why": ""}
+{"scene": "S032", "n": 1, "lang": "ru", "keep": ["журналист"], "drop": [], "first": "журналист", "why": ""}
+{"scene": "S032", "n": 1, "lang": "uk", "keep": ["журналіст"], "drop": ["журналістка"], "first": "журналіст", "why": "a male journalist: журналістка is feminine"}
+{"scene": "S032", "n": 1, "lang": "pl", "keep": ["dziennikarz", "reporter"], "drop": [], "first": "dziennikarz", "why": ""}
+{"scene": "S034", "n": 5, "lang": "es", "keep": ["carné"], "drop": [], "first": "carné", "why": ""}
+{"scene": "S034", "n": 5, "lang": "pt", "keep": [], "drop": ["identidade"], "first": null, "why": "badge on a lanyard is a crachá; identidade is the government ID document"}
+{"scene": "S034", "n": 5, "lang": "vi", "keep": ["thẻ"], "drop": [], "first": "thẻ", "why": ""}
+{"scene": "S035", "n": 2, "lang": "ru", "keep": ["автомат"], "drop": [], "first": "автомат", "why": ""}
+{"scene": "S035", "n": 2, "lang": "pl", "keep": ["automat"], "drop": [], "first": "automat", "why": ""}
+{"scene": "S035", "n": 3, "lang": "es", "keep": ["tripulación"], "drop": [], "first": "tripulación", "why": ""}
+{"scene": "S035", "n": 3, "lang": "pt", "keep": ["tripulação"], "drop": [], "first": "tripulação", "why": ""}
+{"scene": "S035", "n": 3, "lang": "vi", "keep": ["phi hành đoàn"], "drop": [], "first": "phi hành đoàn", "why": ""}
+{"scene": "S035", "n": 3, "lang": "ru", "keep": ["экипаж"], "drop": [], "first": "экипаж", "why": ""}
+{"scene": "S035", "n": 3, "lang": "uk", "keep": ["екіпаж"], "drop": [], "first": "екіпаж", "why": ""}
+{"scene": "S035", "n": 3, "lang": "pl", "keep": ["załoga"], "drop": [], "first": "załoga", "why": ""}
+{"scene": "S035", "n": 4, "lang": "es", "keep": ["turista"], "drop": [], "first": "turista", "why": ""}
+{"scene": "S035", "n": 4, "lang": "pt", "keep": ["turista"], "drop": [], "first": "turista", "why": ""}
+{"scene": "S035", "n": 4, "lang": "vi", "keep": ["du khách"], "drop": [], "first": "du khách", "why": ""}
+{"scene": "S035", "n": 4, "lang": "ru", "keep": ["турист"], "drop": [], "first": "турист", "why": ""}
+{"scene": "S035", "n": 4, "lang": "uk", "keep": ["турист"], "drop": [], "first": "турист", "why": ""}
+{"scene": "S035", "n": 4, "lang": "pl", "keep": ["turysta"], "drop": [], "first": "turysta", "why": ""}
+{"scene": "S035", "n": 6, "lang": "es", "keep": ["planta"], "drop": [], "first": "planta", "why": ""}
+{"scene": "S035", "n": 6, "lang": "vi", "keep": ["cây"], "drop": ["chậu"], "first": "cây", "why": "dot marks the plant; chậu is the pot or basin"}
+{"scene": "S036", "n": 1, "lang": "es", "keep": ["maestro", "profesor"], "drop": ["profesora"], "first": "profesor", "why": "male teacher: profesora is feminine"}
+{"scene": "S036", "n": 1, "lang": "pt", "keep": ["professor"], "drop": [], "first": "professor", "why": ""}
+{"scene": "S036", "n": 1, "lang": "vi", "keep": ["thầy", "giáo viên", "thầy giáo"], "drop": ["cô giáo"], "first": "thầy giáo", "why": "male teacher: cô giáo is a female teacher"}
+{"scene": "S036", "n": 1, "lang": "ru", "keep": ["учитель", "преподаватель"], "drop": [], "first": "учитель", "why": ""}
+{"scene": "S036", "n": 1, "lang": "uk", "keep": ["вчитель", "учитель"], "drop": ["вчителька"], "first": "вчитель", "why": "a male teacher: вчителька is feminine"}
+{"scene": "S036", "n": 1, "lang": "pl", "keep": ["nauczyciel"], "drop": [], "first": "nauczyciel", "why": ""}
+{"scene": "S036", "n": 8, "lang": "es", "keep": ["estudiante", "alumno"], "drop": [], "first": "alumno", "why": ""}
+{"scene": "S036", "n": 8, "lang": "pt", "keep": ["aluno"], "drop": [], "first": "aluno", "why": ""}
+{"scene": "S036", "n": 8, "lang": "vi", "keep": ["học sinh", "học trò"], "drop": [], "first": "học sinh", "why": ""}
+{"scene": "S036", "n": 8, "lang": "ru", "keep": ["ученик"], "drop": [], "first": "ученик", "why": ""}
+{"scene": "S036", "n": 8, "lang": "uk", "keep": ["учень"], "drop": [], "first": "учень", "why": ""}
+{"scene": "S036", "n": 8, "lang": "pl", "keep": ["uczeń"], "drop": [], "first": "uczeń", "why": ""}
+{"scene": "S038", "n": 4, "lang": "es", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S038", "n": 4, "lang": "pt", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S038", "n": 4, "lang": "vi", "keep": ["nến"], "drop": [], "first": "nến", "why": ""}
+{"scene": "S042", "n": 3, "lang": "es", "keep": ["empresario"], "drop": [], "first": "empresario", "why": ""}
+{"scene": "S042", "n": 3, "lang": "pt", "keep": ["empresário", "executivo"], "drop": [], "first": "executivo", "why": ""}
+{"scene": "S042", "n": 3, "lang": "vi", "keep": ["doanh nhân"], "drop": [], "first": "doanh nhân", "why": ""}
+{"scene": "S042", "n": 3, "lang": "ru", "keep": ["бизнесмен"], "drop": [], "first": "бизнесмен", "why": ""}
+{"scene": "S042", "n": 3, "lang": "uk", "keep": ["бізнесмен"], "drop": [], "first": "бізнесмен", "why": ""}
+{"scene": "S042", "n": 3, "lang": "pl", "keep": ["biznesmen"], "drop": [], "first": "biznesmen", "why": ""}
+{"scene": "S042", "n": 5, "lang": "es", "keep": ["guardia", "vigilante"], "drop": [], "first": "vigilante", "why": ""}
+{"scene": "S042", "n": 5, "lang": "pt", "keep": ["guarda", "vigia"], "drop": [], "first": "guarda", "why": ""}
+{"scene": "S042", "n": 5, "lang": "ru", "keep": ["охранник"], "drop": [], "first": "охранник", "why": ""}
+{"scene": "S042", "n": 5, "lang": "uk", "keep": ["охоронець"], "drop": [], "first": "охоронець", "why": ""}
+{"scene": "S042", "n": 5, "lang": "pl", "keep": ["strażnik", "ochroniarz"], "drop": [], "first": "ochroniarz", "why": ""}
+{"scene": "S042", "n": 6, "lang": "pt", "keep": ["entregador"], "drop": [], "first": "entregador", "why": ""}
+{"scene": "S042", "n": 6, "lang": "pl", "keep": ["kurier"], "drop": [], "first": "kurier", "why": ""}
+{"scene": "S043", "n": 1, "lang": "es", "keep": ["cantante"], "drop": [], "first": "cantante", "why": ""}
+{"scene": "S043", "n": 1, "lang": "pt", "keep": [], "drop": ["cantor"], "first": null, "why": "female singer: cantor is masculine (cantora)"}
+{"scene": "S043", "n": 1, "lang": "vi", "keep": ["ca sĩ"], "drop": [], "first": "ca sĩ", "why": ""}
+{"scene": "S043", "n": 1, "lang": "ru", "keep": [], "drop": ["певец"], "first": null, "why": "a woman singing: певец is masculine; певица needed"}
+{"scene": "S043", "n": 1, "lang": "uk", "keep": ["співачка"], "drop": ["співак"], "first": "співачка", "why": "a woman singing: співак is masculine"}
+{"scene": "S043", "n": 1, "lang": "pl", "keep": [], "drop": ["piosenkarz"], "first": null, "why": "a woman singing: piosenkarz is masculine; piosenkarka needed"}
+{"scene": "S043", "n": 5, "lang": "pt", "keep": ["plateia"], "drop": [], "first": "plateia", "why": ""}
+{"scene": "S043", "n": 5, "lang": "vi", "keep": ["khán giả"], "drop": [], "first": "khán giả", "why": ""}
+{"scene": "S043", "n": 5, "lang": "ru", "keep": ["зритель", "публика"], "drop": [], "first": "публика", "why": ""}
+{"scene": "S043", "n": 5, "lang": "uk", "keep": ["публіка"], "drop": [], "first": "публіка", "why": ""}
+{"scene": "S043", "n": 5, "lang": "pl", "keep": ["widz", "publiczność", "widownia"], "drop": [], "first": "publiczność", "why": ""}
+{"scene": "S044", "n": 1, "lang": "es", "keep": ["vendedor"], "drop": [], "first": "vendedor", "why": ""}
+{"scene": "S044", "n": 1, "lang": "pt", "keep": ["vendedor"], "drop": [], "first": "vendedor", "why": ""}
+{"scene": "S044", "n": 1, "lang": "ru", "keep": ["продавец"], "drop": [], "first": "продавец", "why": ""}
+{"scene": "S044", "n": 1, "lang": "uk", "keep": ["продавець"], "drop": [], "first": "продавець", "why": ""}
+{"scene": "S044", "n": 1, "lang": "pl", "keep": ["sprzedawca"], "drop": [], "first": "sprzedawca", "why": ""}
+{"scene": "S044", "n": 2, "lang": "pt", "keep": ["barraca", "banca"], "drop": [], "first": "barraca", "why": ""}
+{"scene": "S044", "n": 2, "lang": "vi", "keep": ["quầy", "gian hàng"], "drop": [], "first": "quầy", "why": ""}
+{"scene": "S044", "n": 3, "lang": "es", "keep": ["abuela"], "drop": [], "first": "abuela", "why": ""}
+{"scene": "S044", "n": 3, "lang": "pt", "keep": ["senhora"], "drop": [], "first": "senhora", "why": ""}
+{"scene": "S044", "n": 3, "lang": "vi", "keep": ["bà", "bà già"], "drop": [], "first": "bà già", "why": ""}
+{"scene": "S044", "n": 3, "lang": "ru", "keep": ["бабушка"], "drop": [], "first": "бабушка", "why": ""}
+{"scene": "S044", "n": 3, "lang": "uk", "keep": ["бабуся"], "drop": [], "first": "бабуся", "why": ""}
+{"scene": "S044", "n": 3, "lang": "pl", "keep": ["babcia"], "drop": [], "first": "babcia", "why": ""}
+{"scene": "S044", "n": 4, "lang": "es", "keep": ["carnicero"], "drop": [], "first": "carnicero", "why": ""}
+{"scene": "S044", "n": 4, "lang": "pt", "keep": ["açougueiro"], "drop": [], "first": "açougueiro", "why": ""}
+{"scene": "S044", "n": 5, "lang": "es", "keep": ["chef", "cocinero"], "drop": [], "first": "cocinero", "why": ""}
+{"scene": "S044", "n": 5, "lang": "pt", "keep": ["chef", "cozinheiro"], "drop": [], "first": "cozinheiro", "why": ""}
+{"scene": "S044", "n": 5, "lang": "vi", "keep": ["đầu bếp"], "drop": [], "first": "đầu bếp", "why": ""}
+{"scene": "S044", "n": 5, "lang": "ru", "keep": ["повар"], "drop": [], "first": "повар", "why": ""}
+{"scene": "S044", "n": 5, "lang": "uk", "keep": ["кухар"], "drop": [], "first": "кухар", "why": ""}
+{"scene": "S045", "n": 7, "lang": "es", "keep": ["planta"], "drop": [], "first": "planta", "why": ""}
+{"scene": "S045", "n": 7, "lang": "vi", "keep": ["cây"], "drop": ["chậu"], "first": "cây", "why": "dot marks the plant; chậu is the pot or basin"}
+{"scene": "S046", "n": 1, "lang": "es", "keep": ["novia"], "drop": [], "first": "novia", "why": ""}
+{"scene": "S046", "n": 1, "lang": "pt", "keep": ["noiva"], "drop": [], "first": "noiva", "why": ""}
+{"scene": "S046", "n": 1, "lang": "vi", "keep": ["cô dâu"], "drop": [], "first": "cô dâu", "why": ""}
+{"scene": "S046", "n": 1, "lang": "ru", "keep": ["невеста"], "drop": [], "first": "невеста", "why": ""}
+{"scene": "S046", "n": 1, "lang": "uk", "keep": ["молода"], "drop": [], "first": "молода", "why": ""}
+{"scene": "S046", "n": 2, "lang": "es", "keep": ["novio"], "drop": [], "first": "novio", "why": ""}
+{"scene": "S046", "n": 2, "lang": "pt", "keep": ["noivo"], "drop": [], "first": "noivo", "why": ""}
+{"scene": "S046", "n": 2, "lang": "vi", "keep": ["chú rể"], "drop": [], "first": "chú rể", "why": ""}
+{"scene": "S046", "n": 2, "lang": "ru", "keep": ["жених"], "drop": [], "first": "жених", "why": ""}
+{"scene": "S046", "n": 2, "lang": "uk", "keep": ["наречений"], "drop": [], "first": "наречений", "why": ""}
+{"scene": "S046", "n": 4, "lang": "es", "keep": ["gemelo"], "drop": [], "first": "gemelo", "why": ""}
+{"scene": "S046", "n": 4, "lang": "pt", "keep": ["gêmeo"], "drop": [], "first": "gêmeo", "why": ""}
+{"scene": "S046", "n": 4, "lang": "ru", "keep": ["близнец"], "drop": [], "first": "близнец", "why": ""}
+{"scene": "S046", "n": 4, "lang": "uk", "keep": ["близнюк"], "drop": [], "first": "близнюк", "why": ""}
+{"scene": "S046", "n": 4, "lang": "pl", "keep": ["bliźniak"], "drop": [], "first": "bliźniak", "why": ""}
+{"scene": "S046", "n": 5, "lang": "es", "keep": ["niña", "niñita"], "drop": ["chica", "muchacha"], "first": "niña", "why": "girl of about seven: chica and muchacha suggest a teen or young woman in Colombia"}
+{"scene": "S046", "n": 5, "lang": "pt", "keep": ["menina"], "drop": [], "first": "menina", "why": ""}
+{"scene": "S046", "n": 5, "lang": "vi", "keep": ["con gái"], "drop": [], "first": "con gái", "why": ""}
+{"scene": "S046", "n": 5, "lang": "ru", "keep": ["девочка"], "drop": [], "first": "девочка", "why": ""}
+{"scene": "S046", "n": 5, "lang": "uk", "keep": ["дівчинка", "дівчатко"], "drop": ["дівчина"], "first": "дівчинка", "why": "a girl of about seven: дівчина is a young woman"}
+{"scene": "S046", "n": 5, "lang": "pl", "keep": [], "drop": ["dziewczyna"], "first": null, "why": "a girl of about seven: dziewczyna is a teen or young woman; dziewczynka needed"}
+{"scene": "S046", "n": 6, "lang": "es", "keep": ["señora", "abuela"], "drop": [], "first": "señora", "why": ""}
+{"scene": "S046", "n": 6, "lang": "pt", "keep": ["senhora"], "drop": [], "first": "senhora", "why": ""}
+{"scene": "S046", "n": 6, "lang": "vi", "keep": ["bà", "bà già"], "drop": [], "first": "bà già", "why": ""}
+{"scene": "S046", "n": 6, "lang": "ru", "keep": ["бабушка"], "drop": [], "first": "бабушка", "why": ""}
+{"scene": "S046", "n": 6, "lang": "uk", "keep": ["бабуся"], "drop": [], "first": "бабуся", "why": ""}
+{"scene": "S046", "n": 6, "lang": "pl", "keep": ["babcia"], "drop": [], "first": "babcia", "why": ""}
+{"scene": "S046", "n": 7, "lang": "es", "keep": ["fotógrafo"], "drop": [], "first": "fotógrafo", "why": ""}
+{"scene": "S046", "n": 7, "lang": "pt", "keep": ["fotógrafo"], "drop": [], "first": "fotógrafo", "why": ""}
+{"scene": "S046", "n": 7, "lang": "ru", "keep": ["фотограф"], "drop": [], "first": "фотограф", "why": ""}
+{"scene": "S046", "n": 7, "lang": "uk", "keep": ["фотограф"], "drop": [], "first": "фотограф", "why": ""}
+{"scene": "S046", "n": 7, "lang": "pl", "keep": ["fotograf"], "drop": [], "first": "fotograf", "why": ""}
+{"scene": "S047", "n": 2, "lang": "es", "keep": ["conductor", "chofer"], "drop": [], "first": "conductor", "why": ""}
+{"scene": "S047", "n": 2, "lang": "pt", "keep": ["motorista"], "drop": [], "first": "motorista", "why": ""}
+{"scene": "S047", "n": 2, "lang": "vi", "keep": ["tài xế"], "drop": [], "first": "tài xế", "why": ""}
+{"scene": "S047", "n": 2, "lang": "ru", "keep": ["водитель"], "drop": [], "first": "водитель", "why": ""}
+{"scene": "S047", "n": 2, "lang": "uk", "keep": ["водій"], "drop": [], "first": "водій", "why": ""}
+{"scene": "S047", "n": 2, "lang": "pl", "keep": ["kierowca"], "drop": [], "first": "kierowca", "why": ""}
+{"scene": "S047", "n": 6, "lang": "pt", "keep": ["sinal"], "drop": [], "first": "sinal", "why": ""}
+{"scene": "S047", "n": 6, "lang": "vi", "keep": ["đèn đỏ"], "drop": [], "first": "đèn đỏ", "why": ""}
+{"scene": "S049", "n": 7, "lang": "es", "keep": ["arbusto"], "drop": [], "first": "arbusto", "why": ""}
+{"scene": "S049", "n": 7, "lang": "pt", "keep": ["arbusto"], "drop": [], "first": "arbusto", "why": ""}
+{"scene": "S049", "n": 7, "lang": "vi", "keep": ["bụi"], "drop": [], "first": "bụi", "why": ""}
+{"scene": "S050", "n": 2, "lang": "es", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S050", "n": 2, "lang": "pt", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S050", "n": 2, "lang": "vi", "keep": ["nến"], "drop": [], "first": "nến", "why": ""}
+{"scene": "S050", "n": 5, "lang": "es", "keep": ["cura", "sacerdote"], "drop": [], "first": "cura", "why": ""}
+{"scene": "S050", "n": 5, "lang": "pt", "keep": ["padre"], "drop": [], "first": "padre", "why": ""}
+{"scene": "S050", "n": 5, "lang": "vi", "keep": ["linh mục"], "drop": [], "first": "linh mục", "why": ""}
+{"scene": "S050", "n": 5, "lang": "ru", "keep": ["священник"], "drop": [], "first": "священник", "why": ""}
+{"scene": "S050", "n": 5, "lang": "uk", "keep": ["священик", "священник"], "drop": [], "first": "священик", "why": ""}
+{"scene": "S050", "n": 5, "lang": "pl", "keep": ["ksiądz"], "drop": [], "first": "ksiądz", "why": ""}
+{"scene": "S051", "n": 6, "lang": "ru", "keep": ["конфета"], "drop": [], "first": "конфета", "why": ""}
+{"scene": "S051", "n": 6, "lang": "uk", "keep": [], "drop": ["цукерок"], "first": null, "why": "the singular is цукерка; цукерок reads as genitive plural"}
+{"scene": "S051", "n": 6, "lang": "pl", "keep": ["słodycze", "cukierek"], "drop": [], "first": "cukierek", "why": ""}
+{"scene": "S052", "n": 4, "lang": "es", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S052", "n": 4, "lang": "pt", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S052", "n": 4, "lang": "vi", "keep": ["nến"], "drop": [], "first": "nến", "why": ""}
+{"scene": "S052", "n": 5, "lang": "uk", "keep": ["дрова"], "drop": [], "first": "дрова", "why": ""}
+{"scene": "S052", "n": 5, "lang": "pl", "keep": ["drewno"], "drop": [], "first": "drewno", "why": ""}
+{"scene": "S053", "n": 2, "lang": "pt", "keep": ["pneu"], "drop": [], "first": "pneu", "why": ""}
+{"scene": "S053", "n": 2, "lang": "vi", "keep": ["vỏ"], "drop": [], "first": "vỏ", "why": ""}
+{"scene": "S053", "n": 4, "lang": "pt", "keep": ["mecânico"], "drop": [], "first": "mecânico", "why": ""}
+{"scene": "S054", "n": 1, "lang": "es", "keep": ["comprador"], "drop": [], "first": "comprador", "why": ""}
+{"scene": "S054", "n": 1, "lang": "ru", "keep": ["покупатель"], "drop": [], "first": "покупатель", "why": ""}
+{"scene": "S054", "n": 1, "lang": "uk", "keep": ["покупець"], "drop": [], "first": "покупець", "why": ""}
+{"scene": "S054", "n": 1, "lang": "pl", "keep": ["klient"], "drop": [], "first": "klient", "why": ""}
+{"scene": "S055", "n": 9, "lang": "pt", "keep": ["cabeleireiro"], "drop": [], "first": "cabeleireiro", "why": ""}
+{"scene": "S055", "n": 9, "lang": "pl", "keep": ["fryzjer"], "drop": [], "first": "fryzjer", "why": ""}
+{"scene": "S056", "n": 3, "lang": "es", "keep": ["pasajero"], "drop": [], "first": "pasajero", "why": ""}
+{"scene": "S056", "n": 3, "lang": "pt", "keep": ["passageiro"], "drop": [], "first": "passageiro", "why": ""}
+{"scene": "S056", "n": 3, "lang": "vi", "keep": ["hành khách"], "drop": [], "first": "hành khách", "why": ""}
+{"scene": "S056", "n": 3, "lang": "ru", "keep": ["пассажир"], "drop": [], "first": "пассажир", "why": ""}
+{"scene": "S056", "n": 3, "lang": "uk", "keep": ["пасажир"], "drop": [], "first": "пасажир", "why": ""}
+{"scene": "S056", "n": 3, "lang": "pl", "keep": ["pasażer"], "drop": [], "first": "pasażer", "why": ""}
+{"scene": "S058", "n": 1, "lang": "es", "keep": [], "drop": ["cajero"], "first": null, "why": "woman cashier: cajero is masculine (cajera)"}
+{"scene": "S058", "n": 6, "lang": "es", "keep": ["comprador"], "drop": [], "first": "comprador", "why": ""}
+{"scene": "S058", "n": 6, "lang": "ru", "keep": ["покупатель"], "drop": [], "first": "покупатель", "why": ""}
+{"scene": "S058", "n": 6, "lang": "uk", "keep": ["покупець"], "drop": [], "first": "покупець", "why": ""}
+{"scene": "S058", "n": 6, "lang": "pl", "keep": ["klient"], "drop": [], "first": "klient", "why": ""}
+{"scene": "S059", "n": 1, "lang": "es", "keep": ["documento"], "drop": [], "first": "documento", "why": ""}
+{"scene": "S059", "n": 1, "lang": "pt", "keep": ["documento"], "drop": [], "first": "documento", "why": ""}
+{"scene": "S059", "n": 1, "lang": "vi", "keep": ["tài liệu", "giấy tờ"], "drop": [], "first": "tài liệu", "why": ""}
+{"scene": "S060", "n": 6, "lang": "es", "keep": ["estudiante"], "drop": ["alumno"], "first": "estudiante", "why": "young woman: alumno is masculine (alumna)"}
+{"scene": "S060", "n": 6, "lang": "pt", "keep": ["estudante"], "drop": ["aluno"], "first": "estudante", "why": "young woman: aluno is masculine (aluna)"}
+{"scene": "S060", "n": 6, "lang": "vi", "keep": ["sinh viên", "học trò"], "drop": ["học sinh"], "first": "sinh viên", "why": "university student is sinh viên; học sinh is a school pupil"}
+{"scene": "S060", "n": 6, "lang": "ru", "keep": [], "drop": ["студент"], "first": null, "why": "a young woman: студент is masculine; студентка needed"}
+{"scene": "S060", "n": 6, "lang": "uk", "keep": ["студентка"], "drop": ["студент"], "first": "студентка", "why": "a young woman: студент is masculine"}
+{"scene": "S060", "n": 6, "lang": "pl", "keep": [], "drop": ["student"], "first": null, "why": "a young woman: student is masculine; studentka needed"}
+{"scene": "S061", "n": 3, "lang": "ru", "keep": ["цепочка"], "drop": [], "first": "цепочка", "why": ""}
+{"scene": "S061", "n": 3, "lang": "uk", "keep": ["ланцюжок"], "drop": [], "first": "ланцюжок", "why": ""}
+{"scene": "S062", "n": 1, "lang": "es", "keep": ["turista"], "drop": [], "first": "turista", "why": ""}
+{"scene": "S062", "n": 1, "lang": "pt", "keep": ["turista"], "drop": [], "first": "turista", "why": ""}
+{"scene": "S062", "n": 1, "lang": "vi", "keep": ["du khách"], "drop": [], "first": "du khách", "why": ""}
+{"scene": "S062", "n": 1, "lang": "ru", "keep": ["турист"], "drop": [], "first": "турист", "why": ""}
+{"scene": "S062", "n": 1, "lang": "uk", "keep": ["турист"], "drop": [], "first": "турист", "why": ""}
+{"scene": "S062", "n": 1, "lang": "pl", "keep": ["turysta"], "drop": [], "first": "turysta", "why": ""}
+{"scene": "S063", "n": 6, "lang": "es", "keep": ["pluma"], "drop": [], "first": "pluma", "why": ""}
+{"scene": "S063", "n": 6, "lang": "pt", "keep": ["pena"], "drop": [], "first": "pena", "why": ""}
+{"scene": "S063", "n": 6, "lang": "vi", "keep": ["lông"], "drop": [], "first": "lông", "why": ""}
+{"scene": "S065", "n": 1, "lang": "es", "keep": ["jinete"], "drop": [], "first": "jinete", "why": ""}
+{"scene": "S065", "n": 1, "lang": "pt", "keep": ["cavaleiro"], "drop": [], "first": "cavaleiro", "why": ""}
+{"scene": "S065", "n": 1, "lang": "ru", "keep": ["всадник"], "drop": [], "first": "всадник", "why": ""}
+{"scene": "S067", "n": 3, "lang": "ru", "keep": ["ступень"], "drop": [], "first": "ступень", "why": ""}
+{"scene": "S067", "n": 3, "lang": "uk", "keep": ["сходинка"], "drop": [], "first": "сходинка", "why": ""}
+{"scene": "S067", "n": 3, "lang": "pl", "keep": ["stopień"], "drop": [], "first": "stopień", "why": ""}
+{"scene": "S067", "n": 4, "lang": "uk", "keep": ["будиночок"], "drop": [], "first": "будиночок", "why": ""}
+{"scene": "S067", "n": 4, "lang": "pl", "keep": ["domek"], "drop": ["chata"], "first": "domek", "why": "a small plank shed; chata is a village cottage, like the house behind it"}
+{"scene": "S068", "n": 5, "lang": "es", "keep": ["rama"], "drop": [], "first": "rama", "why": ""}
+{"scene": "S068", "n": 5, "lang": "pt", "keep": ["galho"], "drop": [], "first": "galho", "why": ""}
+{"scene": "S068", "n": 5, "lang": "vi", "keep": ["cành", "nhánh"], "drop": [], "first": "cành", "why": ""}
+{"scene": "S068", "n": 6, "lang": "uk", "keep": ["будиночок"], "drop": [], "first": "будиночок", "why": ""}
+{"scene": "S068", "n": 6, "lang": "pl", "keep": ["domek", "chata"], "drop": [], "first": "domek", "why": ""}
+{"scene": "S069", "n": 2, "lang": "uk", "keep": ["кільце"], "drop": [], "first": "кільце", "why": ""}
+{"scene": "S070", "n": 3, "lang": "es", "keep": ["camino", "sendero"], "drop": [], "first": "camino", "why": ""}
+{"scene": "S070", "n": 3, "lang": "pt", "keep": ["caminho"], "drop": [], "first": "caminho", "why": ""}
+{"scene": "S070", "n": 3, "lang": "ru", "keep": ["дорожка", "аллея"], "drop": [], "first": "дорожка", "why": ""}
+{"scene": "S070", "n": 3, "lang": "uk", "keep": ["алея", "доріжка"], "drop": [], "first": "доріжка", "why": ""}
+{"scene": "S070", "n": 3, "lang": "pl", "keep": ["ścieżka"], "drop": [], "first": "ścieżka", "why": ""}
+{"scene": "S070", "n": 6, "lang": "es", "keep": ["fuente"], "drop": [], "first": "fuente", "why": ""}
+{"scene": "S070", "n": 6, "lang": "pt", "keep": ["fonte"], "drop": [], "first": "fonte", "why": ""}
+{"scene": "S072", "n": 3, "lang": "es", "keep": ["trabajador", "obrero"], "drop": [], "first": "obrero", "why": ""}
+{"scene": "S072", "n": 3, "lang": "pt", "keep": ["trabalhador", "operário"], "drop": [], "first": "operário", "why": ""}
+{"scene": "S072", "n": 3, "lang": "vi", "keep": ["công nhân"], "drop": [], "first": "công nhân", "why": ""}
+{"scene": "S072", "n": 3, "lang": "ru", "keep": ["строитель"], "drop": [], "first": "строитель", "why": ""}
+{"scene": "S072", "n": 3, "lang": "uk", "keep": ["робітник", "будівельник"], "drop": [], "first": "будівельник", "why": ""}
+{"scene": "S072", "n": 3, "lang": "pl", "keep": ["robotnik"], "drop": [], "first": "robotnik", "why": ""}
+{"scene": "S072", "n": 6, "lang": "vi", "keep": [], "drop": ["ben"], "first": null, "why": "ben is only used inside xe ben"}
+{"scene": "S073", "n": 4, "lang": "es", "keep": ["carné"], "drop": [], "first": "carné", "why": ""}
+{"scene": "S073", "n": 4, "lang": "pt", "keep": ["identidade"], "drop": [], "first": "identidade", "why": ""}
+{"scene": "S073", "n": 4, "lang": "uk", "keep": ["посвідчення"], "drop": [], "first": "посвідчення", "why": ""}
+{"scene": "S073", "n": 4, "lang": "pl", "keep": ["dowód"], "drop": [], "first": "dowód", "why": ""}
+{"scene": "S077", "n": 6, "lang": "es", "keep": ["ventanilla", "taquilla"], "drop": [], "first": "taquilla", "why": ""}
+{"scene": "S077", "n": 6, "lang": "pl", "keep": [], "drop": ["okienko"], "first": null, "why": "a freestanding round ticket booth; okienko is only its service window"}
+{"scene": "S077", "n": 7, "lang": "ru", "keep": ["бар"], "drop": [], "first": "бар", "why": ""}
+{"scene": "S077", "n": 7, "lang": "uk", "keep": ["бар"], "drop": [], "first": "бар", "why": ""}
+{"scene": "S077", "n": 7, "lang": "pl", "keep": ["bar"], "drop": [], "first": "bar", "why": ""}
+{"scene": "S081", "n": 7, "lang": "es", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S081", "n": 7, "lang": "pt", "keep": ["vela"], "drop": [], "first": "vela", "why": ""}
+{"scene": "S081", "n": 7, "lang": "vi", "keep": ["nến"], "drop": [], "first": "nến", "why": ""}
+{"scene": "S082", "n": 7, "lang": "es", "keep": ["horno"], "drop": [], "first": "horno", "why": ""}
+{"scene": "S082", "n": 7, "lang": "pt", "keep": ["forno"], "drop": [], "first": "forno", "why": ""}
+{"scene": "S082", "n": 7, "lang": "vi", "keep": ["lò"], "drop": [], "first": "lò", "why": ""}
+{"scene": "S083", "n": 5, "lang": "es", "keep": ["vino"], "drop": [], "first": "vino", "why": ""}
+{"scene": "S083", "n": 5, "lang": "pt", "keep": ["vinho"], "drop": [], "first": "vinho", "why": ""}
+{"scene": "S083", "n": 5, "lang": "vi", "keep": ["rượu", "rượu vang"], "drop": [], "first": "rượu vang", "why": ""}
+{"scene": "S084", "n": 6, "lang": "es", "keep": ["tubo", "tubería"], "drop": [], "first": "tubo", "why": ""}
+{"scene": "S084", "n": 6, "lang": "pt", "keep": ["tubo", "cano"], "drop": [], "first": "tubo", "why": ""}
+{"scene": "S084", "n": 6, "lang": "vi", "keep": ["ống"], "drop": [], "first": "ống", "why": ""}
+{"scene": "S085", "n": 1, "lang": "es", "keep": ["paciente"], "drop": [], "first": "paciente", "why": ""}
+{"scene": "S085", "n": 1, "lang": "pt", "keep": ["paciente"], "drop": [], "first": "paciente", "why": ""}
+{"scene": "S085", "n": 1, "lang": "vi", "keep": ["bệnh nhân"], "drop": [], "first": "bệnh nhân", "why": ""}
+{"scene": "S085", "n": 1, "lang": "ru", "keep": ["больной", "пациент"], "drop": [], "first": "пациент", "why": ""}
+{"scene": "S085", "n": 1, "lang": "uk", "keep": ["хворий", "пацієнт"], "drop": [], "first": "пацієнт", "why": ""}
+{"scene": "S085", "n": 1, "lang": "pl", "keep": ["pacjent"], "drop": [], "first": "pacjent", "why": ""}
+{"scene": "S085", "n": 3, "lang": "es", "keep": ["enfermera"], "drop": [], "first": "enfermera", "why": ""}
+{"scene": "S085", "n": 3, "lang": "pt", "keep": [], "drop": ["enfermeiro"], "first": null, "why": "female nurse: enfermeiro is masculine (enfermeira)"}
+{"scene": "S085", "n": 3, "lang": "vi", "keep": ["y tá", "điều dưỡng"], "drop": [], "first": "y tá", "why": ""}
+{"scene": "S085", "n": 3, "lang": "ru", "keep": ["медсестра"], "drop": [], "first": "медсестра", "why": ""}
+{"scene": "S085", "n": 3, "lang": "uk", "keep": ["медсестра"], "drop": [], "first": "медсестра", "why": ""}
+{"scene": "S085", "n": 3, "lang": "pl", "keep": ["pielęgniarka"], "drop": [], "first": "pielęgniarka", "why": ""}
+{"scene": "S085", "n": 5, "lang": "es", "keep": ["doctora"], "drop": [], "first": "doctora", "why": ""}
+{"scene": "S085", "n": 6, "lang": "es", "keep": ["abuela"], "drop": [], "first": "abuela", "why": ""}
+{"scene": "S085", "n": 6, "lang": "pt", "keep": ["senhora"], "drop": [], "first": "senhora", "why": ""}
+{"scene": "S085", "n": 6, "lang": "vi", "keep": ["bà", "bà già"], "drop": [], "first": "bà già", "why": ""}
+{"scene": "S085", "n": 6, "lang": "ru", "keep": ["бабушка"], "drop": [], "first": "бабушка", "why": ""}
+{"scene": "S085", "n": 6, "lang": "uk", "keep": ["бабуся"], "drop": [], "first": "бабуся", "why": ""}
+{"scene": "S085", "n": 6, "lang": "pl", "keep": ["babcia"], "drop": [], "first": "babcia", "why": ""}
+{"scene": "S087", "n": 2, "lang": "es", "keep": ["soldado"], "drop": [], "first": "soldado", "why": ""}
+{"scene": "S087", "n": 2, "lang": "pt", "keep": ["soldado"], "drop": [], "first": "soldado", "why": ""}
+{"scene": "S087", "n": 2, "lang": "vi", "keep": ["lính", "chiến sĩ", "bộ đội", "binh sĩ", "quân nhân"], "drop": [], "first": "lính", "why": ""}
+{"scene": "S087", "n": 2, "lang": "ru", "keep": ["солдат"], "drop": [], "first": "солдат", "why": ""}
+{"scene": "S087", "n": 2, "lang": "uk", "keep": ["солдат"], "drop": [], "first": "солдат", "why": ""}
+{"scene": "S087", "n": 2, "lang": "pl", "keep": ["żołnierz"], "drop": [], "first": "żołnierz", "why": ""}
+{"scene": "S087", "n": 5, "lang": "es", "keep": ["ventanilla", "taquilla"], "drop": [], "first": "ventanilla", "why": ""}
+{"scene": "S087", "n": 5, "lang": "ru", "keep": ["касса"], "drop": [], "first": "касса", "why": ""}
+{"scene": "S087", "n": 5, "lang": "uk", "keep": ["каса"], "drop": [], "first": "каса", "why": ""}
+{"scene": "S087", "n": 5, "lang": "pl", "keep": ["kasa", "okienko"], "drop": [], "first": "kasa", "why": ""}
+{"scene": "S090", "n": 1, "lang": "pt", "keep": [], "drop": ["bailarino"], "first": null, "why": "female dancer: bailarino is masculine (bailarina)"}
+{"scene": "S092", "n": 2, "lang": "es", "keep": ["gemelo"], "drop": [], "first": "gemelo", "why": ""}
+{"scene": "S092", "n": 2, "lang": "pt", "keep": ["gêmeo"], "drop": [], "first": "gêmeo", "why": ""}
+{"scene": "S092", "n": 2, "lang": "ru", "keep": ["близнец"], "drop": [], "first": "близнец", "why": ""}
+{"scene": "S092", "n": 2, "lang": "uk", "keep": ["близнюк"], "drop": [], "first": "близнюк", "why": ""}
+{"scene": "S092", "n": 2, "lang": "pl", "keep": ["bliźniak"], "drop": [], "first": "bliźniak", "why": ""}
+{"scene": "S092", "n": 3, "lang": "es", "keep": ["payaso"], "drop": [], "first": "payaso", "why": ""}
+{"scene": "S092", "n": 3, "lang": "pt", "keep": ["palhaço"], "drop": [], "first": "palhaço", "why": ""}
+{"scene": "S092", "n": 3, "lang": "ru", "keep": ["клоун"], "drop": [], "first": "клоун", "why": ""}
+{"scene": "S092", "n": 3, "lang": "uk", "keep": ["клоун"], "drop": [], "first": "клоун", "why": ""}
+{"scene": "S092", "n": 5, "lang": "uk", "keep": ["вагітна"], "drop": [], "first": "вагітна", "why": ""}
+{"scene": "S092", "n": 6, "lang": "es", "keep": ["bebé"], "drop": [], "first": "bebé", "why": ""}
+{"scene": "S092", "n": 6, "lang": "pt", "keep": ["bebê", "neném"], "drop": [], "first": "bebê", "why": ""}
+{"scene": "S092", "n": 6, "lang": "vi", "keep": ["bé"], "drop": [], "first": "bé", "why": ""}
+{"scene": "S092", "n": 6, "lang": "ru", "keep": ["ребёнок", "младенец"], "drop": [], "first": "ребёнок", "why": ""}
+{"scene": "S092", "n": 6, "lang": "uk", "keep": ["малюк", "немовля"], "drop": [], "first": "малюк", "why": ""}
+{"scene": "S093", "n": 4, "lang": "vi", "keep": ["công"], "drop": [], "first": "công", "why": ""}
+{"scene": "S094", "n": 1, "lang": "es", "keep": ["mendigo"], "drop": [], "first": "mendigo", "why": ""}
+{"scene": "S094", "n": 1, "lang": "pt", "keep": ["mendigo"], "drop": [], "first": "mendigo", "why": ""}
+{"scene": "S094", "n": 2, "lang": "es", "keep": ["reportero"], "drop": [], "first": "reportero", "why": ""}
+{"scene": "S094", "n": 2, "lang": "pt", "keep": ["repórter", "jornalista"], "drop": [], "first": "repórter", "why": ""}
+{"scene": "S094", "n": 2, "lang": "vi", "keep": ["phóng viên"], "drop": [], "first": "phóng viên", "why": ""}
+{"scene": "S094", "n": 2, "lang": "ru", "keep": ["корреспондент"], "drop": [], "first": "корреспондент", "why": ""}
+{"scene": "S094", "n": 2, "lang": "uk", "keep": ["кореспондент"], "drop": [], "first": "кореспондент", "why": ""}
+{"scene": "S094", "n": 2, "lang": "pl", "keep": ["dziennikarz", "reporter"], "drop": [], "first": "reporter", "why": ""}
+{"scene": "S094", "n": 3, "lang": "ru", "keep": ["выпускник"], "drop": [], "first": "выпускник", "why": ""}
+{"scene": "S094", "n": 3, "lang": "uk", "keep": ["випускник"], "drop": [], "first": "випускник", "why": ""}
+{"scene": "S094", "n": 3, "lang": "pl", "keep": ["absolwent"], "drop": [], "first": "absolwent", "why": ""}
+{"scene": "S094", "n": 4, "lang": "es", "keep": ["monje"], "drop": [], "first": "monje", "why": ""}
+{"scene": "S094", "n": 4, "lang": "pt", "keep": ["monge"], "drop": [], "first": "monge", "why": ""}
+{"scene": "S094", "n": 4, "lang": "vi", "keep": ["thầy tu"], "drop": ["sư"], "first": "thầy tu", "why": "Christian friar in a hooded robe; sư is a Buddhist monk"}
+{"scene": "S094", "n": 4, "lang": "ru", "keep": ["монах"], "drop": [], "first": "монах", "why": ""}
+{"scene": "S094", "n": 4, "lang": "uk", "keep": ["монах"], "drop": [], "first": "монах", "why": ""}
+{"scene": "S094", "n": 4, "lang": "pl", "keep": ["mnich"], "drop": [], "first": "mnich", "why": ""}
+{"scene": "S094", "n": 5, "lang": "es", "keep": ["monja"], "drop": [], "first": "monja", "why": ""}
+{"scene": "S094", "n": 5, "lang": "pt", "keep": ["freira"], "drop": [], "first": "freira", "why": ""}
+{"scene": "S094", "n": 6, "lang": "es", "keep": ["jardinero"], "drop": [], "first": "jardinero", "why": ""}
+{"scene": "S094", "n": 6, "lang": "pt", "keep": ["jardineiro"], "drop": [], "first": "jardineiro", "why": ""}
+{"scene": "S094", "n": 7, "lang": "es", "keep": ["multitud"], "drop": [], "first": "multitud", "why": ""}
+{"scene": "S094", "n": 7, "lang": "pt", "keep": ["multidão"], "drop": [], "first": "multidão", "why": ""}
+{"scene": "S094", "n": 7, "lang": "ru", "keep": ["толпа"], "drop": [], "first": "толпа", "why": ""}
+{"scene": "S094", "n": 7, "lang": "uk", "keep": ["натовп"], "drop": [], "first": "натовп", "why": ""}
+{"scene": "S094", "n": 7, "lang": "pl", "keep": ["tłum"], "drop": [], "first": "tłum", "why": ""}
+{"scene": "S095", "n": 1, "lang": "es", "keep": ["atleta"], "drop": [], "first": "atleta", "why": ""}
+{"scene": "S095", "n": 1, "lang": "pt", "keep": ["atleta"], "drop": ["corredor"], "first": "atleta", "why": "female runner: corredor is masculine (corredora)"}
+{"scene": "S095", "n": 1, "lang": "vi", "keep": ["vận động viên"], "drop": [], "first": "vận động viên", "why": ""}
+{"scene": "S095", "n": 1, "lang": "ru", "keep": [], "drop": ["спортсмен"], "first": null, "why": "a woman athlete: спортсмен is masculine; спортсменка needed"}
+{"scene": "S095", "n": 1, "lang": "uk", "keep": [], "drop": ["спортсмен"], "first": null, "why": "a woman athlete: спортсмен is masculine; спортсменка needed"}
+{"scene": "S095", "n": 1, "lang": "pl", "keep": [], "drop": ["sportowiec"], "first": null, "why": "a woman athlete: sportowiec is masculine; sportsmenka needed"}
+{"scene": "S095", "n": 3, "lang": "ru", "keep": ["площадка"], "drop": [], "first": "площадка", "why": ""}
+{"scene": "S095", "n": 3, "lang": "uk", "keep": ["майданчик"], "drop": [], "first": "майданчик", "why": ""}
+{"scene": "S097", "n": 7, "lang": "vi", "keep": ["bầy"], "drop": [], "add": ["đàn"], "first": "đàn", "why": "đàn bò is the usual word for a herd of cows; the flock of sheep beside it has đàn too"}
+{"scene": "S098", "n": 5, "lang": "es", "keep": ["autopista"], "drop": [], "first": "autopista", "why": ""}
+{"scene": "S098", "n": 5, "lang": "pt", "keep": ["rodovia"], "drop": [], "first": "rodovia", "why": ""}
+{"scene": "S098", "n": 5, "lang": "vi", "keep": ["đường cao tốc", "xa lộ"], "drop": [], "first": "đường cao tốc", "why": ""}
+{"scene": "S098", "n": 5, "lang": "ru", "keep": ["трасса", "шоссе"], "drop": [], "first": "шоссе", "why": ""}
+{"scene": "S098", "n": 5, "lang": "uk", "keep": ["траса"], "drop": [], "first": "траса", "why": ""}
+{"scene": "S098", "n": 5, "lang": "pl", "keep": ["autostrada"], "drop": [], "first": "autostrada", "why": ""}
+{"scene": "S098", "n": 6, "lang": "es", "keep": ["valla"], "drop": [], "first": "valla", "why": ""}
+{"scene": "S098", "n": 6, "lang": "pt", "keep": ["anúncio", "propaganda"], "drop": [], "first": "anúncio", "why": ""}
+{"scene": "S098", "n": 6, "lang": "vi", "keep": ["quảng cáo"], "drop": [], "first": "quảng cáo", "why": ""}
+{"scene": "S099", "n": 5, "lang": "es", "keep": ["pluma"], "drop": [], "first": "pluma", "why": ""}
+{"scene": "S099", "n": 5, "lang": "pt", "keep": ["pena"], "drop": [], "first": "pena", "why": ""}
+{"scene": "S099", "n": 5, "lang": "vi", "keep": ["lông"], "drop": [], "first": "lông", "why": ""}
+{"scene": "S103", "n": 6, "lang": "es", "keep": ["papa"], "drop": [], "first": "papa", "why": ""}
+{"scene": "S103", "n": 6, "lang": "pt", "keep": ["batata"], "drop": [], "first": "batata", "why": ""}
+{"scene": "S103", "n": 6, "lang": "vi", "keep": ["khoai tây", "khoai"], "drop": [], "first": "khoai tây", "why": ""}
+{"scene": "S104", "n": 1, "lang": "es", "keep": ["pescador"], "drop": [], "first": "pescador", "why": ""}
+{"scene": "S104", "n": 1, "lang": "pt", "keep": ["pescador"], "drop": [], "first": "pescador", "why": ""}
+{"scene": "S104", "n": 1, "lang": "vi", "keep": ["ngư dân"], "drop": [], "first": "ngư dân", "why": ""}
+{"scene": "S104", "n": 1, "lang": "ru", "keep": ["рыбак"], "drop": [], "first": "рыбак", "why": ""}
+{"scene": "S104", "n": 1, "lang": "uk", "keep": ["рибалка"], "drop": [], "first": "рибалка", "why": ""}
+{"scene": "S104", "n": 4, "lang": "pt", "keep": ["mergulhador"], "drop": [], "first": "mergulhador", "why": ""}
+{"scene": "S104", "n": 5, "lang": "pt", "keep": ["mecânico"], "drop": [], "first": "mecânico", "why": ""}
+{"scene": "S104", "n": 6, "lang": "es", "keep": ["marino", "marinero"], "drop": [], "first": "marinero", "why": ""}
+{"scene": "S104", "n": 6, "lang": "pt", "keep": ["marinheiro"], "drop": [], "first": "marinheiro", "why": ""}
+{"scene": "S104", "n": 6, "lang": "vi", "keep": ["thuỷ thủ"], "drop": [], "first": "thuỷ thủ", "why": ""}
+{"scene": "S104", "n": 6, "lang": "ru", "keep": ["моряк"], "drop": [], "first": "моряк", "why": ""}
+{"scene": "S104", "n": 6, "lang": "uk", "keep": ["моряк"], "drop": [], "first": "моряк", "why": ""}
+{"scene": "S106", "n": 1, "lang": "es", "keep": ["cirujano"], "drop": [], "first": "cirujano", "why": ""}
+{"scene": "S106", "n": 1, "lang": "pt", "keep": ["cirurgião"], "drop": [], "first": "cirurgião", "why": ""}
+{"scene": "S106", "n": 1, "lang": "ru", "keep": ["хирург"], "drop": [], "first": "хирург", "why": ""}
+{"scene": "S106", "n": 1, "lang": "uk", "keep": ["хірург"], "drop": [], "first": "хірург", "why": ""}
+{"scene": "S106", "n": 1, "lang": "pl", "keep": ["chirurg"], "drop": [], "first": "chirurg", "why": ""}
+{"scene": "S109", "n": 1, "lang": "es", "keep": ["actor"], "drop": ["actriz"], "first": "actor", "why": "male actor: actriz is feminine"}
+{"scene": "S109", "n": 1, "lang": "pt", "keep": ["ator"], "drop": ["atriz"], "first": "ator", "why": "male actor: atriz is feminine"}
+{"scene": "S109", "n": 1, "lang": "vi", "keep": ["diễn viên"], "drop": [], "first": "diễn viên", "why": ""}
+{"scene": "S109", "n": 1, "lang": "ru", "keep": ["актёр", "артист"], "drop": [], "first": "актёр", "why": ""}
+{"scene": "S109", "n": 1, "lang": "uk", "keep": ["актор", "артист"], "drop": ["актриса"], "first": "актор", "why": "a man in costume: актриса is feminine"}
+{"scene": "S109", "n": 1, "lang": "pl", "keep": ["aktor"], "drop": [], "first": "aktor", "why": ""}
+{"scene": "S109", "n": 5, "lang": "uk", "keep": ["рація"], "drop": [], "first": "рація", "why": ""}
+{"scene": "S110", "n": 2, "lang": "es", "keep": ["papa"], "drop": [], "first": "papa", "why": ""}
+{"scene": "S110", "n": 2, "lang": "pt", "keep": ["batata"], "drop": [], "first": "batata", "why": ""}
+{"scene": "S110", "n": 2, "lang": "vi", "keep": ["khoai tây", "khoai"], "drop": [], "first": "khoai tây", "why": ""}
+{"scene": "S111", "n": 6, "lang": "es", "keep": ["insignia"], "drop": [], "first": "insignia", "why": ""}
+{"scene": "S111", "n": 6, "lang": "pt", "keep": ["distintivo"], "drop": ["crachá"], "first": "distintivo", "why": "decorative enamel pin; crachá is a name or ID badge"}
+{"scene": "S111", "n": 6, "lang": "vi", "keep": ["phù hiệu"], "drop": [], "first": "phù hiệu", "why": ""}
+{"scene": "S112", "n": 1, "lang": "es", "keep": ["mujer", "señora"], "drop": [], "first": "mujer", "why": ""}
+{"scene": "S112", "n": 1, "lang": "pt", "keep": ["mulher"], "drop": [], "first": "mulher", "why": ""}
+{"scene": "S112", "n": 1, "lang": "vi", "keep": ["phụ nữ", "đàn bà"], "drop": [], "first": "phụ nữ", "why": ""}
+{"scene": "S112", "n": 1, "lang": "ru", "keep": ["женщина"], "drop": [], "first": "женщина", "why": ""}
+{"scene": "S112", "n": 1, "lang": "uk", "keep": ["жінка"], "drop": [], "first": "жінка", "why": ""}
+{"scene": "S112", "n": 1, "lang": "pl", "keep": ["kobieta"], "drop": [], "first": "kobieta", "why": ""}
+{"scene": "S112", "n": 3, "lang": "pt", "keep": ["garçonete"], "drop": [], "first": "garçonete", "why": ""}
+{"scene": "S112", "n": 4, "lang": "pt", "keep": ["garçom"], "drop": [], "first": "garçom", "why": ""}
+{"scene": "S112", "n": 6, "lang": "es", "keep": ["chef", "cocinero"], "drop": [], "first": "chef", "why": ""}
+{"scene": "S112", "n": 6, "lang": "pt", "keep": ["chef", "cozinheiro"], "drop": [], "first": "chef", "why": ""}
+{"scene": "S112", "n": 6, "lang": "vi", "keep": ["đầu bếp"], "drop": [], "first": "đầu bếp", "why": ""}
+{"scene": "S112", "n": 6, "lang": "ru", "keep": ["повар"], "drop": [], "first": "повар", "why": ""}
+{"scene": "S112", "n": 6, "lang": "uk", "keep": ["кухар"], "drop": [], "first": "кухар", "why": ""}
+{"scene": "S113", "n": 1, "lang": "es", "keep": ["torta"], "drop": [], "first": "torta", "why": ""}
+{"scene": "S113", "n": 1, "lang": "pt", "keep": ["bolo"], "drop": [], "first": "bolo", "why": ""}
+{"scene": "S113", "n": 1, "lang": "vi", "keep": ["bánh"], "drop": [], "first": "bánh", "why": ""}
+{"scene": "S114", "n": 3, "lang": "es", "keep": ["mercado"], "drop": [], "first": "mercado", "why": ""}
+{"scene": "S114", "n": 3, "lang": "pt", "keep": ["mercado", "feira"], "drop": [], "first": "feira", "why": ""}
+{"scene": "S114", "n": 3, "lang": "vi", "keep": ["chợ"], "drop": [], "first": "chợ", "why": ""}
+{"scene": "S114", "n": 4, "lang": "es", "keep": ["fuente"], "drop": [], "first": "fuente", "why": ""}
+{"scene": "S114", "n": 4, "lang": "pt", "keep": ["fonte"], "drop": [], "first": "fonte", "why": ""}
+{"scene": "S117", "n": 3, "lang": "pt", "keep": ["paramédico"], "drop": [], "first": "paramédico", "why": ""}
+{"scene": "S117", "n": 3, "lang": "uk", "keep": ["медик"], "drop": [], "first": "медик", "why": ""}
+{"scene": "S117", "n": 5, "lang": "es", "keep": ["doctor", "médico"], "drop": [], "first": "médico", "why": ""}
+{"scene": "S117", "n": 5, "lang": "pt", "keep": ["médico"], "drop": [], "first": "médico", "why": ""}
+{"scene": "S117", "n": 5, "lang": "vi", "keep": ["bác sĩ"], "drop": [], "first": "bác sĩ", "why": ""}
+{"scene": "S117", "n": 5, "lang": "ru", "keep": ["доктор", "врач"], "drop": [], "first": "врач", "why": ""}
+{"scene": "S117", "n": 5, "lang": "uk", "keep": ["лікар", "доктор"], "drop": [], "first": "лікар", "why": ""}
+{"scene": "S117", "n": 5, "lang": "pl", "keep": ["lekarz", "doktor"], "drop": [], "first": "lekarz", "why": ""}
+{"scene": "S117", "n": 6, "lang": "vi", "keep": ["xe lăn"], "drop": [], "first": "xe lăn", "why": ""}
+{"scene": "S117", "n": 6, "lang": "pl", "keep": ["wózek"], "drop": [], "first": "wózek", "why": ""}
+{"scene": "S117", "n": 7, "lang": "es", "keep": ["señor", "abuelo", "anciano"], "drop": [], "first": "anciano", "why": ""}
+{"scene": "S117", "n": 7, "lang": "pt", "keep": ["senhor", "idoso"], "drop": [], "first": "idoso", "why": ""}
+{"scene": "S117", "n": 7, "lang": "vi", "keep": ["ông", "ông già"], "drop": [], "first": "ông già", "why": ""}
+{"scene": "S117", "n": 7, "lang": "ru", "keep": ["старик", "дедушка"], "drop": [], "first": "старик", "why": ""}
+{"scene": "S117", "n": 7, "lang": "uk", "keep": ["дід", "дідусь"], "drop": [], "first": "дідусь", "why": ""}
+{"scene": "S118", "n": 2, "lang": "ru", "keep": ["форма"], "drop": [], "first": "форма", "why": ""}
+{"scene": "S118", "n": 2, "lang": "uk", "keep": ["форма"], "drop": [], "first": "форма", "why": ""}
+{"scene": "S118", "n": 2, "lang": "pl", "keep": ["mundur"], "drop": [], "first": "mundur", "why": ""}
+{"scene": "S118", "n": 3, "lang": "ru", "keep": ["майка"], "drop": [], "first": "майка", "why": ""}
+{"scene": "S118", "n": 3, "lang": "uk", "keep": ["майка"], "drop": [], "first": "майка", "why": ""}
+{"scene": "S118", "n": 5, "lang": "pl", "keep": ["body"], "drop": [], "first": "body", "why": ""}
+{"scene": "S119", "n": 3, "lang": "vi", "keep": ["giá"], "drop": [], "first": "giá", "why": ""}
+{"scene": "S119", "n": 7, "lang": "es", "keep": ["salsa"], "drop": [], "first": "salsa", "why": ""}
+{"scene": "S119", "n": 7, "lang": "pt", "keep": ["molho"], "drop": [], "first": "molho", "why": ""}
+{"scene": "S119", "n": 7, "lang": "vi", "keep": ["tương"], "drop": ["nước mắm"], "first": "tương", "why": "thick dark hoisin-type sauce (tương); nước mắm is fish sauce"}
+{"scene": "S120", "n": 4, "lang": "pt", "keep": ["besouro"], "drop": [], "first": "besouro", "why": ""}
+{"scene": "S120", "n": 4, "lang": "vi", "keep": ["bọ"], "drop": [], "first": "bọ", "why": ""}
+{"scene": "S120", "n": 5, "lang": "es", "keep": ["gusano"], "drop": [], "first": "gusano", "why": ""}
+{"scene": "S120", "n": 5, "lang": "pt", "keep": ["minhoca"], "drop": [], "first": "minhoca", "why": ""}
+{"scene": "S120", "n": 5, "lang": "vi", "keep": ["giun"], "drop": [], "first": "giun", "why": ""}
+{"scene": "S121", "n": 3, "lang": "vi", "keep": ["chĩa"], "drop": [], "first": "chĩa", "why": ""}
+{"scene": "S121", "n": 4, "lang": "pt", "keep": ["mangueira"], "drop": [], "first": "mangueira", "why": ""}
+{"scene": "S121", "n": 4, "lang": "vi", "keep": ["vòi"], "drop": [], "first": "vòi", "why": ""}
+{"scene": "S121", "n": 5, "lang": "es", "keep": ["cuerda", "lazo", "soga"], "drop": [], "first": "cuerda", "why": ""}
+{"scene": "S121", "n": 5, "lang": "pt", "keep": ["corda"], "drop": [], "first": "corda", "why": ""}
+{"scene": "S121", "n": 5, "lang": "vi", "keep": ["dây", "thừng"], "drop": [], "first": "dây", "why": ""}
+{"scene": "S122", "n": 1, "lang": "pt", "keep": ["pia"], "drop": [], "first": "pia", "why": ""}
+{"scene": "S122", "n": 1, "lang": "vi", "keep": ["bồn"], "drop": [], "first": "bồn", "why": ""}
+{"scene": "S122", "n": 2, "lang": "pt", "keep": ["torneira"], "drop": [], "first": "torneira", "why": ""}
+{"scene": "S122", "n": 2, "lang": "vi", "keep": ["vòi"], "drop": [], "first": "vòi", "why": ""}
+{"scene": "S122", "n": 6, "lang": "es", "keep": ["maquillaje"], "drop": [], "first": "maquillaje", "why": ""}
+{"scene": "S122", "n": 6, "lang": "vi", "keep": ["mĩ phẩm"], "drop": [], "first": "mĩ phẩm", "why": ""}
+{"scene": "S125", "n": 2, "lang": "es", "keep": ["whisky"], "drop": [], "first": "whisky", "why": ""}
+{"scene": "S125", "n": 2, "lang": "pt", "keep": ["uísque"], "drop": [], "first": "uísque", "why": ""}
+{"scene": "S125", "n": 2, "lang": "vi", "keep": ["rượu"], "drop": [], "first": "rượu", "why": ""}
+{"scene": "S125", "n": 3, "lang": "uk", "keep": ["какао"], "drop": [], "first": "какао", "why": ""}
+{"scene": "S126", "n": 3, "lang": "es", "keep": ["estudiante", "alumno"], "drop": [], "first": "alumno", "why": ""}
+{"scene": "S126", "n": 3, "lang": "pt", "keep": ["aluno"], "drop": [], "first": "aluno", "why": ""}
+{"scene": "S126", "n": 3, "lang": "vi", "keep": ["học sinh", "học trò"], "drop": [], "first": "học sinh", "why": ""}
+{"scene": "S126", "n": 3, "lang": "ru", "keep": ["ученик"], "drop": [], "first": "ученик", "why": ""}
+{"scene": "S126", "n": 3, "lang": "uk", "keep": ["учень"], "drop": [], "first": "учень", "why": ""}
+{"scene": "S126", "n": 3, "lang": "pl", "keep": ["uczeń"], "drop": [], "first": "uczeń", "why": ""}
+{"scene": "S126", "n": 4, "lang": "es", "keep": ["científico"], "drop": [], "first": "científico", "why": ""}
+{"scene": "S126", "n": 4, "lang": "pt", "keep": ["cientista"], "drop": [], "first": "cientista", "why": ""}
+{"scene": "S126", "n": 4, "lang": "ru", "keep": ["учёный"], "drop": [], "first": "учёный", "why": ""}
+{"scene": "S126", "n": 4, "lang": "uk", "keep": ["вчений", "науковець", "учений"], "drop": [], "first": "вчений", "why": ""}
+{"scene": "S126", "n": 4, "lang": "pl", "keep": ["naukowiec"], "drop": [], "first": "naukowiec", "why": ""}
+{"scene": "S126", "n": 6, "lang": "es", "keep": [], "drop": ["ciega"], "first": null, "why": "blind man: ciega is feminine (ciego)"}
+{"scene": "S126", "n": 6, "lang": "pt", "keep": ["cego"], "drop": [], "first": "cego", "why": ""}
+{"scene": "S128", "n": 1, "lang": "pt", "keep": ["barraca", "banca"], "drop": [], "first": "barraca", "why": ""}
+{"scene": "S128", "n": 1, "lang": "vi", "keep": ["quầy", "gian hàng"], "drop": [], "first": "quầy", "why": ""}
+{"scene": "S129", "n": 1, "lang": "pt", "keep": ["pia"], "drop": [], "first": "pia", "why": ""}
+{"scene": "S129", "n": 1, "lang": "vi", "keep": ["bồn"], "drop": [], "first": "bồn", "why": ""}
+{"scene": "S133", "n": 2, "lang": "es", "keep": ["corona"], "drop": [], "first": "corona", "why": ""}
+{"scene": "S133", "n": 3, "lang": "ru", "keep": ["меч"], "drop": [], "first": "меч", "why": ""}
+{"scene": "S134", "n": 1, "lang": "es", "keep": ["campesino", "granjero", "agricultor"], "drop": [], "first": "campesino", "why": ""}
+{"scene": "S134", "n": 1, "lang": "pt", "keep": ["fazendeiro", "agricultor"], "drop": [], "first": "fazendeiro", "why": ""}
+{"scene": "S134", "n": 1, "lang": "vi", "keep": ["nông dân"], "drop": [], "first": "nông dân", "why": ""}
+{"scene": "S134", "n": 1, "lang": "ru", "keep": ["фермер"], "drop": [], "first": "фермер", "why": ""}
+{"scene": "S134", "n": 1, "lang": "uk", "keep": ["фермер"], "drop": [], "first": "фермер", "why": ""}
+{"scene": "S134", "n": 1, "lang": "pl", "keep": ["rolnik"], "drop": [], "first": "rolnik", "why": ""}
+{"scene": "S134", "n": 2, "lang": "es", "keep": ["vaquero"], "drop": [], "first": "vaquero", "why": ""}
+{"scene": "S134", "n": 2, "lang": "pt", "keep": ["caubói", "vaqueiro"], "drop": [], "first": "caubói", "why": ""}
+{"scene": "S134", "n": 2, "lang": "vi", "keep": ["cao bồi"], "drop": [], "first": "cao bồi", "why": ""}
+{"scene": "S139", "n": 2, "lang": "es", "keep": ["camiseta"], "drop": [], "first": "camiseta", "why": ""}
+{"scene": "S139", "n": 2, "lang": "pt", "keep": ["camiseta"], "drop": [], "first": "camiseta", "why": ""}
+{"scene": "S139", "n": 2, "lang": "vi", "keep": ["áo"], "drop": [], "first": "áo", "why": ""}
+{"scene": "S139", "n": 2, "lang": "ru", "keep": ["футболка"], "drop": [], "first": "футболка", "why": ""}
+{"scene": "S139", "n": 2, "lang": "uk", "keep": ["футболка", "майка"], "drop": [], "first": "футболка", "why": ""}
+{"scene": "S139", "n": 2, "lang": "pl", "keep": ["koszulka"], "drop": [], "first": "koszulka", "why": ""}
+{"scene": "S139", "n": 7, "lang": "es", "keep": ["calzoncillo"], "drop": [], "first": "calzoncillo", "why": ""}
+{"scene": "S139", "n": 7, "lang": "pt", "keep": ["cueca"], "drop": [], "first": "cueca", "why": ""}
+{"scene": "S139", "n": 7, "lang": "pl", "keep": ["majtki"], "drop": [], "first": "majtki", "why": ""}
+{"scene": "S140", "n": 5, "lang": "es", "keep": ["flauta"], "drop": [], "first": "flauta", "why": ""}
+{"scene": "S140", "n": 5, "lang": "pt", "keep": ["flauta"], "drop": [], "first": "flauta", "why": ""}
+{"scene": "S140", "n": 5, "lang": "vi", "keep": ["sáo"], "drop": [], "first": "sáo", "why": ""}
+{"scene": "S141", "n": 6, "lang": "pt", "keep": ["mergulhador"], "drop": [], "first": "mergulhador", "why": ""}
+{"scene": "S143", "n": 3, "lang": "pt", "keep": ["vala"], "drop": [], "first": "vala", "why": ""}
+{"scene": "S143", "n": 3, "lang": "vi", "keep": ["rạch", "mương"], "drop": [], "first": "mương", "why": ""}
+{"scene": "S144", "n": 1, "lang": "pt", "keep": ["faixa"], "drop": [], "first": "faixa", "why": ""}
+{"scene": "S144", "n": 3, "lang": "es", "keep": ["taxista"], "drop": [], "first": "taxista", "why": ""}
+{"scene": "S144", "n": 3, "lang": "pt", "keep": ["taxista"], "drop": [], "first": "taxista", "why": ""}
+{"scene": "S144", "n": 6, "lang": "pt", "keep": ["pedreiro"], "drop": [], "first": "pedreiro", "why": ""}
+{"scene": "S144", "n": 6, "lang": "ru", "keep": ["строитель"], "drop": [], "first": "строитель", "why": ""}
+{"scene": "S144", "n": 6, "lang": "uk", "keep": ["будівельник"], "drop": [], "first": "будівельник", "why": ""}
+{"scene": "S144", "n": 7, "lang": "es", "keep": ["bombero"], "drop": [], "first": "bombero", "why": ""}
+{"scene": "S144", "n": 7, "lang": "pt", "keep": ["bombeiro"], "drop": [], "first": "bombeiro", "why": ""}
+{"scene": "S144", "n": 7, "lang": "pl", "keep": ["strażak"], "drop": [], "first": "strażak", "why": ""}
+{"scene": "S145", "n": 7, "lang": "ru", "keep": ["сапог"], "drop": [], "first": "сапог", "why": ""}
+{"scene": "S145", "n": 7, "lang": "uk", "keep": ["чобіт"], "drop": [], "first": "чобіт", "why": ""}
+{"scene": "S145", "n": 7, "lang": "pl", "keep": ["but", "kozak"], "drop": [], "first": "kozak", "why": ""}
+{"scene": "S146", "n": 2, "lang": "uk", "keep": [], "drop": ["плавець"], "first": null, "why": "a woman swimming: плавець is masculine; плавчиня needed"}
+{"scene": "S148", "n": 1, "lang": "pt", "keep": ["plateia"], "drop": [], "first": "plateia", "why": ""}
+{"scene": "S148", "n": 1, "lang": "vi", "keep": ["khán giả"], "drop": [], "first": "khán giả", "why": ""}
+{"scene": "S148", "n": 1, "lang": "ru", "keep": ["зритель", "публика"], "drop": [], "first": "зритель", "why": ""}
+{"scene": "S148", "n": 1, "lang": "uk", "keep": ["публіка"], "drop": [], "first": "публіка", "why": ""}
+{"scene": "S148", "n": 1, "lang": "pl", "keep": ["widz", "publiczność", "widownia"], "drop": [], "first": "publiczność", "why": ""}
+{"scene": "S148", "n": 3, "lang": "pt", "keep": ["dançarino", "bailarino"], "drop": [], "first": "dançarino", "why": ""}
+{"scene": "S148", "n": 3, "lang": "pl", "keep": ["tancerz"], "drop": [], "first": "tancerz", "why": ""}
+{"scene": "S149", "n": 8, "lang": "vi", "keep": ["chuồng"], "drop": [], "first": "chuồng", "why": ""}
+{"scene": "S150", "n": 3, "lang": "es", "keep": ["fideo"], "drop": [], "first": "fideo", "why": ""}
+{"scene": "S150", "n": 3, "lang": "vi", "keep": ["bún"], "drop": ["mì"], "first": "bún", "why": "white rice vermicelli is bún; mì is wheat or egg noodles"}
+{"scene": "S150", "n": 4, "lang": "ru", "keep": ["зелень"], "drop": [], "first": "зелень", "why": ""}
+{"scene": "S150", "n": 4, "lang": "uk", "keep": ["зелень"], "drop": [], "first": "зелень", "why": ""}
+{"scene": "S154", "n": 5, "lang": "ru", "keep": ["шляпа"], "drop": [], "first": "шляпа", "why": ""}
+{"scene": "S154", "n": 5, "lang": "uk", "keep": [], "drop": ["шапка"], "first": null, "why": "wide-brimmed straw hat; шапка is a knitted cap"}
+{"scene": "S154", "n": 5, "lang": "pl", "keep": ["kapelusz"], "drop": [], "first": "kapelusz", "why": ""}
+{"scene": "S157", "n": 7, "lang": "ru", "keep": ["цепочка"], "drop": [], "first": "цепочка", "why": ""}
+{"scene": "S157", "n": 7, "lang": "uk", "keep": ["ланцюжок"], "drop": [], "first": "ланцюжок", "why": ""}
+{"scene": "S161", "n": 1, "lang": "es", "keep": ["circo"], "drop": [], "first": "circo", "why": ""}
+{"scene": "S161", "n": 1, "lang": "pt", "keep": ["circo"], "drop": [], "first": "circo", "why": ""}
+{"scene": "S161", "n": 1, "lang": "vi", "keep": ["xiếc"], "drop": [], "first": "xiếc", "why": ""}
+{"scene": "S161", "n": 5, "lang": "pt", "keep": [], "drop": ["arqueiro"], "first": null, "why": "woman archer: arqueiro is masculine (arqueira)"}
+{"scene": "S162", "n": 1, "lang": "vi", "keep": ["mầm"], "drop": [], "first": "mầm", "why": ""}
+{"scene": "S162", "n": 2, "lang": "es", "keep": ["tierra"], "drop": [], "first": "tierra", "why": ""}
+{"scene": "S162", "n": 5, "lang": "uk", "keep": ["мур"], "drop": [], "first": "мур", "why": ""}
+{"scene": "S162", "n": 5, "lang": "pl", "keep": ["mur"], "drop": [], "first": "mur", "why": ""}
+{"scene": "S163", "n": 4, "lang": "es", "keep": ["cereal"], "drop": [], "first": "cereal", "why": ""}
+{"scene": "S163", "n": 4, "lang": "pt", "keep": ["cereal"], "drop": [], "first": "cereal", "why": ""}
+{"scene": "S164", "n": 5, "lang": "es", "keep": ["tela"], "drop": [], "first": "tela", "why": ""}
+{"scene": "S164", "n": 6, "lang": "pt", "keep": ["ferro"], "drop": [], "first": "ferro", "why": ""}
+{"scene": "S165", "n": 2, "lang": "es", "keep": ["metro"], "drop": [], "first": "metro", "why": ""}
+{"scene": "S165", "n": 2, "lang": "vi", "keep": ["thước"], "drop": [], "first": "thước", "why": ""}
+{"scene": "S166", "n": 6, "lang": "es", "keep": ["puerto"], "drop": [], "first": "puerto", "why": ""}
+{"scene": "S166", "n": 6, "lang": "pt", "keep": ["porto"], "drop": [], "first": "porto", "why": ""}
+{"scene": "S166", "n": 6, "lang": "vi", "keep": ["cảng", "bến"], "drop": [], "first": "cảng", "why": ""}
+{"scene": "S168", "n": 2, "lang": "ru", "keep": ["инвалид"], "drop": [], "first": "инвалид", "why": ""}
+{"scene": "S168", "n": 6, "lang": "es", "keep": ["familia"], "drop": [], "first": "familia", "why": ""}
+{"scene": "S168", "n": 6, "lang": "pt", "keep": ["família"], "drop": [], "first": "família", "why": ""}
+{"scene": "S168", "n": 6, "lang": "vi", "keep": ["gia đình"], "drop": [], "first": "gia đình", "why": ""}
+{"scene": "S168", "n": 6, "lang": "ru", "keep": ["семья"], "drop": [], "first": "семья", "why": ""}
+{"scene": "S168", "n": 6, "lang": "uk", "keep": ["сім'я", "родина"], "drop": [], "first": "родина", "why": "family is сім'я́; the display сі́м'я has the 'seed' stress"}
+{"scene": "S168", "n": 6, "lang": "pl", "keep": ["rodzina"], "drop": [], "first": "rodzina", "why": ""}
+{"scene": "S169", "n": 2, "lang": "uk", "keep": ["під'їзд"], "drop": [], "first": "під'їзд", "why": ""}
+{"scene": "S169", "n": 3, "lang": "es", "keep": ["construcción"], "drop": [], "first": "construcción", "why": ""}
+{"scene": "S169", "n": 3, "lang": "pt", "keep": ["obra"], "drop": [], "first": "obra", "why": ""}
+{"scene": "S169", "n": 3, "lang": "ru", "keep": ["стройка"], "drop": [], "first": "стройка", "why": ""}
+{"scene": "S169", "n": 3, "lang": "uk", "keep": ["будова"], "drop": [], "first": "будова", "why": ""}
+{"scene": "S169", "n": 4, "lang": "vi", "keep": ["cẩu"], "drop": [], "first": "cẩu", "why": ""}
+{"scene": "S169", "n": 5, "lang": "pt", "keep": ["gol"], "drop": [], "first": "gol", "why": ""}
+{"scene": "S169", "n": 5, "lang": "vi", "keep": ["khung thành"], "drop": [], "first": "khung thành", "why": ""}
+{"scene": "S169", "n": 7, "lang": "uk", "keep": ["зграя"], "drop": [], "first": "зграя", "why": ""}
+{"scene": "S172", "n": 3, "lang": "vi", "keep": ["chuồng"], "drop": [], "first": "chuồng", "why": ""}
+{"scene": "S173", "n": 1, "lang": "ru", "keep": ["берег"], "drop": [], "first": "берег", "why": ""}
+{"scene": "S173", "n": 1, "lang": "uk", "keep": ["берег"], "drop": [], "first": "берег", "why": ""}
+{"scene": "S173", "n": 1, "lang": "pl", "keep": ["brzeg"], "drop": [], "first": "brzeg", "why": ""}
+{"scene": "S173", "n": 2, "lang": "vi", "keep": ["lờ"], "drop": [], "first": "lờ", "why": ""}
+{"scene": "S173", "n": 4, "lang": "vi", "keep": ["tôn"], "drop": [], "first": "tôn", "why": ""}
+{"scene": "S173", "n": 6, "lang": "vi", "keep": ["đình"], "drop": [], "first": "đình", "why": ""}
+{"scene": "S174", "n": 2, "lang": "es", "keep": ["poste"], "drop": [], "first": "poste", "why": ""}
+{"scene": "S174", "n": 4, "lang": "vi", "keep": ["ngói"], "drop": [], "first": "ngói", "why": ""}
+{"scene": "S174", "n": 5, "lang": "pt", "keep": ["lanchonete"], "drop": [], "first": "lanchonete", "why": ""}
+{"scene": "S174", "n": 6, "lang": "ru", "keep": ["табличка"], "drop": [], "first": "табличка", "why": ""}
+{"scene": "S174", "n": 6, "lang": "uk", "keep": ["табличка"], "drop": [], "first": "табличка", "why": ""}
+{"scene": "S174", "n": 6, "lang": "pl", "keep": ["tabliczka"], "drop": [], "first": "tabliczka", "why": ""}
+{"scene": "S176", "n": 1, "lang": "pt", "keep": ["encanador"], "drop": [], "first": "encanador", "why": ""}
+{"scene": "S176", "n": 2, "lang": "pt", "keep": ["pia"], "drop": [], "first": "pia", "why": ""}
+{"scene": "S176", "n": 2, "lang": "vi", "keep": ["bồn"], "drop": [], "first": "bồn", "why": ""}
+{"scene": "S176", "n": 4, "lang": "vi", "keep": ["mực"], "drop": [], "first": "mực", "why": ""}
+{"scene": "S177", "n": 1, "lang": "es", "keep": ["policía"], "drop": [], "first": "policía", "why": ""}
+{"scene": "S177", "n": 1, "lang": "pt", "keep": ["policial", "polícia"], "drop": [], "first": "policial", "why": ""}
+{"scene": "S177", "n": 1, "lang": "vi", "keep": ["cảnh sát", "công an"], "drop": [], "first": "cảnh sát", "why": ""}
+{"scene": "S177", "n": 1, "lang": "ru", "keep": ["полицейский"], "drop": ["полиция"], "first": "полицейский", "why": "one officer: полиция is the police force"}
+{"scene": "S177", "n": 1, "lang": "uk", "keep": [], "drop": ["поліція"], "first": null, "why": "one officer: поліція is the police force; поліцейський needed"}
+{"scene": "S177", "n": 1, "lang": "pl", "keep": ["policjant"], "drop": [], "first": "policjant", "why": ""}
+{"scene": "S177", "n": 3, "lang": "es", "keep": ["patrulla"], "drop": [], "first": "patrulla", "why": ""}
+{"scene": "S177", "n": 3, "lang": "pt", "keep": ["viatura"], "drop": [], "first": "viatura", "why": ""}
+{"scene": "S178", "n": 1, "lang": "pt", "keep": ["carteiro"], "drop": [], "first": "carteiro", "why": ""}
+{"scene": "S180", "n": 6, "lang": "vi", "keep": ["thước"], "drop": [], "first": "thước", "why": ""}
+{"scene": "S181", "n": 1, "lang": "uk", "keep": ["сцена"], "drop": [], "first": "сцена", "why": ""}
+{"scene": "S181", "n": 6, "lang": "vi", "keep": ["tạ"], "drop": [], "first": "tạ", "why": ""}
+{"scene": "S182", "n": 7, "lang": "es", "keep": ["metro"], "drop": [], "first": "metro", "why": ""}
+{"scene": "S182", "n": 7, "lang": "vi", "keep": ["thước"], "drop": [], "first": "thước", "why": ""}
+{"scene": "S183", "n": 1, "lang": "vi", "keep": ["cốp"], "drop": [], "first": "cốp", "why": ""}
+{"scene": "S183", "n": 2, "lang": "es", "keep": ["supermercado"], "drop": [], "first": "supermercado", "why": ""}
+{"scene": "S183", "n": 2, "lang": "pt", "keep": ["supermercado"], "drop": [], "first": "supermercado", "why": ""}
+{"scene": "S183", "n": 3, "lang": "es", "keep": ["farmacia"], "drop": [], "first": "farmacia", "why": ""}
+{"scene": "S183", "n": 3, "lang": "pt", "keep": ["farmácia"], "drop": [], "first": "farmácia", "why": ""}
+{"scene": "S183", "n": 5, "lang": "pt", "keep": ["delegacia"], "drop": [], "first": "delegacia", "why": ""}
+{"scene": "S183", "n": 5, "lang": "pl", "keep": ["komisariat"], "drop": [], "first": "komisariat", "why": ""}
+{"scene": "S183", "n": 6, "lang": "ru", "keep": ["столб"], "drop": [], "first": "столб", "why": ""}
+{"scene": "S185", "n": 2, "lang": "ru", "keep": ["парень"], "drop": [], "first": "парень", "why": ""}
+{"scene": "S185", "n": 4, "lang": "ru", "keep": ["девушка"], "drop": [], "first": "девушка", "why": ""}
+{"scene": "S185", "n": 5, "lang": "ru", "keep": ["колонка"], "drop": [], "first": "колонка", "why": ""}
+{"scene": "S185", "n": 5, "lang": "uk", "keep": ["колонка"], "drop": [], "first": "колонка", "why": ""}
+{"scene": "S185", "n": 6, "lang": "vi", "keep": ["san hô"], "drop": [], "first": "san hô", "why": ""}
+{"scene": "S186", "n": 1, "lang": "vi", "keep": ["chả"], "drop": [], "first": "chả", "why": ""}
+{"scene": "S186", "n": 3, "lang": "uk", "keep": ["насіння"], "drop": [], "first": "насіння", "why": ""}
+{"scene": "S186", "n": 6, "lang": "pt", "keep": ["ventilador"], "drop": [], "first": "ventilador", "why": ""}
+{"scene": "S186", "n": 6, "lang": "vi", "keep": ["quạt"], "drop": [], "first": "quạt", "why": ""}
+{"scene": "S188", "n": 3, "lang": "vi", "keep": ["mỡ"], "drop": [], "first": "mỡ", "why": ""}
+{"scene": "S189", "n": 4, "lang": "vi", "keep": ["chậu"], "drop": [], "first": "chậu", "why": ""}
+{"scene": "S189", "n": 6, "lang": "vi", "keep": ["ki"], "drop": [], "first": "ki", "why": ""}
+{"scene": "S189", "n": 8, "lang": "pt", "keep": ["aspirador"], "drop": [], "first": "aspirador", "why": ""}
+{"scene": "S193", "n": 2, "lang": "pt", "keep": ["grampo"], "drop": [], "first": "grampo", "why": ""}
+{"scene": "S193", "n": 3, "lang": "vi", "keep": ["khoan"], "drop": [], "first": "khoan", "why": ""}
+{"scene": "S194", "n": 1, "lang": "vi", "keep": ["công"], "drop": [], "first": "công", "why": ""}

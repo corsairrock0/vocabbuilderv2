@@ -1,0 +1,4384 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "uk",
+  "source": {
+    "name": "VocabBuilder starter set (Ukrainian)",
+    "kind": "curated",
+    "license": "© 2026 Lango. All rights reserved.",
+    "notes": "Hand-written by an AI assistant (Claude) as a small starter set for VocabBuilder. Not corpus-derived: curatedOrder is a teaching order, not a frequency rank. Review and edit freely."
+  },
+  "entries": [
+    {
+      "lemma": "добрий день",
+      "display": "до́брий день",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "hello",
+          "translations": [
+            "hello",
+            "good afternoon",
+            "good day"
+          ],
+          "note": "Literally 'good day'."
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Добрий день! Чим можу допомогти?",
+          "display": "До́брий день! Чим мо́жу допомогти́?",
+          "translation": "Good afternoon! How can I help you?",
+          "target": "Добрий день",
+          "sense": 0
+        },
+        {
+          "text": "Добрий день, у вас є вільний столик?",
+          "display": "До́брий день, у вас є ві́льний сто́лик?",
+          "translation": "Hello, do you have a free table?",
+          "target": "Добрий день",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Доброго ранку!",
+          "translation": "Good morning!"
+        },
+        {
+          "text": "Добрий вечір!",
+          "translation": "Good evening!"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "The standard polite greeting during the day. Informal: приві́т."
+      },
+      "register": "neutral",
+      "curatedOrder": 1
+    },
+    {
+      "lemma": "привіт",
+      "display": "приві́т",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "hi",
+          "translations": [
+            "hi",
+            "hello",
+            "hey"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Привіт! Як у тебе справи?",
+          "display": "Приві́т! Як у тебе́ спра́ви?",
+          "translation": "Hi! How are you doing?",
+          "target": "Привіт",
+          "sense": 0
+        },
+        {
+          "text": "Привіт, я вже вдома.",
+          "display": "Приві́т, я вже вдо́ма.",
+          "translation": "Hi, I'm home already.",
+          "target": "Привіт",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "передати привіт",
+          "translation": "to say hi (to someone), to send regards"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "Informal: for friends, family and anyone you call ти."
+      },
+      "register": "informal",
+      "curatedOrder": 2
+    },
+    {
+      "lemma": "дякую",
+      "display": "дя́кую",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "thank you",
+          "translations": [
+            "thank you",
+            "thanks"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Дуже дякую за вашу допомогу.",
+          "display": "Ду́же дя́кую за ва́шу допомо́гу.",
+          "translation": "Thank you very much for your help.",
+          "target": "дякую",
+          "sense": 0
+        },
+        {
+          "text": "Дякую, що ви прийшли.",
+          "display": "Дя́кую, що ви прийшли́.",
+          "translation": "Thank you for coming.",
+          "target": "Дякую",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "дуже дякую",
+          "translation": "thank you very much"
+        },
+        {
+          "text": "щиро дякую",
+          "translation": "my sincere thanks"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "Literally 'I thank'. Thank someone with the dative: Дя́кую вам! For something: за + accusative (дя́кую за допомо́гу)."
+      },
+      "curatedOrder": 3
+    },
+    {
+      "lemma": "будь ласка",
+      "display": "будь ла́ска",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "please",
+          "translations": [
+            "please"
+          ]
+        },
+        {
+          "gloss": "you're welcome",
+          "translations": [
+            "you're welcome",
+            "you are welcome",
+            "not at all",
+            "here you are"
+          ],
+          "note": "The reply to дя́кую; also said when handing something over."
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Можна рахунок, будь ласка?",
+          "display": "Мо́жна раху́нок, будь ла́ска?",
+          "translation": "Could I have the bill, please?",
+          "target": "будь ласка",
+          "sense": 0
+        },
+        {
+          "text": "Зачиніть, будь ласка, вікно.",
+          "display": "Зачині́ть, будь ла́ска, вікно́.",
+          "translation": "Please close the window.",
+          "target": "будь ласка",
+          "sense": 0
+        },
+        {
+          "text": "— Дякую! — Будь ласка.",
+          "translation": "\"Thank you!\" \"You're welcome.\"",
+          "target": "Будь ласка",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "curatedOrder": 4
+    },
+    {
+      "lemma": "так",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "yes",
+          "translations": [
+            "yes",
+            "yeah"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Так, я трохи розмовляю українською.",
+          "display": "Так, я тро́хи розмовля́ю украї́нською.",
+          "translation": "Yes, I speak a little Ukrainian.",
+          "target": "Так",
+          "sense": 0
+        },
+        {
+          "text": "Так, звичайно, я допоможу.",
+          "display": "Так, звича́йно, я допоможу́.",
+          "translation": "Yes, of course, I'll help.",
+          "target": "Так",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Also an adverb 'so, like this': Роби́ так."
+      },
+      "curatedOrder": 5
+    },
+    {
+      "lemma": "ні",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "no",
+          "translations": [
+            "no"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Ні, дякую, я не хочу.",
+          "display": "Ні, дя́кую, я не хо́чу.",
+          "translation": "No, thanks, I don't want any.",
+          "target": "Ні",
+          "sense": 0
+        },
+        {
+          "text": "Ні, це не мій телефон.",
+          "display": "Ні, це не мій телефо́н.",
+          "translation": "No, that's not my phone.",
+          "target": "Ні",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "'There is no / I don't have' is нема́є + genitive: У мене́ нема́є ча́су."
+      },
+      "curatedOrder": 6
+    },
+    {
+      "lemma": "вибачте",
+      "display": "ви́бачте",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "excuse me",
+          "translations": [
+            "excuse me",
+            "sorry",
+            "I'm sorry",
+            "pardon me"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "вибач",
+          "display": "ви́бач",
+          "tags": [
+            "imperative",
+            "informal",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Вибачте, як пройти до вокзалу?",
+          "display": "Ви́бачте, як пройти́ до вокза́лу?",
+          "translation": "Excuse me, how do I get to the station?",
+          "target": "Вибачте",
+          "sense": 0
+        },
+        {
+          "text": "Вибачте, я не знав.",
+          "display": "Ви́бачте, я не знав.",
+          "translation": "Sorry, I didn't know.",
+          "target": "Вибачте",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Polite form for ви; to a friend: ви́бач. перепрошу́ю is another common 'excuse me'."
+      },
+      "curatedOrder": 7
+    },
+    {
+      "lemma": "що",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "what",
+          "translations": [
+            "what"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "чого",
+          "display": "чого́",
+          "tags": [
+            "genitive"
+          ]
+        },
+        {
+          "form": "чим",
+          "tags": [
+            "instrumental"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Що ти хочеш на вечерю?",
+          "display": "Що ти хо́чеш на вече́рю?",
+          "translation": "What do you want for dinner?",
+          "target": "Що",
+          "sense": 0
+        },
+        {
+          "text": "Про що ви говорите?",
+          "display": "Про що ви гово́рите?",
+          "translation": "What are you talking about?",
+          "target": "що",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "grammar": {
+        "notes": "Also a conjunction 'that': Я зна́ю, що він удо́ма."
+      },
+      "curatedOrder": 8
+    },
+    {
+      "lemma": "де",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "where",
+          "translations": [
+            "where"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Вибачте, де тут туалет?",
+          "display": "Ви́бачте, де тут туале́т?",
+          "translation": "Excuse me, where's the restroom?",
+          "target": "де",
+          "sense": 0
+        },
+        {
+          "text": "Де ти зараз живеш?",
+          "display": "Де ти за́раз живе́ш?",
+          "translation": "Where do you live now?",
+          "target": "Де",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "questions",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Location only. For direction ('where to') use куди́: Куди́ ти йдеш?"
+      },
+      "curatedOrder": 9
+    },
+    {
+      "lemma": "як",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "how",
+          "translations": [
+            "how"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Вибачте, як вас звати?",
+          "display": "Ви́бачте, як вас зва́ти?",
+          "translation": "Excuse me, what's your name?",
+          "target": "як",
+          "sense": 0
+        },
+        {
+          "text": "Як це сказати українською?",
+          "display": "Як це сказа́ти украї́нською?",
+          "translation": "How do you say this in Ukrainian?",
+          "target": "Як",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Як справи?",
+          "translation": "How are you? / How's it going?"
+        },
+        {
+          "text": "Як тебе звати?",
+          "translation": "What's your name? (informal)"
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "curatedOrder": 10
+    },
+    {
+      "lemma": "і",
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "and",
+          "translations": [
+            "and"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Брат і сестра живуть у Львові.",
+          "display": "Брат і сестра́ живу́ть у Льво́ві.",
+          "translation": "My brother and sister live in Lviv.",
+          "target": "і",
+          "sense": 0
+        },
+        {
+          "text": "Борщ і вареники дуже смачні.",
+          "display": "Борщ і варе́ники ду́же смачні́.",
+          "translation": "Borscht and varenyky are very tasty.",
+          "target": "і",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "connectors"
+      ],
+      "grammar": {
+        "notes": "For smooth sound, й is used after a vowel before a consonant (ма́ма й та́то); та is a common alternative (ма́ма та та́то)."
+      },
+      "curatedOrder": 11
+    },
+    {
+      "lemma": "але",
+      "display": "але́",
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "but",
+          "translations": [
+            "but"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Я хочу піти, але не маю часу.",
+          "display": "Я хо́чу піти́, але́ не ма́ю ча́су.",
+          "translation": "I want to go, but I don't have time.",
+          "target": "але",
+          "sense": 0
+        },
+        {
+          "text": "Тут дорого, але дуже смачно.",
+          "display": "Тут до́рого, але́ ду́же сма́чно.",
+          "translation": "It's expensive here, but very tasty.",
+          "target": "але",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "connectors"
+      ],
+      "curatedOrder": 12
+    },
+    {
+      "lemma": "бути",
+      "display": "бу́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "є",
+          "tags": [
+            "present"
+          ]
+        },
+        {
+          "form": "буду",
+          "display": "бу́ду",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "будеш",
+          "display": "бу́деш",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "буде",
+          "display": "бу́де",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "будуть",
+          "display": "бу́дуть",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "був",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "була",
+          "display": "була́",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "були",
+          "display": "були́",
+          "tags": [
+            "past",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я був удома весь вечір.",
+          "display": "Я був удо́ма весь ве́чір.",
+          "translation": "I was at home all evening.",
+          "target": "був",
+          "sense": 0
+        },
+        {
+          "text": "Ти будеш на вечірці в суботу?",
+          "display": "Ти бу́деш на вечі́рці в субо́ту?",
+          "translation": "Will you be at the party on Saturday?",
+          "target": "будеш",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Present tense є is the same for all persons and is usually left out: Я вдо́ма 'I'm at home'. Past: був, була́, було́, були́."
+      },
+      "curatedOrder": 13
+    },
+    {
+      "lemma": "хотіти",
+      "display": "хоті́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "захотіти",
+      "senses": [
+        {
+          "gloss": "to want",
+          "translations": [
+            "to want",
+            "want",
+            "to wish",
+            "wish"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "хочу",
+          "display": "хо́чу",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "хочеш",
+          "display": "хо́чеш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "хоче",
+          "display": "хо́че",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "хочуть",
+          "display": "хо́чуть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "хотів",
+          "display": "хоті́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "хотіла",
+          "display": "хоті́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я хочу чашку кави.",
+          "display": "Я хо́чу ча́шку ка́ви.",
+          "translation": "I want a cup of coffee.",
+          "target": "хочу",
+          "sense": 0
+        },
+        {
+          "text": "Що ви хочете замовити?",
+          "display": "Що ви хо́чете замо́вити?",
+          "translation": "What would you like to order?",
+          "target": "хочете",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Stress on the stem throughout the present: хо́чу, хо́чеш, хо́чемо, хо́чуть."
+      },
+      "curatedOrder": 14
+    },
+    {
+      "lemma": "говорити",
+      "display": "говори́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "сказати",
+      "senses": [
+        {
+          "gloss": "to speak",
+          "translations": [
+            "to speak",
+            "speak",
+            "to talk",
+            "talk",
+            "to say",
+            "say"
+          ],
+          "note": "Perfective partner in the sense 'to say, to tell': сказа́ти."
+        }
+      ],
+      "forms": [
+        {
+          "form": "говорю",
+          "display": "говорю́",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "говориш",
+          "display": "гово́риш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "говорить",
+          "display": "гово́рить",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "говорять",
+          "display": "гово́рять",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "говорив",
+          "display": "говори́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "говорила",
+          "display": "говори́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "говори",
+          "display": "говори́",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "говоріть",
+          "display": "говорі́ть",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "plural",
+            "formal"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Говоріть, будь ласка, повільно.",
+          "display": "Говорі́ть, будь ла́ска, пові́льно.",
+          "translation": "Please speak slowly.",
+          "target": "Говоріть",
+          "sense": 0
+        },
+        {
+          "text": "Моя мама говорить дуже швидко.",
+          "display": "Моя́ ма́ма гово́рить ду́же шви́дко.",
+          "translation": "My mom speaks very fast.",
+          "target": "говорить",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Stress moves to the stem after the 1st person singular: говорю́, but гово́риш, гово́рять. 'To speak a language' is usually розмовля́ти: Ви розмовля́єте англі́йською?"
+      },
+      "curatedOrder": 15
+    },
+    {
+      "lemma": "розуміти",
+      "display": "розумі́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "зрозуміти",
+      "senses": [
+        {
+          "gloss": "to understand",
+          "translations": [
+            "to understand",
+            "understand"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "розумію",
+          "display": "розумі́ю",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "розумієш",
+          "display": "розумі́єш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "розуміє",
+          "display": "розумі́є",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "розуміють",
+          "display": "розумі́ють",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "розумів",
+          "display": "розумі́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "розуміла",
+          "display": "розумі́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я не розумію, повторіть, будь ласка.",
+          "display": "Я не розумі́ю, повторі́ть, будь ла́ска.",
+          "translation": "I don't understand, could you repeat that, please?",
+          "target": "розумію",
+          "sense": 0
+        },
+        {
+          "text": "Ти розумієш, що він каже?",
+          "display": "Ти розумі́єш, що він ка́же?",
+          "translation": "Do you understand what he's saying?",
+          "target": "розумієш",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Perfective: зрозумі́ти (зрозумі́ю, зрозумі́в)."
+      },
+      "curatedOrder": 16
+    },
+    {
+      "lemma": "знати",
+      "display": "зна́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to know",
+          "translations": [
+            "to know",
+            "know"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "знаю",
+          "display": "зна́ю",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "знаєш",
+          "display": "зна́єш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "знає",
+          "display": "зна́є",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "знають",
+          "display": "зна́ють",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "знав",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "знала",
+          "display": "зна́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я не знаю, де він живе.",
+          "display": "Я не зна́ю, де він живе́.",
+          "translation": "I don't know where he lives.",
+          "target": "знаю",
+          "sense": 0
+        },
+        {
+          "text": "Ти знаєш його номер телефону?",
+          "display": "Ти зна́єш його́ но́мер телефо́ну?",
+          "translation": "Do you know his phone number?",
+          "target": "знаєш",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "No perfective partner in this sense; дізна́тися means 'to find out'."
+      },
+      "curatedOrder": 17
+    },
+    {
+      "lemma": "могти",
+      "display": "могти́",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "змогти",
+      "senses": [
+        {
+          "gloss": "can",
+          "translations": [
+            "can",
+            "to be able to",
+            "be able to",
+            "to be able"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "можу",
+          "display": "мо́жу",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "можеш",
+          "display": "мо́жеш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "може",
+          "display": "мо́же",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "можуть",
+          "display": "мо́жуть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "міг",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "могла",
+          "display": "могла́",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ви можете мені допомогти?",
+          "display": "Ви мо́жете мені́ допомогти́?",
+          "translation": "Can you help me?",
+          "target": "можете",
+          "sense": 0
+        },
+        {
+          "text": "Я не можу сьогодні, вибач.",
+          "display": "Я не мо́жу сього́дні, ви́бач.",
+          "translation": "I can't today, sorry.",
+          "target": "можу",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "г/ж alternation: мо́жу, мо́жеш… мо́жуть; past міг, могла́, могли́."
+      },
+      "curatedOrder": 18
+    },
+    {
+      "lemma": "людина",
+      "display": "люди́на",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "person",
+          "translations": [
+            "person",
+            "human being",
+            "human",
+            "man"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "людини",
+          "display": "люди́ни",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "людину",
+          "display": "люди́ну",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "люди",
+          "display": "лю́ди",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "людей",
+          "display": "люде́й",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Він дуже добра людина.",
+          "display": "Він ду́же до́бра люди́на.",
+          "translation": "He's a very kind person.",
+          "target": "людина",
+          "sense": 0
+        },
+        {
+          "text": "Тут сьогодні забагато людей.",
+          "display": "Тут сього́дні заба́гато люде́й.",
+          "translation": "There are too many people here today.",
+          "target": "людей",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "Feminine even when it refers to a man: Він до́бра люди́на. Plural: лю́ди, люде́й."
+      },
+      "curatedOrder": 19
+    },
+    {
+      "lemma": "вода",
+      "display": "вода́",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "water",
+          "translations": [
+            "water"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "води",
+          "display": "води́",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "воду",
+          "display": "во́ду",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "води",
+          "display": "во́ди",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Можна склянку води, будь ласка?",
+          "display": "Мо́жна скля́нку води́, будь ла́ска?",
+          "translation": "Could I have a glass of water, please?",
+          "target": "води",
+          "sense": 0
+        },
+        {
+          "text": "Я завжди беру з собою воду.",
+          "display": "Я завжди́ беру́ з собо́ю во́ду.",
+          "translation": "I always take water with me.",
+          "target": "воду",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "склянка води",
+          "translation": "a glass of water"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Stress moves to the stem in the accusative singular and in the plural: во́ду, во́ди (genitive singular води́)."
+      },
+      "curatedOrder": 20
+    },
+    {
+      "lemma": "добрий",
+      "display": "до́брий",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "good",
+          "translations": [
+            "good",
+            "kind",
+            "nice"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "добра",
+          "display": "до́бра",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "добре",
+          "display": "до́бре",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "добрі",
+          "display": "до́брі",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "кращий",
+          "display": "кра́щий",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Це дуже добра новина!",
+          "display": "Це ду́же до́бра нови́на!",
+          "translation": "That's really good news!",
+          "target": "добра",
+          "sense": 0
+        },
+        {
+          "text": "У неї дуже добре серце.",
+          "display": "У не́ї ду́же до́бре се́рце.",
+          "translation": "She has a very kind heart.",
+          "target": "добре",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Also 'kind' (of people). Comparative: кра́щий 'better'. до́бре = well, OK."
+      },
+      "curatedOrder": 21
+    },
+    {
+      "lemma": "зараз",
+      "display": "за́раз",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "now",
+          "translations": [
+            "now",
+            "right now",
+            "at the moment"
+          ]
+        },
+        {
+          "gloss": "in a moment",
+          "translations": [
+            "in a moment",
+            "right away",
+            "just a moment"
+          ],
+          "note": "За́раз! 'Coming! / Just a second!'"
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Я зараз на роботі.",
+          "display": "Я за́раз на робо́ті.",
+          "translation": "I'm at work right now.",
+          "target": "зараз",
+          "sense": 0
+        },
+        {
+          "text": "Зачекай, я зараз прийду.",
+          "display": "Зачека́й, я за́раз прийду́.",
+          "translation": "Wait, I'll be right there.",
+          "target": "зараз",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "curatedOrder": 22
+    },
+    {
+      "lemma": "сьогодні",
+      "display": "сього́дні",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "today",
+          "translations": [
+            "today"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Який сьогодні день тижня?",
+          "display": "Яки́й сього́дні день ти́жня?",
+          "translation": "What day of the week is it today?",
+          "target": "сьогодні",
+          "sense": 0
+        },
+        {
+          "text": "Сьогодні я працюю вдома.",
+          "display": "Сього́дні я працю́ю вдо́ма.",
+          "translation": "Today I'm working from home.",
+          "target": "Сьогодні",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "curatedOrder": 23
+    },
+    {
+      "lemma": "тут",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "here",
+          "translations": [
+            "here"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Вибачте, а тут вільно?",
+          "display": "Ви́бачте, а тут ві́льно?",
+          "translation": "Excuse me, is this seat free?",
+          "target": "тут",
+          "sense": 0
+        },
+        {
+          "text": "Я живу тут уже рік.",
+          "display": "Я живу́ тут уже́ рік.",
+          "translation": "I've been living here for a year.",
+          "target": "тут",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "places"
+      ],
+      "grammar": {
+        "notes": "Location 'here'. For direction ('to here') use сюди́: Іди́ сюди́!"
+      },
+      "curatedOrder": 24
+    },
+    {
+      "lemma": "дуже",
+      "display": "ду́же",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "very",
+          "translations": [
+            "very",
+            "very much",
+            "really"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Мені дуже подобається Київ.",
+          "display": "Мені́ ду́же подо́бається Ки́їв.",
+          "translation": "I really like Kyiv.",
+          "target": "дуже",
+          "sense": 0
+        },
+        {
+          "text": "Дуже приємно, мене звати Олег.",
+          "display": "Ду́же приє́мно, мене́ зва́ти Оле́г.",
+          "translation": "Nice to meet you, my name is Oleg.",
+          "target": "Дуже",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Дуже приємно!",
+          "translation": "Nice to meet you!"
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "curatedOrder": 25
+    },
+    {
+      "lemma": "жити",
+      "display": "жи́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to live",
+          "translations": [
+            "to live",
+            "live"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "живу",
+          "display": "живу́",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "живеш",
+          "display": "живе́ш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "живе",
+          "display": "живе́",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "живуть",
+          "display": "живу́ть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "жив",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "жила",
+          "display": "жила́",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я живу в Києві вже два роки.",
+          "display": "Я живу́ в Ки́єві вже два ро́ки.",
+          "translation": "I've been living in Kyiv for two years.",
+          "target": "живу",
+          "sense": 0
+        },
+        {
+          "text": "Де живе ваша родина?",
+          "display": "Де живе́ ва́ша роди́на?",
+          "translation": "Where does your family live?",
+          "target": "живе",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "home"
+      ],
+      "grammar": {
+        "notes": "Stress on the ending: живу́, живе́ш, живемо́. Past: жив, жила́, жили́."
+      },
+      "curatedOrder": 26
+    },
+    {
+      "lemma": "робити",
+      "display": "роби́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "зробити",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "роблю",
+          "display": "роблю́",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "робиш",
+          "display": "ро́биш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "робить",
+          "display": "ро́бить",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "роблять",
+          "display": "ро́блять",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "робив",
+          "display": "роби́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "робила",
+          "display": "роби́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "роби",
+          "display": "роби́",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Що ти робиш сьогодні ввечері?",
+          "display": "Що ти ро́биш сього́дні вве́чері?",
+          "translation": "What are you doing tonight?",
+          "target": "робиш",
+          "sense": 0
+        },
+        {
+          "text": "Ми завжди робимо це разом.",
+          "display": "Ми завжди́ ро́бимо це ра́зом.",
+          "translation": "We always do this together.",
+          "target": "робимо",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "daily-routine"
+      ],
+      "grammar": {
+        "notes": "б → бл in the 1st person singular and 3rd person plural: роблю́, ро́блять. Stress moves to the stem after роблю́."
+      },
+      "curatedOrder": 27
+    },
+    {
+      "lemma": "сказати",
+      "display": "сказа́ти",
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPair": "говорити",
+      "senses": [
+        {
+          "gloss": "to say",
+          "translations": [
+            "to say",
+            "say",
+            "to tell",
+            "tell"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "скажу",
+          "display": "скажу́",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "скажеш",
+          "display": "ска́жеш",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "скаже",
+          "display": "ска́же",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "скажуть",
+          "display": "ска́жуть",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "сказав",
+          "display": "сказа́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "сказала",
+          "display": "сказа́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "скажи",
+          "display": "скажи́",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "скажіть",
+          "display": "скажі́ть",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "plural",
+            "formal"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Скажіть, будь ласка, скільки це коштує?",
+          "display": "Скажі́ть, будь ла́ска, скі́льки це ко́штує?",
+          "translation": "Excuse me, how much does this cost?",
+          "target": "Скажіть",
+          "sense": 0
+        },
+        {
+          "text": "Що він тобі вчора сказав?",
+          "display": "Що він тобі́ вчо́ра сказа́в?",
+          "translation": "What did he tell you yesterday?",
+          "target": "сказав",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Perfective, so no present tense: скажу́ = 'I'll say'. з → ж: скажу́, ска́жеш. Скажі́ть, будь ла́ска… is a polite way to start a question."
+      },
+      "curatedOrder": 28
+    },
+    {
+      "lemma": "дім",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "home",
+          "translations": [
+            "home",
+            "house"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "дому",
+          "display": "до́му",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Наш дім дуже старий.",
+          "display": "Наш дім ду́же стари́й.",
+          "translation": "Our house is very old.",
+          "target": "дім",
+          "sense": 0
+        },
+        {
+          "text": "Біля нашого дому є парк.",
+          "display": "Бі́ля на́шого до́му є парк.",
+          "translation": "There's a park near our house.",
+          "target": "дому",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home"
+      ],
+      "grammar": {
+        "notes": "і → о in other forms: дім → до́му. вдо́ма = at home, додо́му = (to) home. For a building, буди́нок is more common."
+      },
+      "curatedOrder": 29
+    },
+    {
+      "lemma": "робота",
+      "display": "робо́та",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "work",
+          "translations": [
+            "work",
+            "job"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "роботи",
+          "display": "робо́ти",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "роботу",
+          "display": "робо́ту",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "роботі",
+          "display": "робо́ті",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я ще на роботі.",
+          "display": "Я ще на робо́ті.",
+          "translation": "I'm still at work.",
+          "target": "роботі",
+          "sense": 0
+        },
+        {
+          "text": "Він шукає нову роботу.",
+          "display": "Він шука́є нову́ робо́ту.",
+          "translation": "He's looking for a new job.",
+          "target": "роботу",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "work"
+      ],
+      "grammar": {
+        "notes": "на робо́ту = to work; на робо́ті = at work."
+      },
+      "curatedOrder": 30
+    },
+    {
+      "lemma": "друг",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "friend",
+          "translations": [
+            "friend"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "друга",
+          "display": "дру́га",
+          "tags": [
+            "genitive",
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "друже",
+          "display": "дру́же",
+          "tags": [
+            "vocative",
+            "singular"
+          ]
+        },
+        {
+          "form": "друзі",
+          "display": "дру́зі",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "друзів",
+          "display": "дру́зів",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "form": "друзями",
+          "display": "дру́зями",
+          "tags": [
+            "instrumental",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Це мій старий друг.",
+          "display": "Це мій стари́й друг.",
+          "translation": "This is my old friend.",
+          "target": "друг",
+          "sense": 0
+        },
+        {
+          "text": "У суботу я зустрічаюся з друзями.",
+          "display": "У субо́ту я зустріча́юся з дру́зями.",
+          "translation": "On Saturday I'm meeting up with friends.",
+          "target": "друзями",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "Vocative (when addressing someone): дру́же! Plural: дру́зі, дру́зів."
+      },
+      "curatedOrder": 31
+    },
+    {
+      "lemma": "родина",
+      "display": "роди́на",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "family",
+          "translations": [
+            "family"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "родини",
+          "display": "роди́ни",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "родину",
+          "display": "роди́ну",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "родиною",
+          "display": "роди́ною",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У мене велика родина.",
+          "display": "У мене́ вели́ка роди́на.",
+          "translation": "I have a big family.",
+          "target": "родина",
+          "sense": 0
+        },
+        {
+          "text": "Я сумую за родиною.",
+          "display": "Я суму́ю за роди́ною.",
+          "translation": "I miss my family.",
+          "target": "родиною",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "grammar": {
+        "notes": "Synonym: сім’я́. сумува́ти за + instrumental = to miss."
+      },
+      "curatedOrder": 32
+    },
+    {
+      "lemma": "мама",
+      "display": "ма́ма",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "mom",
+          "translations": [
+            "mom",
+            "mum",
+            "mother",
+            "mommy"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "мами",
+          "display": "ма́ми",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "мамі",
+          "display": "ма́мі",
+          "tags": [
+            "dative",
+            "singular"
+          ]
+        },
+        {
+          "form": "маму",
+          "display": "ма́му",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "мамо",
+          "display": "ма́мо",
+          "tags": [
+            "vocative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я часто дзвоню мамі.",
+          "display": "Я ча́сто дзвоню́ ма́мі.",
+          "translation": "I often call my mom.",
+          "target": "мамі",
+          "sense": 0
+        },
+        {
+          "text": "Мамо, я вже вдома!",
+          "display": "Ма́мо, я вже вдо́ма!",
+          "translation": "Mom, I'm home!",
+          "target": "Мамо",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "grammar": {
+        "notes": "Vocative when addressing her: ма́мо! дзвони́ти + dative: дзвоню́ ма́мі."
+      },
+      "curatedOrder": 33
+    },
+    {
+      "lemma": "час",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "time",
+          "translations": [
+            "time"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "часу",
+          "display": "ча́су",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У мене немає часу.",
+          "display": "У мене́ нема́є ча́су.",
+          "translation": "I don't have time.",
+          "target": "часу",
+          "sense": 0
+        },
+        {
+          "text": "Скільки часу займає дорога?",
+          "display": "Скі́льки ча́су займа́є доро́га?",
+          "translation": "How long does the trip take?",
+          "target": "часу",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "To ask the time, say Котра́ годи́на? 'What time is it?'"
+      },
+      "curatedOrder": 34
+    },
+    {
+      "lemma": "день",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "day",
+          "translations": [
+            "day"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "дня",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "дні",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "днів",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я працюю п’ять днів на тиждень.",
+          "display": "Я працю́ю п’ять днів на ти́ждень.",
+          "translation": "I work five days a week.",
+          "target": "днів",
+          "sense": 0
+        },
+        {
+          "text": "Це був дуже довгий день.",
+          "display": "Це був ду́же до́вгий день.",
+          "translation": "It was a very long day.",
+          "target": "день",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "The е drops out in other forms: дня, дні, днів."
+      },
+      "curatedOrder": 35
+    },
+    {
+      "lemma": "завтра",
+      "display": "за́втра",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "tomorrow",
+          "translations": [
+            "tomorrow"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Побачимося завтра о дев’ятій ранку.",
+          "display": "Поба́чимося за́втра о дев’я́тій ра́нку.",
+          "translation": "See you tomorrow at nine in the morning.",
+          "target": "завтра",
+          "sense": 0
+        },
+        {
+          "text": "Завтра в мене вихідний.",
+          "display": "За́втра в мене́ вихідни́й.",
+          "translation": "Tomorrow is my day off.",
+          "target": "Завтра",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "curatedOrder": 36
+    },
+    {
+      "lemma": "йти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "піти",
+      "senses": [
+        {
+          "gloss": "to go (on foot)",
+          "translations": [
+            "to go (on foot)",
+            "to go",
+            "go",
+            "to walk",
+            "walk",
+            "to come",
+            "come"
+          ],
+          "note": "One direction, on foot, at a particular time."
+        }
+      ],
+      "forms": [
+        {
+          "form": "йду",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "йдеш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "йде",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "йдуть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "йшов",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "йшла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "йди",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я вже йду додому.",
+          "display": "Я вже йду додо́му.",
+          "translation": "I'm already heading home.",
+          "target": "йду",
+          "sense": 0
+        },
+        {
+          "text": "Куди ти йдеш так рано?",
+          "display": "Куди́ ти йдеш так ра́но?",
+          "translation": "Where are you going so early?",
+          "target": "йдеш",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "After a consonant the forms with і- are used: іти́, іду́, іде́ш (він іде́). For habitual or round trips use ходи́ти; by vehicle use ї́хати."
+      },
+      "curatedOrder": 37
+    },
+    {
+      "lemma": "їхати",
+      "display": "ї́хати",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "поїхати",
+      "senses": [
+        {
+          "gloss": "to go (by vehicle)",
+          "translations": [
+            "to go (by vehicle)",
+            "to go",
+            "go",
+            "to drive",
+            "drive",
+            "to ride",
+            "ride",
+            "to travel",
+            "travel"
+          ],
+          "note": "One direction, by car, bus, train etc."
+        }
+      ],
+      "forms": [
+        {
+          "form": "їду",
+          "display": "ї́ду",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "їдеш",
+          "display": "ї́деш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "їде",
+          "display": "ї́де",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "їдуть",
+          "display": "ї́дуть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "їхав",
+          "display": "ї́хав",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "їхала",
+          "display": "ї́хала",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "їдь",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Завтра ми їдемо до Києва.",
+          "display": "За́втра ми ї́демо до Ки́єва.",
+          "translation": "Tomorrow we're going to Kyiv.",
+          "target": "їдемо",
+          "sense": 0
+        },
+        {
+          "text": "Я їду на роботу автобусом.",
+          "display": "Я ї́ду на робо́ту авто́бусом.",
+          "translation": "I'm taking the bus to work.",
+          "target": "їду",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "For habitual or round trips use ї́здити. Destination: до + genitive (до Ки́єва); transport in the instrumental (авто́бусом, по́тягом)."
+      },
+      "curatedOrder": 38
+    },
+    {
+      "lemma": "їсти",
+      "display": "ї́сти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "з’їсти",
+      "senses": [
+        {
+          "gloss": "to eat",
+          "translations": [
+            "to eat",
+            "eat"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "їм",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "їси",
+          "display": "їси́",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "їсть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "їдять",
+          "display": "їдя́ть",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "їв",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "їла",
+          "display": "ї́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "їж",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я не їм м’ясо.",
+          "display": "Я не їм м’я́со.",
+          "translation": "I don't eat meat.",
+          "target": "їм",
+          "sense": 0
+        },
+        {
+          "text": "Що ви їсте на сніданок?",
+          "display": "Що ви їсте́ на сніда́нок?",
+          "translation": "What do you eat for breakfast?",
+          "target": "їсте",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: їм, їси́, їсть, їмо́, їсте́, їдя́ть; past їв, ї́ла."
+      },
+      "curatedOrder": 39
+    },
+    {
+      "lemma": "пити",
+      "display": "пи́ти",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "випити",
+      "senses": [
+        {
+          "gloss": "to drink",
+          "translations": [
+            "to drink",
+            "drink"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "п’ю",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "п’єш",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "п’є",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "п’ють",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "пив",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "пила",
+          "display": "пила́",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "пий",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Вона п’є чай з молоком.",
+          "display": "Вона́ п’є чай з молоко́м.",
+          "translation": "She drinks tea with milk.",
+          "target": "п’є",
+          "sense": 0
+        },
+        {
+          "text": "Я не п’ю каву ввечері.",
+          "display": "Я не п’ю ка́ву вве́чері.",
+          "translation": "I don't drink coffee in the evening.",
+          "target": "п’ю",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Apostrophe after п in the present: п’ю, п’єш, п’є, п’ємо́, п’єте́, п’ють."
+      },
+      "curatedOrder": 40
+    },
+    {
+      "lemma": "купити",
+      "display": "купи́ти",
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPair": "купувати",
+      "senses": [
+        {
+          "gloss": "to buy",
+          "translations": [
+            "to buy",
+            "buy",
+            "to purchase",
+            "purchase"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "куплю",
+          "display": "куплю́",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "купиш",
+          "display": "ку́пиш",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "купить",
+          "display": "ку́пить",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "куплять",
+          "display": "ку́плять",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "купив",
+          "display": "купи́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "купила",
+          "display": "купи́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "купи",
+          "display": "купи́",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я куплю хліб і молоко.",
+          "display": "Я куплю́ хліб і молоко́.",
+          "translation": "I'll buy bread and milk.",
+          "target": "куплю",
+          "sense": 0
+        },
+        {
+          "text": "Де ти купив цю куртку?",
+          "display": "Де ти купи́в цю ку́ртку?",
+          "translation": "Where did you buy this jacket?",
+          "target": "купив",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Perfective; imperfective купува́ти (купу́ю). п → пл: куплю́, ку́плять; stress moves to the stem after куплю́."
+      },
+      "curatedOrder": 41
+    },
+    {
+      "lemma": "зробити",
+      "display": "зроби́ти",
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPair": "робити",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make",
+            "to get done"
+          ],
+          "note": "Perfective: one completed action."
+        }
+      ],
+      "forms": [
+        {
+          "form": "зроблю",
+          "display": "зроблю́",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "зробиш",
+          "display": "зро́биш",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "зробить",
+          "display": "зро́бить",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "зроблять",
+          "display": "зро́блять",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "зробив",
+          "display": "зроби́в",
+          "tags": [
+            "past",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "зробила",
+          "display": "зроби́ла",
+          "tags": [
+            "past",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "зроби",
+          "display": "зроби́",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я зроблю це завтра.",
+          "display": "Я зроблю́ це за́втра.",
+          "translation": "I'll do it tomorrow.",
+          "target": "зроблю",
+          "sense": 0
+        },
+        {
+          "text": "Ти вже зробив замовлення?",
+          "display": "Ти вже зроби́в замо́влення?",
+          "translation": "Have you ordered yet?",
+          "target": "зробив",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Perfective of роби́ти: зроблю́ = 'I will do (and finish)'."
+      },
+      "curatedOrder": 42
+    },
+    {
+      "lemma": "хліб",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bread",
+          "translations": [
+            "bread"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "хліба",
+          "display": "хлі́ба",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Купи, будь ласка, хліб і сир.",
+          "display": "Купи́, будь ла́ска, хліб і сир.",
+          "translation": "Please buy some bread and cheese.",
+          "target": "хліб",
+          "sense": 0
+        },
+        {
+          "text": "У нас немає хліба.",
+          "display": "У нас нема́є хлі́ба.",
+          "translation": "We're out of bread.",
+          "target": "хліба",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "shopping"
+      ],
+      "curatedOrder": 43
+    },
+    {
+      "lemma": "чай",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "tea",
+          "translations": [
+            "tea"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "чаю",
+          "display": "ча́ю",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "чаї",
+          "display": "чаї́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Хочеш чаю з лимоном?",
+          "display": "Хо́чеш ча́ю з лимо́ном?",
+          "translation": "Would you like some tea with lemon?",
+          "target": "чаю",
+          "sense": 0
+        },
+        {
+          "text": "Ми п’ємо чай на кухні.",
+          "display": "Ми п’ємо́ чай на ку́хні.",
+          "translation": "We drink tea in the kitchen.",
+          "target": "чай",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "curatedOrder": 44
+    },
+    {
+      "lemma": "кава",
+      "display": "ка́ва",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "coffee",
+          "translations": [
+            "coffee"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "кави",
+          "display": "ка́ви",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "каву",
+          "display": "ка́ву",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Давай вип’ємо кави після роботи.",
+          "display": "Дава́й ви́п’ємо ка́ви пі́сля робо́ти.",
+          "translation": "Let's have a coffee after work.",
+          "target": "кави",
+          "sense": 0
+        },
+        {
+          "text": "Твоя кава вже холодна.",
+          "display": "Твоя́ ка́ва вже холо́дна.",
+          "translation": "Your coffee is already cold.",
+          "target": "кава",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Feminine and fully declined: ка́ва, ка́ви, ка́ву, ка́вою."
+      },
+      "curatedOrder": 45
+    },
+    {
+      "lemma": "магазин",
+      "display": "магази́н",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "shop",
+          "translations": [
+            "shop",
+            "store"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "магазину",
+          "display": "магази́ну",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "магазині",
+          "display": "магази́ні",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "магазини",
+          "display": "магази́ни",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я йду до магазину по хліб.",
+          "display": "Я йду до магази́ну по хліб.",
+          "translation": "I'm going to the shop for bread.",
+          "target": "магазину",
+          "sense": 0
+        },
+        {
+          "text": "У цьому магазині все дешевше.",
+          "display": "У цьому́ магази́ні все деше́вше.",
+          "translation": "Everything is cheaper in this shop.",
+          "target": "магазині",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Genitive in -у: магази́ну. по + accusative = to go and get: по хліб. A small shop is also called крамни́ця."
+      },
+      "curatedOrder": 46
+    },
+    {
+      "lemma": "гроші",
+      "display": "гро́ші",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "money",
+          "translations": [
+            "money",
+            "cash"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "грошей",
+          "display": "гро́шей",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У мене немає з собою грошей.",
+          "display": "У мене́ нема́є з собо́ю гро́шей.",
+          "translation": "I don't have any money on me.",
+          "target": "грошей",
+          "sense": 0
+        },
+        {
+          "text": "Ці гроші на продукти.",
+          "display": "Ці гро́ші на проду́кти.",
+          "translation": "This money is for groceries.",
+          "target": "гроші",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Plural only (no gender): ці гро́ші 'this money'. Genitive: гро́шей."
+      },
+      "curatedOrder": 47
+    },
+    {
+      "lemma": "гарний",
+      "display": "га́рний",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "nice",
+          "translations": [
+            "nice",
+            "beautiful",
+            "pretty",
+            "good-looking",
+            "good"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "гарна",
+          "display": "га́рна",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "гарне",
+          "display": "га́рне",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "гарні",
+          "display": "га́рні",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "кращий",
+          "display": "кра́щий",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Сьогодні дуже гарна погода.",
+          "display": "Сього́дні ду́же га́рна пого́да.",
+          "translation": "The weather is really nice today.",
+          "target": "гарна",
+          "sense": 0
+        },
+        {
+          "text": "У вас дуже гарне місто.",
+          "display": "У вас ду́же га́рне мі́сто.",
+          "translation": "You have a very beautiful city.",
+          "target": "гарне",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "weather",
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Very common for 'nice, beautiful'. Comparative: кра́щий 'better, nicer'."
+      },
+      "curatedOrder": 48
+    },
+    {
+      "lemma": "поганий",
+      "display": "пога́ний",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "bad",
+          "translations": [
+            "bad",
+            "poor"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "погана",
+          "display": "пога́на",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "погане",
+          "display": "пога́не",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "погані",
+          "display": "пога́ні",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "гірший",
+          "display": "гі́рший",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У мене погана пам’ять на імена.",
+          "display": "У мене́ пога́на па́м’ять на імена́.",
+          "translation": "I have a bad memory for names.",
+          "target": "погана",
+          "sense": 0
+        },
+        {
+          "text": "Мені здається, це погана ідея.",
+          "display": "Мені́ здає́ться, це пога́на іде́я.",
+          "translation": "I think it's a bad idea.",
+          "target": "погана",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Comparative: гі́рший 'worse'. Adverb: пога́но (Мені́ пога́но 'I feel unwell')."
+      },
+      "curatedOrder": 49
+    },
+    {
+      "lemma": "великий",
+      "display": "вели́кий",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "big",
+          "translations": [
+            "big",
+            "large",
+            "great"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "велика",
+          "display": "вели́ка",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "велике",
+          "display": "вели́ке",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "великі",
+          "display": "вели́кі",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "великому",
+          "display": "вели́кому",
+          "tags": [
+            "locative",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "більший",
+          "display": "бі́льший",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Київ — дуже велике місто.",
+          "display": "Ки́їв — ду́же вели́ке мі́сто.",
+          "translation": "Kyiv is a very big city.",
+          "target": "велике",
+          "sense": 0
+        },
+        {
+          "text": "Вони живуть у великому будинку.",
+          "display": "Вони́ живу́ть у вели́кому буди́нку.",
+          "translation": "They live in a big house.",
+          "target": "великому",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "city"
+      ],
+      "grammar": {
+        "notes": "Comparative: бі́льший 'bigger'."
+      },
+      "curatedOrder": 50
+    },
+    {
+      "lemma": "маленький",
+      "display": "мале́нький",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "small",
+          "translations": [
+            "small",
+            "little"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "маленька",
+          "display": "мале́нька",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "маленьке",
+          "display": "мале́ньке",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "маленькі",
+          "display": "мале́нькі",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "менший",
+          "display": "ме́нший",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У нас маленька квартира в центрі.",
+          "display": "У нас мале́нька кварти́ра в це́нтрі.",
+          "translation": "We have a small apartment in the center.",
+          "target": "маленька",
+          "sense": 0
+        },
+        {
+          "text": "Мій син ще маленький.",
+          "display": "Мій син ще мале́нький.",
+          "translation": "My son is still little.",
+          "target": "маленький",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "family"
+      ],
+      "grammar": {
+        "notes": "Comparative: ме́нший 'smaller'."
+      },
+      "curatedOrder": 51
+    },
+    {
+      "lemma": "новий",
+      "display": "нови́й",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "new",
+          "translations": [
+            "new"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "нова",
+          "display": "нова́",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "нове",
+          "display": "нове́",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "нові",
+          "display": "нові́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Це мій новий телефон.",
+          "display": "Це мій нови́й телефо́н.",
+          "translation": "This is my new phone.",
+          "target": "новий",
+          "sense": 0
+        },
+        {
+          "text": "Вітаю тебе з Новим роком!",
+          "display": "Віта́ю тебе́ з Нови́м ро́ком!",
+          "translation": "Happy New Year to you!",
+          "target": "Новим",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "З Новим роком!",
+          "translation": "Happy New Year!"
+        }
+      ],
+      "tags": [
+        "shopping",
+        "time"
+      ],
+      "grammar": {
+        "notes": "Stress on the ending in all forms: нови́й, нова́, нове́, нові́."
+      },
+      "curatedOrder": 52
+    },
+    {
+      "lemma": "дорогий",
+      "display": "дороги́й",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "expensive",
+          "translations": [
+            "expensive",
+            "costly",
+            "pricey"
+          ]
+        },
+        {
+          "gloss": "dear",
+          "translations": [
+            "dear"
+          ],
+          "note": "In greetings and letters: Дорогі́ дру́зі!"
+        }
+      ],
+      "forms": [
+        {
+          "form": "дорога",
+          "display": "дорога́",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "дороге",
+          "display": "дороге́",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "дорогі",
+          "display": "дорогі́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "дорожчий",
+          "display": "доро́жчий",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Цей ресторан занадто дорогий.",
+          "display": "Цей рестора́н зана́дто дороги́й.",
+          "translation": "This restaurant is too expensive.",
+          "target": "дорогий",
+          "sense": 0
+        },
+        {
+          "text": "Дорогі друзі, вітаю зі святом!",
+          "display": "Дорогі́ дру́зі, віта́ю зі свя́том!",
+          "translation": "Dear friends, happy holidays!",
+          "target": "Дорогі",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "grammar": {
+        "notes": "Stress on the ending: дороги́й, дорога́. Comparative: доро́жчий. Adverb: до́рого."
+      },
+      "curatedOrder": 53
+    },
+    {
+      "lemma": "смачний",
+      "display": "смачни́й",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "tasty",
+          "translations": [
+            "tasty",
+            "delicious",
+            "good"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "смачна",
+          "display": "смачна́",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "смачне",
+          "display": "смачне́",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "смачні",
+          "display": "смачні́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Тут дуже смачний борщ.",
+          "display": "Тут ду́же смачни́й борщ.",
+          "translation": "The borscht here is really good.",
+          "target": "смачний",
+          "sense": 0
+        },
+        {
+          "text": "Мама готує дуже смачні вареники.",
+          "display": "Ма́ма готу́є ду́же смачні́ варе́ники.",
+          "translation": "Mom makes really tasty varenyky.",
+          "target": "смачні",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Смачного!",
+          "translation": "Enjoy your meal!"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Stress on the ending: смачни́й, смачна́. Adverb: сма́чно."
+      },
+      "curatedOrder": 54
+    },
+    {
+      "lemma": "місто",
+      "display": "мі́сто",
+      "pos": "noun",
+      "gender": "n",
+      "senses": [
+        {
+          "gloss": "city",
+          "translations": [
+            "city",
+            "town"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "міста",
+          "display": "мі́ста",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "місті",
+          "display": "мі́сті",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "міста",
+          "display": "міста́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "міст",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мені подобається це місто.",
+          "display": "Мені́ подо́бається це мі́сто.",
+          "translation": "I like this city.",
+          "target": "місто",
+          "sense": 0
+        },
+        {
+          "text": "Ми живемо в центрі міста.",
+          "display": "Ми живемо́ в це́нтрі мі́ста.",
+          "translation": "We live in the city center.",
+          "target": "міста",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Stress moves to the ending in the nominative plural: міста́ (singular мі́сто, мі́ста). Locative: у мі́сті."
+      },
+      "curatedOrder": 55
+    },
+    {
+      "lemma": "вулиця",
+      "display": "ву́лиця",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "street",
+          "translations": [
+            "street"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "вулиці",
+          "display": "ву́лиці",
+          "tags": [
+            "genitive",
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "вулицю",
+          "display": "ву́лицю",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "На якій вулиці ви живете?",
+          "display": "На які́й ву́лиці ви живете́?",
+          "translation": "What street do you live on?",
+          "target": "вулиці",
+          "sense": 0
+        },
+        {
+          "text": "Перейдіть на інший бік вулиці.",
+          "display": "Перейді́ть на і́нший бік ву́лиці.",
+          "translation": "Cross to the other side of the street.",
+          "target": "вулиці",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city"
+      ],
+      "grammar": {
+        "notes": "на ву́лиці = on the street. 'Outside, outdoors' is usually надво́рі: Надво́рі хо́лодно."
+      },
+      "curatedOrder": 56
+    },
+    {
+      "lemma": "тиждень",
+      "display": "ти́ждень",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "week",
+          "translations": [
+            "week"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "тижня",
+          "display": "ти́жня",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "тижні",
+          "display": "ти́жні",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "тижнів",
+          "display": "ти́жнів",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я подзвоню тобі через тиждень.",
+          "display": "Я подзвоню́ тобі́ че́рез ти́ждень.",
+          "translation": "I'll call you in a week.",
+          "target": "тиждень",
+          "sense": 0
+        },
+        {
+          "text": "Цього тижня я дуже зайнятий.",
+          "display": "Цього́ ти́жня я ду́же за́йнятий.",
+          "translation": "I'm very busy this week.",
+          "target": "тижня",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "The е drops out: ти́ждень → ти́жня. Don't confuse with неді́ля 'Sunday'."
+      },
+      "curatedOrder": 57
+    },
+    {
+      "lemma": "телефон",
+      "display": "телефо́н",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "phone",
+          "translations": [
+            "phone",
+            "telephone",
+            "cell phone",
+            "mobile phone"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "телефону",
+          "display": "телефо́ну",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "телефоном",
+          "display": "телефо́ном",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        },
+        {
+          "form": "телефони",
+          "display": "телефо́ни",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я забув телефон удома.",
+          "display": "Я забу́в телефо́н удо́ма.",
+          "translation": "I left my phone at home.",
+          "target": "телефон",
+          "sense": 0
+        },
+        {
+          "text": "Він зараз розмовляє телефоном.",
+          "display": "Він за́раз розмовля́є телефо́ном.",
+          "translation": "He's on the phone right now.",
+          "target": "телефоном",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "'To talk on the phone' is розмовля́ти телефо́ном (instrumental). Genitive in -у: телефо́ну."
+      },
+      "curatedOrder": 58
+    },
+    {
+      "lemma": "мова",
+      "display": "мо́ва",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "language",
+          "translations": [
+            "language"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "мови",
+          "display": "мо́ви",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "мову",
+          "display": "мо́ву",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "мов",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я вивчаю українську мову.",
+          "display": "Я вивча́ю украї́нську мо́ву.",
+          "translation": "I'm learning Ukrainian.",
+          "target": "мову",
+          "sense": 0
+        },
+        {
+          "text": "Скільки мов ти знаєш?",
+          "display": "Скі́льки мов ти зна́єш?",
+          "translation": "How many languages do you know?",
+          "target": "мов",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "'Tongue' (the body part) is язи́к. 'In Ukrainian' is украї́нською (мо́вою)."
+      },
+      "curatedOrder": 59
+    },
+    {
+      "lemma": "дитина",
+      "display": "дити́на",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "child",
+          "translations": [
+            "child",
+            "kid",
+            "baby"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "дитини",
+          "display": "дити́ни",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "дитину",
+          "display": "дити́ну",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "діти",
+          "display": "ді́ти",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "дітей",
+          "display": "діте́й",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У них двоє дітей.",
+          "display": "У них дво́є діте́й.",
+          "translation": "They have two children.",
+          "target": "дітей",
+          "sense": 0
+        },
+        {
+          "text": "Наша дитина вже спить.",
+          "display": "На́ша дити́на вже спить.",
+          "translation": "Our child is already asleep.",
+          "target": "дитина",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family",
+        "people"
+      ],
+      "grammar": {
+        "notes": "Feminine: на́ша дити́на. Plural: ді́ти, діте́й."
+      },
+      "curatedOrder": 60
+    },
+    {
+      "lemma": "рука",
+      "display": "рука́",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "hand",
+          "translations": [
+            "hand",
+            "arm"
+          ],
+          "note": "Covers both 'hand' and 'arm'."
+        }
+      ],
+      "forms": [
+        {
+          "form": "руки",
+          "display": "руки́",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "руку",
+          "display": "ру́ку",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "руки",
+          "display": "ру́ки",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "рук",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Помий руки перед їжею.",
+          "display": "Поми́й ру́ки пе́ред ї́жею.",
+          "translation": "Wash your hands before eating.",
+          "target": "руки",
+          "sense": 0
+        },
+        {
+          "text": "Я зламав руку в дитинстві.",
+          "display": "Я злама́в ру́ку в дити́нстві.",
+          "translation": "I broke my arm as a child.",
+          "target": "руку",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health"
+      ],
+      "grammar": {
+        "notes": "Stress moves to the stem in the accusative singular and nominative plural: ру́ку, ру́ки (genitive singular руки́)."
+      },
+      "curatedOrder": 61
+    },
+    {
+      "lemma": "голова",
+      "display": "голова́",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "head",
+          "translations": [
+            "head"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "голови",
+          "display": "голови́",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "голову",
+          "display": "го́лову",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "голови",
+          "display": "го́лови",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "голів",
+          "display": "голі́в",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У мене болить голова.",
+          "display": "У мене́ боли́ть голова́.",
+          "translation": "I have a headache.",
+          "target": "голова",
+          "sense": 0
+        },
+        {
+          "text": "Я щойно помила голову.",
+          "display": "Я що́йно поми́ла го́лову.",
+          "translation": "I've just washed my hair.",
+          "target": "голову",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health"
+      ],
+      "grammar": {
+        "notes": "Stress moves to the stem in the accusative: го́лову. ми́ти го́лову = to wash one's hair."
+      },
+      "curatedOrder": 62
+    },
+    {
+      "lemma": "лікар",
+      "display": "лі́кар",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "doctor",
+          "translations": [
+            "doctor",
+            "physician"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "лікаря",
+          "display": "лі́каря",
+          "tags": [
+            "genitive",
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "лікарі",
+          "display": "лікарі́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "лікарів",
+          "display": "лікарі́в",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Мені треба до лікаря.",
+          "display": "Мені́ тре́ба до лі́каря.",
+          "translation": "I need to see a doctor.",
+          "target": "лікаря",
+          "sense": 0
+        },
+        {
+          "text": "Вам треба викликати лікаря.",
+          "display": "Вам тре́ба ви́кликати лі́каря.",
+          "translation": "You need to call a doctor.",
+          "target": "лікаря",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health",
+        "people"
+      ],
+      "grammar": {
+        "notes": "Animate: accusative = genitive (ви́кликати лі́каря). Plural stress on the ending: лікарі́."
+      },
+      "curatedOrder": 63
+    },
+    {
+      "lemma": "квиток",
+      "display": "квито́к",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "ticket",
+          "translations": [
+            "ticket"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "квитка",
+          "display": "квитка́",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "квитки",
+          "display": "квитки́",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "квитків",
+          "display": "квиткі́в",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я вже купив квиток на потяг.",
+          "display": "Я вже купи́в квито́к на по́тяг.",
+          "translation": "I've already bought a train ticket.",
+          "target": "квиток",
+          "sense": 0
+        },
+        {
+          "text": "Дайте, будь ласка, два квитки.",
+          "display": "Да́йте, будь ла́ска, два квитки́.",
+          "translation": "Two tickets, please.",
+          "target": "квитки",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "travel",
+        "transport"
+      ],
+      "grammar": {
+        "notes": "The о drops out: квито́к → квитка́. After 2–4 Ukrainian uses the nominative plural: два квитки́."
+      },
+      "curatedOrder": 64
+    }
+  ]
+}

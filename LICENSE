@@ -1,0 +1,30 @@
+VocabBuilder by Lango — Proprietary Licence
+
+Copyright © 2026 Lango. All rights reserved.
+
+VocabBuilder, including its source code, object code, design, interface text, graphics, documentation, and the
+content created by or for Lango (among it the selection, ranking and arrangement of its word lists, the meanings
+written or reviewed for it, its explanations and exercises, the AI-written sentences and the pictures made for it),
+is the property of Lango and is protected by copyright, database rights and other laws, where applicable.
+"Lango" and "VocabBuilder" are Lango's names and may not be used to identify other products.
+
+This software is proprietary and confidential. No licence or other right is granted, by implication, estoppel or
+otherwise, except as stated in the VocabBuilder Terms of Service (shown in the app at /terms) or in a separate
+written agreement with Lango. Without Lango's prior written consent you may not copy, reproduce, modify, translate,
+adapt, distribute, publish, sublicense, sell, rent, lend or host this software or its content, in whole or in part;
+decompile, disassemble or reverse engineer it, except where applicable law allows this regardless of this notice;
+extract its content in bulk or use it to train or improve machine-learning systems; or remove or alter this notice
+or any copyright notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, TO THE EXTENT PERMITTED BY LAW.
+
+Third-party components and data
+-------------------------------
+The software includes third-party software, type and data — open-source libraries, the Lora typeface, word meanings
+adapted from English Wiktionary, Tatoeba and Universal Dependencies sentences, UniMorph, OpenRussian, verbecc,
+Morfologik and frequency-list data, and a TypeScript port of py-fsrs — that remain under their own licences. They are
+listed, with their licence texts and the credits they require, in THIRD_PARTY_NOTICES.md (also served by the app at
+/third-party-notices.txt and summarised at /notices) and in docs/FREQUENCY_SETS.md. Those licences govern their
+use, and nothing in this notice restricts the rights they grant.
+
+Permission requests: contact Lango.

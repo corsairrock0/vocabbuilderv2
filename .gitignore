@@ -1,0 +1,12 @@
+node_modules/
+dist/
+storage/
+data/runtime/
+.env
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+test-results/
+playwright-report/
+tests/e2e/.artifacts/
+.DS_Store

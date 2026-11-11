@@ -1,0 +1,250 @@
+{"lemma":"в","text":"Я был в Иране.","replace":{"text":"Мы живём в Москве.","translation":"We live in Moscow.","target":"в"}}
+{"lemma":"не","text":"Я никогда не был в Турции.","replace":{"text":"Я никогда не был в Японии.","translation":"I have never been to Japan.","target":"не"}}
+{"lemma":"быть","text":"Я был в Иране.","replace":{"text":"Вчера он был в Сеуле.","translation":"Yesterday he was in Seoul.","target":"был"}}
+{"lemma":"я","text":"Я был в Иране.","replace":{"text":"Я был в Токио.","translation":"I was in Tokyo.","target":"Я"}}
+{"lemma":"он","text":"В Ирак он так и не вернулся.","replace":{"text":"В Киото он так и не вернулся.","translation":"He never went back to Kyoto.","target":"он"}}
+{"lemma":"как","text":"Ну и как вам Турция?","replace":{"text":"Ну и как вам Сеул?","translation":"So, how are you finding Seoul?","target":"как"}}
+{"lemma":"ты","text":"Ты был в Каире?","replace":{"text":"Ты был в Чикаго?","translation":"Have you been to Chicago?","target":"Ты"}}
+{"lemma":"вы","text":"Ну и как вам Турция?","replace":{"text":"Ну и как вам Прага?","translation":"So, how are you finding Prague?","target":"вам"}}
+{"lemma":"ну","text":"Ну и как вам Турция?","replace":{"text":"Ну, пойдём в кино?","translation":"Well, shall we go to the movies?","target":"Ну"}}
+{"lemma":"военный","text":"Я проходил свою военную службу в Анкаре.","replace":{"text":"Мой дед проходил военную службу в Сибири.","translation":"My grandfather did his military service in Siberia.","target":"военную"}}
+{"lemma":"война","text":"В Афганистане война.","replace":{"text":"Книга «Война и мир» стоит в моём шкафу.","translation":"The book War and Peace is on my shelf.","target":"Война"}}
+{"lemma":"развитие","text":"Экономическое развитие важно для Африки.","replace":{"text":"Спорт важен для развития ребёнка.","translation":"Sports are important for a child's development.","target":"развития"}}
+{"lemma":"советский","text":"Советские войска начали вывод войск из Афганистана.","replace":{"text":"В Москве я купил советские открытки.","translation":"In Moscow I bought Soviet postcards.","target":"советские"}}
+{"lemma":"никогда","text":"Я никогда не был в Турции.","replace":{"text":"Я никогда не был в Токио.","translation":"I have never been to Tokyo.","target":"никогда"}}
+{"lemma":"вернуться","text":"В Ирак он так и не вернулся.","replace":{"text":"Он вернулся в Москву поздно вечером.","translation":"He came back to Moscow late in the evening.","target":"вернулся"}}
+{"lemma":"национальный","text":"Сколько национальных парков в Кении?","replace":{"text":"Сколько национальных парков в Канаде?","translation":"How many national parks are there in Canada?","target":"национальных"}}
+{"lemma":"бог","text":"Ты не Бог.","drop":true}
+{"lemma":"политический","text":"Как работает политическая система Алжира?","replace":{"text":"В классе висит политическая карта мира.","translation":"A political map of the world hangs in the classroom.","target":"политическая"}}
+{"lemma":"экономический","text":"Экономическое развитие важно для Африки.","replace":{"text":"Мой брат получает экономическое образование в Чикаго.","translation":"My brother is getting an economics education in Chicago.","target":"экономическое"}}
+{"lemma":"официальный","text":"Какой в Тунисе официальный язык?","replace":{"text":"Какой официальный язык в Швейцарии?","translation":"What is the official language in Switzerland?","target":"официальный"}}
+{"lemma":"служба","text":"Я проходил военную службу в Анкаре.","replace":{"text":"Служба доставки в Сеуле работает очень быстро.","translation":"The delivery service in Seoul works very fast.","target":"Служба"}}
+{"lemma":"служба","text":"В Турции есть обязательная воинская служба.","replace":{"text":"Спасательная служба Токио работает круглосуточно.","translation":"Tokyo's rescue service works around the clock.","target":"служба"}}
+{"lemma":"защита","text":"Скажи: „Прибегаю к защите Господа людей“.","replace":{"text":"Этот крем даёт хорошую защиту от солнца.","translation":"This cream gives good protection from the sun.","target":"защиту"}}
+{"lemma":"южный","text":"Южная Африка далеко.","replace":{"text":"Южная Корея далеко.","translation":"South Korea is far away.","target":"Южная"}}
+{"lemma":"вновь","text":"Вы никогда не увидите Египет вновь.","replace":{"text":"Вы вновь увидите Париж весной.","translation":"You will see Paris again in spring.","target":"вновь"}}
+{"lemma":"частный","text":"Каким был первый частный канал в Турции?","replace":{"text":"Мы учимся в частной школе в Торонто.","translation":"We study at a private school in Toronto.","target":"частной"}}
+{"lemma":"животное","text":"Кошки в Древнем Египте были священными животными.","replace":{"text":"Кошки в Японии считаются счастливыми животными.","translation":"Cats in Japan are considered lucky animals.","target":"животными"}}
+{"lemma":"поехать","text":"Я поехал в Иран.","replace":{"text":"Я поехал в Сеул.","translation":"I went to Seoul.","target":"поехал"}}
+{"lemma":"карьера","text":"За всю свою карьеру торгового агента я никогда не бывал в Африке.","replace":{"text":"За всю карьеру я ни разу не бывал в Чикаго.","translation":"In my whole career I have never been to Chicago.","target":"карьеру"}}
+{"lemma":"древний","text":"Кошки в Древнем Египте были священными животными.","replace":{"text":"Мы осмотрели древний замок в Чехии.","translation":"We toured an ancient castle in Czechia.","target":"древний"}}
+{"lemma":"лечение","text":"Он намерен посвятить свою жизнь лечению больных в Индии.","replace":{"text":"Врач в Торонто назначил мне лечение.","translation":"The doctor in Toronto prescribed me a treatment.","target":"лечение"}}
+{"lemma":"британский","text":"Он британский гражданин, но живёт в Индии.","replace":{"text":"Он британский гражданин, но живёт в Канаде.","translation":"He is a British citizen, but he lives in Canada.","target":"британский"}}
+{"lemma":"ведущий","text":"Ведущие мировые производители какао — Кот-д’Ивуар, Гана и Индонезия.","replace":{"text":"Ведущие производители часов находятся в Швейцарии.","translation":"The leading watch makers are in Switzerland.","target":"Ведущие"}}
+{"lemma":"блок","text":"Индия и Китай - две страны блока БРИК.","replace":{"text":"Купи блок бумаги для заметок.","translation":"Buy a pad of paper for notes.","target":"блок"}}
+{"lemma":"понятие","text":"В Библии нет таких понятий, как «Матерь Божья» и «Богородица».","replace":{"text":"Это понятие трудно перевести на японский.","translation":"This concept is hard to translate into Japanese.","target":"понятие"}}
+{"lemma":"нефть","text":"В Аравии много нефти.","replace":{"text":"Норвегия добывает много нефти.","translation":"Norway produces a lot of oil.","target":"нефти"}}
+{"lemma":"реализация","text":"Их борьба связана с поисками Бога, реализацией Себя, выражением истины.","replace":{"text":"Реализация проекта в Корее заняла год.","translation":"The implementation of the project in Korea took a year.","target":"Реализация"}}
+{"lemma":"царь","text":"Я, Экклесиаст, был царём над Израилем в Иерусалиме.","replace":{"text":"В русской сказке царь послал сына за жар-птицей.","translation":"In the Russian fairy tale the tsar sent his son after the firebird.","target":"царь"}}
+{"lemma":"царь","text":"Царь Соломон был известен своей мудростью.","replace":{"text":"Царь из сказки жил в красивом дворце.","translation":"The tsar in the fairy tale lived in a beautiful palace.","target":"Царь"}}
+{"lemma":"снижение","text":"Алжирское правительство должно улучшить конкурентноспособность страны снижением налогов и бюрократии.","replace":{"text":"Магазин объявил о снижении цен.","translation":"The store announced a price reduction.","target":"снижении"}}
+{"lemma":"дальний","text":"Боже! Франкфурт же в Германии, а не на Дальнем Востоке!","replace":{"text":"Владивосток находится на Дальнем Востоке России.","translation":"Vladivostok is in the Russian Far East.","target":"Дальнем"}}
+{"lemma":"польский","text":"Польские ученые работают в Африке.","replace":{"text":"Польские учёные работают в Германии.","translation":"Polish scientists work in Germany.","target":"Польские"}}
+{"lemma":"осуществлять","text":"Эмирейтс ежедневно осуществляет пять вылетов из Нью Йорка в Дубай.","replace":{"text":"Авиакомпания осуществляет пять рейсов в день из Токио в Сеул.","translation":"The airline operates five flights a day from Tokyo to Seoul.","target":"осуществляет"}}
+{"lemma":"освобождение","text":"Сегодня мы отмечаем День освобождения Африки.","replace":{"text":"Освобождение квартиры в Москве займёт неделю.","translation":"Vacating the apartment in Moscow will take a week.","target":"Освобождение"}}
+{"lemma":"восток","text":"Боже! Франкфурт же в Германии, а не на Дальнем Востоке!","replace":{"text":"Солнце встаёт на востоке.","translation":"The sun rises in the east.","target":"востоке"}}
+{"lemma":"фигура","text":"Сами был влиятельной фигурой в арабском сообществе Торонто.","replace":{"text":"Шахматная фигура упала со стола.","translation":"The chess piece fell off the table.","target":"фигура"}}
+{"lemma":"сектор","text":"Как живётся людям в секторе Газа?","replace":{"text":"Какой сектор экономики в Корее самый большой?","translation":"Which sector of the economy is the largest in Korea?","target":"сектор"}}
+{"lemma":"турецкий","text":"Мы говорим на турецком.","drop":true}
+{"lemma":"турецкий","text":"Ты знаешь турецкий?","drop":true}
+{"lemma":"турецкий","text":"Это турецкая традиция.","drop":true}
+{"lemma":"конституция","text":"Новая конституция не решит проблем Египта.","replace":{"text":"Мы читали конституцию на уроке истории.","translation":"We read the constitution in history class.","target":"конституцию"}}
+{"lemma":"производитель","text":"Ведущие мировые производители какао — Кот-д’Ивуар, Гана и Индонезия.","replace":{"text":"Этот производитель автомобилей находится в Японии.","translation":"This car manufacturer is in Japan.","target":"производитель"}}
+{"lemma":"призвать","text":"Они призвали гнев Бога на головы своих врагов.","replace":{"text":"Директор призвал всех сотрудников к тишине.","translation":"The director called on all employees to be quiet.","target":"призвал"}}
+{"lemma":"вооружение","text":"Алжир покупает артиллерийское вооружение у России.","replace":{"text":"Музей в Праге показывает рыцарское вооружение.","translation":"The museum in Prague shows knightly armor.","target":"вооружение"}}
+{"lemma":"основное","text":"Во многих турецких ресторанах кебаб — основное блюдо.","replace":{"text":"Во многих корейских ресторанах рис — основное блюдо.","translation":"In many Korean restaurants rice is the main dish.","target":"основное"}}
+{"lemma":"христов","text":"Исус Христос предупредил, что в будущем появятся много других ложных \"Христов\".","drop":true}
+{"lemma":"колония","text":"У Франции было много колоний в Африке.","replace":{"text":"Колония чаек живёт на берегу Балтийского моря.","translation":"A colony of gulls lives on the Baltic Sea shore.","target":"Колония"}}
+{"lemma":"легенда","text":"Есть много старых индийских легенд.","replace":{"text":"Есть много старых японских легенд.","translation":"There are many old Japanese legends.","target":"легенд"}}
+{"lemma":"вверх","text":"Лосось поднимается вверх по реке и мечет икру в песок.","keep":true}
+{"lemma":"территориальный","text":"Божий народ не имеет национальности и территориальной принадлежности.","replace":{"text":"Он изучает территориальное деление Японии.","translation":"He studies the territorial division of Japan.","target":"территориальное"}}
+{"lemma":"минимальный","text":"Какая минимальная зарплата в Гане?","replace":{"text":"Какая минимальная зарплата в Канаде?","translation":"What is the minimum salary in Canada?","target":"минимальная"}}
+{"lemma":"песок","text":"Лосось поднимается вверх по реке и мечет икру в песок.","keep":true}
+{"lemma":"религия","text":"У Алжира, Марокко и Туниса общая религия.","replace":{"text":"В школе мы изучаем историю и религию.","translation":"At school we study history and religion.","target":"религию"}}
+{"lemma":"пояс","text":"Том живёт в \"Библейском поясе\".","replace":{"text":"Борец завязал чёрный пояс.","translation":"The wrestler tied his black belt.","target":"пояс"}}
+{"lemma":"кошка","text":"Кошки в Древнем Египте были священными животными.","replace":{"text":"Моя кошка спит на диване.","translation":"My cat sleeps on the sofa.","target":"кошка"}}
+{"lemma":"создатель","text":"Христиане верят, что Бог - создатель мира.","replace":{"text":"Создатель мультфильма живёт в Токио.","translation":"The creator of the cartoon lives in Tokyo.","target":"Создатель"}}
+{"lemma":"пребывание","text":"Во время моего пребывания в Индии у меня вышли деньги.","replace":{"text":"Во время пребывания в Корее я выучил много слов.","translation":"During my stay in Korea I learned many words.","target":"пребывания"}}
+{"lemma":"филиал","text":"У них есть филиалы по всему миру: от Калькутты до Нью-Йорка.","replace":{"text":"У банка есть филиалы от Парижа до Токио.","translation":"The bank has branches from Paris to Tokyo.","target":"филиалы"}}
+{"lemma":"полуостров","text":"Персидский залив расположен между Ираном и Аравийским полуостровом.","replace":{"text":"Корейский полуостров находится между двумя морями.","translation":"The Korean peninsula lies between two seas.","target":"полуостров"}}
+{"lemma":"уничтожение","text":"Он про разоружение Ирака и уничтожение их оружия массового поражения.","replace":{"text":"Уничтожение старых документов займёт день.","translation":"Destroying the old documents will take a day.","target":"Уничтожение"}}
+{"lemma":"индийский","text":"Есть много старых индийских легенд.","drop":true}
+{"lemma":"индийский","text":"Это индийское имя.","drop":true}
+{"lemma":"индийский","text":"Том любит индийскую музыку.","drop":true}
+{"lemma":"воинский","text":"В Турции есть обязательная воинская служба.","replace":{"text":"В Корее есть обязательная воинская служба.","translation":"Compulsory military service exists in Korea.","target":"воинская"}}
+{"lemma":"арабский","text":"Я не говорю на арабском.","drop":true}
+{"lemma":"арабский","text":"Мой арабский не очень хороший.","drop":true}
+{"lemma":"арабский","text":"Это арабское имя.","drop":true}
+{"lemma":"заявлять","text":"И я заявляю, что это Сын Божий.","replace":{"text":"Я заявляю, что это лучший суп в Москве.","translation":"I declare that this is the best soup in Moscow.","target":"заявляю"}}
+{"lemma":"лев","text":"В Африке есть много львов.","replace":{"text":"В зоопарке Чикаго много львов.","translation":"There are many lions in the Chicago zoo.","target":"львов"}}
+{"lemma":"лев","text":"Боже, это же лев! Скорее в машину!","replace":{"text":"Смотри, это же лев! Какой огромный!","translation":"Look, it's a lion! How huge!","target":"лев"}}
+{"lemma":"опрос","text":"Существует распространенное мнение, согласно общенациональным опросам в США, что мусульмане связаны с терроризмом.","replace":{"text":"По опросу в Канаде многие любят хоккей.","translation":"According to a poll in Canada, many people love hockey.","target":"опросу"}}
+{"lemma":"ближний","text":"Профессор прочитал лекцию о Ближнем Востоке.","replace":{"text":"Ближний магазин закрыт в воскресенье.","translation":"The nearest store is closed on Sunday.","target":"Ближний"}}
+{"lemma":"подниматься","text":"Лосось поднимается вверх по реке и мечет икру в песок.","keep":true}
+{"lemma":"царский","text":"Через пророка Захарию Бог предрёк совмещение в Исусе Христе царской власти и священства.","replace":{"text":"В Эрмитаже много царской мебели.","translation":"The Hermitage has a lot of royal furniture.","target":"царской"}}
+{"lemma":"аль","text":"Саудовская Аравия по-арабски произносится как «Аль-Мамля́ка Аль-'Араби́я Ас-Са’уди́я».","replace":{"text":"Ты хочешь чай аль кофе?","translation":"Do you want tea or coffee?","target":"аль"}}
+{"lemma":"дипломат","text":"Её отец был дипломатом в Кении.","replace":{"text":"Её отец был дипломатом в Японии.","translation":"Her father was a diplomat in Japan.","target":"дипломатом"}}
+{"lemma":"священный","text":"Кошки в Древнем Египте были священными животными.","replace":{"text":"Гора Фудзи считается священной в Японии.","translation":"Mount Fuji is considered sacred in Japan.","target":"священной"}}
+{"lemma":"божий","text":"Всё в руках божьих.","drop":true}
+{"lemma":"божий","text":"Он живёт по Закону Божьему.","drop":true}
+{"lemma":"атаковать","text":"Будет ли Израиль атаковать Иран?","replace":{"text":"Конь может атаковать ферзя в шахматах.","translation":"A knight can attack the queen in chess.","target":"атаковать"}}
+{"lemma":"порог","text":"Вот Бог, а вот порог.","replace":{"text":"Не стой на пороге, проходи.","translation":"Don't stand in the doorway, come in.","target":"пороге"}}
+{"lemma":"пустыня","text":"Пустыня Сахара почти такая же крупная, как Европа.","replace":{"text":"Пустыня Гоби в Монголии огромная.","translation":"The Gobi Desert in Mongolia is huge.","target":"Пустыня"}}
+{"lemma":"твёрдый","text":"Её вера в Бога очень тверда.","replace":{"text":"Этот сыр слишком твёрдый.","translation":"This cheese is too hard.","target":"твёрдый"}}
+{"lemma":"израильский","text":"Можешь назвать несколько хороших израильских фильмов?","drop":true}
+{"lemma":"израильский","text":"Палестинцы думают, что он израильская марионетка.","drop":true}
+{"lemma":"израильский","text":"Путешествие народа Израильского по пустыне есть прообраз путешествия народа Божьего по духовной пустыне.","drop":true}
+{"lemma":"превратить","text":"Они превратили одну из мечетей в тюрьму.","replace":{"text":"Они превратили старый склад в кафе.","translation":"They turned an old warehouse into a cafe.","target":"превратили"}}
+{"lemma":"привлечение","text":"Алжир должен создать амбициозную программу по привлечению иностранных инвесторов.","replace":{"text":"Город запустил программу по привлечению туристов.","translation":"The city launched a program to attract tourists.","target":"привлечению"}}
+{"lemma":"послание","text":"Я считаю, что всё Священное Писание богодухновенно, кроме первого послания Тимофею.","replace":{"text":"Я получил послание от друга из Сеула.","translation":"I received a message from a friend in Seoul.","target":"послание"}}
+{"lemma":"послание","text":"Апостол Иуда цитировал в своём послании книгу Еноха, следовательно, она не может считаться апокрифической.","replace":{"text":"Мы услышали послание директора.","translation":"We heard the director's message.","target":"послание"}}
+{"lemma":"сирийский","text":"Где находится сирийское посольство?","drop":true}
+{"lemma":"залив","text":"Что ты думаешь о войне в Персидском заливе?","replace":{"text":"Мы отдыхали на берегу Финского залива.","translation":"We vacationed on the shore of the Gulf of Finland.","target":"залива"}}
+{"lemma":"мусульманин","text":"Они имеют дело с мусульманами.","drop":true}
+{"lemma":"мусульманин","text":"Это правда, что ты хочешь стать мусульманином?","drop":true}
+{"lemma":"мусульманин","text":"Мусульмане называют Иисуса \"Иса\".","drop":true}
+{"lemma":"пасть","text":"Правительство Багдада пало.","replace":{"text":"На город пал густой туман.","translation":"A thick fog fell over the city.","target":"пал"}}
+{"lemma":"национальность","text":"Божий народ не имеет национальности и территориальной принадлежности.","replace":{"text":"В анкете нужно указать национальность.","translation":"In the form you must state your nationality.","target":"национальность"}}
+{"lemma":"китаец","text":"Много китайцев живут в Африке.","replace":{"text":"В Торонто живёт много китайцев.","translation":"Many Chinese people live in Toronto.","target":"китайцев"}}
+{"lemma":"населить","text":"Индия густо населена.","replace":{"text":"Япония густо населена.","translation":"Japan is densely populated.","target":"населена"}}
+{"lemma":"армянский","text":"«Серые волки» — турецкое ультранационалистическое движение, неофашистское и антикурдское, которое отрицает геноцид армянского народа.","replace":{"text":"Мы пили армянский коньяк в Праге.","translation":"We drank Armenian cognac in Prague.","target":"армянский"}}
+{"lemma":"правитель","text":"Фараоны были правителями Древнего Египта.","replace":{"text":"Мудрый правитель из японской сказки любил цветы.","translation":"The wise ruler from the Japanese tale loved flowers.","target":"правитель"}}
+{"lemma":"поставщик","text":"Россия является поставщиком номер один оружия для Алжира.","replace":{"text":"Эта пекарня — поставщик хлеба для кафе в Москве.","translation":"This bakery is the bread supplier for cafes in Moscow.","target":"поставщик"}}
+{"lemma":"божественный","text":"Любовь — божественная природа в действии.","drop":true}
+{"lemma":"стабильность","text":"Стабильность - главная цель Алжира.","replace":{"text":"Стабильность на рынке важна для магазина.","translation":"Stability in the market is important for a shop.","target":"Стабильность"}}
+{"lemma":"исламский","text":"Том никогда не посещал исламских стран.","drop":true}
+{"lemma":"исламский","text":"Кто финансирует Исламское государство?","drop":true}
+{"lemma":"африканский","text":"Это африканский лев.","drop":true}
+{"lemma":"африканский","text":"Африканская природа богата.","drop":true}
+{"lemma":"африканский","text":"В чём разница между африканскими слонами и азиатскими?","drop":true}
+{"lemma":"христианин","text":"Христиане верят в Иисуса Христа.","replace":{"text":"Мой сосед по лестнице в Праге — христианин.","translation":"My neighbor on the stairs in Prague is a Christian.","target":"христианин"}}
+{"lemma":"азиатский","text":"В чём разница между африканскими слонами и азиатскими?","replace":{"text":"Это азиатский рынок в Торонто.","translation":"This is an Asian market in Toronto.","target":"азиатский"}}
+{"lemma":"наградить","text":"Бог наградил меня хорошим здоровьем.","replace":{"text":"Директор наградил лучших учеников книгами.","translation":"The director rewarded the best students with books.","target":"наградил"}}
+{"lemma":"дева","text":"Дева Мария — мать Иисуса.","replace":{"text":"Юная дева шла по улицам Праги.","translation":"A young maiden walked along the streets of Prague.","target":"дева"}}
+{"lemma":"вылет","text":"Эмирейтс ежедневно осуществляет пять вылетов из Нью Йорка в Дубай.","replace":{"text":"Вылет в Сеул задержали на час.","translation":"The departure to Seoul was delayed by an hour.","target":"Вылет"}}
+{"lemma":"прощение","text":"Иди в церковь и проси Господа о прощении.","replace":{"text":"Я попросил у сестры прощения.","translation":"I asked my sister for forgiveness.","target":"прощения"}}
+{"lemma":"верующий","text":"Кто из верующих стал бы делать такие вещи?","replace":{"text":"Он верующий человек и живёт в Варшаве.","translation":"He is a believer and lives in Warsaw.","target":"верующий"}}
+{"lemma":"верующий","text":"В христианстве верующий считают, что есть только один Бог, а Иисус Христос — Божий сын.","replace":{"text":"Мой дядя в Сеуле — верующий.","translation":"My uncle in Seoul is a believer.","target":"верующий"}}
+{"lemma":"иранский","text":"Двое иранских профессора физики были убиты.","drop":true}
+{"lemma":"иранский","text":"Я купил прекрасный большой старинный красный иранский шерстяной ковёр.","drop":true}
+{"lemma":"иранский","text":"Иранский народ миролюбив.","drop":true}
+{"lemma":"союзный","text":"Лакшадвип представляет собой союзную территорию Индии.","replace":{"text":"Союзное слово «который» соединяет части предложения.","translation":"The relative word \"which\" joins parts of a sentence.","target":"Союзное"}}
+{"lemma":"союзный","text":"Лакшадвип является союзной территорией Индии.","replace":{"text":"Союзное слово «что» часто встречается в речи.","translation":"The conjunctive word \"that\" often appears in speech.","target":"Союзное"}}
+{"lemma":"всесоюзный","text":"Почётный член Всесоюзного энтомологического общества, энтомологических обществ Франции, Нидерландов, Египта, Индии.","replace":{"text":"Он член Всесоюзного общества любителей книги.","translation":"He is a member of the All-Union society of book lovers.","target":"Всесоюзного"}}
+{"lemma":"мудрость","text":"Царь Соломон был известен своей мудростью.","replace":{"text":"Бабушка поделилась с нами мудростью.","translation":"Grandma shared her wisdom with us.","target":"мудростью"}}
+{"lemma":"слон","text":"Сколько слонов осталось в Африке?","replace":{"text":"Сколько слонов в зоопарке Токио?","translation":"How many elephants are in the Tokyo zoo?","target":"слонов"}}
+{"lemma":"останки","text":"-- Сегодня надо ждать перелома болезни, кризиса: на заре бек Израил или откроет глаза, или вместо него мулла найдет здесь одни холодные останки».","replace":{"text":"В музее Берлина показали останки мамонта.","translation":"The museum in Berlin showed the remains of a mammoth.","target":"останки"}}
+{"lemma":"египетский","text":"На египетском все еще говорят?","drop":true}
+{"lemma":"египетский","text":"Сами пригласил Лейлу в египетский ресторан.","drop":true}
+{"lemma":"египетский","text":"Где находится египетское посольство?","drop":true}
+{"lemma":"скрыться","text":"Мы скроемся в Египте.","replace":{"text":"Мы скроемся от дождя в кафе.","translation":"We will take shelter from the rain in a cafe.","target":"скроемся"}}
+{"lemma":"продовольствие","text":"В Индии сейчас дефицит продовольствия.","replace":{"text":"В Сибири зимой нужен запас продовольствия.","translation":"In Siberia in winter you need a stock of provisions.","target":"продовольствия"}}
+{"lemma":"ислам","text":"Я хочу принять ислам.","drop":true}
+{"lemma":"ислам","text":"Твиттер - один из главных врагов ислама.","drop":true}
+{"lemma":"ислам","text":"Ислам возник на Аравийском полуострове в седьмом веке.","drop":true}
+{"lemma":"принципиальный","text":"Участие мусульман в политике имеет принципиальное значение для общества.","replace":{"text":"Это принципиальное решение для нашей компании.","translation":"This is a fundamental decision for our company.","target":"принципиальное"}}
+{"lemma":"саудовский","text":"Я из Саудовской Аравии.","drop":true}
+{"lemma":"саудовский","text":"Саудовские женщины не могут уехать из страны без мужа.","drop":true}
+{"lemma":"саудовский","text":"Саудовская Аравия очень богата нефтью.","drop":true}
+{"lemma":"аналитик","text":"Некоторые аналитики считают Сомали типичным примером недееспособного государства.","replace":{"text":"Аналитики банка в Лондоне ожидают роста продаж.","translation":"Bank analysts in London expect sales to grow.","target":"Аналитики"}}
+{"lemma":"библия","text":"Это из Библии.","drop":true}
+{"lemma":"библия","text":"Вот что говорит Библия.","drop":true}
+{"lemma":"библия","text":"Кто написал Библию?","drop":true}
+{"lemma":"пророк","text":"Я не пророк.","drop":true}
+{"lemma":"пророк","text":"Нет пророка в своём отечестве.","drop":true}
+{"lemma":"пророк","text":"Молись всевышнему, а не его пророкам.","drop":true}
+{"lemma":"алмаз","text":"Эти алмазы из Южной Африки.","replace":{"text":"Эти алмазы добыли в Сибири.","translation":"These diamonds were mined in Siberia.","target":"алмазы"}}
+{"lemma":"турок","text":"Сколько турок живет в Греции?","drop":true}
+{"lemma":"турок","text":"Алжирцы и турки - братья.","drop":true}
+{"lemma":"турок","text":"Её парень - турок.","drop":true}
+{"lemma":"изнасилование","text":"Индия признает изнасилованием секс с несовершеннолетней женой.","drop":true}
+{"lemma":"чаша","text":"Капля из чаши философии приводит к атеизму, полная же чаша возвращает нас к Богу.","replace":{"text":"На столе стояла чаша с фруктами.","translation":"A bowl of fruit stood on the table.","target":"чаша"}}
+{"lemma":"соображение","text":"Посол США в Сирии покинул страну из соображений безопасности.","replace":{"text":"Из соображений экономии мы едем поездом в Прагу.","translation":"For reasons of economy we are going to Prague by train.","target":"соображений"}}
+{"lemma":"артиллерийский","text":"Алжир покупает артиллерийское вооружение у России.","replace":{"text":"Артиллерийский музей находится в Санкт-Петербурге.","translation":"The Artillery Museum is in Saint Petersburg.","target":"Артиллерийский"}}
+{"lemma":"настроенный","text":"Похоже, что правительство Алжира настроено на достижение диверсификации экономики.","replace":{"text":"Он настроен поехать в Корею этой зимой.","translation":"He is determined to go to Korea this winter.","target":"настроен"}}
+{"lemma":"отечество","text":"Нет пророка в своём отечестве.","replace":{"text":"Он вернулся в отечество после лет в Канаде.","translation":"He returned to his homeland after years in Canada.","target":"отечество"}}
+{"lemma":"стеклянный","text":"Эти стеклянные изделия прибыли из Персии по Шёлковому пути.","replace":{"text":"Мы прошли по стеклянному мосту в Китае.","translation":"We walked across a glass bridge in China.","target":"стеклянному"}}
+{"lemma":"христианство","text":"В христианстве считается, что Иисус - Сын Божий.","replace":{"text":"Христианство пришло в Польшу очень давно.","translation":"Christianity came to Poland a very long time ago.","target":"Христианство"}}
+{"lemma":"барон","text":"Как вы поняли, почему только трём героям: Иуде, Берлиозу и барону Майгелю - в наказание уготована смерть?","replace":{"text":"Барон из сказки жил в замке над Рейном.","translation":"The baron from the fairy tale lived in a castle above the Rhine.","target":"Барон"}}
+{"lemma":"мусульманский","text":"Это мусульманское имя.","drop":true}
+{"lemma":"мусульманский","text":"Пакистан — мусульманская страна.","drop":true}
+{"lemma":"подсчёт","text":"Согласно моим подсчетам, к этому времени она уже должна быть в Индии.","replace":{"text":"По моим подсчётам, поезд придёт в Киото в девять.","translation":"By my calculations, the train will reach Kyoto at nine.","target":"подсчётам"}}
+{"lemma":"ныть","text":"Может показаться, что ною, но это не так.","keep":true}
+{"lemma":"сровнять","text":"Сравните это с тем, что происходит в Египте.","replace":{"text":"Сравните цены в Сеуле и в Токио.","translation":"Compare prices in Seoul and in Tokyo.","target":"Сравните"}}
+{"lemma":"ас","text":"В своей болезни царь Аса взыскал врачей, а царь Езекия - Бога.","replace":{"text":"Мой брат — ас в шахматах.","translation":"My brother is an ace at chess.","target":"ас"}}
+{"lemma":"гнать","text":"Я Иисус, которого ты гонишь.","replace":{"text":"Ветер гонит облака над Альпами.","translation":"The wind drives clouds over the Alps.","target":"гонит"}}
+{"lemma":"отрывок","text":"Том прочитал отрывок из Евангелия от Матфея.","replace":{"text":"Том прочитал отрывок из японского романа.","translation":"Tom read a passage from a Japanese novel.","target":"отрывок"}}
+{"lemma":"сравнительно","text":"В Алжире сравнительно низкий уровень преступности.","replace":{"text":"В Токио сравнительно низкий уровень преступности.","translation":"Tokyo has a relatively low crime rate.","target":"сравнительно"}}
+{"lemma":"индеец","text":"Он жил с индейцами.","keep":true}
+{"lemma":"индеец","text":"Двух индейцев убили.","replace":{"text":"В Канаде живёт много индейцев.","translation":"Many Native Americans live in Canada.","target":"индейцев"}}
+{"lemma":"мадам","text":"Мадам, я Адам.","keep":true}
+{"lemma":"мечеть","text":"Я никогда не был в мечети.","drop":true}
+{"lemma":"мечеть","text":"Сколько мечетей в Стамбуле?","drop":true}
+{"lemma":"мечеть","text":"Это дом, а это — мечеть.","drop":true}
+{"lemma":"социалист","text":"Иисус был социалистом.","replace":{"text":"Этот писатель из Праги считал себя социалистом.","translation":"This writer from Prague considered himself a socialist.","target":"социалистом"}}
+{"lemma":"благополучие","text":"Великий бог, дай благополучия деревне!","replace":{"text":"Желаю вам здоровья и благополучия!","translation":"I wish you health and well-being!","target":"благополучия"}}
+{"lemma":"благополучие","text":"Зажигают свечу, просят у доброго Великого Бога благополучия.","replace":{"text":"Дедушка пожелал нам благополучия на Новый год.","translation":"Grandpa wished us prosperity for the New Year.","target":"благополучия"}}
+{"lemma":"партия","text":"Несмотря на позицию партии, она проголосовала за господина Нисиоку.","keep":true}
+{"lemma":"позиция","text":"Несмотря на позицию партии, она проголосовала за господина Нисиоку.","keep":true}
+{"lemma":"господин","text":"Кто этот господин?","keep":true}
+{"lemma":"господин","text":"Несмотря на позицию партии, она проголосовала за господина Нисиоку.","keep":true}
+{"lemma":"господин","text":"Он в хороших отношениях с господином Брауном.","keep":true}
+{"lemma":"донецкий","text":"Мой современник -- журналист, сравнивший египетские пирамиды с донецкими терриконами, следовал, сам того не ведая, принципам игумена Даниила.","replace":{"text":"Донецкий уголь раньше возили по всей стране.","translation":"Donetsk coal used to be shipped all over the country.","target":"Донецкий"}}
+{"lemma":"поставка","text":"МИД Ирана сообщил об истечении сроков эмбарго на поставку оружия в эту страну.","replace":{"text":"Завод подписал договор на поставку станков в Корею.","translation":"The factory signed a contract for the supply of machine tools to Korea.","target":"поставку"}}
+{"lemma":"христов","text":"С Рождеством Христовым!","drop":true}
+{"lemma":"христов","text":"Уникальный храм Воскресения Христова построили в парке \"Патриот\"!","drop":true}
+{"lemma":"украинец","text":"Тому нравятся украинцы, потому что они христиане.","replace":{"text":"В нашем классе в Варшаве учатся украинцы и поляки.","translation":"Ukrainians and Poles study in our class in Warsaw.","target":"украинцы"}}
+{"lemma":"дама","text":"Дамы и господа, я очень рада сегодня быть здесь.","keep":true}
+{"lemma":"ван","text":"Господин Ван учит нас китайскому языку.","keep":true}
+{"lemma":"захват","text":"Сражение при Вау было обусловлено необходимостью захвата базы в Вау, откуда союзники могли нанести удар по японским позициям в Соломонауа.","replace":{"text":"Цель компании — захват рынка в Японии.","translation":"The company's goal is to capture the market in Japan.","target":"захват"}}
+{"lemma":"оппозиция","text":"Поскольку оппозицию в Сирии поддерживает Запад и Лига арабских государств, у стран оси нет иного выбора, кроме наращивания помощи Асаду.","replace":{"text":"Проект встретил сильную оппозицию жителей Киото.","translation":"The project met strong opposition from the residents of Kyoto.","target":"оппозицию"}}
+{"lemma":"раб","text":"Четверо рабов несут господина и два мешка из города в поместье.","keep":true}
+{"lemma":"пермский","text":"Уральская епархия объединяет общины и религиозные группы древлеправославных христиан, проживающих в Пермской, Свердловской, Оренбургской областях, а также в Башкирии и Западном Казахстане.","replace":{"text":"Пермский балет гастролировал в Токио.","translation":"The Perm ballet toured in Tokyo.","target":"Пермский"}}
+{"lemma":"показ","text":"Дамы и господа, мы начинаем показ фильма.","keep":true}
+{"lemma":"христианский","text":"Это христианское имя.","drop":true}
+{"lemma":"христианский","text":"Можешь перечислить названия семи смертных грехов согласно христианской религии?","drop":true}
+{"lemma":"христианский","text":"Том поехал в Корею в качестве христианского миссионера.","drop":true}
+{"lemma":"мешок","text":"Четверо рабов несут господина и два мешка из города в поместье.","keep":true}
+{"lemma":"ракетный","text":"По имеющейся информации, офис был эвакуирован за несколько месяцев до ракетного удара из-за участившихся обстрелов палестинской территории.","replace":{"text":"Инженер в Королёве разрабатывает топливо для ракетного двигателя.","translation":"An engineer in Korolyov develops fuel for a rocket engine.","target":"ракетного"}}
+{"lemma":"проголосовать","text":"Несмотря на позицию партии, она проголосовала за господина Нисиоку.","keep":true}
+{"lemma":"нередко","text":"Индустриализация нередко идёт рука об руку с загрязнением окружающей среды.","keep":true}
+{"lemma":"госпожа","text":"Я вижу господина и госпожу.","keep":true}
+{"lemma":"сирийский","text":"Потенциал сирийской армии.","drop":true}
+{"lemma":"сирийский","text":"Сирийская арабская армия (САА) перешла в наступление в провинции Хама на севере страны (как мы и предполагали).","drop":true}
+{"lemma":"четверо","text":"Четверо рабов несут господина и два мешка из города в поместье.","keep":true}
+{"lemma":"штурм","text":"Я слышал, что в этом году латиноамериканская музыка штурмом взяла музыкальную индустрию.","keep":true}
+{"lemma":"либеральный","text":"Господин Уайт — либеральный политик.","keep":true}
+{"lemma":"исламский","text":"В субботу македонские полицейские убили семерых исламских боевиков.","drop":true}
+{"lemma":"христианин","text":"Том сказал, что он не христианин.","drop":true}
+{"lemma":"христианин","text":"Я хотел бы стать христианином.","drop":true}
+{"lemma":"интеграция","text":"Он постоянно ездил по стране, встречался с представителями различных этнических и социальных групп, стремясь добиться их интеграции в израильское общество.","replace":{"text":"Курсы помогают интеграции мигрантов в жизнь Берлина.","translation":"The courses help migrants integrate into life in Berlin.","target":"интеграции"}}
+{"lemma":"индустрия","text":"Кино - это индустрия.","keep":true}
+{"lemma":"индустрия","text":"Он был весьма влиятелен и считался в индустрии крупным игроком.","keep":true}
+{"lemma":"индустрия","text":"Я слышал, что в этом году латиноамериканская музыка штурмом взяла музыкальную индустрию.","keep":true}
+{"lemma":"войско","text":"Напомним, что ранее сообщалось, что в Насирии войска коалиции столкнулись с ожесточенным сопротивлением иракских военных.","replace":{"text":"Войска вернулись в казармы после учений в Польше.","translation":"The troops returned to their barracks after exercises in Poland.","target":"войска"}}
+{"lemma":"сегмент","text":"В индустриальных сегментах партизанский бизнес принимает другие формы.","keep":true}
+{"lemma":"ополчение","text":"По пути на северо-восток Сирии, занятый отрядами курдской самообороны и ассирийским ополчением, я заехал в Иракский Курдистан, в город Сулеймания.","replace":{"text":"Музей рассказывает о народном ополчении Минина и Пожарского.","translation":"The museum tells about the people's militia of Minin and Pozharsky.","target":"ополчении"}}
+{"lemma":"обряд","text":"У многих христианских обрядов языческие корни.","replace":{"text":"В Киото я видел много старинных обрядов.","translation":"In Kyoto I saw many ancient rites.","target":"обрядов"}}
+{"lemma":"свердловский","text":"Уральская епархия объединяет общины и религиозные группы древлеправославных христиан, проживающих в Пермской, Свердловской, Оренбургской областях, а также в Башкирии и Западном Казахстане.","replace":{"text":"Он родился в Свердловской области.","translation":"He was born in the Sverdlovsk region.","target":"Свердловской"}}
+{"lemma":"нахождение","text":"Хождение в церковь делает вас христианином не более, чем нахождение в гараже — автомобилем.","replace":{"text":"Одно нахождение в Токио не научит вас японскому.","translation":"Merely being in Tokyo will not teach you Japanese.","target":"нахождение"}}
+{"lemma":"танковый","text":"В четверг в Хеврон вторглись танковые и пехотные подразделения вооруженных сил Израиля.","replace":{"text":"В Кубинке открыт танковый музей.","translation":"A tank museum is open in Kubinka.","target":"танковый"}}
+{"lemma":"фу","text":"-- О, фу! -- сказал господин Птачек, качая головой.","keep":true}
+{"lemma":"тематика","text":"Для современной индийской живописи типично преобладание национальной тематики, сцен современного народного быта или древней мифологии.","replace":{"text":"Для японской гравюры типична природная тематика.","translation":"Nature themes are typical of Japanese prints.","target":"тематика"}}
+{"lemma":"характеризоваться","text":"XX век характеризуется индустриальным производством одежды, активным проявлением и быстрой сменой моды.","keep":true}
+{"lemma":"соединить","text":"Соедините меня с господином Смитом, пожалуйста.","keep":true}
+{"lemma":"просвещение","text":"В эпоху просвещения было сильное господство церкви.","replace":{"text":"В эпоху Просвещения Париж был центром науки.","translation":"In the Age of Enlightenment, Paris was a centre of science.","target":"Просвещения"}}
+{"lemma":"модификация","text":"Чтобы увеличить мощность, надо переместить ручку… влево - это что, модификация для тех, кто учит арабский?","replace":{"text":"Это модификация старой модели, сделанная в Сеуле.","translation":"This is a modification of an old model, made in Seoul.","target":"модификация"}}
+{"lemma":"индустриальный","text":"Индустриальная революция началась в Англии.","keep":true}
+{"lemma":"индустриальный","text":"Со времён индустриальной революции население Земли увеличилось более чем втрое.","keep":true}
+{"lemma":"индустриальный","text":"Индустриальная революция и её последствия стали катастрофой для человечества.","keep":true}
+{"lemma":"резиденция","text":"Я сделал несколько звонков в резиденцию господина Ямады, но никто не ответил.","keep":true}
+{"lemma":"христианство","text":"Король Харальд Гормссон, более известный как Харальд Синезубый, ввёл в Дании христианство.","drop":true}
+{"lemma":"христианство","text":"У христианства много последователей.","drop":true}
+{"lemma":"мусульманский","text":"Дед Али изготовлял мусульманские амулеты.","drop":true}
+{"lemma":"ослабление","text":"Папирус с отчётом Уну-Амона является наглядной иллюстрацией ослабления Египта и падения его международного авторитета в результате правления Рамессидов.","replace":{"text":"Недосып ведёт к ослаблению иммунитета.","translation":"Lack of sleep leads to a weakened immune system.","target":"ослаблению"}}
+{"lemma":"иго","text":"Первая гетерия, политическая, играла большую роль в борьбе греков за освобождение от турецкого ига.","replace":{"text":"Русь долго жила под монгольским игом.","translation":"Rus lived under the Mongol yoke for a long time.","target":"игом"}}
+{"lemma":"селение","text":"Это было время, когда армяне решили восстать, создали вооружённые формирования, и начали нападать на турецкие и курдские селения.","replace":{"text":"Мы приехали в небольшое селение у подножия Альп.","translation":"We arrived at a small village at the foot of the Alps.","target":"селение"}}
+{"lemma":"героический","text":"Помимо великолепных видов на Южный берег Крыма и на Форосский храм Воскресения Христова, это место также известно своим героическим прошлым.","replace":{"text":"Эта крепость в Бресте известна героическим прошлым.","translation":"This fortress in Brest is known for its heroic past.","target":"героическим"}}
+{"lemma":"новорождённый","text":"Господин Танака показал нам много фотографий своего новорожденного ребёнка.","keep":true}
+{"lemma":"последователь","text":"У христианства много последователей.","replace":{"text":"У этого писателя в Польше много последователей.","translation":"This writer has many followers in Poland.","target":"последователей"}}
+{"lemma":"последователь","text":"Справа расположены последователи Христа.","replace":{"text":"В Сеуле у художника появились последователи.","translation":"The artist gained followers in Seoul.","target":"последователи"}}

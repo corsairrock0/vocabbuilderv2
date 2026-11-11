@@ -1,0 +1,15 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "es",
+  "source": { "name": "Test fixture (Colombian Spanish)", "kind": "curated", "license": "CC0-1.0", "notes": "Small fixture for automated tests." },
+  "entries": [
+    { "lemma": "dónde", "pos": "adverb", "senses": [{ "gloss": "where", "translations": ["where"] }], "examples": [{ "text": "¿Dónde está el baño?", "translation": "Where is the bathroom?", "target": "Dónde" }], "tags": ["questions"], "curatedOrder": 1 },
+    { "lemma": "tinto", "pos": "noun", "gender": "m", "senses": [{ "gloss": "black coffee", "translations": ["black coffee", "coffee"] }], "examples": [{ "text": "¿Me regala un tinto, por favor?", "translation": "Could I have a black coffee, please?", "target": "tinto" }], "tags": ["food-drink"], "regionalNote": "Colombia: tinto = black coffee; in Spain it means red wine.", "curatedOrder": 2 },
+    { "lemma": "también", "pos": "adverb", "senses": [{ "gloss": "also", "translations": ["also", "too", "as well"] }], "examples": [{ "text": "Yo también quiero ir.", "translation": "I want to go too.", "target": "también" }], "tags": ["connectors"], "curatedOrder": 3 },
+    { "lemma": "año", "pos": "noun", "gender": "m", "senses": [{ "gloss": "year", "translations": ["year"] }], "forms": [{ "form": "años", "tags": ["plural"] }], "examples": [{ "text": "Tengo treinta años.", "translation": "I'm thirty years old.", "target": "años" }], "tags": ["time"], "curatedOrder": 4 },
+    { "lemma": "hablar", "pos": "verb", "senses": [{ "gloss": "to speak", "translations": ["to speak", "to talk", "speak", "talk"] }], "forms": [{ "form": "hablo", "tags": ["present", "1st-person", "singular"] }, { "form": "habla", "tags": ["present", "3rd-person", "singular"] }], "examples": [{ "text": "¿Usted habla inglés?", "translation": "Do you speak English?", "target": "habla" }], "tags": ["communication"], "curatedOrder": 5 },
+    { "lemma": "plata", "pos": "noun", "gender": "f", "senses": [{ "gloss": "money", "translations": ["money", "cash"] }], "examples": [{ "text": "No tengo plata.", "translation": "I don't have any money.", "target": "plata" }], "tags": ["money"], "register": "informal", "curatedOrder": 6 },
+    { "lemma": "carro", "pos": "noun", "gender": "m", "senses": [{ "gloss": "car", "translations": ["car"] }], "examples": [{ "text": "Mi carro es azul.", "translation": "My car is blue.", "target": "carro" }], "tags": ["transport"], "curatedOrder": 7 },
+    { "lemma": "café", "pos": "noun", "gender": "m", "senses": [{ "gloss": "coffee shop", "translations": ["coffee shop", "café"] }], "examples": [{ "text": "Nos vemos en el café.", "translation": "See you at the café.", "target": "café" }], "tags": ["places"], "curatedOrder": 8 }
+  ]
+}

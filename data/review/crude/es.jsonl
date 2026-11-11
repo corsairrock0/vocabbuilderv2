@@ -1,0 +1,288 @@
+{"lemma":"acompañado","text":"Es mejor estar solo que mal acompañado.","replace":{"text":"Más vale estar solo que mal acompañado.","translation":"Better to be alone than in bad company.","target":"acompañado","sense":0}}
+{"lemma":"acoso","text":"El acoso sexual se ha convertido actualmente en un tema social.","replace":{"text":"El colegio tiene un programa contra el acoso escolar.","translation":"The school has a program against bullying.","target":"acoso","sense":1}}
+{"lemma":"acostar","text":"No debería haberme acostado con ella.","replace":{"text":"Mi papá ya está acostado porque mañana madruga.","translation":"My dad is already in bed because he's getting up early tomorrow.","target":"acostado","sense":4}}
+{"lemma":"acostar","text":"¿Te estás acostando con ella?","replace":{"text":"Estoy acostando al bebé, te llamo en un rato.","translation":"I'm putting the baby to bed; I'll call you in a bit.","target":"acostando","sense":1}}
+{"lemma":"adelanto","text":"¡Los malditos adelantos me dejan todos los pelos de punta!","replace":{"text":"Los adelantos de la medicina han salvado muchas vidas.","translation":"Advances in medicine have saved many lives.","target":"adelantos","sense":0}}
+{"lemma":"amante","text":"Ella tiene amantes para cada día de la semana.","replace":{"text":"Mis papás son amantes del buen café.","translation":"My parents are lovers of good coffee.","target":"amantes","sense":2}}
+{"lemma":"ano","text":"El ano es la parte final del sistema digestivo.","keep":true}
+{"lemma":"ano","text":"Las hemorroides son venas inflamadas cerca del ano.","keep":true}
+{"lemma":"anormal","text":"Existen enfermedades que hacen que las gallinas pongan huevos anormales.","keep":true}
+{"lemma":"antecedente","text":"Hay el antecedente del sobe testicular de Michel a Valderrama, desdoro impune, tal vez por limitarse al contacto manual.","replace":{"text":"No hay ningún antecedente de algo así en la empresa.","translation":"There is no precedent for anything like this at the company.","target":"antecedente","sense":0}}
+{"lemma":"apestar","text":"Ese programa apesta, no lo vuelvo a ver.","keep":true}
+{"lemma":"aproximadamente","text":"Tomás y María tienen sexo aproximadamente una vez por semana.","replace":{"text":"Voy al gimnasio aproximadamente tres veces por semana.","translation":"I go to the gym approximately three times a week.","target":"aproximadamente","sense":0}}
+{"lemma":"asco","text":"Soy un asco en esto.","keep":true}
+{"lemma":"bacteria","text":"Las bacterias son invisibles a simple vista.","keep":true}
+{"lemma":"barrera","text":"Una barrera en el medio hace el amor más fuerte.","keep":true}
+{"lemma":"bastardo","text":"Perdona a tu enemigo, pero recuerda el nombre de ese bastardo.","replace":{"text":"En esa novela, el protagonista es el hijo bastardo de un conde.","translation":"In that novel, the main character is the illegitimate son of a count.","target":"bastardo","sense":0}}
+{"lemma":"bastardo","text":"También pensamos que él es bastardo.","replace":{"text":"El rey nunca reconoció a su hijo bastardo.","translation":"The king never acknowledged his illegitimate son.","target":"bastardo","sense":0}}
+{"lemma":"bastardo","text":"¡Estos astutos bastardos!","replace":{"text":"Antes, los hijos bastardos no tenían derecho a la herencia.","translation":"In the past, illegitimate children had no right to an inheritance.","target":"bastardos","sense":0}}
+{"lemma":"bola","text":"Él me pateó en las bolas.","replace":{"text":"Mi abuela hace bolas de masa para las arepas.","translation":"My grandmother makes balls of dough for the arepas.","target":"bolas","sense":0}}
+{"lemma":"bulto","text":"¿Se ha notado algún bulto en sus pechos?","keep":true}
+{"lemma":"burdel","text":"Esto es un hotel, no un burdel.","drop":true}
+{"lemma":"burdel","text":"Planeo trabajar en un burdel.","drop":true}
+{"lemma":"burdel","text":"Y como hay muchos jardines de infancia, será casi imposible abrir un burdel.","drop":true}
+{"lemma":"cabrón","text":"Le dije a Tom que él era un cabrón y él me dio.","drop":true}
+{"lemma":"cabrón","text":"No seas cabrona.","drop":true}
+{"lemma":"cabrón","text":"¡Canto de cabrón!","drop":true}
+{"lemma":"caca","text":"\"¿Mamá, los pedos pesan?\" \"No, hija.\" \"Entonces me he hecho caca.\"","replace":{"text":"No toques eso, que es caca.","translation":"Don't touch that, it's yucky.","target":"caca","sense":1}}
+{"lemma":"caca","text":"El orinal es un recipiente en el que se hace caca y pis.","replace":{"text":"El perro hizo caca en el andén y el dueño la recogió.","translation":"The dog did a poo on the sidewalk, and its owner picked it up.","target":"caca","sense":0}}
+{"lemma":"caca","text":"Mi coche está cubierto de caca de paloma.","keep":true}
+{"lemma":"cadera","text":"Desvístase de la cadera para arriba, por favor.","keep":true}
+{"lemma":"cadera","text":"Los trabajadores estaban desnudos hasta las caderas.","keep":true}
+{"lemma":"cagar","text":"Es un ser vivo, así que claro que caga.","drop":true}
+{"lemma":"cagar","text":"La he cagado, lo sé.","drop":true}
+{"lemma":"cagar","text":"¿Estará Tom tratando de cagar nuestra noche?","drop":true}
+{"lemma":"calzoncillo","text":"¿De verdad que te acabas de correr en los calzoncillos?","replace":{"text":"Empaqué calzoncillos y medias para el viaje.","translation":"I packed underwear and socks for the trip.","target":"calzoncillos","sense":0}}
+{"lemma":"carajo","text":"No me importa un carajo lo que vos pensás.","drop":true}
+{"lemma":"carajo","text":"No nos importa un carajo.","drop":true}
+{"lemma":"carajo","text":"¿Por qué carajo hiciste eso?","drop":true}
+{"lemma":"caramba","text":"¡Caramba! ¡No está mal!","replace":{"text":"¡Caramba, se me olvidó la sombrilla otra vez!","translation":"Gosh, I forgot my umbrella again!","target":"caramba","sense":0}}
+{"lemma":"cargar","text":"Me voy a cargar a Tom.","replace":{"text":"Ayúdame a cargar las maletas en el carro.","translation":"Help me load the suitcases into the car.","target":"cargar","sense":0}}
+{"lemma":"cartón","text":"Comprá dos cartones de huevos.","keep":true}
+{"lemma":"centrar","text":"La cultura gitana está muy centrada en la familia.","replace":{"text":"La reunión estuvo centrada en el nuevo proyecto.","translation":"The meeting was focused on the new project.","target":"centrada","sense":0}}
+{"lemma":"cesta","text":"Hay nos huevos en la cesta.","keep":true}
+{"lemma":"chiflado","text":"Sospecho que está chiflado.","keep":true}
+{"lemma":"chupar","text":"El bebé se está chupando el dedo.","keep":true}
+{"lemma":"chupar","text":"No chupes las pilas, que contienen ácido dentro.","keep":true}
+{"lemma":"clavar","text":"Se echó un clavado desnuda al mar.","replace":{"text":"El letrero está clavado en un poste de madera.","translation":"The sign is nailed to a wooden post.","target":"clavado","sense":0}}
+{"lemma":"cocer","text":"La receta lleva huevos cocidos.","keep":true}
+{"lemma":"cojones","text":"Como le hagas daño te corto los cojones.","drop":true}
+{"lemma":"cojones","text":"Deja de tocarte los cojones y busca un trabajo.","drop":true}
+{"lemma":"cojones","text":"¡Me importan tres cojones tú y tus circunstancias!","drop":true}
+{"lemma":"concha","text":"¡La concha de tu hermana!","replace":{"text":"El caracol lleva su concha a todas partes.","translation":"The snail carries its shell everywhere.","target":"concha","sense":1}}
+{"lemma":"condón","text":"A Tom le da vergüenza comprar condones.","keep":true}
+{"lemma":"condón","text":"Con una risita de vergüenza, ella le tendió el condón.","replace":{"text":"En el centro de salud regalan condones.","translation":"The health center gives out condoms for free.","target":"condones","sense":0}}
+{"lemma":"condón","text":"Perdona, pero sin condón no lo haré.","replace":{"text":"El condón protege contra muchas infecciones.","translation":"A condom protects against many infections.","target":"condón","sense":0}}
+{"lemma":"confesar","text":"Harías bien en confesarlo todo.","keep":true}
+{"lemma":"coño","text":"¿Dónde coños la dejé?","drop":true}
+{"lemma":"coño","text":"¿Que qué? No, ni de coña.","drop":true}
+{"lemma":"coño","text":"Éste es mi coño.","drop":true}
+{"lemma":"crudo","text":"¿Comer huevos crudos es seguro?","keep":true}
+{"lemma":"culo","text":"Mi corazón es francés, ¡pero mi culo es internacional!","drop":true}
+{"lemma":"culo","text":"¡Me ha agarrado el culo!","drop":true}
+{"lemma":"culo","text":"¡Vete a tomar por culo!","drop":true}
+{"lemma":"culto","text":"Este es un culto judío.","replace":{"text":"Mi profesor de literatura es un hombre muy culto.","translation":"My literature teacher is a very cultured man.","target":"culto","sense":3}}
+{"lemma":"decena","text":"Compré una decena de huevos.","keep":true}
+{"lemma":"demonios","text":"En este mundo no hay demonios.","keep":true}
+{"lemma":"demonios","text":"¡Demonios! ¡Caí en su trampa!","drop":true}
+{"lemma":"demonios","text":"¿Dices que quieres ir a Boston? ¿Por qué demonios querrías ir allí?","drop":true}
+{"lemma":"depositar","text":"Muchas hormigas depositan sus huevos en hojas.","keep":true}
+{"lemma":"desnudar","text":"La desnudó con los ojos.","replace":{"text":"La mamá desnudó al bebé para bañarlo.","translation":"The mother took the baby's clothes off to bathe him.","target":"desnudó","sense":0}}
+{"lemma":"desnudar","text":"Me desnudó con la mirada.","replace":{"text":"El viento desnudó los árboles del parque.","translation":"The wind stripped the trees in the park bare.","target":"desnudó","sense":0}}
+{"lemma":"desnudar","text":"Tom estaba desnudando a Mary con la mirada.","replace":{"text":"Mi hija estaba desnudando a su muñeca para bañarla.","translation":"My daughter was taking her doll's clothes off to give it a bath.","target":"desnudando","sense":0}}
+{"lemma":"desnudo","text":"Ellos corrieron desnudos por las calles.","replace":{"text":"En invierno, los árboles quedan desnudos.","translation":"In winter, the trees are left bare.","target":"desnudos","sense":1}}
+{"lemma":"desnudo","text":"No quiero que me veas desnuda.","replace":{"text":"La pared se ve muy desnuda sin los cuadros.","translation":"The wall looks very bare without the pictures.","target":"desnuda","sense":1}}
+{"lemma":"desnudo","text":"No quiero ver a Tom desnudo.","replace":{"text":"Sin muebles, el apartamento se ve frío y desnudo.","translation":"Without furniture, the apartment looks cold and bare.","target":"desnudo","sense":1}}
+{"lemma":"despacho","text":"Se ha retrasado mucho el despacho de esa mercancía.","keep":true}
+{"lemma":"diablo","text":"¿De qué diablos estás hablando?","replace":{"text":"En el museo vimos unas máscaras de diablos muy antiguas.","translation":"At the museum we saw some very old devil masks.","target":"diablos","sense":0}}
+{"lemma":"diablo","text":"¿Por qué diablos haría eso?","replace":{"text":"Mi abuelo nos cuenta historias de brujas y diablos.","translation":"My grandfather tells us stories about witches and devils.","target":"diablos","sense":0}}
+{"lemma":"diablos","text":"¿De qué diablos estás hablando?","drop":true}
+{"lemma":"diablos","text":"¿Por qué diablos haría eso?","drop":true}
+{"lemma":"diablos","text":"¿Qué diablos es esa cosa?","drop":true}
+{"lemma":"diagnosticar","text":"A Mary le diagnosticaron un cáncer de pecho en octubre.","keep":true}
+{"lemma":"discriminación","text":"Ella escribió sobre la discriminación sexual en la ciencia.","keep":true}
+{"lemma":"discriminación","text":"La discriminación sobre la base del género sexual está prohibida.","keep":true}
+{"lemma":"diálogo","text":"Nada tiene más interés que el diálogo entre dos amantes silenciosos.","keep":true}
+{"lemma":"docena","text":"Ella compró una docena de huevos.","keep":true}
+{"lemma":"dominante","text":"Pero, además, el sumiso quiere que el dominante haga lo que él quiere que le haga.","replace":{"text":"El color dominante en el cuadro es el azul.","translation":"The dominant color in the painting is blue.","target":"dominante","sense":0}}
+{"lemma":"dudoso","text":"Es fácil para una chica de dudosa moral encontrar un nuevo hombre.","replace":{"text":"Esa noticia viene de una fuente dudosa.","translation":"That news comes from a dubious source.","target":"dudosa","sense":1}}
+{"lemma":"dueña","text":"La perra está mordiendo a su dueña.","replace":{"text":"La dueña de la tienda es muy amable con todos.","translation":"The owner of the shop is very kind to everyone.","target":"dueña","sense":0}}
+{"lemma":"dueño","text":"La perra está mordiendo a su dueña.","replace":{"text":"El perro siempre espera a su dueño en la puerta.","translation":"The dog always waits for its owner at the door.","target":"dueño","sense":0}}
+{"lemma":"enmienda","text":"La Decimotercera Enmienda liberó a todos los esclavos negros.","replace":{"text":"Firmamos una enmienda al contrato de arriendo.","translation":"We signed an amendment to the lease.","target":"enmienda","sense":1}}
+{"lemma":"enseguida","text":"En verano, los huevos se ponen malos enseguida.","keep":true}
+{"lemma":"erección","text":"Me dio una erección.","replace":{"text":"El pueblo celebró la erección de una estatua del poeta.","translation":"The town celebrated the raising of a statue of the poet.","target":"erección","sense":1}}
+{"lemma":"erección","text":"No existe tal cosa como una erección inoportuna.","replace":{"text":"La erección de las murallas de Cartagena tomó más de un siglo.","translation":"Building the walls of Cartagena took more than a century.","target":"erección","sense":1}}
+{"lemma":"erección","text":"Una erección matutina: ¿durará sólo hasta que haga pis?","replace":{"text":"La erección del monumento en la plaza tardó casi un año.","translation":"Raising the monument in the square took almost a year.","target":"erección","sense":1}}
+{"lemma":"erótico","text":"Estoy buscando novelas eróticas de ciencia ficción.","drop":true}
+{"lemma":"esclava","text":"Sami raptó a Layla y la mantuvo como una esclava sexual.","replace":{"text":"Mi abuela me regaló una esclava de oro.","translation":"My grandmother gave me a gold bracelet.","target":"esclava","sense":1}}
+{"lemma":"esperma","text":"Por los restos de esperma encontrados en la cavidad anal.","replace":{"text":"Se me cayó esperma de la vela en el mantel.","translation":"Some candle wax dripped onto my tablecloth.","target":"esperma","sense":3}}
+{"lemma":"espontáneo","text":"Dar importancia a un acto espontáneo y carente de malicia es la peor pornografía.","replace":{"text":"Mi hermano es muy espontáneo y siempre nos hace reír.","translation":"My brother is very spontaneous and always makes us laugh.","target":"espontáneo","sense":0}}
+{"lemma":"esqueleto","text":"Eres tan ruidoso como dos esqueletos teniendo relaciones sexuales en un tejado de cinc.","replace":{"text":"En el museo de ciencias hay esqueletos de dinosaurios.","translation":"There are dinosaur skeletons at the science museum.","target":"esqueletos","sense":0}}
+{"lemma":"estable","text":"¿Quieres decir que te faltan compañeros sexuales estables?","replace":{"text":"Los precios del café se han mantenido estables este año.","translation":"Coffee prices have remained stable this year.","target":"estables","sense":0}}
+{"lemma":"estatuto","text":"Uno no debe violar los estatutos.","keep":true}
+{"lemma":"etcétera","text":"Debes comprar leche, huevos, mantequilla, etcétera.","keep":true}
+{"lemma":"excitar","text":"La bisexualidad de Bert incomodaba a Tom y excitaba a Mary.","drop":true}
+{"lemma":"excitar","text":"Tu vestido transparente realmente me excita.","drop":true}
+{"lemma":"excitar","text":"¿Qué puedo decir? Soy un sinvergüenza. Años han pasado, pero me sigue excitando.","drop":true}
+{"lemma":"exhibición","text":"¿Dónde están las tres estatuas desnudas de la exhibición?","keep":true}
+{"lemma":"federación","text":"Pero el comité de la federación ha decidido intervenir en la celebración buco-genital del gol del Sevilla.","replace":{"text":"La federación de ciclismo organizó una carrera en Boyacá.","translation":"The cycling federation organized a race in Boyacá.","target":"federación","sense":0}}
+{"lemma":"follar","text":"Estamos agotados porque follamos todo el día.","drop":true}
+{"lemma":"follar","text":"No es una esposa lo que busco, sino una amiga para follar.","drop":true}
+{"lemma":"follar","text":"Se pasaron toda la noche follando.","drop":true}
+{"lemma":"frijol","text":"Comí demasiados frijoles y ahora mi trasero no deja de cantar.","replace":{"text":"Los domingos mi mamá prepara frijoles con arroz.","translation":"On Sundays my mom makes beans and rice.","target":"frijoles","sense":0}}
+{"lemma":"gilipollas","text":"Con el debido respeto, señor presidente, ¡es usted un gilipollas!","drop":true}
+{"lemma":"gilipollas","text":"Ella le dejó porque pensaba que era un gilipollas.","drop":true}
+{"lemma":"gilipollas","text":"Podrías acabar pareciendo un gilipollas si haces esto.","drop":true}
+{"lemma":"gitano","text":"Ella es mi esposa gitana.","keep":true,"translation":"She is my Roma wife."}
+{"lemma":"gitano","text":"La cultura gitana está muy centrada en la familia.","replace":{"text":"En Colombia también vive una comunidad gitana.","translation":"A Roma community also lives in Colombia.","target":"gitana","sense":1}}
+{"lemma":"gitano","text":"Que Jacinto sea gitano o no es irrelevante.","keep":true,"translation":"Whether Jacinto is Roma or not is irrelevant."}
+{"lemma":"gripe","text":"Yo estaba en cama con gripe.","keep":true}
+{"lemma":"guau","text":"¿Él adora su cabello, su sonrisa, sus ojos? ¡Guau! ¡Miente condenadamente bien!","replace":{"text":"Mi hijo dice guau cada vez que ve un perro.","translation":"My son says woof every time he sees a dog.","target":"guau","sense":0}}
+{"lemma":"hada","text":"Siempre me ha parecido que el hada Campanilla era muy sexy.","replace":{"text":"Mi hija se disfrazó de hada para la fiesta del colegio.","translation":"My daughter dressed up as a fairy for the school party.","target":"hada","sense":0}}
+{"lemma":"hormona","text":"Si la mujer se masturba, secretará hormonas femeninas y se volverá más femenina.","replace":{"text":"El estrés afecta las hormonas y el sueño.","translation":"Stress affects hormones and sleep.","target":"hormonas","sense":0}}
+{"lemma":"hostia","text":"Esta maría es la hostia.","drop":true}
+{"lemma":"huevo","text":"A Tom no le gustan los huevos.","keep":true}
+{"lemma":"huevo","text":"Él sacó los huevos uno por uno.","keep":true}
+{"lemma":"inaceptable","text":"Es inaceptable lo que sienten los niños \"queer\" por culpa de los reaccionarios.","replace":{"text":"Llegar tarde todos los días es inaceptable.","translation":"Arriving late every day is unacceptable.","target":"inaceptable","sense":0}}
+{"lemma":"inspección","text":"El Gobierno ha establecido normas para sus agentes sobre la inspección de prostíbulos.","replace":{"text":"Mañana hay una inspección sanitaria en el restaurante.","translation":"There's a health inspection at the restaurant tomorrow.","target":"inspección","sense":0}}
+{"lemma":"instituto","text":"Una de las propuestas del gobierno es repartir condones en los institutos.","replace":{"text":"En esta ciudad hay varios institutos de idiomas.","translation":"There are several language institutes in this city.","target":"institutos","sense":0}}
+{"lemma":"intelectual","text":"Un intelectual es una persona que ha descubierto algo más interesante que el sexo.","replace":{"text":"Mi abuelo era un intelectual y tenía una biblioteca enorme.","translation":"My grandfather was an intellectual and had a huge library.","target":"intelectual","sense":0}}
+{"lemma":"invisible","text":"Las bacterias son invisibles a simple vista.","keep":true}
+{"lemma":"jamón","text":"Primero, rellenamos la pechuga de pollo con jamón y queso.","keep":true}
+{"lemma":"joder","text":"Deja de joder, que estoy trabajando.","drop":true}
+{"lemma":"joder","text":"Me has jodido la vida.","drop":true}
+{"lemma":"jodidamente","text":"Sami estaba tan jodidamente frustrado.","drop":true}
+{"lemma":"judío","text":"La fiesta judía más importante ocurre una vez a la semana.","keep":true}
+{"lemma":"judío","text":"No soy uno de los buenos judíos.","keep":true}
+{"lemma":"judío","text":"Él era feliz siendo un judío.","keep":true}
+{"lemma":"leche","text":"¿Qué leches estás mirando?","replace":{"text":"Ahora en el supermercado venden leches de almendra y de avena.","translation":"These days the supermarket sells almond milk and oat milk.","target":"leches","sense":0}}
+{"lemma":"lecho","text":"Y cuando Marilyn estaba en su lecho de muerte; gritó “¡¿dónde están mis amantes?!”.","replace":{"text":"Después de la sequía, el lecho del río quedó seco.","translation":"After the drought, the riverbed was left dry.","target":"lecho","sense":2}}
+{"lemma":"ligar","text":"¡Jamás voy a ser un ligue ni la segunda opción de nadie!","replace":{"text":"El precio del café está muy ligado al clima.","translation":"The price of coffee is closely linked to the weather.","target":"ligado","sense":0}}
+{"lemma":"maldito","text":"Maldita sea... Esta va a ser una larga semana...","replace":{"text":"En la película, la princesa vive en una isla maldita.","translation":"In the movie, the princess lives on a cursed island.","target":"maldita","sense":0}}
+{"lemma":"maldito","text":"Todos los policías son malditos.","replace":{"text":"Mi abuela dice que esos espejos viejos están malditos.","translation":"My grandmother says those old mirrors are cursed.","target":"malditos","sense":0}}
+{"lemma":"maldito","text":"¡Ese maldito fantasma que no me deja dormir!","replace":{"text":"El libro cuenta la historia de un barco maldito.","translation":"The book tells the story of a cursed ship.","target":"maldito","sense":1}}
+{"lemma":"mama","text":"El fumar puede causar cáncer de mama.","keep":true}
+{"lemma":"mama","text":"Me gustaría tomarme un test para cáncer de mamas.","keep":true}
+{"lemma":"mamar","text":"No solamente lo aconsejé, sino también le di una mamada.","replace":{"text":"Los cachorros maman varias veces al día.","translation":"The puppies nurse several times a day.","target":"maman","sense":0}}
+{"lemma":"mamar","text":"Él pidió una mamada.","replace":{"text":"El bebé se queda dormido mientras mama.","translation":"The baby falls asleep while nursing.","target":"mama","sense":0}}
+{"lemma":"manta","text":"Sabemos que eres un manta.","keep":true}
+{"lemma":"maní","text":"Creo que él tiene un maní.","replace":{"text":"Me encanta el maní con sal.","translation":"I love salted peanuts.","target":"maní","sense":0}}
+{"lemma":"marea","text":"Solo descubres quién está nadando desnudo cuando baja la marea.","keep":true}
+{"lemma":"marica","text":"Yo, marica, miro a mi corazón.","drop":true}
+{"lemma":"maricón","text":"No les llames \"maricones\" a los gays.","drop":true}
+{"lemma":"marrón","text":"¿Saben igual los huevos marrones y los blancos?","keep":true}
+{"lemma":"mear","text":"Me estoy por mear encima.","drop":true}
+{"lemma":"mear","text":"¡Me estoy meando, la vejiga me va a explotar!","drop":true}
+{"lemma":"mear","text":"¿Alguna vez has meado en la calle?","drop":true}
+{"lemma":"mezcla","text":"Mezcla la leche y los huevos.","keep":true}
+{"lemma":"mierda","text":"Empaca tus mierdas y vete.","drop":true}
+{"lemma":"mierda","text":"Pisé una mierda de perro en el parque.","drop":true}
+{"lemma":"mierda","text":"¡Mierda! Olvidé las llaves en la casa.","drop":true}
+{"lemma":"muscular","text":"La vagina es un tubo muscular.","keep":true}
+{"lemma":"nalga","text":"¿Cuánto por las nalgas?","replace":{"text":"Después de tantas horas en el bus, me dolían las nalgas.","translation":"After so many hours on the bus, my backside was sore.","target":"nalgas","sense":0}}
+{"lemma":"norteamericano","text":"El Gobierno norteamericano intentó acusar a Rusia de violar sus leyes.","keep":true}
+{"lemma":"noviar","text":"El hombre era todo un semental y tenía varias novias.","replace":{"text":"Ellos noviaron dos años antes de casarse.","translation":"They dated for two years before getting married.","target":"noviaron","sense":0}}
+{"lemma":"nuez","text":"A Mary le gustan las nueces.","keep":true}
+{"lemma":"ocupación","text":"No discrimines a la gente basándote en su nacionalidad, sexo u ocupación.","keep":true}
+{"lemma":"ofensiva","text":"\"Negro\" es una palabra ofensiva.","replace":{"text":"El equipo pasó a la ofensiva en el segundo tiempo.","translation":"The team went on the offensive in the second half.","target":"ofensiva","sense":0}}
+{"lemma":"ofensivo","text":"\"Negro\" es una palabra ofensiva.","replace":{"text":"Ese comentario fue muy ofensivo para todos.","translation":"That comment was very offensive to everyone.","target":"ofensivo","sense":0}}
+{"lemma":"orgasmo","text":"Ayer mi novia tuvo dos orgasmos.","drop":true}
+{"lemma":"orgasmo","text":"¿Cómo puedes estar seguro de que tu novia no finge los orgasmos?","drop":true}
+{"lemma":"orientación","text":"No temas que tu orientación sexual te vaya a condenar. El infierno no existe.","replace":{"text":"Los estudiantes nuevos reciben orientación el primer día.","translation":"New students get an orientation on the first day.","target":"orientación","sense":0}}
+{"lemma":"orinar","text":"Me oriné en los pantalones.","replace":{"text":"Ayer oriné con dolor, así que voy a ir al médico.","translation":"Yesterday it hurt when I urinated, so I'm going to see the doctor.","target":"oriné","sense":0}}
+{"lemma":"orinar","text":"¡Esta bebida sabe a orina!","replace":{"text":"El médico dice que el bebé orina muy poco.","translation":"The doctor says the baby urinates very little.","target":"orina","sense":0}}
+{"lemma":"orinar","text":"¿Puedo ir al baño? Tengo ganas de orinar.","keep":true}
+{"lemma":"paja","text":"Tomás se está haciendo la paja.","replace":{"text":"En la finca, los caballos duermen sobre paja seca.","translation":"On the farm, the horses sleep on dry straw.","target":"paja","sense":1}}
+{"lemma":"palomita","text":"La palomita puso sus huevos fuera del nido.","keep":true}
+{"lemma":"pantalones","text":"Creo que me voy a hacer en los pantalones.","replace":{"text":"Estos pantalones me quedan un poco largos.","translation":"These pants are a little long on me.","target":"pantalones","sense":0}}
+{"lemma":"pascua","text":"Tomás y María colorearon algunos huevos para pascuas.","keep":true}
+{"lemma":"pasión","text":"Cuando estaba en la universidad, Yuriko se entregó a las pasiones sexuales.","replace":{"text":"La música y el fútbol son mis dos grandes pasiones.","translation":"Music and soccer are my two great passions.","target":"pasiones","sense":0}}
+{"lemma":"patada","text":"Ella me dio una patada en los huevos.","replace":{"text":"El portero sacó el balón de una patada.","translation":"The goalkeeper cleared the ball with a kick.","target":"patada","sense":0}}
+{"lemma":"pecho","text":"Muchos hombres tienen pechos más grandes que las mujeres.","replace":{"text":"Mi hermana todavía le da pecho a su bebé.","translation":"My sister is still breastfeeding her baby.","target":"pecho","sense":2}}
+{"lemma":"pedo","text":"De pedo que tenía algo para comer.","drop":true}
+{"lemma":"pedo","text":"El perro se tiró un pedo.","drop":true}
+{"lemma":"pedo","text":"Fui a los santos pedos.","drop":true}
+{"lemma":"pelota","text":"No me rompas las pelotas.","replace":{"text":"Los niños juegan con las pelotas en el parque.","translation":"The children are playing with the balls in the park.","target":"pelotas","sense":0}}
+{"lemma":"pendejo","text":"Lo que ella quiere decir es que eres un pendejo.","drop":true}
+{"lemma":"pendejo","text":"No sabía que tú eras tan pendejo.","drop":true}
+{"lemma":"pendejo","text":"Todos estos pendejos comenzaron a burlarse de mí.","drop":true}
+{"lemma":"pene","text":"El pene entró en la vagina.","drop":true}
+{"lemma":"pene","text":"El pene es uno de los órganos sexuales masculinos.","keep":true}
+{"lemma":"pene","text":"Es recomendable que lave el pene con jabón y agua tibia.","keep":true}
+{"lemma":"pervertido","text":"Maldita pervertida, ¡me cagaste la vida!","replace":{"text":"El villano tiene una idea pervertida de la justicia.","translation":"The villain has a perverted idea of justice.","target":"pervertida","sense":0}}
+{"lemma":"pezón","text":"Los pezones de María se pusieron erectos.","replace":{"text":"La vaca tiene cuatro pezones en la ubre.","translation":"A cow has four teats on its udder.","target":"pezones","sense":0}}
+{"lemma":"pezón","text":"Sami le vió los pezones a Layla.","replace":{"text":"La cabra tiene un pezón lastimado y el veterinario la revisó.","translation":"The goat has a sore teat, and the vet examined her.","target":"pezón","sense":0}}
+{"lemma":"pezón","text":"Se puso piercings en los pezones.","replace":{"text":"Los cachorros buscan los pezones de su mamá para comer.","translation":"The puppies look for their mother's teats to feed.","target":"pezones","sense":0}}
+{"lemma":"pinchar","text":"¿Si nos pinchan, no sangramos?","keep":true}
+{"lemma":"pis","text":"María tiene ganas de hacer pis.","keep":true}
+{"lemma":"pis","text":"¿Puedo ir al baño? Tengo ganas de hacer pis.","keep":true}
+{"lemma":"pis","text":"¿Quieres hacer pis antes de bajar a la calle?","replace":{"text":"Mi hijo ya avisa cuando quiere hacer pis.","translation":"My son now tells us when he needs a wee.","target":"pis","sense":0}}
+{"lemma":"plateado","text":"Las pelotas plateadas están alrededor de la pelota roja.","keep":true}
+{"lemma":"pollo","text":"Él tiene una polla gigante.","replace":{"text":"Hoy vamos a almorzar arroz con pollo.","translation":"Today we're having chicken and rice for lunch.","target":"pollo","sense":0}}
+{"lemma":"porno","text":"El autor de la lengua Slovio incluso hizo un sitio porno en esa lengua.","drop":true}
+{"lemma":"porno","text":"El porno mata el amor.","drop":true}
+{"lemma":"porno","text":"Por la seguridad de nuestros niños, no entres en páginas porno. Por favor.","drop":true}
+{"lemma":"porquería","text":"La escuela es una porquería.","keep":true}
+{"lemma":"portador","text":"Tom considera que todo portador de un pene es su rival.","replace":{"text":"El portador del pasaporte debe firmar en la primera página.","translation":"The passport holder must sign on the first page.","target":"portador","sense":0}}
+{"lemma":"presa","text":"Muchos huevos de tortuga depositados en las playas son presas fáciles.","keep":true}
+{"lemma":"productor","text":"San Pablo es el mayor productor de huevos del país.","keep":true}
+{"lemma":"proteína","text":"La carne y huevos tienen mucha proteína.","keep":true}
+{"lemma":"pudrir","text":"En verano, los huevos se pudren rápido.","keep":true}
+{"lemma":"pudrir","text":"¡Que se pudra la reina!","replace":{"text":"Pon la carne en la nevera para que no se pudra.","translation":"Put the meat in the fridge so it doesn't rot.","target":"pudra","sense":0}}
+{"lemma":"puta","text":"Un país sin casa de putas no es país.","drop":true}
+{"lemma":"puta","text":"¡No puedo creer que él me haya dejado por esa puta!","drop":true}
+{"lemma":"puta","text":"¡Sos un hijo de puta!","drop":true}
+{"lemma":"puto","text":"No encuentro mi puto celular.","drop":true}
+{"lemma":"ramera","text":"Ella es una ramera.","drop":true}
+{"lemma":"ramera","text":"Todas las Rameras fueron una vez Vírgenes.","drop":true}
+{"lemma":"relacionar","text":"Yo solía relacionar amor con sexo.","replace":{"text":"Siempre voy a relacionar esta canción con mi infancia.","translation":"I will always associate this song with my childhood.","target":"relacionar","sense":0}}
+{"lemma":"relación","text":"Yo tuve relaciones con una mujer Soviética-Americana.","replace":{"text":"Tengo buenas relaciones con todos mis compañeros de trabajo.","translation":"I have good relations with all my coworkers.","target":"relaciones","sense":0}}
+{"lemma":"relleno","text":"El presidente parece un condón relleno de avena.","replace":{"text":"Compré un pan relleno de bocadillo en la panadería.","translation":"I bought a bread roll filled with guava paste at the bakery.","target":"relleno","sense":0}}
+{"lemma":"retrasar","text":"Fui retrasado en la escuela.","keep":true}
+{"lemma":"romántico","text":"Los sentimientos románticos no son lo mismo que los sentimientos sexuales.","replace":{"text":"Mis papás todavía son muy románticos.","translation":"My parents are still very romantic.","target":"románticos","sense":0}}
+{"lemma":"salchicha","text":"Estaba jugando de forma asquerosa con su salchicha.","replace":{"text":"A mi hermano le encanta el arroz con salchicha.","translation":"My brother loves rice with sausage.","target":"salchicha","sense":0}}
+{"lemma":"salmón","text":"El salmón pone sus huevos en agua dulce.","keep":true}
+{"lemma":"sangrar","text":"Sangro cuando hago el amor.","replace":{"text":"Sangro un poco cuando me cepillo los dientes.","translation":"I bleed a little when I brush my teeth.","target":"Sangro","sense":0}}
+{"lemma":"secretar","text":"Si la mujer se masturba, secretará hormonas femeninas y se volverá más femenina.","replace":{"text":"Después de comer, el páncreas secretará más insulina.","translation":"After eating, the pancreas will secrete more insulin.","target":"secretará","sense":0}}
+{"lemma":"seducir","text":"Traté en vano de seducirla.","replace":{"text":"La empresa intentó seducirla con un salario muy alto.","translation":"The company tried to lure her with a very high salary.","target":"seducirla","sense":0}}
+{"lemma":"seducir","text":"Yo pienso que María está tratando de seducir a Tom.","replace":{"text":"Con estos precios, el hotel quiere seducir a los turistas.","translation":"With these prices, the hotel wants to lure tourists.","target":"seducir","sense":0}}
+{"lemma":"seducir","text":"¿De verdad creías que podrías seducirme?","replace":{"text":"Ese postre de chocolate siempre logra seducirme.","translation":"That chocolate dessert always manages to tempt me.","target":"seducirme","sense":0}}
+{"lemma":"semen","text":"Vale la pena embotellar el semen.","replace":{"text":"El semen contiene millones de espermatozoides.","translation":"Semen contains millions of sperm cells.","target":"semen","sense":0}}
+{"lemma":"seno","text":"A Tomás no le importaba que María tenga senos pequeños.","replace":{"text":"En clase de matemáticas aprendimos a calcular el seno de un ángulo.","translation":"In math class we learned to calculate the sine of an angle.","target":"seno","sense":2}}
+{"lemma":"seno","text":"Ella tiene senos pequeños, pero a mí no me molesta.","replace":{"text":"El seno de Reloncaví está en el sur de Chile.","translation":"The Reloncaví Sound is in the south of Chile.","target":"seno","sense":3}}
+{"lemma":"sexi","text":"Encontré algo aún más sexy.","keep":true}
+{"lemma":"sexi","text":"La señorita Colombia es más sexy y más hermosa que la señorita Venezuela.","replace":{"text":"Ese cantante tiene una voz muy sexy.","translation":"That singer has a very sexy voice.","target":"sexy","sense":0}}
+{"lemma":"sexi","text":"Qué piernas mas sexis tienes.","replace":{"text":"Mi hermana se compró un vestido sexy para la fiesta.","translation":"My sister bought herself a sexy dress for the party.","target":"sexy","sense":0}}
+{"lemma":"sexo","text":"El sexo es importante para mí.","replace":{"text":"¿Ya saben el sexo del bebé?","translation":"Do you know yet whether the baby is a boy or a girl?","target":"sexo","sense":0}}
+{"lemma":"sexo","text":"Quiero tener sexo con él.","replace":{"text":"Es difícil saber el sexo de un pollito.","translation":"It's hard to tell whether a chick is male or female.","target":"sexo","sense":0}}
+{"lemma":"sexual","text":"¿Acaso él es alguien que está interesado solamente en una relación sexual?","replace":{"text":"En clase de biología estudiamos la reproducción sexual de las plantas.","translation":"In biology class we studied sexual reproduction in plants.","target":"sexual","sense":0}}
+{"lemma":"sexualidad","text":"El libro \"Sexualidad y condición homosexual en la moral cristiana\" fue censurado en Argentina.","keep":true}
+{"lemma":"sexualidad","text":"Nuestra charla respecto a la sexualidad de las moscas podría escandalizar a algunas personas.","keep":true}
+{"lemma":"sexualmente","text":"Dan abusó sexualmente a Linda.","replace":{"text":"Las plantas con flores se reproducen sexualmente.","translation":"Flowering plants reproduce sexually.","target":"sexualmente","sense":0}}
+{"lemma":"sexualmente","text":"Yanni acosó sexualmente a sus compañeras de trabajo.","drop":true}
+{"lemma":"sexualmente","text":"Yanni se siente sexualmente atraído por Skura.","replace":{"text":"Algunos hongos se reproducen sexualmente y otros no.","translation":"Some fungi reproduce sexually and others don't.","target":"sexualmente","sense":0}}
+{"lemma":"silencioso","text":"Nada tiene más interés que el diálogo entre dos amantes silenciosos.","keep":true}
+{"lemma":"so","text":"¡Deja de tirarte pedos, so cochino!","replace":{"text":"El arriero gritó «¡so!» y la mula se detuvo.","translation":"The muleteer shouted \"whoa!\" and the mule stopped.","target":"so","sense":3}}
+{"lemma":"software","text":"El software es como el sexo: es mejor cuando es gratis.","replace":{"text":"Este software sirve para editar fotos y videos.","translation":"This software is for editing photos and videos.","target":"software","sense":0}}
+{"lemma":"subasta","text":"El magnífico semental alcanzó un precio enorme en la subasta.","keep":true}
+{"lemma":"suite","text":"Por ejemplo, una semana en la suite real del Hotel Oriental de Bangkok, con Antonio Peñalver encadenado al cabecero de la cama.","replace":{"text":"Reservamos una suite con vista al mar en Cartagena.","translation":"We booked a suite with a sea view in Cartagena.","target":"suite","sense":0}}
+{"lemma":"testículo","text":"El urólogo le examinó el testículo izquierdo.","keep":true}
+{"lemma":"testículo","text":"Los médicos recomiendan revisarse los testículos una vez al mes.","keep":true}
+{"lemma":"tetar","text":"Le di la teta a mi bebé.","keep":true}
+{"lemma":"tetar","text":"¡Deja de mirarle las tetas!","replace":{"text":"La gata les da teta a sus cuatro gatitos.","translation":"The cat is nursing her four kittens.","target":"teta","sense":0}}
+{"lemma":"tetar","text":"Él le vio las tetas a ella.","replace":{"text":"El bebé deja de llorar apenas le dan teta.","translation":"The baby stops crying as soon as he's breastfed.","target":"teta","sense":0}}
+{"lemma":"tocino","text":"Voy a cocinar huevos y tocinos.","keep":true}
+{"lemma":"tortilla","text":"Si tuviera que hacer una tortilla de papas, compraría dos docenas de huevos.","keep":true}
+{"lemma":"transmisión","text":"El médico me dijo que había contraído una infección de transmisión sexual.","replace":{"text":"La transmisión del partido empieza a las ocho.","translation":"The broadcast of the game starts at eight.","target":"transmisión","sense":0}}
+{"lemma":"trasero","text":"Trae tu trasero de vuelta a trabajar.","replace":{"text":"Mi hija siempre viaja en el asiento trasero.","translation":"My daughter always rides in the back seat.","target":"trasero","sense":0}}
+{"lemma":"trío","text":"La combinación de adultos más frecuente es un trío constituido por una hembra y dos machos que la comparten casi por igual.","replace":{"text":"En el concierto tocaron varios tríos de jazz.","translation":"Several jazz trios played at the concert.","target":"tríos","sense":0}}
+{"lemma":"trío","text":"Tom intentó convencer a Mary para hacer un trío.","replace":{"text":"Un trío de músicos tocó en la boda de mi prima.","translation":"A trio of musicians played at my cousin's wedding.","target":"trío","sense":0}}
+{"lemma":"trío","text":"Tom intentó persuadir a Mary para hacer un trío.","replace":{"text":"El trío de amigos viajó junto a Cartagena.","translation":"The trio of friends traveled to Cartagena together.","target":"trío","sense":0}}
+{"lemma":"vagabundo","text":"¿Qué te ha pedido esa vagabunda?","keep":true}
+{"lemma":"vagabundo","text":"¿Qué te pidió ese vagabundo?","keep":true}
+{"lemma":"vagina","text":"El pene entró en la vagina.","replace":{"text":"Durante el parto, el bebé sale por la vagina.","translation":"During childbirth, the baby comes out through the vagina.","target":"vagina","sense":0}}
+{"lemma":"vagina","text":"Eso no es arte. Eso es una vagina con dientes.","replace":{"text":"La vagina conecta el útero con el exterior del cuerpo.","translation":"The vagina connects the uterus to the outside of the body.","target":"vagina","sense":0}}
+{"lemma":"vagina","text":"La vagina es un tubo muscular.","keep":true}
+{"lemma":"vena","text":"Tengo una vena.","replace":{"text":"La enfermera no encontraba la vena para sacarme sangre.","translation":"The nurse couldn't find the vein to draw my blood.","target":"vena","sense":0}}
+{"lemma":"verga","text":"A María le encantan las vergas.","drop":true}
+{"lemma":"verga","text":"Ella nunca había visto una buena verga en persona antes.","drop":true}
+{"lemma":"verga","text":"La verga de Tom es diminuta.","drop":true}
+{"lemma":"violación","text":"La violación y el incesto son temas comunes.","replace":{"text":"Copiar en un examen es una violación del reglamento.","translation":"Cheating on an exam is a violation of the rules.","target":"violación","sense":0}}
+{"lemma":"violación","text":"Un pene cortado constituye una pieza importante de evidencia en una violación.","replace":{"text":"Pasarse un semáforo en rojo es una violación de las normas de tránsito.","translation":"Running a red light is a violation of traffic rules.","target":"violación","sense":0}}
+{"lemma":"violación","text":"¡Ojalá que sufras miles de violaciones!","replace":{"text":"La empresa recibió una multa por violaciones a las normas de seguridad.","translation":"The company was fined for violations of safety rules.","target":"violaciones","sense":0}}
+{"lemma":"violador","text":"El violador fue condenado a treinta años de cárcel.","drop":true}
+{"lemma":"violador","text":"La policía capturó al violador después de varias denuncias.","drop":true}
+{"lemma":"violar","text":"El Gobierno norteamericano intentó acusar a Rusia de violar sus leyes.","keep":true}
+{"lemma":"virgen","text":"El aceite de oliva virgen es de España.","keep":true}
+{"lemma":"virgen","text":"Todas las Rameras fueron una vez Vírgenes.","replace":{"text":"En el Pacífico colombiano hay playas casi vírgenes.","translation":"On the Colombian Pacific coast there are almost unspoiled beaches.","target":"vírgenes","sense":0}}
+{"lemma":"virgen","text":"¡Como lo pensé, ella es virgen!","replace":{"text":"El Amazonas todavía tiene mucha selva virgen.","translation":"The Amazon still has a lot of untouched rainforest.","target":"virgen","sense":0}}
+{"lemma":"visible","text":"Esta estrella es visible a simple vista.","keep":true}
+{"lemma":"visible","text":"¿Cuántas estrellas son visibles a simple vista desde la tierra?","keep":true}
+{"lemma":"vomitar","text":"Creo que voy a vomitar.","keep":true}
+{"lemma":"zorra","text":"Ella me llamó zorra estúpida.","replace":{"text":"En el documental, una zorra cazaba ratones en la nieve.","translation":"In the documentary, a vixen was hunting mice in the snow.","target":"zorra","sense":6}}
+{"lemma":"zorra","text":"Es una zorra.","replace":{"text":"La zorra salió de la cueva con sus cachorros.","translation":"The vixen came out of the den with her cubs.","target":"zorra","sense":6}}
+{"lemma":"zorra","text":"La fursona de Tom es una zorra llamada Neon.","keep":true}
+{"lemma":"zorro","text":"Ella me llamó zorra estúpida.","replace":{"text":"Mi abuelo es muy zorro para los negocios.","translation":"My grandfather is very crafty in business.","target":"zorro","sense":6}}
+{"lemma":"órgano","text":"El pene es uno de los órganos sexuales masculinos.","keep":true}
+{"lemma":"maldito","text":"Dicen que esa casa vieja está maldita.","keep":true}
+{"lemma":"puta","text":"Decirle puta a una mujer es un insulto muy grave.","drop":true}

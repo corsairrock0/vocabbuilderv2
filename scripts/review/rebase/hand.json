@@ -1,0 +1,34 @@
+{
+  "pt|politics|atacar|Por que eles o atacaram?": {
+    "drop": true
+  },
+  "pt|politics|atacar|Por que você atacou Tom?": {
+    "drop": true
+  },
+  "vi|politics|quân|Quân đội đã tiến quân suốt cả đêm.": {
+    "drop": true
+  },
+  "vi|politics|vùng|Chúng tôi sống ở vùng nông thôn khi có chiến tranh.": {
+    "drop": true
+  },
+  "pl|politics|forma|Demokracja jest formą rządów.": {
+    "drop": true
+  },
+  "pl|politics|zabić|O mało co go nie zabito.": {
+    "drop": true
+  },
+  "es|politics|interés|La política es movida por intereses.": {
+    "replace": {
+      "text": "Cada uno defiende sus propios intereses.",
+      "translation": "Everyone looks after their own interests.",
+      "target": "intereses",
+      "sense": 1
+    }
+  },
+  "pt|crude|maldito|Fecha a maldita porta.": {
+    "drop": true
+  },
+  "pl|politics|kierunek|Uciekali we wszystkich kierunkach.": {
+    "drop": true
+  }
+}

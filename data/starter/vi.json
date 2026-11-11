@@ -1,0 +1,2482 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "vi",
+  "source": {
+    "name": "VocabBuilder starter set (Southern Vietnamese)",
+    "kind": "curated",
+    "license": "© 2026 Lango. All rights reserved.",
+    "notes": "Hand-written by an AI assistant (Claude) as a small starter set for VocabBuilder. Not corpus-derived: curatedOrder is a teaching order, not a frequency rank. Review and edit freely."
+  },
+  "entries": [
+    {
+      "lemma": "chào",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "hello",
+          "translations": [
+            "hello",
+            "hi",
+            "goodbye",
+            "bye"
+          ],
+          "note": "Used for both hello and goodbye, normally followed by a kinship pronoun: Chào anh, Chào chị, Chào em."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chào chị, chị khỏe không?",
+          "translation": "Hi, how are you?",
+          "target": "Chào",
+          "sense": 0
+        },
+        {
+          "text": "Tui về nha, chào mọi người!",
+          "translation": "I'm heading home. Bye, everyone!",
+          "target": "chào",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "Xin chào is a polite, rather formal 'hello' (textbooks, announcements); in everyday Saigon speech people say chào + pronoun."
+      },
+      "register": "neutral",
+      "curatedOrder": 1
+    },
+    {
+      "lemma": "cám ơn",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "thank you",
+          "translations": [
+            "thank you",
+            "thanks",
+            "to thank",
+            "thank"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cám ơn em nhiều nha!",
+          "translation": "Thanks a lot!",
+          "target": "Cám ơn",
+          "sense": 0
+        },
+        {
+          "text": "Dạ, cám ơn cô.",
+          "translation": "Thank you, ma'am.",
+          "target": "cám ơn",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "cám ơn nhiều",
+          "translation": "thanks a lot"
+        },
+        {
+          "text": "không có gì",
+          "translation": "you're welcome; it's nothing"
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Grammatically a verb ('to thank'): add the person you're thanking: Cám ơn chị (thank you, to a woman a bit older)."
+      },
+      "register": "neutral",
+      "regionalNote": "Cám ơn reflects the Southern pronunciation and is a common, accepted spelling; cảm ơn is the standard spelling used nationwide (and the Northern pronunciation).",
+      "curatedOrder": 2
+    },
+    {
+      "lemma": "xin lỗi",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "sorry",
+          "translations": [
+            "sorry",
+            "I'm sorry",
+            "excuse me",
+            "to apologize",
+            "apologize"
+          ],
+          "note": "Also 'excuse me' to get someone's attention politely."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Xin lỗi, tui tới trễ.",
+          "translation": "Sorry I'm late.",
+          "target": "Xin lỗi",
+          "sense": 0
+        },
+        {
+          "text": "Xin lỗi anh, cho em hỏi chút.",
+          "translation": "Excuse me, can I ask you something?",
+          "target": "Xin lỗi",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Grammatically a verb ('to apologize'): Em xin lỗi chị (I apologize to you)."
+      },
+      "register": "neutral",
+      "regionalNote": "Trễ (late) in the first example is the Southern word; Northern: muộn.",
+      "curatedOrder": 3
+    },
+    {
+      "lemma": "dạ",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "yes",
+          "translations": [
+            "yes",
+            "yes sir",
+            "yes ma'am",
+            "OK"
+          ],
+          "note": "Polite yes or response word when speaking to someone older or of higher status; also put before an answer to sound respectful."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Dạ, em hiểu rồi.",
+          "translation": "Yes, I understand.",
+          "target": "Dạ",
+          "sense": 0
+        },
+        {
+          "text": "Dạ, chị chờ em xíu nha.",
+          "translation": "Yes, just a moment, please.",
+          "target": "Dạ",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Casual 'yeah' between friends: ừ. Also the polite answer when someone calls you: —Lan ơi! —Dạ!"
+      },
+      "register": "neutral",
+      "regionalNote": "Dạ is the everyday polite 'yes' in the South; Northern speakers more often say vâng. Xíu (a little bit) in the example is Southern colloquial.",
+      "curatedOrder": 4
+    },
+    {
+      "lemma": "không",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "no",
+          "translations": [
+            "no",
+            "not",
+            "don't"
+          ],
+          "note": "Before a verb or adjective it means 'not': Tui không biết (I don't know)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui không ăn cay được.",
+          "translation": "I can't eat spicy food.",
+          "target": "không",
+          "sense": 0
+        },
+        {
+          "text": "Em uống cà phê không?",
+          "translation": "Would you like some coffee?",
+          "target": "không",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "questions"
+      ],
+      "grammar": {
+        "notes": "At the end of a sentence it turns it into a yes/no question: Anh khỏe không? (Are you well?). Answer with có or dạ (yes) or không (no)."
+      },
+      "register": "neutral",
+      "regionalNote": "In casual Southern speech it often sounds like hông: Biết hông? (You know?)",
+      "curatedOrder": 5
+    },
+    {
+      "lemma": "em",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "you",
+          "translations": [
+            "you",
+            "I",
+            "me"
+          ],
+          "note": "For someone younger than you (e.g. a waiter or shop assistant). The younger person also calls themselves em (= I/me)."
+        },
+        {
+          "gloss": "younger sibling",
+          "translations": [
+            "younger sibling",
+            "younger brother",
+            "younger sister",
+            "little brother",
+            "little sister"
+          ]
+        },
+        {
+          "gloss": "I, me (said to someone older)",
+          "translations": [],
+          "note": null
+        }
+      ],
+      "examples": [
+        {
+          "text": "Em ơi, cho anh một ly trà đá.",
+          "translation": "Excuse me, a glass of iced tea, please.",
+          "target": "Em",
+          "sense": 0
+        },
+        {
+          "text": "Em là sinh viên năm hai.",
+          "translation": "I'm a second-year university student.",
+          "target": "Em",
+          "sense": 2
+        },
+        {
+          "text": "Em gái tui mới vào đại học.",
+          "translation": "My younger sister just started university.",
+          "target": "Em",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "people",
+        "family"
+      ],
+      "grammar": {
+        "notes": "Vietnamese uses kinship words as pronouns, chosen by relative age. Add ơi to call someone: Em ơi! (Excuse me!, to a younger server)."
+      },
+      "register": "neutral",
+      "curatedOrder": 6
+    },
+    {
+      "lemma": "anh",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "you",
+          "translations": [
+            "you",
+            "I",
+            "me"
+          ],
+          "note": "For a man a bit older than you, or a man of about your age you don't know well. He also calls himself anh (= I/me)."
+        },
+        {
+          "gloss": "older brother",
+          "translations": [
+            "older brother",
+            "big brother",
+            "brother"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Anh ơi, cho em hỏi đường.",
+          "translation": "Excuse me, could you tell me the way?",
+          "target": "Anh",
+          "sense": 0
+        },
+        {
+          "text": "Anh trai tui làm ở Sài Gòn.",
+          "translation": "My older brother works in Saigon.",
+          "target": "Anh",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "people",
+        "family"
+      ],
+      "grammar": {
+        "notes": "anh trai = older brother; anh ấy = he/him (a young man), in casual Southern speech often contracted to ảnh."
+      },
+      "register": "neutral",
+      "curatedOrder": 7
+    },
+    {
+      "lemma": "chị",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "you",
+          "translations": [
+            "you",
+            "I",
+            "me"
+          ],
+          "note": "For a woman a bit older than you, or a woman of about your age you don't know well. She also calls herself chị (= I/me)."
+        },
+        {
+          "gloss": "older sister",
+          "translations": [
+            "older sister",
+            "big sister",
+            "sister"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chị ơi, tính tiền giùm em.",
+          "translation": "Excuse me, can I have the bill, please?",
+          "target": "Chị",
+          "sense": 0
+        },
+        {
+          "text": "Chị tui có hai đứa con.",
+          "translation": "My older sister has two kids.",
+          "target": "Chị",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "people",
+        "family"
+      ],
+      "grammar": {
+        "notes": "chị gái = older sister; chị ấy = she/her (a young woman), in casual Southern speech often contracted to chỉ."
+      },
+      "register": "neutral",
+      "regionalNote": "Giùm (for me, on my behalf) in the example is Southern; Northern: giúp or hộ.",
+      "curatedOrder": 8
+    },
+    {
+      "lemma": "tui",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "I",
+          "translations": [
+            "I",
+            "me"
+          ],
+          "note": "Casual, friendly 'I/me', mostly between people of about the same age."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui là người Mỹ.",
+          "translation": "I'm American.",
+          "target": "Tui",
+          "sense": 0
+        },
+        {
+          "text": "Để tui trả tiền nha.",
+          "translation": "Let me pay, OK?",
+          "target": "tui",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "Plural: tụi tui or tụi mình (we, casual). With older people use a kinship word instead (em, con)."
+      },
+      "register": "informal",
+      "regionalNote": "Southern colloquial form of tôi. Tôi is neutral to formal everywhere and can sound distant in casual Saigon conversation.",
+      "curatedOrder": 9
+    },
+    {
+      "lemma": "là",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be",
+            "is",
+            "am",
+            "are"
+          ],
+          "note": "Links two nouns: Tui là giáo viên (I'm a teacher)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui là sinh viên.",
+          "translation": "I'm a student.",
+          "target": "là",
+          "sense": 0
+        },
+        {
+          "text": "Đây là ba má tui.",
+          "translation": "These are my parents.",
+          "target": "là",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Not used before adjectives: Tui mệt (I'm tired), not tui là mệt."
+      },
+      "register": "neutral",
+      "curatedOrder": 10
+    },
+    {
+      "lemma": "có",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to have",
+          "translations": [
+            "to have",
+            "have",
+            "there is",
+            "there are"
+          ],
+          "note": "Also 'yes' in answer to có…không? questions: Anh có xe không? — Có."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Em có anh chị em không?",
+          "translation": "Do you have any siblings?",
+          "target": "có",
+          "sense": 0
+        },
+        {
+          "text": "Ở đây có wifi không?",
+          "translation": "Is there wifi here?",
+          "target": "có",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "có + verb + không? asks 'do/does…?': Anh có hút thuốc không? (Do you smoke?)"
+      },
+      "register": "neutral",
+      "curatedOrder": 11
+    },
+    {
+      "lemma": "muốn",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to want",
+          "translations": [
+            "to want",
+            "want",
+            "would like"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui muốn đi Đà Lạt.",
+          "translation": "I want to go to Đà Lạt.",
+          "target": "muốn",
+          "sense": 0
+        },
+        {
+          "text": "Em muốn ăn phở hay hủ tiếu?",
+          "translation": "Do you want phở or hủ tiếu?",
+          "target": "muốn",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "hay = 'or' in questions."
+      },
+      "register": "neutral",
+      "regionalNote": "Hủ tiếu (in the example) is the classic Southern noodle soup.",
+      "curatedOrder": 12
+    },
+    {
+      "lemma": "đi",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to go",
+          "translations": [
+            "to go",
+            "go"
+          ],
+          "note": "Also 'to travel by': đi xe buýt (go by bus)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mai tui đi Vũng Tàu.",
+          "translation": "Tomorrow I'm going to Vũng Tàu.",
+          "target": "đi",
+          "sense": 0
+        },
+        {
+          "text": "Mình đi ăn đi!",
+          "translation": "Let's go eat!",
+          "target": "đi",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "At the end of a sentence đi means 'go ahead / let's': Ăn đi! (Eat up!), Mình đi ăn đi! (Let's go eat!)"
+      },
+      "register": "neutral",
+      "curatedOrder": 13
+    },
+    {
+      "lemma": "ăn",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to eat",
+          "translations": [
+            "to eat",
+            "eat"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Em ăn sáng chưa?",
+          "translation": "Have you had breakfast yet?",
+          "target": "ăn",
+          "sense": 0
+        },
+        {
+          "text": "Tối nay mình ăn gì?",
+          "translation": "What are we eating tonight?",
+          "target": "ăn",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "ăn sáng",
+          "translation": "to have breakfast"
+        },
+        {
+          "text": "ăn trưa",
+          "translation": "to have lunch"
+        },
+        {
+          "text": "ăn tối",
+          "translation": "to have dinner"
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "…chưa? asks '…yet?': Ăn chưa? (Have you eaten yet?). Answer rồi (yes, already) or chưa (not yet)."
+      },
+      "register": "neutral",
+      "curatedOrder": 14
+    },
+    {
+      "lemma": "uống",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to drink",
+          "translations": [
+            "to drink",
+            "drink"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chị muốn uống gì?",
+          "translation": "What would you like to drink?",
+          "target": "uống",
+          "sense": 0
+        },
+        {
+          "text": "Trời nóng quá, uống nước đi!",
+          "translation": "It's so hot, drink some water!",
+          "target": "uống",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "curatedOrder": 15
+    },
+    {
+      "lemma": "nước",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "water",
+          "translations": [
+            "water"
+          ],
+          "note": "Also any drink: nước cam (orange juice), nước mía (sugarcane juice)."
+        },
+        {
+          "gloss": "country",
+          "translations": [
+            "country",
+            "nation"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho em xin ly nước.",
+          "translation": "Could I have a glass of water?",
+          "target": "nước",
+          "sense": 0
+        },
+        {
+          "text": "Anh là người nước nào?",
+          "translation": "Which country are you from?",
+          "target": "nước",
+          "sense": 1
+        }
+      ],
+      "expressions": [
+        {
+          "text": "nước đá",
+          "translation": "ice"
+        },
+        {
+          "text": "nước mía",
+          "translation": "sugarcane juice"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 16
+    },
+    {
+      "lemma": "cà phê",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "coffee",
+          "translations": [
+            "coffee"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho em một ly cà phê sữa đá.",
+          "translation": "One iced coffee with milk, please.",
+          "target": "cà phê",
+          "sense": 0
+        },
+        {
+          "text": "Sáng nào tui cũng uống cà phê.",
+          "translation": "I drink coffee every morning.",
+          "target": "cà phê",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "cà phê sữa đá",
+          "translation": "iced coffee with condensed milk"
+        },
+        {
+          "text": "cà phê đen",
+          "translation": "black coffee"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "Saigon's classic is cà phê sữa đá; in the North the same drink is usually called nâu đá.",
+      "curatedOrder": 17
+    },
+    {
+      "lemma": "ly",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "glass",
+          "translations": [
+            "glass",
+            "cup"
+          ],
+          "note": "Also a measure word for drinks: một ly cà phê (a cup of coffee)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho em hai ly trà đá.",
+          "translation": "Two glasses of iced tea, please.",
+          "target": "ly",
+          "sense": 0
+        },
+        {
+          "text": "Uống thêm một ly nữa đi!",
+          "translation": "Have one more glass!",
+          "target": "ly",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "Southern; Northern: cốc.",
+      "curatedOrder": 18
+    },
+    {
+      "lemma": "bao nhiêu",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "how much",
+          "translations": [
+            "how much",
+            "how many"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cái này bao nhiêu tiền?",
+          "translation": "How much is this?",
+          "target": "bao nhiêu",
+          "sense": 0
+        },
+        {
+          "text": "Em bao nhiêu tuổi?",
+          "translation": "How old are you?",
+          "target": "bao nhiêu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "questions",
+        "shopping",
+        "numbers"
+      ],
+      "grammar": {
+        "notes": "For small numbers people often use mấy instead: Mấy giờ rồi? (What time is it?), Mấy người? (How many people?)"
+      },
+      "register": "neutral",
+      "regionalNote": "In fast Southern speech often shortened to nhiêu: Nhiêu tiền? (How much?)",
+      "curatedOrder": 19
+    },
+    {
+      "lemma": "tiền",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "money",
+          "translations": [
+            "money",
+            "cash"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bao nhiêu tiền vậy chị?",
+          "translation": "How much is it?",
+          "target": "tiền",
+          "sense": 0
+        },
+        {
+          "text": "Tui quên đem tiền rồi.",
+          "translation": "I forgot to bring money.",
+          "target": "tiền",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "tính tiền",
+          "translation": "to get the bill; to pay"
+        },
+        {
+          "text": "tiền mặt",
+          "translation": "cash"
+        }
+      ],
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "register": "neutral",
+      "curatedOrder": 20
+    },
+    {
+      "lemma": "cái",
+      "pos": "classifier",
+      "senses": [
+        {
+          "gloss": "thing",
+          "translations": [
+            "thing",
+            "one"
+          ],
+          "note": "General classifier for objects, placed before the noun: một cái ly (a glass). Cái này = this one; cái kia = that one."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho em xem cái kia.",
+          "translation": "Can I see that one?",
+          "target": "cái",
+          "sense": 0
+        },
+        {
+          "text": "Cái này ngon lắm, ăn thử đi!",
+          "translation": "This one is really good, try it!",
+          "target": "Cái",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Classifiers go between a number and a noun: hai cái ly (two glasses). Animals use con: con heo (a pig)."
+      },
+      "register": "neutral",
+      "curatedOrder": 21
+    },
+    {
+      "lemma": "gì",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "what",
+          "translations": [
+            "what"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chị tên là gì?",
+          "translation": "What's your name?",
+          "target": "gì",
+          "sense": 0
+        },
+        {
+          "text": "Anh muốn ăn gì?",
+          "translation": "What do you want to eat?",
+          "target": "gì",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "cái gì",
+          "translation": "what (thing)"
+        },
+        {
+          "text": "không có gì",
+          "translation": "you're welcome; it's nothing"
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "grammar": {
+        "notes": "Question words stay where the answer would go, usually at the end: Anh ăn gì? (lit. 'You eat what?')"
+      },
+      "register": "neutral",
+      "curatedOrder": 22
+    },
+    {
+      "lemma": "đâu",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "where",
+          "translations": [
+            "where"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Anh đi đâu vậy?",
+          "translation": "Where are you going?",
+          "target": "đâu",
+          "sense": 0
+        },
+        {
+          "text": "Mình đi đâu ăn trưa?",
+          "translation": "Where shall we go for lunch?",
+          "target": "đâu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "questions",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Goes at the end: Anh đi đâu? (Where are you going?), … ở đâu? (Where is …?)"
+      },
+      "register": "neutral",
+      "regionalNote": "Vậy at the end of a question (Northern: thế) is very common in the South: Anh đi đâu vậy?",
+      "curatedOrder": 23
+    },
+    {
+      "lemma": "nha",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "OK?",
+          "translations": [
+            "OK?",
+            "okay?",
+            "all right?"
+          ],
+          "note": "Sentence-final particle that softens requests, suggestions and promises and makes them friendly."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mai gặp lại nha!",
+          "translation": "See you tomorrow, OK?",
+          "target": "nha",
+          "sense": 0
+        },
+        {
+          "text": "Chờ em chút nha.",
+          "translation": "Wait for me a sec, OK?",
+          "target": "nha",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "register": "informal",
+      "regionalNote": "Southern; Northern: nhé.",
+      "curatedOrder": 24
+    },
+    {
+      "lemma": "hiểu",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to understand",
+          "translations": [
+            "to understand",
+            "understand",
+            "to get",
+            "get"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Xin lỗi, tui không hiểu.",
+          "translation": "Sorry, I don't understand.",
+          "target": "hiểu",
+          "sense": 0
+        },
+        {
+          "text": "Em hiểu ý anh rồi.",
+          "translation": "I see what you mean.",
+          "target": "hiểu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "curatedOrder": 25
+    },
+    {
+      "lemma": "nói",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to speak",
+          "translations": [
+            "to speak",
+            "speak",
+            "to say",
+            "say",
+            "to talk",
+            "talk",
+            "to tell",
+            "tell"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Anh nói tiếng Việt giỏi quá!",
+          "translation": "Your Vietnamese is really good!",
+          "target": "nói",
+          "sense": 0
+        },
+        {
+          "text": "Chị nói chậm lại giùm em nha.",
+          "translation": "Could you speak more slowly, please?",
+          "target": "nói",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "regionalNote": "In requests Southerners add giùm ('for me'); Northern: giúp or hộ.",
+      "curatedOrder": 26
+    },
+    {
+      "lemma": "biết",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to know",
+          "translations": [
+            "to know",
+            "know",
+            "to know how to",
+            "know how to"
+          ],
+          "note": "biết + verb = know how to / can: Em biết bơi không? (Can you swim?)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui không biết đường.",
+          "translation": "I don't know the way.",
+          "target": "biết",
+          "sense": 0
+        },
+        {
+          "text": "Anh biết nói tiếng Anh không?",
+          "translation": "Can you speak English?",
+          "target": "biết",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "communication"
+      ],
+      "register": "neutral",
+      "curatedOrder": 27
+    },
+    {
+      "lemma": "khỏe",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "well",
+          "translations": [
+            "well",
+            "healthy",
+            "fine",
+            "strong"
+          ],
+          "note": "Khỏe không? = How are you? (lit. 'Are you well?')"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Dạo này anh khỏe không?",
+          "translation": "How have you been lately?",
+          "target": "khỏe",
+          "sense": 0
+        },
+        {
+          "text": "Cám ơn chị, em khỏe.",
+          "translation": "Thanks, I'm fine.",
+          "target": "khỏe",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health",
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "Also spelled khoẻ (newer tone-mark placement); both are correct."
+      },
+      "register": "neutral",
+      "curatedOrder": 28
+    },
+    {
+      "lemma": "ngon",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "delicious",
+          "translations": [
+            "delicious",
+            "tasty",
+            "good",
+            "yummy"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Món này ngon quá!",
+          "translation": "This dish is so good!",
+          "target": "ngon",
+          "sense": 0
+        },
+        {
+          "text": "Quán này nấu ngon lắm.",
+          "translation": "The food at this place is really good.",
+          "target": "ngon",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 29
+    },
+    {
+      "lemma": "mắc",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "expensive",
+          "translations": [
+            "expensive",
+            "pricey",
+            "costly"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mắc quá, bớt chút đi chị!",
+          "translation": "Too expensive, can you knock a bit off?",
+          "target": "Mắc",
+          "sense": 0
+        },
+        {
+          "text": "Đồ ăn ở đây hơi mắc.",
+          "translation": "The food here is a bit pricey.",
+          "target": "mắc",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "grammar": {
+        "notes": "bớt = to lower the price (when bargaining)."
+      },
+      "register": "neutral",
+      "regionalNote": "Southern; Northern: đắt.",
+      "curatedOrder": 30
+    },
+    {
+      "lemma": "rẻ",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "cheap",
+          "translations": [
+            "cheap",
+            "inexpensive",
+            "affordable"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Đồ ở chợ rẻ hơn siêu thị.",
+          "translation": "Things at the market are cheaper than at the supermarket.",
+          "target": "rẻ",
+          "sense": 0
+        },
+        {
+          "text": "Cái áo này rẻ quá!",
+          "translation": "This shirt is so cheap!",
+          "target": "rẻ",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "grammar": {
+        "notes": "Comparisons use hơn: rẻ hơn (cheaper), mắc hơn (more expensive)."
+      },
+      "register": "neutral",
+      "curatedOrder": 31
+    },
+    {
+      "lemma": "cơm",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "rice",
+          "translations": [
+            "rice",
+            "cooked rice",
+            "meal"
+          ],
+          "note": "Cooked rice, and by extension a meal: ăn cơm = to have a meal. Uncooked rice is gạo."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Anh ăn cơm chưa?",
+          "translation": "Have you eaten yet?",
+          "target": "cơm",
+          "sense": 0
+        },
+        {
+          "text": "Trưa nay mình ăn cơm tấm nha.",
+          "translation": "Let's have broken rice for lunch today.",
+          "target": "cơm",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "cơm tấm",
+          "translation": "broken rice, a Saigon classic usually served with grilled pork"
+        },
+        {
+          "text": "ăn cơm",
+          "translation": "to have a meal"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 32
+    },
+    {
+      "lemma": "bánh mì",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "bread",
+          "translations": [
+            "bread",
+            "baguette",
+            "sandwich",
+            "bánh mì"
+          ],
+          "note": "Both the airy baguette-style bread and the famous filled sandwich."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Sáng nay tui ăn bánh mì.",
+          "translation": "I had a bánh mì this morning.",
+          "target": "bánh mì",
+          "sense": 0
+        },
+        {
+          "text": "Cho em một ổ bánh mì thịt.",
+          "translation": "One bánh mì with cold cuts, please.",
+          "target": "bánh mì",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Classifier in the South: ổ (một ổ bánh mì = one loaf / one sandwich)."
+      },
+      "register": "neutral",
+      "regionalNote": "Northern speakers usually say một chiếc or một cái bánh mì.",
+      "curatedOrder": 33
+    },
+    {
+      "lemma": "tên",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "name",
+          "translations": [
+            "name"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Em tên là Lan.",
+          "translation": "My name is Lan.",
+          "target": "tên",
+          "sense": 0
+        },
+        {
+          "text": "Anh tên gì vậy?",
+          "translation": "What's your name?",
+          "target": "tên",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "tên can work like a verb: Em tên Lan (My name's Lan). In Vietnamese names the given name comes last, and that's the name people use."
+      },
+      "register": "neutral",
+      "curatedOrder": 34
+    },
+    {
+      "lemma": "người",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "person",
+          "translations": [
+            "person",
+            "people",
+            "human"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chị là người Sài Gòn hả?",
+          "translation": "Are you from Saigon?",
+          "target": "người",
+          "sense": 0
+        },
+        {
+          "text": "Ở đây đông người quá!",
+          "translation": "It's so crowded here!",
+          "target": "người",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "người + place = someone from there: người Việt (Vietnamese person), người Mỹ (American). Also the classifier for people: hai người (two people)."
+      },
+      "register": "neutral",
+      "curatedOrder": 35
+    },
+    {
+      "lemma": "bạn",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "friend",
+          "translations": [
+            "friend"
+          ]
+        },
+        {
+          "gloss": "you",
+          "translations": [
+            "you"
+          ],
+          "note": "Neutral 'you' between people of similar age, and in ads and apps."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Đây là bạn của tui.",
+          "translation": "This is my friend.",
+          "target": "bạn",
+          "sense": 0
+        },
+        {
+          "text": "Bạn có khỏe không?",
+          "translation": "How are you?",
+          "target": "Bạn",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "bạn bè = friends (collectively); bạn trai / bạn gái = boyfriend / girlfriend."
+      },
+      "register": "neutral",
+      "curatedOrder": 36
+    },
+    {
+      "lemma": "ba",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "dad",
+          "translations": [
+            "dad",
+            "father",
+            "daddy"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ba tui làm tài xế taxi.",
+          "translation": "My dad is a taxi driver.",
+          "target": "Ba",
+          "sense": 0
+        },
+        {
+          "text": "Ba ơi, con đi học nha!",
+          "translation": "Bye, Dad, I'm off to school!",
+          "target": "Ba",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "grammar": {
+        "notes": "Also used as a pronoun: children call their father ba and themselves con. Ba is also the number three."
+      },
+      "register": "neutral",
+      "regionalNote": "Southern; Northern: bố.",
+      "curatedOrder": 37
+    },
+    {
+      "lemma": "má",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "mom",
+          "translations": [
+            "mom",
+            "mother",
+            "mum",
+            "mommy"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Má nấu ăn ngon lắm.",
+          "translation": "Mom is a really good cook.",
+          "target": "Má",
+          "sense": 0
+        },
+        {
+          "text": "Con nhớ má quá!",
+          "translation": "I miss you so much, Mom!",
+          "target": "má",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "grammar": {
+        "notes": "Used as a pronoun like ba: Con nhớ má (I miss you, Mom). Má also means 'cheek'."
+      },
+      "register": "neutral",
+      "regionalNote": "Traditional Southern word; Northern: mẹ. Many people in Saigon today also say mẹ (ba mẹ = parents).",
+      "curatedOrder": 38
+    },
+    {
+      "lemma": "nhà",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "house",
+          "translations": [
+            "house",
+            "home"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nhà em ở đâu?",
+          "translation": "Where do you live?",
+          "target": "Nhà",
+          "sense": 0
+        },
+        {
+          "text": "Tối nay tui ở nhà.",
+          "translation": "I'm staying home tonight.",
+          "target": "nhà",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "về nhà",
+          "translation": "to go home"
+        },
+        {
+          "text": "ở nhà",
+          "translation": "at home; to stay home"
+        }
+      ],
+      "tags": [
+        "home"
+      ],
+      "register": "neutral",
+      "curatedOrder": 39
+    },
+    {
+      "lemma": "nhà vệ sinh",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "restroom",
+          "translations": [
+            "restroom",
+            "toilet",
+            "bathroom",
+            "washroom"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho em hỏi nhà vệ sinh ở đâu?",
+          "translation": "Excuse me, where's the restroom?",
+          "target": "nhà vệ sinh",
+          "sense": 0
+        },
+        {
+          "text": "Nhà vệ sinh ở trên lầu.",
+          "translation": "The restroom is upstairs.",
+          "target": "Nhà vệ sinh",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "places",
+        "home"
+      ],
+      "register": "neutral",
+      "regionalNote": "Lầu (floor, upstairs) in the example is Southern; Northern: tầng or gác.",
+      "curatedOrder": 40
+    },
+    {
+      "lemma": "ở",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to live",
+          "translations": [
+            "to live",
+            "live",
+            "to stay",
+            "stay",
+            "to be at",
+            "be at"
+          ],
+          "note": "Anh ở đâu? = Where do you live? / Where are you?"
+        },
+        {
+          "gloss": "at",
+          "translations": [
+            "at",
+            "in",
+            "on"
+          ],
+          "note": "As a preposition: ở nhà (at home), ở Sài Gòn (in Saigon)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui ở gần chợ Bến Thành.",
+          "translation": "I live near Bến Thành Market.",
+          "target": "ở",
+          "sense": 0
+        },
+        {
+          "text": "Chị đang ở đâu vậy?",
+          "translation": "Where are you right now?",
+          "target": "ở",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "home",
+        "places",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "curatedOrder": 41
+    },
+    {
+      "lemma": "về",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to go back",
+          "translations": [
+            "to go back",
+            "go back",
+            "to return",
+            "return",
+            "to come back",
+            "come back",
+            "to go home",
+            "go home"
+          ],
+          "note": "To go back to where you belong: về nhà (go home), về quê (go back to one's hometown)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mấy giờ anh về?",
+          "translation": "What time will you be home?",
+          "target": "về",
+          "sense": 0
+        },
+        {
+          "text": "Tết này em về quê.",
+          "translation": "This Tết I'm going back to my hometown.",
+          "target": "về",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "Also the preposition 'about': nói về (talk about)."
+      },
+      "register": "neutral",
+      "curatedOrder": 42
+    },
+    {
+      "lemma": "vô",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to go in",
+          "translations": [
+            "to go in",
+            "go in",
+            "to come in",
+            "come in",
+            "to enter",
+            "enter"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mời anh vô nhà chơi.",
+          "translation": "Please come on in.",
+          "target": "vô",
+          "sense": 0
+        },
+        {
+          "text": "Vô đây ngồi nè!",
+          "translation": "Come in and sit here!",
+          "target": "Vô",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Also 'in/into' after another verb: bỏ vô (put in)."
+      },
+      "register": "informal",
+      "regionalNote": "Southern; Northern and formal written Vietnamese: vào. Nè (in the example) is a Southern particle for drawing attention (Northern: này).",
+      "curatedOrder": 43
+    },
+    {
+      "lemma": "làm",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make"
+          ]
+        },
+        {
+          "gloss": "to work",
+          "translations": [
+            "to work",
+            "work"
+          ],
+          "note": "làm or làm việc = to work: Em làm ở đâu? (Where do you work?)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Anh làm nghề gì?",
+          "translation": "What do you do for a living?",
+          "target": "làm",
+          "sense": 0
+        },
+        {
+          "text": "Hôm nay tui phải làm tới tối.",
+          "translation": "Today I have to work until evening.",
+          "target": "làm",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "work",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "curatedOrder": 44
+    },
+    {
+      "lemma": "thích",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to like",
+          "translations": [
+            "to like",
+            "like",
+            "to enjoy",
+            "enjoy"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui thích Sài Gòn lắm.",
+          "translation": "I really like Saigon.",
+          "target": "thích",
+          "sense": 0
+        },
+        {
+          "text": "Em thích ăn cay không?",
+          "translation": "Do you like spicy food?",
+          "target": "thích",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "curatedOrder": 45
+    },
+    {
+      "lemma": "mua",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to buy",
+          "translations": [
+            "to buy",
+            "buy",
+            "to purchase",
+            "purchase"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui muốn mua cái này.",
+          "translation": "I want to buy this one.",
+          "target": "mua",
+          "sense": 0
+        },
+        {
+          "text": "Chị mua trái cây ở đâu vậy?",
+          "translation": "Where did you buy the fruit?",
+          "target": "mua",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "mua sắm",
+          "translation": "to go shopping"
+        }
+      ],
+      "tags": [
+        "shopping",
+        "basic-verbs"
+      ],
+      "register": "neutral",
+      "curatedOrder": 46
+    },
+    {
+      "lemma": "bây giờ",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "now",
+          "translations": [
+            "now",
+            "right now"
+          ],
+          "note": "Often shortened to giờ in speech: Giờ mình đi đâu? (Where to now?)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bây giờ tui bận, lát gọi lại nha.",
+          "translation": "I'm busy right now, I'll call you back in a bit.",
+          "target": "Bây giờ",
+          "sense": 0
+        },
+        {
+          "text": "Bây giờ mình đi đâu?",
+          "translation": "Where are we going now?",
+          "target": "Bây giờ",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 47
+    },
+    {
+      "lemma": "hôm nay",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "today",
+          "translations": [
+            "today"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hôm nay trời mưa lớn quá.",
+          "translation": "It's raining really hard today.",
+          "target": "Hôm nay",
+          "sense": 0
+        },
+        {
+          "text": "Hôm nay là thứ mấy?",
+          "translation": "What day is it today?",
+          "target": "Hôm nay",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "regionalNote": "In casual Southern speech you'll also hear bữa nay.",
+      "curatedOrder": 48
+    },
+    {
+      "lemma": "ngày mai",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "tomorrow",
+          "translations": [
+            "tomorrow"
+          ],
+          "note": "Often just mai: Mai gặp nha! (See you tomorrow!)"
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ngày mai em có rảnh không?",
+          "translation": "Are you free tomorrow?",
+          "target": "Ngày mai",
+          "sense": 0
+        },
+        {
+          "text": "Ngày mai tui đi làm sớm.",
+          "translation": "I'm going to work early tomorrow.",
+          "target": "Ngày mai",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 49
+    },
+    {
+      "lemma": "rồi",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "already",
+          "translations": [
+            "already",
+            "done"
+          ],
+          "note": "After a verb: done, already: Em ăn rồi (I've already eaten). The opposite is chưa (not yet)."
+        },
+        {
+          "gloss": "then",
+          "translations": [
+            "then",
+            "and then",
+            "after that"
+          ],
+          "note": "Linking actions: Ăn xong rồi đi (Finish eating, then go)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Em ăn cơm rồi.",
+          "translation": "I've already eaten.",
+          "target": "rồi",
+          "sense": 0
+        },
+        {
+          "text": "Trễ rồi, mình về thôi.",
+          "translation": "It's late, let's head home.",
+          "target": "rồi",
+          "sense": 0
+        },
+        {
+          "text": "Mình ăn cơm rồi đi cà phê nha.",
+          "translation": "Let's eat and then go for coffee.",
+          "target": "rồi",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 50
+    },
+    {
+      "lemma": "quá",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "so",
+          "translations": [
+            "so",
+            "very",
+            "really",
+            "too"
+          ],
+          "note": "After an adjective it means 'so' or 'too', depending on context: Ngon quá! (So good!), Nhanh quá (Too fast)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hôm nay nóng quá!",
+          "translation": "It's so hot today!",
+          "target": "quá",
+          "sense": 0
+        },
+        {
+          "text": "Em nói nhanh quá, anh không hiểu.",
+          "translation": "You're speaking too fast, I can't follow.",
+          "target": "quá",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "register": "neutral",
+      "regionalNote": "Common Southern colloquial intensifiers: quá trời (Nóng quá trời! = So hot!) and ghê (Đẹp ghê! = So pretty!).",
+      "curatedOrder": 51
+    },
+    {
+      "lemma": "ngày",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "day",
+          "translations": [
+            "day",
+            "date"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hôm nay là ngày mấy?",
+          "translation": "What's the date today?",
+          "target": "ngày",
+          "sense": 0
+        },
+        {
+          "text": "Tui làm việc mỗi ngày.",
+          "translation": "I work every day.",
+          "target": "ngày",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 52
+    },
+    {
+      "lemma": "giờ",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "hour",
+          "translations": [
+            "hour",
+            "o'clock",
+            "time"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mấy giờ rồi em?",
+          "translation": "What time is it?",
+          "target": "giờ",
+          "sense": 0
+        },
+        {
+          "text": "Mình gặp nhau lúc bảy giờ nha.",
+          "translation": "Let's meet at seven, OK?",
+          "target": "giờ",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Clock time: bảy giờ (7 o'clock), bảy giờ rưỡi (7:30). Mấy giờ? = What time?"
+      },
+      "register": "neutral",
+      "curatedOrder": 53
+    },
+    {
+      "lemma": "điện thoại",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "phone",
+          "translations": [
+            "phone",
+            "telephone",
+            "cell phone",
+            "mobile phone"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Điện thoại em hết pin rồi.",
+          "translation": "My phone's battery is dead.",
+          "target": "Điện thoại",
+          "sense": 0
+        },
+        {
+          "text": "Cho tui xin số điện thoại nha.",
+          "translation": "Can I get your phone number?",
+          "target": "điện thoại",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "số điện thoại",
+          "translation": "phone number"
+        },
+        {
+          "text": "gọi điện thoại",
+          "translation": "to make a phone call"
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "register": "neutral",
+      "curatedOrder": 54
+    },
+    {
+      "lemma": "xe máy",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "motorbike",
+          "translations": [
+            "motorbike",
+            "motorcycle",
+            "scooter",
+            "moped"
+          ],
+          "note": "In everyday talk often just xe. A motorbike taxi is xe ôm."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui đi làm bằng xe máy.",
+          "translation": "I go to work by motorbike.",
+          "target": "xe máy",
+          "sense": 0
+        },
+        {
+          "text": "Xe máy của anh để ở đâu?",
+          "translation": "Where did you park your motorbike?",
+          "target": "Xe máy",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport"
+      ],
+      "register": "neutral",
+      "curatedOrder": 55
+    },
+    {
+      "lemma": "đường",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "road",
+          "translations": [
+            "road",
+            "street",
+            "way"
+          ]
+        },
+        {
+          "gloss": "sugar",
+          "translations": [
+            "sugar"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Đường này kẹt xe quá!",
+          "translation": "The traffic on this road is terrible!",
+          "target": "Đường",
+          "sense": 0
+        },
+        {
+          "text": "Cà phê ít đường nha em.",
+          "translation": "Coffee with less sugar, please.",
+          "target": "đường",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "city",
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Street names: đường Lê Lợi (Lê Lợi Street)."
+      },
+      "register": "neutral",
+      "regionalNote": "Traffic jam: kẹt xe in the South, tắc đường in the North.",
+      "curatedOrder": 56
+    },
+    {
+      "lemma": "chợ",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "market",
+          "translations": [
+            "market",
+            "marketplace"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Má đi chợ từ sáng sớm.",
+          "translation": "Mom went to the market early this morning.",
+          "target": "chợ",
+          "sense": 0
+        },
+        {
+          "text": "Chợ Bến Thành đông lắm.",
+          "translation": "Bến Thành Market is really crowded.",
+          "target": "Chợ",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "đi chợ",
+          "translation": "to go (food) shopping at the market"
+        },
+        {
+          "text": "chợ đêm",
+          "translation": "night market"
+        }
+      ],
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "register": "neutral",
+      "curatedOrder": 57
+    },
+    {
+      "lemma": "trái cây",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "fruit",
+          "translations": [
+            "fruit"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui thích ăn trái cây lắm.",
+          "translation": "I really like eating fruit.",
+          "target": "trái cây",
+          "sense": 0
+        },
+        {
+          "text": "Chợ này bán trái cây rẻ.",
+          "translation": "This market sells cheap fruit.",
+          "target": "trái cây",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Before a fruit's name Southerners use trái: trái xoài (mango), trái dừa (coconut)."
+      },
+      "register": "neutral",
+      "regionalNote": "Southern; Northern: hoa quả (and quả instead of trái: quả xoài).",
+      "curatedOrder": 58
+    },
+    {
+      "lemma": "heo",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "pig",
+          "translations": [
+            "pig",
+            "hog",
+            "pork"
+          ],
+          "note": "With food it means pork: thịt heo (pork), sườn heo (pork ribs)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tui không ăn thịt heo.",
+          "translation": "I don't eat pork.",
+          "target": "heo",
+          "sense": 0
+        },
+        {
+          "text": "Con heo này mập quá!",
+          "translation": "This pig is so fat!",
+          "target": "heo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Animals take the classifier con: con heo (a pig)."
+      },
+      "register": "neutral",
+      "regionalNote": "Southern; Northern: lợn (thịt lợn). Mập (fat) in the example is also Southern; Northern: béo.",
+      "curatedOrder": 59
+    },
+    {
+      "lemma": "lớn",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "big",
+          "translations": [
+            "big",
+            "large"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho em ly lớn nha.",
+          "translation": "A large one, please.",
+          "target": "lớn",
+          "sense": 0
+        },
+        {
+          "text": "Nhà anh lớn quá!",
+          "translation": "Your house is so big!",
+          "target": "lớn",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Also 'grown-up': người lớn (adult)."
+      },
+      "register": "neutral",
+      "regionalNote": "In the South lớn (or casual bự) is the everyday word; Northern speakers often say to.",
+      "curatedOrder": 60
+    },
+    {
+      "lemma": "nhỏ",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "small",
+          "translations": [
+            "small",
+            "little"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Cho chị một ly nhỏ thôi.",
+          "translation": "Just a small one for me, please.",
+          "target": "nhỏ",
+          "sense": 0
+        },
+        {
+          "text": "Hồi nhỏ tui ở Cần Thơ.",
+          "translation": "When I was little, I lived in Cần Thơ.",
+          "target": "nhỏ",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping"
+      ],
+      "register": "neutral",
+      "regionalNote": "In the South nhỏ is the everyday word; Northern speakers often say bé.",
+      "curatedOrder": 61
+    },
+    {
+      "lemma": "nóng",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "hot",
+          "translations": [
+            "hot"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Sài Gòn nóng quá trời!",
+          "translation": "Saigon is so hot!",
+          "target": "nóng",
+          "sense": 0
+        },
+        {
+          "text": "Cẩn thận, tô phở còn nóng.",
+          "translation": "Careful, the phở is still hot.",
+          "target": "nóng",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "weather",
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "Tô (a big noodle bowl) is Southern; Northern: bát. Quá trời (so very) is Southern colloquial.",
+      "curatedOrder": 62
+    },
+    {
+      "lemma": "đẹp",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "beautiful",
+          "translations": [
+            "beautiful",
+            "pretty",
+            "nice",
+            "handsome",
+            "good-looking",
+            "lovely"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hôm nay trời đẹp quá!",
+          "translation": "The weather's so nice today!",
+          "target": "đẹp",
+          "sense": 0
+        },
+        {
+          "text": "Cái áo dài này đẹp ghê!",
+          "translation": "This áo dài is gorgeous!",
+          "target": "đẹp",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people",
+        "weather"
+      ],
+      "register": "neutral",
+      "regionalNote": "Ghê (so, really) after an adjective is Southern colloquial.",
+      "curatedOrder": 63
+    }
+  ]
+}

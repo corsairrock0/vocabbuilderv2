@@ -1,0 +1,4143 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "pl",
+  "source": {
+    "name": "VocabBuilder starter set (Polish)",
+    "kind": "curated",
+    "license": "© 2026 Lango. All rights reserved.",
+    "notes": "Hand-written by an AI assistant (Claude) as a small starter set for VocabBuilder. Not corpus-derived: curatedOrder is a teaching order, not a frequency rank. Review and edit freely."
+  },
+  "entries": [
+    {
+      "lemma": "dzień dobry",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "hello",
+          "translations": [
+            "hello",
+            "good morning",
+            "good afternoon",
+            "good day"
+          ],
+          "note": "Literally 'good day'; used from morning until evening."
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Dzień dobry, czy jest wolny stolik?",
+          "translation": "Hello, is there a free table?",
+          "target": "Dzień dobry",
+          "sense": 0
+        },
+        {
+          "text": "Dzień dobry, nazywam się Anna Nowak.",
+          "translation": "Hello, my name is Anna Nowak.",
+          "target": "Dzień dobry",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "dobry wieczór",
+          "translation": "good evening"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "The standard polite greeting. In the evening: dobry wieczór. Informal: cześć."
+      },
+      "register": "neutral",
+      "curatedOrder": 1
+    },
+    {
+      "lemma": "cześć",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "hi",
+          "translations": [
+            "hi",
+            "hello",
+            "hey"
+          ]
+        },
+        {
+          "gloss": "bye",
+          "translations": [
+            "bye",
+            "see you"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Cześć! Co u ciebie słychać?",
+          "translation": "Hi! What's new with you?",
+          "target": "Cześć",
+          "sense": 0
+        },
+        {
+          "text": "Cześć, do zobaczenia jutro!",
+          "translation": "Bye, see you tomorrow!",
+          "target": "Cześć",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "Informal: for friends, family and anyone you call ty. Used for both hello and goodbye."
+      },
+      "register": "informal",
+      "curatedOrder": 2
+    },
+    {
+      "lemma": "dziękuję",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "thank you",
+          "translations": [
+            "thank you",
+            "thanks"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Dziękuję bardzo za pomoc!",
+          "translation": "Thank you very much for your help!",
+          "target": "Dziękuję",
+          "sense": 0
+        },
+        {
+          "text": "Dziękuję, wszystko jest bardzo smaczne.",
+          "translation": "Thank you, everything is delicious.",
+          "target": "Dziękuję",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "dziękuję bardzo",
+          "translation": "thank you very much"
+        },
+        {
+          "text": "dzięki",
+          "translation": "thanks (informal)"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "grammar": {
+        "notes": "Literally 'I thank'. For something: dziękuję za + accusative (dziękuję za pomoc). Informal: dzięki."
+      },
+      "curatedOrder": 3
+    },
+    {
+      "lemma": "proszę",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "please",
+          "translations": [
+            "please"
+          ]
+        },
+        {
+          "gloss": "you're welcome",
+          "translations": [
+            "you're welcome",
+            "you are welcome",
+            "here you are",
+            "go ahead"
+          ],
+          "note": "The reply to dziękuję; also said when handing something over."
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Proszę mówić trochę wolniej.",
+          "translation": "Please speak a little more slowly.",
+          "target": "Proszę",
+          "sense": 0
+        },
+        {
+          "text": "Proszę bardzo, to dla pana.",
+          "translation": "Here you are, this is for you.",
+          "target": "Proszę",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Literally 'I ask'. proszę + infinitive is a polite request. To order or ask for something: poproszę… 'I'd like…'."
+      },
+      "curatedOrder": 4
+    },
+    {
+      "lemma": "tak",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "yes",
+          "translations": [
+            "yes",
+            "yeah"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Tak, mówię trochę po polsku.",
+          "translation": "Yes, I speak a little Polish.",
+          "target": "Tak",
+          "sense": 0
+        },
+        {
+          "text": "Tak, oczywiście, chętnie pomogę.",
+          "translation": "Yes, of course, I'll be glad to help.",
+          "target": "Tak",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "curatedOrder": 5
+    },
+    {
+      "lemma": "nie",
+      "pos": "particle",
+      "senses": [
+        {
+          "gloss": "no",
+          "translations": [
+            "no"
+          ]
+        },
+        {
+          "gloss": "not",
+          "translations": [
+            "not",
+            "don't",
+            "doesn't"
+          ],
+          "note": "Before verbs: nie wiem 'I don't know'."
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Nie, dziękuję, nie chcę.",
+          "translation": "No, thanks, I don't want any.",
+          "target": "Nie",
+          "sense": 0
+        },
+        {
+          "text": "To nie jest mój telefon.",
+          "translation": "That's not my phone.",
+          "target": "nie",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "A negated verb takes the genitive instead of the accusative: mam czas → nie mam czasu."
+      },
+      "curatedOrder": 6
+    },
+    {
+      "lemma": "przepraszam",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "excuse me",
+          "translations": [
+            "excuse me",
+            "sorry",
+            "I'm sorry",
+            "pardon me"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Przepraszam, nie wiedziałem o tym.",
+          "translation": "Sorry, I didn't know about that.",
+          "target": "Przepraszam",
+          "sense": 0
+        },
+        {
+          "text": "Bardzo przepraszam za spóźnienie.",
+          "translation": "I'm very sorry for being late.",
+          "target": "przepraszam",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Literally 'I apologize'. For something: przepraszam za + accusative (przepraszam za spóźnienie)."
+      },
+      "curatedOrder": 7
+    },
+    {
+      "lemma": "co",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "what",
+          "translations": [
+            "what"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "czego",
+          "tags": [
+            "genitive"
+          ]
+        },
+        {
+          "form": "czym",
+          "tags": [
+            "instrumental",
+            "locative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Co chcesz na kolację?",
+          "translation": "What do you want for dinner?",
+          "target": "Co",
+          "sense": 0
+        },
+        {
+          "text": "O czym teraz myślisz?",
+          "translation": "What are you thinking about now?",
+          "target": "czym",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "grammar": {
+        "notes": "Declined: czego, czemu, czym (o czym 'about what')."
+      },
+      "curatedOrder": 8
+    },
+    {
+      "lemma": "gdzie",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "where",
+          "translations": [
+            "where"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Przepraszam, gdzie jest toaleta?",
+          "translation": "Excuse me, where's the restroom?",
+          "target": "gdzie",
+          "sense": 0
+        },
+        {
+          "text": "Gdzie jest najbliższa apteka?",
+          "translation": "Where's the nearest pharmacy?",
+          "target": "Gdzie",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "questions",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Location. For direction ('where to') the standard word is dokąd (colloquially also gdzie)."
+      },
+      "curatedOrder": 9
+    },
+    {
+      "lemma": "jak",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "how",
+          "translations": [
+            "how"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Jak masz na imię?",
+          "translation": "What's your name?",
+          "target": "Jak",
+          "sense": 0
+        },
+        {
+          "text": "Jak to powiedzieć po polsku?",
+          "translation": "How do you say this in Polish?",
+          "target": "Jak",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Jak się masz?",
+          "translation": "How are you?"
+        },
+        {
+          "text": "Jak leci?",
+          "translation": "How's it going? (informal)"
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "curatedOrder": 10
+    },
+    {
+      "lemma": "i",
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "and",
+          "translations": [
+            "and"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Mama i tata są w domu.",
+          "translation": "Mom and Dad are at home.",
+          "target": "i",
+          "sense": 0
+        },
+        {
+          "text": "Chleb i masło są na stole.",
+          "translation": "The bread and butter are on the table.",
+          "target": "i",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "connectors"
+      ],
+      "grammar": {
+        "notes": "A more formal synonym is oraz."
+      },
+      "curatedOrder": 11
+    },
+    {
+      "lemma": "ale",
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "but",
+          "translations": [
+            "but"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Chciałbym pójść, ale nie mam czasu.",
+          "translation": "I'd like to go, but I don't have time.",
+          "target": "ale",
+          "sense": 0
+        },
+        {
+          "text": "Tu jest drogo, ale bardzo smacznie.",
+          "translation": "It's expensive here, but very tasty.",
+          "target": "ale",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "connectors"
+      ],
+      "curatedOrder": 12
+    },
+    {
+      "lemma": "być",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "jestem",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jesteś",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jest",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "są",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "był",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "była",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "będę",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "będzie",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Jesteś już w domu?",
+          "translation": "Are you home yet?",
+          "target": "Jesteś",
+          "sense": 0
+        },
+        {
+          "text": "Jutro będzie ładna pogoda.",
+          "translation": "The weather will be nice tomorrow.",
+          "target": "będzie",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: jestem, jesteś, jest, jesteśmy, jesteście, są. Stress is normally on the next-to-last syllable, but in past forms like byliśmy, byliście the standard stress falls one syllable earlier (BY-liś-my)."
+      },
+      "curatedOrder": 13
+    },
+    {
+      "lemma": "chcieć",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to want",
+          "translations": [
+            "to want",
+            "want",
+            "to wish",
+            "wish"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "chcę",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "chcesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "chce",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "chcą",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "chciał",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "chciała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chcę kupić nowy telefon.",
+          "translation": "I want to buy a new phone.",
+          "target": "Chcę",
+          "sense": 0
+        },
+        {
+          "text": "Co chcesz robić w weekend?",
+          "translation": "What do you want to do at the weekend?",
+          "target": "chcesz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "More polite: chciałbym (man) / chciałabym (woman) 'I would like'."
+      },
+      "curatedOrder": 14
+    },
+    {
+      "lemma": "mówić",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "powiedzieć",
+      "senses": [
+        {
+          "gloss": "to speak",
+          "translations": [
+            "to speak",
+            "speak",
+            "to talk",
+            "talk",
+            "to say",
+            "say"
+          ],
+          "note": "Perfective partner in the sense 'to say, to tell': powiedzieć."
+        }
+      ],
+      "forms": [
+        {
+          "form": "mówię",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mówisz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mówi",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mówią",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "mówił",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "mówiła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "mów",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Czy mówisz po angielsku?",
+          "translation": "Do you speak English?",
+          "target": "mówisz",
+          "sense": 0
+        },
+        {
+          "text": "Moja mama mówi bardzo szybko.",
+          "translation": "My mom speaks very fast.",
+          "target": "mówi",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "mówić po polsku = to speak Polish."
+      },
+      "curatedOrder": 15
+    },
+    {
+      "lemma": "rozumieć",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "zrozumieć",
+      "senses": [
+        {
+          "gloss": "to understand",
+          "translations": [
+            "to understand",
+            "understand"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "rozumiem",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "rozumiesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "rozumie",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "rozumieją",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "rozumiał",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "rozumiała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nie rozumiem, może pan powtórzyć?",
+          "translation": "I don't understand, could you repeat that?",
+          "target": "rozumiem",
+          "sense": 0
+        },
+        {
+          "text": "Rozumiesz, co on mówi?",
+          "translation": "Do you understand what he's saying?",
+          "target": "Rozumiesz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Perfective: zrozumieć (zrozumiem, zrozumiał)."
+      },
+      "curatedOrder": 16
+    },
+    {
+      "lemma": "wiedzieć",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to know (a fact)",
+          "translations": [
+            "to know (a fact)",
+            "to know",
+            "know"
+          ],
+          "note": "To know a fact or a piece of information."
+        }
+      ],
+      "forms": [
+        {
+          "form": "wiem",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "wiesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "wie",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "wiedzą",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "wiedział",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "wiedziała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nie wiem, gdzie on mieszka.",
+          "translation": "I don't know where he lives.",
+          "target": "wiem",
+          "sense": 0
+        },
+        {
+          "text": "Wiesz, która jest godzina?",
+          "translation": "Do you know what time it is?",
+          "target": "Wiesz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "wiedzieć = to know a fact (wiem, że…); znać = to know a person, place or thing. Irregular: wiem, wiesz, wie, wiemy, wiecie, wiedzą."
+      },
+      "curatedOrder": 17
+    },
+    {
+      "lemma": "móc",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "can",
+          "translations": [
+            "can",
+            "to be able to",
+            "be able to",
+            "to be able"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "mogę",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "możesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "może",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mogą",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "mógł",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "mogła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Czy może mi pan pomóc?",
+          "translation": "Could you help me, sir?",
+          "target": "może",
+          "sense": 0
+        },
+        {
+          "text": "Nie mogę dzisiaj, przepraszam.",
+          "translation": "I can't today, sorry.",
+          "target": "mogę",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "g/ż alternation: mogę, możesz, może, możemy, możecie, mogą. On its own, może also means 'maybe'."
+      },
+      "curatedOrder": 18
+    },
+    {
+      "lemma": "człowiek",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "person",
+          "translations": [
+            "person",
+            "human being",
+            "human",
+            "man"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "człowieka",
+          "tags": [
+            "genitive",
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "ludzie",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "ludzi",
+          "tags": [
+            "genitive",
+            "accusative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "To bardzo dobry człowiek.",
+          "translation": "He's a very good person.",
+          "target": "człowiek",
+          "sense": 0
+        },
+        {
+          "text": "Dzisiaj jest tu za dużo ludzi.",
+          "translation": "There are too many people here today.",
+          "target": "ludzi",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "The plural is a different word: ludzie, ludzi."
+      },
+      "curatedOrder": 19
+    },
+    {
+      "lemma": "woda",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "water",
+          "translations": [
+            "water"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "wody",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "wodę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "wodzie",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Czy mogę prosić o szklankę wody?",
+          "translation": "Could I have a glass of water, please?",
+          "target": "wody",
+          "sense": 0
+        },
+        {
+          "text": "Zawsze biorę wodę na spacer.",
+          "translation": "I always take water with me on a walk.",
+          "target": "wodę",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "szklanka wody",
+          "translation": "a glass of water"
+        },
+        {
+          "text": "woda gazowana",
+          "translation": "sparkling water"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "d → dzi in the locative: w wodzie."
+      },
+      "curatedOrder": 20
+    },
+    {
+      "lemma": "dobry",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "good",
+          "translations": [
+            "good",
+            "nice",
+            "kind"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "dobra",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "dobre",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "dobrzy",
+          "tags": [
+            "nominative",
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "dobrą",
+          "tags": [
+            "accusative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "lepszy",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "To jest dobry pomysł.",
+          "translation": "That's a good idea.",
+          "target": "dobry",
+          "sense": 0
+        },
+        {
+          "text": "Znasz jakąś dobrą restaurację?",
+          "translation": "Do you know a good restaurant?",
+          "target": "dobrą",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Plural: dobrzy for groups including men, dobre for everything else. Comparative: lepszy 'better'. Adverb: dobrze 'well, OK'."
+      },
+      "curatedOrder": 21
+    },
+    {
+      "lemma": "teraz",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "now",
+          "translations": [
+            "now",
+            "right now",
+            "at the moment"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Jestem teraz w pracy.",
+          "translation": "I'm at work right now.",
+          "target": "teraz",
+          "sense": 0
+        },
+        {
+          "text": "Teraz nie mogę rozmawiać.",
+          "translation": "I can't talk right now.",
+          "target": "Teraz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "curatedOrder": 22
+    },
+    {
+      "lemma": "dzisiaj",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "today",
+          "translations": [
+            "today"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Jaki dzisiaj jest dzień?",
+          "translation": "What day is it today?",
+          "target": "dzisiaj",
+          "sense": 0
+        },
+        {
+          "text": "Dzisiaj pracuję w domu.",
+          "translation": "Today I'm working from home.",
+          "target": "Dzisiaj",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Shorter synonym: dziś."
+      },
+      "curatedOrder": 23
+    },
+    {
+      "lemma": "tutaj",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "here",
+          "translations": [
+            "here"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Przepraszam, czy tutaj jest wolne?",
+          "translation": "Excuse me, is this seat free?",
+          "target": "tutaj",
+          "sense": 0
+        },
+        {
+          "text": "Mieszkam tutaj od roku.",
+          "translation": "I've been living here for a year.",
+          "target": "tutaj",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "places"
+      ],
+      "grammar": {
+        "notes": "Shorter synonym: tu. Used for both location and direction (Chodź tutaj! 'Come here!')."
+      },
+      "curatedOrder": 24
+    },
+    {
+      "lemma": "bardzo",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "very",
+          "translations": [
+            "very",
+            "very much",
+            "really"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Warszawa bardzo mi się podoba.",
+          "translation": "I really like Warsaw.",
+          "target": "bardzo",
+          "sense": 0
+        },
+        {
+          "text": "Bardzo mi miło, mam na imię Ola.",
+          "translation": "Nice to meet you, my name is Ola.",
+          "target": "Bardzo",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Bardzo mi miło!",
+          "translation": "Nice to meet you!"
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "curatedOrder": 25
+    },
+    {
+      "lemma": "mieszkać",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to live",
+          "translations": [
+            "to live",
+            "live",
+            "to reside",
+            "reside"
+          ],
+          "note": "To live somewhere (reside)."
+        }
+      ],
+      "forms": [
+        {
+          "form": "mieszkam",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mieszkasz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mieszka",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mieszkają",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "mieszkał",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "mieszkała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mieszkam w Warszawie od dwóch lat.",
+          "translation": "I've been living in Warsaw for two years.",
+          "target": "Mieszkam",
+          "sense": 0
+        },
+        {
+          "text": "Gdzie mieszka twoja rodzina?",
+          "translation": "Where does your family live?",
+          "target": "mieszka",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "home"
+      ],
+      "grammar": {
+        "notes": "mieszkać = to live somewhere; żyć = to be alive, to live (a life)."
+      },
+      "curatedOrder": 26
+    },
+    {
+      "lemma": "robić",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "zrobić",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "robię",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "robisz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "robi",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "robią",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "robił",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "robiła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "rób",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Co robisz dziś wieczorem?",
+          "translation": "What are you doing tonight?",
+          "target": "robisz",
+          "sense": 0
+        },
+        {
+          "text": "Zawsze robimy to razem.",
+          "translation": "We always do this together.",
+          "target": "robimy",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "daily-routine"
+      ],
+      "grammar": {
+        "notes": "Imperative: rób! Perfective: zrobić."
+      },
+      "curatedOrder": 27
+    },
+    {
+      "lemma": "powiedzieć",
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPair": "mówić",
+      "senses": [
+        {
+          "gloss": "to say",
+          "translations": [
+            "to say",
+            "say",
+            "to tell",
+            "tell"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "powiem",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "powiesz",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "powie",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "powiedzą",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "powiedział",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "powiedziała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "powiedz",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Co on ci wczoraj powiedział?",
+          "translation": "What did he tell you yesterday?",
+          "target": "powiedział",
+          "sense": 0
+        },
+        {
+          "text": "Powiem ci jutro, dobrze?",
+          "translation": "I'll tell you tomorrow, OK?",
+          "target": "Powiem",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Perfective, so its present-tense forms refer to the future: powiem = 'I'll say'. Conjugated like wiedzieć: powiem, powiesz, powie, powiemy, powiecie, powiedzą."
+      },
+      "curatedOrder": 28
+    },
+    {
+      "lemma": "znać",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "senses": [
+        {
+          "gloss": "to know (be familiar with)",
+          "translations": [
+            "to know (be familiar with)",
+            "to know",
+            "know",
+            "to be familiar with"
+          ],
+          "note": "To know a person, place or thing."
+        }
+      ],
+      "forms": [
+        {
+          "form": "znam",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "znasz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "zna",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "znają",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "znał",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "znała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Znasz jego numer telefonu?",
+          "translation": "Do you know his phone number?",
+          "target": "Znasz",
+          "sense": 0
+        },
+        {
+          "text": "Znam tę restaurację, jest świetna.",
+          "translation": "I know this restaurant, it's great.",
+          "target": "Znam",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "znać takes a direct object (znam go, znam to miasto); for facts use wiedzieć."
+      },
+      "curatedOrder": 29
+    },
+    {
+      "lemma": "dom",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "house",
+          "translations": [
+            "house",
+            "home"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "domu",
+          "tags": [
+            "genitive",
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "domem",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        },
+        {
+          "form": "domy",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nasz dom jest bardzo stary.",
+          "translation": "Our house is very old.",
+          "target": "dom",
+          "sense": 0
+        },
+        {
+          "text": "Wracam do domu o szóstej.",
+          "translation": "I get home at six.",
+          "target": "domu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home"
+      ],
+      "grammar": {
+        "notes": "w domu = at home; do domu = (to) home."
+      },
+      "curatedOrder": 30
+    },
+    {
+      "lemma": "praca",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "work",
+          "translations": [
+            "work",
+            "job"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pracy",
+          "tags": [
+            "genitive",
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "pracę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "pracą",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Jestem jeszcze w pracy.",
+          "translation": "I'm still at work.",
+          "target": "pracy",
+          "sense": 0
+        },
+        {
+          "text": "On szuka nowej pracy.",
+          "translation": "He's looking for a new job.",
+          "target": "pracy",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "work"
+      ],
+      "grammar": {
+        "notes": "w pracy = at work; do pracy = to work. szukać takes the genitive: szukam pracy."
+      },
+      "curatedOrder": 31
+    },
+    {
+      "lemma": "przyjaciel",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "friend",
+          "translations": [
+            "friend",
+            "close friend"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "przyjaciela",
+          "tags": [
+            "genitive",
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "przyjaciele",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "przyjaciół",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "form": "przyjaciółmi",
+          "tags": [
+            "instrumental",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "To mój stary przyjaciel.",
+          "translation": "This is my old friend.",
+          "target": "przyjaciel",
+          "sense": 0
+        },
+        {
+          "text": "W sobotę spotykam się z przyjaciółmi.",
+          "translation": "On Saturday I'm meeting up with friends.",
+          "target": "przyjaciółmi",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "A close friend; a female friend is przyjaciółka. For a buddy or colleague, kolega / koleżanka is common. Irregular plural: przyjaciele, przyjaciół."
+      },
+      "curatedOrder": 32
+    },
+    {
+      "lemma": "rodzina",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "family",
+          "translations": [
+            "family"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "rodziny",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "rodzinę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "rodzinie",
+          "tags": [
+            "dative",
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "rodziną",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mam bardzo dużą rodzinę.",
+          "translation": "I have a very big family.",
+          "target": "rodzinę",
+          "sense": 0
+        },
+        {
+          "text": "Bardzo tęsknię za rodziną.",
+          "translation": "I really miss my family.",
+          "target": "rodziną",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "grammar": {
+        "notes": "tęsknić za + instrumental = to miss."
+      },
+      "curatedOrder": 33
+    },
+    {
+      "lemma": "mama",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "mom",
+          "translations": [
+            "mom",
+            "mum",
+            "mother",
+            "mommy"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "mamy",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "mamie",
+          "tags": [
+            "dative",
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "mamę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "mamo",
+          "tags": [
+            "vocative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Często dzwonię do mamy.",
+          "translation": "I often call my mom.",
+          "target": "mamy",
+          "sense": 0
+        },
+        {
+          "text": "Mamo, jestem już w domu!",
+          "translation": "Mom, I'm home!",
+          "target": "Mamo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "grammar": {
+        "notes": "Vocative when addressing her: mamo! dzwonić do + genitive = to call someone."
+      },
+      "curatedOrder": 34
+    },
+    {
+      "lemma": "czas",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "time",
+          "translations": [
+            "time"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "czasu",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "czasem",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nie mam dziś czasu.",
+          "translation": "I don't have time today.",
+          "target": "czasu",
+          "sense": 0
+        },
+        {
+          "text": "Mamy jeszcze trochę czasu.",
+          "translation": "We still have a bit of time.",
+          "target": "czasu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "To ask the time: Która (jest) godzina? czasem also means 'sometimes'."
+      },
+      "curatedOrder": 35
+    },
+    {
+      "lemma": "dzień",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "day",
+          "translations": [
+            "day"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "dnia",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "dniu",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "dni",
+          "tags": [
+            "nominative",
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Pracuję pięć dni w tygodniu.",
+          "translation": "I work five days a week.",
+          "target": "dni",
+          "sense": 0
+        },
+        {
+          "text": "To był bardzo długi dzień.",
+          "translation": "It was a very long day.",
+          "target": "dzień",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Irregular stem: dzień → dnia, dni. Nominative plural also dnie."
+      },
+      "curatedOrder": 36
+    },
+    {
+      "lemma": "jutro",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "tomorrow",
+          "translations": [
+            "tomorrow"
+          ]
+        }
+      ],
+      "forms": [],
+      "examples": [
+        {
+          "text": "Do zobaczenia jutro o dziewiątej!",
+          "translation": "See you tomorrow at nine!",
+          "target": "jutro",
+          "sense": 0
+        },
+        {
+          "text": "Jutro mam dzień wolny.",
+          "translation": "Tomorrow is my day off.",
+          "target": "Jutro",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "curatedOrder": 37
+    },
+    {
+      "lemma": "iść",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "pójść",
+      "senses": [
+        {
+          "gloss": "to go (on foot)",
+          "translations": [
+            "to go (on foot)",
+            "to go",
+            "go",
+            "to walk",
+            "walk",
+            "to come",
+            "come"
+          ],
+          "note": "One direction, on foot, at a particular time."
+        }
+      ],
+      "forms": [
+        {
+          "form": "idę",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "idziesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "idzie",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "idą",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "szedł",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "szła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "idź",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Teraz idę do domu.",
+          "translation": "I'm going home now.",
+          "target": "idę",
+          "sense": 0
+        },
+        {
+          "text": "Dokąd idziesz tak wcześnie?",
+          "translation": "Where are you going so early?",
+          "target": "idziesz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "Irregular past: szedł, szła, szli. For habitual or round trips use chodzić; by vehicle use jechać."
+      },
+      "curatedOrder": 38
+    },
+    {
+      "lemma": "jechać",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "pojechać",
+      "senses": [
+        {
+          "gloss": "to go (by vehicle)",
+          "translations": [
+            "to go (by vehicle)",
+            "to go",
+            "go",
+            "to drive",
+            "drive",
+            "to ride",
+            "ride",
+            "to travel",
+            "travel"
+          ],
+          "note": "One direction, by car, bus, train etc."
+        }
+      ],
+      "forms": [
+        {
+          "form": "jadę",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jedziesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jedzie",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jadą",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "jechał",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "jechała",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "jedź",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Jutro jedziemy do Krakowa.",
+          "translation": "Tomorrow we're going to Kraków.",
+          "target": "jedziemy",
+          "sense": 0
+        },
+        {
+          "text": "Jadę do pracy autobusem.",
+          "translation": "I'm taking the bus to work.",
+          "target": "Jadę",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "For habitual or round trips use jeździć. Transport in the instrumental: autobusem, pociągiem."
+      },
+      "curatedOrder": 39
+    },
+    {
+      "lemma": "jeść",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "zjeść",
+      "senses": [
+        {
+          "gloss": "to eat",
+          "translations": [
+            "to eat",
+            "eat"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "jem",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "je",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "jedzą",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "jadł",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "jadła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "jedz",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ja nie jem mięsa.",
+          "translation": "I don't eat meat.",
+          "target": "jem",
+          "sense": 0
+        },
+        {
+          "text": "Co jesz na śniadanie?",
+          "translation": "What do you eat for breakfast?",
+          "target": "jesz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: jem, jesz, je, jemy, jecie, jedzą; past jadł, jadła."
+      },
+      "curatedOrder": 40
+    },
+    {
+      "lemma": "pić",
+      "pos": "verb",
+      "aspect": "imperfective",
+      "aspectPair": "wypić",
+      "senses": [
+        {
+          "gloss": "to drink",
+          "translations": [
+            "to drink",
+            "drink"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "piję",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "pijesz",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "pije",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "piją",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pił",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "piła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "pij",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ona pije kawę z mlekiem.",
+          "translation": "She drinks coffee with milk.",
+          "target": "pije",
+          "sense": 0
+        },
+        {
+          "text": "Wieczorem nie piję kawy.",
+          "translation": "I don't drink coffee in the evening.",
+          "target": "piję",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Present stem pij-: piję, pijesz… piją."
+      },
+      "curatedOrder": 41
+    },
+    {
+      "lemma": "kupić",
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPair": "kupować",
+      "senses": [
+        {
+          "gloss": "to buy",
+          "translations": [
+            "to buy",
+            "buy",
+            "to purchase",
+            "purchase"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "kupię",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "kupisz",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "kupi",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "kupią",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "kupił",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "kupiła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "kupiłaś",
+          "tags": [
+            "past",
+            "2nd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "kup",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Kupię chleb i mleko.",
+          "translation": "I'll buy bread and milk.",
+          "target": "Kupię",
+          "sense": 0
+        },
+        {
+          "text": "Gdzie kupiłaś tę kurtkę?",
+          "translation": "Where did you buy this jacket?",
+          "target": "kupiłaś",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Perfective; imperfective kupować (kupuję)."
+      },
+      "curatedOrder": 42
+    },
+    {
+      "lemma": "zrobić",
+      "pos": "verb",
+      "aspect": "perfective",
+      "aspectPair": "robić",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make",
+            "to get done"
+          ],
+          "note": "Perfective: one completed action."
+        }
+      ],
+      "forms": [
+        {
+          "form": "zrobię",
+          "tags": [
+            "future",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "zrobisz",
+          "tags": [
+            "future",
+            "2nd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "zrobi",
+          "tags": [
+            "future",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "zrobią",
+          "tags": [
+            "future",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "zrobił",
+          "tags": [
+            "past",
+            "3rd-person",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "zrobiła",
+          "tags": [
+            "past",
+            "3rd-person",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "zrób",
+          "tags": [
+            "imperative",
+            "2nd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Zrobię to jutro rano.",
+          "translation": "I'll do it tomorrow morning.",
+          "target": "Zrobię",
+          "sense": 0
+        },
+        {
+          "text": "Kto zrobił to zdjęcie?",
+          "translation": "Who took this photo?",
+          "target": "zrobił",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "zrobić zdjęcie",
+          "translation": "to take a photo"
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Perfective of robić: zrobię = 'I will do (and finish)'."
+      },
+      "curatedOrder": 43
+    },
+    {
+      "lemma": "chleb",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bread",
+          "translations": [
+            "bread"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "chleba",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "chlebem",
+          "tags": [
+            "instrumental",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Kup, proszę, chleb i ser.",
+          "translation": "Please buy some bread and cheese.",
+          "target": "chleb",
+          "sense": 0
+        },
+        {
+          "text": "Nie mamy już chleba.",
+          "translation": "We're out of bread.",
+          "target": "chleba",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "shopping"
+      ],
+      "curatedOrder": 44
+    },
+    {
+      "lemma": "herbata",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "tea",
+          "translations": [
+            "tea"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "herbaty",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "herbatę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "herbacie",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Napijesz się herbaty z cytryną?",
+          "translation": "Would you like some tea with lemon?",
+          "target": "herbaty",
+          "sense": 0
+        },
+        {
+          "text": "Pijemy herbatę w kuchni.",
+          "translation": "We drink tea in the kitchen.",
+          "target": "herbatę",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "t → ci in the locative: w herbacie."
+      },
+      "curatedOrder": 45
+    },
+    {
+      "lemma": "kawa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "coffee",
+          "translations": [
+            "coffee"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "kawy",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "kawę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Chodźmy na kawę po pracy.",
+          "translation": "Let's go for a coffee after work.",
+          "target": "kawę",
+          "sense": 0
+        },
+        {
+          "text": "Twoja kawa już wystygła.",
+          "translation": "Your coffee has gone cold.",
+          "target": "kawa",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "iść na kawę",
+          "translation": "to go for a coffee"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "curatedOrder": 46
+    },
+    {
+      "lemma": "sklep",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "shop",
+          "translations": [
+            "shop",
+            "store"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "sklepu",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "sklepie",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "sklepy",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Idę do sklepu po chleb.",
+          "translation": "I'm going to the shop for bread.",
+          "target": "sklepu",
+          "sense": 0
+        },
+        {
+          "text": "W tym sklepie wszystko jest tańsze.",
+          "translation": "Everything is cheaper in this shop.",
+          "target": "sklepie",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "grammar": {
+        "notes": "do sklepu 'to the shop', w sklepie 'in the shop'. po + accusative = to go and get: po chleb."
+      },
+      "curatedOrder": 47
+    },
+    {
+      "lemma": "pieniądze",
+      "pos": "noun",
+      "senses": [
+        {
+          "gloss": "money",
+          "translations": [
+            "money",
+            "cash"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pieniędzy",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "form": "pieniędzmi",
+          "tags": [
+            "instrumental",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nie mam przy sobie pieniędzy.",
+          "translation": "I don't have any money on me.",
+          "target": "pieniędzy",
+          "sense": 0
+        },
+        {
+          "text": "Te pieniądze są na zakupy.",
+          "translation": "This money is for shopping.",
+          "target": "pieniądze",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Used in the plural: te pieniądze 'this money'. ą → ę in other forms: pieniędzy."
+      },
+      "curatedOrder": 48
+    },
+    {
+      "lemma": "zły",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "bad",
+          "translations": [
+            "bad",
+            "wrong",
+            "evil"
+          ]
+        },
+        {
+          "gloss": "angry",
+          "translations": [
+            "angry",
+            "mad",
+            "cross"
+          ],
+          "note": "być złym na kogoś = to be angry with someone."
+        }
+      ],
+      "forms": [
+        {
+          "form": "zła",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "złe",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "źli",
+          "tags": [
+            "nominative",
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "gorszy",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Moim zdaniem to zły pomysł.",
+          "translation": "In my opinion that's a bad idea.",
+          "target": "zły",
+          "sense": 0
+        },
+        {
+          "text": "Jesteś na mnie zły?",
+          "translation": "Are you angry with me?",
+          "target": "zły",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Plural: źli for groups including men, złe for everything else. Comparative: gorszy 'worse'. Adverb: źle 'badly'."
+      },
+      "curatedOrder": 49
+    },
+    {
+      "lemma": "duży",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "big",
+          "translations": [
+            "big",
+            "large"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "duża",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "duże",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "duzi",
+          "tags": [
+            "nominative",
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "dużym",
+          "tags": [
+            "locative",
+            "masculine",
+            "singular"
+          ]
+        },
+        {
+          "form": "większy",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Kraków to duże miasto.",
+          "translation": "Kraków is a big city.",
+          "target": "duże",
+          "sense": 0
+        },
+        {
+          "text": "Mieszkają w dużym domu.",
+          "translation": "They live in a big house.",
+          "target": "dużym",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "city"
+      ],
+      "grammar": {
+        "notes": "Comparative: większy 'bigger'. wielki = great, huge."
+      },
+      "curatedOrder": 50
+    },
+    {
+      "lemma": "mały",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "small",
+          "translations": [
+            "small",
+            "little"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "mała",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "małe",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "mali",
+          "tags": [
+            "nominative",
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "mniejszy",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mamy małe mieszkanie w centrum.",
+          "translation": "We have a small apartment in the center.",
+          "target": "małe",
+          "sense": 0
+        },
+        {
+          "text": "Mój syn jest jeszcze mały.",
+          "translation": "My son is still little.",
+          "target": "mały",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "family"
+      ],
+      "grammar": {
+        "notes": "Comparative: mniejszy 'smaller'."
+      },
+      "curatedOrder": 51
+    },
+    {
+      "lemma": "nowy",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "new",
+          "translations": [
+            "new"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "nowa",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "nowe",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "nowi",
+          "tags": [
+            "nominative",
+            "masculine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "To mój nowy telefon.",
+          "translation": "This is my new phone.",
+          "target": "nowy",
+          "sense": 0
+        },
+        {
+          "text": "Życzę ci szczęśliwego Nowego Roku!",
+          "translation": "I wish you a Happy New Year!",
+          "target": "Nowego",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Szczęśliwego Nowego Roku!",
+          "translation": "Happy New Year!"
+        }
+      ],
+      "tags": [
+        "shopping",
+        "time"
+      ],
+      "curatedOrder": 52
+    },
+    {
+      "lemma": "drogi",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "expensive",
+          "translations": [
+            "expensive",
+            "costly",
+            "pricey"
+          ]
+        },
+        {
+          "gloss": "dear",
+          "translations": [
+            "dear"
+          ],
+          "note": "In greetings and letters: Drodzy przyjaciele!"
+        }
+      ],
+      "forms": [
+        {
+          "form": "droga",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "drogie",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        },
+        {
+          "form": "drodzy",
+          "tags": [
+            "nominative",
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "droższy",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ta restauracja jest za droga.",
+          "translation": "This restaurant is too expensive.",
+          "target": "droga",
+          "sense": 0
+        },
+        {
+          "text": "Drodzy przyjaciele, wszystkiego najlepszego!",
+          "translation": "Dear friends, all the best!",
+          "target": "Drodzy",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "grammar": {
+        "notes": "Plural: drodzy for groups including men, drogie for everything else. Comparative: droższy. Don't confuse with the noun droga 'road'."
+      },
+      "curatedOrder": 53
+    },
+    {
+      "lemma": "smaczny",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "tasty",
+          "translations": [
+            "tasty",
+            "delicious",
+            "good"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "smaczna",
+          "tags": [
+            "nominative",
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "smaczne",
+          "tags": [
+            "nominative",
+            "neuter",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ta zupa jest bardzo smaczna.",
+          "translation": "This soup is very tasty.",
+          "target": "smaczna",
+          "sense": 0
+        },
+        {
+          "text": "Mama robi bardzo smaczne pierogi.",
+          "translation": "Mom makes really tasty pierogi.",
+          "target": "smaczne",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "Smacznego!",
+          "translation": "Enjoy your meal!"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Plural for things: smaczne (smaczne pierogi). Adverb: smacznie."
+      },
+      "curatedOrder": 54
+    },
+    {
+      "lemma": "miasto",
+      "pos": "noun",
+      "gender": "n",
+      "senses": [
+        {
+          "gloss": "city",
+          "translations": [
+            "city",
+            "town"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "miasta",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "mieście",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "miast",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mieszkamy w centrum miasta.",
+          "translation": "We live in the city center.",
+          "target": "miasta",
+          "sense": 0
+        },
+        {
+          "text": "W moim mieście jest piękny park.",
+          "translation": "There's a beautiful park in my town.",
+          "target": "mieście",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Note the stem change in the locative: w mieście."
+      },
+      "curatedOrder": 55
+    },
+    {
+      "lemma": "ulica",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "street",
+          "translations": [
+            "street"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "ulicy",
+          "tags": [
+            "genitive",
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "ulicę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "ulice",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Na jakiej ulicy mieszkasz?",
+          "translation": "What street do you live on?",
+          "target": "ulicy",
+          "sense": 0
+        },
+        {
+          "text": "Ta ulica jest bardzo ruchliwa.",
+          "translation": "This street is very busy.",
+          "target": "ulica",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city"
+      ],
+      "grammar": {
+        "notes": "na ulicy / przy ulicy = on a street (in addresses)."
+      },
+      "curatedOrder": 56
+    },
+    {
+      "lemma": "tydzień",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "week",
+          "translations": [
+            "week"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "tygodnia",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "tygodniu",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "tygodnie",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "tygodni",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Zadzwonię do ciebie za tydzień.",
+          "translation": "I'll call you in a week.",
+          "target": "tydzień",
+          "sense": 0
+        },
+        {
+          "text": "W tym tygodniu jestem bardzo zajęty.",
+          "translation": "I'm very busy this week.",
+          "target": "tygodniu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Irregular stem: tydzień → tygodnia, w tygodniu. za tydzień = in a week."
+      },
+      "curatedOrder": 57
+    },
+    {
+      "lemma": "telefon",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "phone",
+          "translations": [
+            "phone",
+            "telephone",
+            "cell phone",
+            "mobile phone"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "telefonu",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "telefonie",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        },
+        {
+          "form": "telefony",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "On teraz rozmawia przez telefon.",
+          "translation": "He's on the phone right now.",
+          "target": "telefon",
+          "sense": 0
+        },
+        {
+          "text": "Nie mogę znaleźć telefonu.",
+          "translation": "I can't find my phone.",
+          "target": "telefonu",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "rozmawiać przez telefon = to talk on the phone. A mobile phone is often called komórka."
+      },
+      "curatedOrder": 58
+    },
+    {
+      "lemma": "język",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "language",
+          "translations": [
+            "language"
+          ]
+        },
+        {
+          "gloss": "tongue",
+          "translations": [
+            "tongue"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "języka",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "języki",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "języków",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Uczę się języka polskiego.",
+          "translation": "I'm learning Polish.",
+          "target": "języka",
+          "sense": 0
+        },
+        {
+          "text": "Ile znasz języków obcych?",
+          "translation": "How many foreign languages do you know?",
+          "target": "języków",
+          "sense": 0
+        },
+        {
+          "text": "Lekarz poprosił, żebym pokazał język.",
+          "translation": "The doctor asked me to show my tongue.",
+          "target": "język",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "uczyć się takes the genitive: uczę się języka polskiego."
+      },
+      "curatedOrder": 59
+    },
+    {
+      "lemma": "dziecko",
+      "pos": "noun",
+      "gender": "n",
+      "senses": [
+        {
+          "gloss": "child",
+          "translations": [
+            "child",
+            "kid",
+            "baby"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "dziecka",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "dzieci",
+          "tags": [
+            "nominative",
+            "genitive",
+            "plural"
+          ]
+        },
+        {
+          "form": "dziećmi",
+          "tags": [
+            "instrumental",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Oni mają dwoje dzieci.",
+          "translation": "They have two children.",
+          "target": "dzieci",
+          "sense": 0
+        },
+        {
+          "text": "Nasze dziecko już śpi.",
+          "translation": "Our child is already asleep.",
+          "target": "dziecko",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family",
+        "people"
+      ],
+      "grammar": {
+        "notes": "Irregular plural: dzieci, dzieci, dzieciom, dziećmi. dwoje dzieci = two children."
+      },
+      "curatedOrder": 60
+    },
+    {
+      "lemma": "ręka",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "hand",
+          "translations": [
+            "hand",
+            "arm"
+          ],
+          "note": "Covers both 'hand' and 'arm'."
+        }
+      ],
+      "forms": [
+        {
+          "form": "ręki",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "rękę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "ręce",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "rąk",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Umyj ręce przed jedzeniem.",
+          "translation": "Wash your hands before eating.",
+          "target": "ręce",
+          "sense": 0
+        },
+        {
+          "text": "Złamałem rękę w dzieciństwie.",
+          "translation": "I broke my arm as a child.",
+          "target": "rękę",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health"
+      ],
+      "grammar": {
+        "notes": "Irregular plural: ręce, rąk, rękom, rękami (or rękoma)."
+      },
+      "curatedOrder": 61
+    },
+    {
+      "lemma": "głowa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "head",
+          "translations": [
+            "head"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "głowy",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "głowę",
+          "tags": [
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "głowie",
+          "tags": [
+            "locative",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Od rana boli mnie głowa.",
+          "translation": "I've had a headache since this morning.",
+          "target": "głowa",
+          "sense": 0
+        },
+        {
+          "text": "Muszę jeszcze umyć głowę.",
+          "translation": "I still need to wash my hair.",
+          "target": "głowę",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health"
+      ],
+      "grammar": {
+        "notes": "Boli mnie głowa = I have a headache (literally 'my head hurts me'). umyć głowę = to wash one's hair."
+      },
+      "curatedOrder": 62
+    },
+    {
+      "lemma": "lekarz",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "doctor",
+          "translations": [
+            "doctor",
+            "physician"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "lekarza",
+          "tags": [
+            "genitive",
+            "accusative",
+            "singular"
+          ]
+        },
+        {
+          "form": "lekarze",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "lekarzy",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Muszę iść do lekarza.",
+          "translation": "I need to see a doctor.",
+          "target": "lekarza",
+          "sense": 0
+        },
+        {
+          "text": "Trzeba szybko wezwać lekarza.",
+          "translation": "We need to call a doctor quickly.",
+          "target": "lekarza",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "body-health",
+        "people"
+      ],
+      "grammar": {
+        "notes": "Animate: accusative = genitive (wezwać lekarza)."
+      },
+      "curatedOrder": 63
+    },
+    {
+      "lemma": "bilet",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "ticket",
+          "translations": [
+            "ticket"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "biletu",
+          "tags": [
+            "genitive",
+            "singular"
+          ]
+        },
+        {
+          "form": "bilety",
+          "tags": [
+            "nominative",
+            "plural"
+          ]
+        },
+        {
+          "form": "biletów",
+          "tags": [
+            "genitive",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Kupiłem już bilet na pociąg.",
+          "translation": "I've already bought a train ticket.",
+          "target": "bilet",
+          "sense": 0
+        },
+        {
+          "text": "Poproszę dwa bilety do Gdańska.",
+          "translation": "Two tickets to Gdańsk, please.",
+          "target": "bilety",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "travel",
+        "transport"
+      ],
+      "grammar": {
+        "notes": "After 2–4 the nominative plural is used: dwa bilety; from 5 the genitive plural: pięć biletów."
+      },
+      "curatedOrder": 64
+    }
+  ]
+}

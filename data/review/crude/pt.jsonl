@@ -1,0 +1,269 @@
+{"lemma":"aleijado","text":"Ele ficou aleijado depois da queda.","replace":{"text":"O cachorro aleijado aprendeu a andar com três patas.","translation":"The disabled dog learned to walk on three legs.","target":"aleijado","sense":0}}
+{"lemma":"almofada","text":"Nenhum brincalhão pode passar sem uma almofada peidorreira.","replace":{"text":"Ela colocou uma almofada nova no sofá da sala.","translation":"She put a new cushion on the living room sofa.","target":"almofada","sense":0}}
+{"lemma":"amante","text":"Ela tem amantes para todos os dias da semana.","replace":{"text":"Meus pais são amantes de música brasileira.","translation":"My parents are lovers of Brazilian music.","target":"amantes","sense":0}}
+{"lemma":"anal","text":"Eu amo sexo anal.","replace":{"text":"A fissura anal pode ser tratada com pomada.","translation":"An anal fissure can be treated with ointment.","target":"anal","sense":0}}
+{"lemma":"arrombar","text":"Meu carro foi arrombado.","keep":true}
+{"lemma":"assédio","text":"O assédio sexual pode ser um problema sério no local de trabalho.","replace":{"text":"O ator saiu pelos fundos para fugir do assédio dos fãs.","translation":"The actor left through the back to escape the swarm of fans.","target":"assédio","sense":1}}
+{"lemma":"assédio","text":"Tom foi acusado de assédio sexual pelas suas colegas do sexo feminino.","replace":{"text":"A família pediu privacidade diante do assédio da imprensa.","translation":"The family asked for privacy in the face of press harassment.","target":"assédio","sense":1}}
+{"lemma":"babaca","text":"Ele está namorando uma babaca barata.","replace":{"text":"Ele foi um babaca com a garçonete.","translation":"He was a jerk to the waitress.","target":"babaca","sense":0}}
+{"lemma":"babaca","text":"Talvez eu seja o babaca.","replace":{"text":"Não seja babaca, peça desculpas para ela.","translation":"Don't be a jerk, apologize to her.","target":"babaca","sense":0}}
+{"lemma":"babaca","text":"Talvez seja eu o babaca.","replace":{"text":"Que babaca! Ele furou a fila do cinema.","translation":"What a jerk! He cut in line at the movie theater.","target":"babaca","sense":0}}
+{"lemma":"baile","text":"Michelle Obama deslumbrou com um vestido vermelho-rubi nos bailes inaugurais de segunda-feira à noite.","replace":{"text":"Na juventude, meus avós iam a muitos bailes.","translation":"When they were young, my grandparents went to lots of dances.","target":"bailes","sense":1}}
+{"lemma":"bastardo","text":"Nós também achamos que ele é um bastardo.","replace":{"text":"Na novela, o herói é filho bastardo de um fazendeiro.","translation":"In the soap opera, the hero is a farmer's illegitimate son.","target":"bastardo","sense":0}}
+{"lemma":"bastão","text":"Não só as bolas foram roubadas; o bastão também o foi ontem.","keep":true}
+{"lemma":"bicho","text":"Tom é uma bicha.","replace":{"text":"Que bicho é aquele em cima da árvore?","translation":"What animal is that up in the tree?","target":"bicho","sense":0}}
+{"lemma":"bola","text":"Você tem duas bolas.","replace":{"text":"Comprei duas bolas de futebol para as crianças.","translation":"I bought two soccer balls for the kids.","target":"bolas","sense":0}}
+{"lemma":"boletim","text":"No boletim de ocorrência, o acusado falou que não conseguiu conter seus \"instintos\".","replace":{"text":"Segundo o boletim do tempo, vai chover amanhã.","translation":"According to the weather bulletin, it will rain tomorrow.","target":"boletim","sense":0}}
+{"lemma":"boquete","text":"Eu não dei a ele só um conselho, também paguei um boquete.","drop":true}
+{"lemma":"bordel","text":"Eu pretendo trabalhar num bordel.","drop":true}
+{"lemma":"borracha","text":"Os maias faziam bolas de borracha.","keep":true}
+{"lemma":"bosta","text":"Eu acho que meu alemão é realmente uma bosta.","drop":true}
+{"lemma":"bunda","text":"Discutimos se não haveria dificuldade em vender uma ode a bundas unissex.","replace":{"text":"Depois da cavalgada, todos estavam com as bundas doloridas.","translation":"After the horseback ride, everyone's bottoms were sore.","target":"bundas","sense":0}}
+{"lemma":"bunda","text":"Eu quero copular com você pela bunda.","replace":{"text":"Essa cadeira é tão dura que chega a doer a bunda.","translation":"This chair is so hard that it actually hurts your backside.","target":"bunda","sense":0}}
+{"lemma":"bunda","text":"Olha para a bunda dela.","replace":{"text":"Ele escorregou e caiu de bunda no chão.","translation":"He slipped and fell on his backside.","target":"bunda","sense":0}}
+{"lemma":"cacete","text":"Eu falei assim: Morrer, o cacete!","drop":true}
+{"lemma":"cafetão","text":"Antes tínhamos problemas apenas com a polícia, quando apareciam aqui para prender os cafetões que trazem do interior meninas menores de idade para trabalhar.","drop":true}
+{"lemma":"cagar","text":"Acho que vou me cagar.","drop":true}
+{"lemma":"cagar","text":"O que ela estava fazendo quando fez aquela cagada?","drop":true}
+{"lemma":"cagar","text":"É um ser vivo, então é claro que caga.","drop":true}
+{"lemma":"cano","text":"Deste muita cana.","replace":{"text":"O cano da pia está entupido.","translation":"The sink pipe is clogged.","target":"cano","sense":0}}
+{"lemma":"capela","text":"Vimos uma capela de macacos movendo-se árvore em árvore.","keep":true}
+{"lemma":"caralho","text":"Hoje está frio para caralho.","drop":true}
+{"lemma":"caralho","text":"Isto é bom pra caralho.","drop":true}
+{"lemma":"caralho","text":"Você é um idiota do caralho!","drop":true}
+{"lemma":"catar","text":"Vai te catar!","replace":{"text":"Fomos catar conchas na praia de manhã.","translation":"We went to collect shells on the beach in the morning.","target":"catar","sense":0}}
+{"lemma":"cavalgar","text":"O macaco cavalgava o potro.","keep":true}
+{"lemma":"chico","text":"Ela sempre tem cólica quando está de chico.","keep":true,"sense":1}
+{"lemma":"chico","text":"Hoje não vou à praia, estou de chico.","keep":true,"sense":1}
+{"lemma":"chupar","text":"Chupa o meu pau.","replace":{"text":"O beija-flor chupa o néctar das flores.","translation":"The hummingbird sips the nectar from the flowers.","target":"chupa","sense":0}}
+{"lemma":"chupar","text":"Passamos a tarde chupando uvas.","keep":true}
+{"lemma":"chupar","text":"Vai chupar um pau!","replace":{"text":"No verão, eu adoro chupar manga no quintal.","translation":"In summer, I love eating mangoes in the backyard.","target":"chupar","sense":0}}
+{"lemma":"cigano","text":"Os ciganos dançam ao redor da fogueira.","replace":{"text":"Os ciganos chegaram ao Brasil no século dezesseis.","translation":"The Roma arrived in Brazil in the sixteenth century.","target":"ciganos","sense":2}}
+{"lemma":"cintura","text":"O garoto estava pelado até a cintura.","replace":{"text":"Esta calça está apertada na cintura.","translation":"These pants are tight at the waist.","target":"cintura","sense":0}}
+{"lemma":"cocô","text":"Eu não quero limpar cocô de cachorro.","replace":{"text":"Por favor, recolha o cocô do seu cachorro.","translation":"Please pick up your dog's waste.","target":"cocô","sense":0}}
+{"lemma":"cocô","text":"O cachorro fez cocô?","keep":true}
+{"lemma":"cocô","text":"O meu carro está coberto de cocô de pomba.","keep":true}
+{"lemma":"condomínio","text":"Você sabia que ele comprou um condomínio?","keep":true}
+{"lemma":"cu","text":"Vai tomar no cu!","drop":true}
+{"lemma":"cu","text":"Vai tomar no olho do seu cu!","drop":true}
+{"lemma":"cuzão","text":"Basta colocar um volante nas mãos de um português para fazer um cuzão.","drop":true}
+{"lemma":"cápsula","text":"Essa cápsula será então introduzida na bunda de uma vaca amarela feita de papel machê, em tamanho real.","replace":{"text":"Tome uma cápsula deste remédio depois do jantar.","translation":"Take one capsule of this medicine after dinner.","target":"cápsula","sense":0}}
+{"lemma":"cão","text":"Ela é uma cadela.","replace":{"text":"Nossa cadela teve filhotes ontem.","translation":"Our dog had puppies yesterday.","target":"cadela","sense":0}}
+{"lemma":"danar","text":"Que se dane!","replace":{"text":"Ele ficou danado da vida quando perdeu o ônibus.","translation":"He got furious when he missed the bus.","target":"danado","sense":2}}
+{"lemma":"danar","text":"Vá se danar!","replace":{"text":"A professora ficou danada com a bagunça da turma.","translation":"The teacher was furious about the mess the class made.","target":"danada","sense":2}}
+{"lemma":"descartar","text":"\"Sabes o que é isto?\" \"Não.\" \"É um preservativo descartado.\"","replace":{"text":"O óleo de cozinha usado não deve ser descartado na pia.","translation":"Used cooking oil shouldn't be thrown away down the sink.","target":"descartado","sense":0}}
+{"lemma":"desgraçado","text":"Seu desgraçado! Eu vou te matar!","replace":{"text":"Ele se sentiu o homem mais desgraçado do mundo.","translation":"He felt like the most wretched man in the world.","target":"desgraçado","sense":0}}
+{"lemma":"diabos","text":"Por que diabos você não fez o que deveria fazer?","drop":true}
+{"lemma":"diabos","text":"Que diabos está fazendo?","drop":true}
+{"lemma":"diabos","text":"Que diabos é isso?","drop":true}
+{"lemma":"diagnosticar","text":"Maria foi diagnosticada com câncer de mama em outubro.","keep":true}
+{"lemma":"droga","text":"Droga! Esqueci a chave em casa.","replace":{"text":"Ele nunca experimentou nenhum tipo de droga.","translation":"He has never tried any kind of drug.","target":"droga","sense":0}}
+{"lemma":"empurrão","text":"Porradas, empurrões, idosos arrastados.","replace":{"text":"No metrô lotado, levamos vários empurrões.","translation":"On the crowded subway, we got pushed around a lot.","target":"empurrões","sense":0}}
+{"lemma":"enlouquecer","text":"Você está me enlouquecendo.","keep":true}
+{"lemma":"ereção","text":"Não empreste dinheiro a alguém que não consegue ter uma ereção matinal.","replace":{"text":"O médico explicou que o estresse pode afetar a ereção.","translation":"The doctor explained that stress can affect erectile function.","target":"ereção","sense":0}}
+{"lemma":"ereção","text":"Os problemas com a ereção podem ter várias causas.","keep":true}
+{"lemma":"erótico","text":"Ela era uma mulher inteligente com uma aura erótica.","drop":true}
+{"lemma":"erótico","text":"Estou procurando romances eróticos de ficção científica.","drop":true}
+{"lemma":"esperma","text":"O casal recorreu a um banco de esperma para ter um bebê.","keep":true}
+{"lemma":"esperma","text":"O laboratório analisou uma amostra de esperma.","keep":true}
+{"lemma":"esquilo","text":"Este esquilo está me deixando louco.","keep":true}
+{"lemma":"estuprador","text":"A polícia prendeu o estuprador depois de uma longa investigação.","drop":true}
+{"lemma":"estuprador","text":"O estuprador foi condenado a vinte anos de prisão.","drop":true}
+{"lemma":"estuprar","text":"Eu fui estuprada.","drop":true}
+{"lemma":"estuprar","text":"Fadil estuprou Layla e a abandonou.","drop":true}
+{"lemma":"estuprar","text":"Sami começou a estuprar Layla.","drop":true}
+{"lemma":"estupro","text":"Leia primeiras cenas de peça inédita de Silvia Gomez sobre estupro coletivo.","drop":true}
+{"lemma":"estupro","text":"Mais um homem querendo minimizar a cultura do estupro.","drop":true}
+{"lemma":"estupro","text":"Pelos registros policiais, nossa taxa de estupros seria menor que a dos EUA, o que parece impossível.","drop":true}
+{"lemma":"excitante","text":"A ideia de viver em Tóquio era excitante.","keep":true,"sense":1}
+{"lemma":"excitante","text":"Eu li uma história excitante.","replace":{"text":"Andar de montanha-russa é excitante e assustador.","translation":"Riding a roller coaster is exciting and scary.","target":"excitante","sense":1}}
+{"lemma":"excitante","text":"Isso é muito excitante!","replace":{"text":"A final do campeonato foi muito excitante.","translation":"The championship final was very exciting.","target":"excitante","sense":1}}
+{"lemma":"excitar","text":"A bissexualidade de Bert incomodava Tom e excitava Mary.","drop":true}
+{"lemma":"excitar","text":"Eu me excitei muito jogando beisebol.","drop":true}
+{"lemma":"externo","text":"A vagina encontra os órgãos externos na vulva.","replace":{"text":"O resultado depende de fatores externos, como o clima.","translation":"The result depends on external factors, such as the weather.","target":"externos","sense":0}}
+{"lemma":"fera","text":"Meu pai virou uma fera quando me viu acompanhado dela.","keep":true}
+{"lemma":"feto","text":"No feto, antes da descensão do testículo, o músculo cremáster não existe.","keep":true}
+{"lemma":"foder","text":"Eles foderam a noite toda.","drop":true}
+{"lemma":"foder","text":"Que se foda a polícia.","drop":true}
+{"lemma":"foder","text":"Vão se foder, todos vocês!","drop":true}
+{"lemma":"galo","text":"O galo e os outros pássaros me acordam de manhã.","keep":true}
+{"lemma":"gay","text":"Os melhores cabeleireiros são gays.","replace":{"text":"O filme conta a história de dois amigos gays.","translation":"The movie tells the story of two gay friends.","target":"gays","sense":0}}
+{"lemma":"gozar","text":"Não goze dos outros.","keep":true,"sense":1}
+{"lemma":"gozar","text":"Você está me gozando?","keep":true,"sense":1}
+{"lemma":"gozar","text":"Às vezes eu gozo do meu tempo livre pescando.","keep":true,"sense":0}
+{"lemma":"iluminação","text":"Dizem que a diferença entre arte e pornografia está na iluminação.","replace":{"text":"A iluminação da sala é fraca demais para ler.","translation":"The lighting in the living room is too dim for reading.","target":"iluminação","sense":1}}
+{"lemma":"inferno","text":"Vá para o inferno!","replace":{"text":"Na hora do rush, o trânsito é um inferno.","translation":"At rush hour, the traffic is a nightmare.","target":"inferno","sense":1}}
+{"lemma":"injeção","text":"O enfermeiro deu-me uma injeção na nádega.","keep":true}
+{"lemma":"intrometer","text":"Por que você sempre se intromete?","keep":true}
+{"lemma":"jaula","text":"O macaco está na jaula.","keep":true}
+{"lemma":"judeu","text":"Não sou tão judia assim.","keep":true}
+{"lemma":"judeu","text":"O Tom não é judeu.","keep":true}
+{"lemma":"lixar","text":"Você vai embora? Pode ir, pois eu estou pouco me lixando.","replace":{"text":"Antes de pintar, ele está lixando a porta.","translation":"Before painting, he's sanding the door.","target":"lixando","sense":0}}
+{"lemma":"louco","text":"Vocês são loucos.","keep":true}
+{"lemma":"macaco","text":"Ela parece uma macaca.","replace":{"text":"A macaca carregava o filhote nas costas.","translation":"The female monkey was carrying her baby on her back.","target":"macaca","sense":0}}
+{"lemma":"macaco","text":"Eu queria ver os macacos.","keep":true}
+{"lemma":"macaco","text":"O Tom parece um macaco.","replace":{"text":"O macaco pulou de galho em galho.","translation":"The monkey jumped from branch to branch.","target":"macaco","sense":0}}
+{"lemma":"maldito","text":"Esse maldito despertador não toca.","replace":{"text":"O pirata escondeu um tesouro maldito na ilha.","translation":"The pirate hid a cursed treasure on the island.","target":"maldito","sense":1}}
+{"lemma":"maldito","text":"Fecha a maldita porta.","drop":true}
+{"lemma":"maldito","text":"Maldita a hora em que falei sobre mim mesma na Internet.","replace":{"text":"Segundo a lenda, aquela floresta é maldita.","translation":"According to legend, that forest is cursed.","target":"maldita","sense":1}}
+{"lemma":"maluco","text":"Tom acabou de ficar maluco.","keep":true}
+{"lemma":"mama","text":"Ela não mama o bastante.","keep":true}
+{"lemma":"mama","text":"Maria morreu de câncer de mama.","keep":true}
+{"lemma":"mama","text":"O câncer de mama é uma doença.","keep":true}
+{"lemma":"mamilo","text":"A médica explicou como cuidar do mamilo durante a amamentação.","keep":true}
+{"lemma":"mamilo","text":"A pomada ajuda a aliviar a dor no mamilo.","keep":true}
+{"lemma":"maricas","text":"A mulher foi alvejada após ter supostamente chamado 'maricas e paneleiro' a um rapaz.","drop":true}
+{"lemma":"masculino","text":"Um menino é uma criança do sexo masculino.","keep":true}
+{"lemma":"masturbar","text":"As mães costumavam dizer aos seus filhos que ficariam cegos se eles se masturbassem.","drop":true}
+{"lemma":"masturbar","text":"Pasme! se masturba! diz: mexe, mexe, estou gostando, mais, mais.","drop":true}
+{"lemma":"matinal","text":"Não empreste dinheiro a alguém que não consegue ter uma ereção matinal.","replace":{"text":"Faço uma caminhada matinal todos os dias.","translation":"I take a morning walk every day.","target":"matinal","sense":0}}
+{"lemma":"merda","text":"Que merda! Perdi o ônibus de novo.","drop":true}
+{"lemma":"merda","text":"Tem merda de cachorro na calçada.","drop":true}
+{"lemma":"mijar","text":"Eu estou mijando muito.","drop":true}
+{"lemma":"mijar","text":"Eu me sento pra mijar.","drop":true}
+{"lemma":"mijar","text":"O cachorro mija na hora que quer.","drop":true}
+{"lemma":"motel","text":"Eu gostaria de informações a respeito de motéis.","replace":{"text":"Nas estradas brasileiras, há muitos motéis com nomes engraçados.","translation":"Along Brazilian highways there are many love hotels with funny names.","target":"motéis","sense":0}}
+{"lemma":"motel","text":"O senhor conhece algum bom motel que não esteja muito longe?","replace":{"text":"Os turistas estrangeiros às vezes confundem motel com hotel.","translation":"Foreign tourists sometimes confuse a love hotel with a regular hotel.","target":"motel","sense":0}}
+{"lemma":"motel","text":"Vamos voltar ao motel.","replace":{"text":"Cuidado: no Brasil, motel é um hotel só para casais.","translation":"Careful: in Brazil, a motel is a hotel for couples only.","target":"motel","sense":0}}
+{"lemma":"nazista","text":"Àqueles que criticam sua doutrinação, partem para o xingamento rasteiro de pedófilos e degenerados -adjetivo usado pelos censores nazistas.","drop":true}
+{"lemma":"nozes","text":"Bob encontrou vários tipos de nozes.","keep":true}
+{"lemma":"nozes","text":"Tom sabia que Maria não podia comer nozes.","keep":true}
+{"lemma":"nozes","text":"Você tem alguma coisa para quebrar estas nozes?","keep":true}
+{"lemma":"nu","text":"A mulher está nua.","replace":{"text":"Ele me contou a verdade nua e crua.","translation":"He told me the plain, unvarnished truth.","target":"nua","sense":0}}
+{"lemma":"nu","text":"As crianças estavam nadando nuas.","replace":{"text":"As paredes do quarto novo ainda estão nuas.","translation":"The walls of the new bedroom are still bare.","target":"nuas","sense":0}}
+{"lemma":"nu","text":"O Tom estava nu.","replace":{"text":"Dá para ver Vênus a olho nu.","translation":"You can see Venus without a telescope.","target":"nu","sense":0}}
+{"lemma":"obsceno","text":"Considero isso arte obscena.","keep":true}
+{"lemma":"obsceno","text":"Isto é obsceno.","keep":true}
+{"lemma":"obsceno","text":"Ou há fotografias tão obscenas que você não pode publicá-las?","replace":{"text":"Alguns salários de jogadores de futebol são obscenos.","translation":"Some soccer players' salaries are obscene.","target":"obscenos","sense":0}}
+{"lemma":"orgasmo","text":"Alguns dos inquiridos relataram já terem atingido o orgasmo enquanto faziam exercício.","drop":true}
+{"lemma":"orgasmo","text":"Como você pode ter certeza de que a sua namorada não finge os orgasmos?","drop":true}
+{"lemma":"orgasmo","text":"É necessária uma «masculinidade grande» para fazer com que uma mulher atinja o orgasmo.","drop":true}
+{"lemma":"otário","text":"Vá se danar, otário.","replace":{"text":"Ele caiu no golpe como um otário.","translation":"He fell for the scam like a sucker.","target":"otário","sense":0}}
+{"lemma":"pedófilo","text":"Àqueles que criticam sua doutrinação, partem para o xingamento rasteiro de pedófilos e degenerados -adjetivo usado pelos censores nazistas.","drop":true}
+{"lemma":"peidar","text":"\"Alguém peidou.\" \"Não fui eu!\"","drop":true}
+{"lemma":"peidar","text":"Ele não gostou do cheiro do meu peido e devolveu-mo à cara.","drop":true}
+{"lemma":"peidar","text":"Por que as pessoas gostam de cheirar o próprio peido?","drop":true}
+{"lemma":"peito","text":"Eu prefiro peito de frango.","keep":true}
+{"lemma":"pelado","text":"Ele correu para fora pelado.","replace":{"text":"O cachorro ficou pelado depois da tosa.","translation":"The dog was almost bald after its grooming.","target":"pelado","sense":1}}
+{"lemma":"pelado","text":"Eu não quero ver Tom pelado.","replace":{"text":"O filhote de passarinho ainda está pelado.","translation":"The baby bird still has no feathers.","target":"pelado","sense":1}}
+{"lemma":"pelado","text":"O Tom estava pelado.","replace":{"text":"O molho fica melhor com tomate pelado.","translation":"The sauce turns out better with peeled tomatoes.","target":"pelado","sense":0}}
+{"lemma":"perante","text":"A Mary não costuma ser gozada perante as pessoas.","keep":true}
+{"lemma":"perverso","text":"Não pense perverso de mim, mas vi muitas camisinhas na bolsa dela.","replace":{"text":"O vilão do filme tem um plano perverso.","translation":"The villain in the movie has a wicked plan.","target":"perverso","sense":0}}
+{"lemma":"pervertido","text":"Ele tem um senso de humor meio pervertido.","replace":{"text":"O juiz tinha um senso de justiça pervertido.","translation":"The judge had a perverted sense of justice.","target":"pervertido","sense":0}}
+{"lemma":"pervertido","text":"O filme mostra uma sociedade pervertida pela ganância.","keep":true,"sense":0}
+{"lemma":"piranha","text":"No Pantanal, os turistas pescaram piranha para o jantar.","keep":true}
+{"lemma":"piranha","text":"O rio estava cheio de piranhas, então ninguém entrou na água.","keep":true}
+{"lemma":"pirar","text":"Ela está pirada.","keep":true}
+{"lemma":"pornografia","text":"Dizem que a diferença entre arte e pornografia está na iluminação.","drop":true}
+{"lemma":"pornografia","text":"Ele tem vício em pornografia.","drop":true}
+{"lemma":"pornografia","text":"Não é pornografia; é arte.","drop":true}
+{"lemma":"pornô","text":"Na verdade eu odeio pornô.","drop":true}
+{"lemma":"pornô","text":"O autor da língua Slovio fez até um site pornô nessa língua.","drop":true}
+{"lemma":"porra","text":"Porra, a gente está velho!","drop":true}
+{"lemma":"porra","text":"Que porra está acontecendo aqui?","drop":true}
+{"lemma":"porra","text":"Que porra é essa?","drop":true}
+{"lemma":"porrada","text":"Porradas, empurrões, idosos arrastados.","drop":true}
+{"lemma":"posição","text":"Ninguém está interessado em saber quais as suas posições sexuais favoritas.","replace":{"text":"O técnico mudou as posições de dois jogadores.","translation":"The coach changed the positions of two players.","target":"posições","sense":2}}
+{"lemma":"prateado","text":"As bolas prateadas estão em volta da bola vermelha.","keep":true}
+{"lemma":"preservativo","text":"\"Sabes o que é isto?\" \"Não.\" \"É um preservativo descartado.\"","replace":{"text":"O sal tem um efeito preservativo nos alimentos.","translation":"Salt has a preservative effect on food.","target":"preservativo","sense":0}}
+{"lemma":"preservativo","text":"A Igreja Católica não aprova o uso de preservativos.","replace":{"text":"Os postos de saúde distribuem preservativos de graça.","translation":"Health centers hand out condoms for free.","target":"preservativos","sense":1}}
+{"lemma":"preservativo","text":"Você usou um preservativo para controle de natalidade, certo?","replace":{"text":"O vinagre é usado como agente preservativo nas conservas.","translation":"Vinegar is used as a preservative agent in pickles.","target":"preservativo","sense":0}}
+{"lemma":"prostituição","text":"A casa de prostituição de Fadil funcionava como uma máquina bem lubrificada.","drop":true}
+{"lemma":"prostituição","text":"A prostituição já tem sua rede instalada há tempos em Cartagena, e se alimenta principalmente de turistas estrangeiros.","drop":true}
+{"lemma":"prostituição","text":"É hora de levar a prostituição infantil a sério.","drop":true}
+{"lemma":"psiquiatra","text":"Minha psiquiatra é louca.","keep":true}
+{"lemma":"pulga","text":"Quem dorme com os cães acorda com pulgas.","keep":true}
+{"lemma":"puta","text":"Ela é uma puta.","drop":true}
+{"lemma":"puta","text":"Eu sou a mãe de um filho da puta.","drop":true}
+{"lemma":"puta","text":"Foi uma puta festa.","drop":true}
+{"lemma":"puto","text":"O Nogueira é nosso, filha da puta, anuncia ele, no início do vídeo.","drop":true}
+{"lemma":"pênis","text":"O homem é governado por seu pênis.","replace":{"text":"O urologista trata problemas nos rins, na bexiga e no pênis.","translation":"A urologist treats kidney, bladder and penile problems.","target":"pênis","sense":0}}
+{"lemma":"pênis","text":"O pênis entrou na vagina.","replace":{"text":"O câncer de pênis tem cura quando é descoberto cedo.","translation":"Penile cancer can be cured when it is found early.","target":"pênis","sense":0}}
+{"lemma":"pênis","text":"Tom tem um pênis grande.","replace":{"text":"A higiene diária ajuda a prevenir o câncer de pênis.","translation":"Daily hygiene helps prevent penile cancer.","target":"pênis","sense":0}}
+{"lemma":"rabo","text":"Olhe para aquele rabo.","replace":{"text":"O rabo do pavão é muito colorido.","translation":"The peacock's tail is very colorful.","target":"rabo","sense":0}}
+{"lemma":"raio","text":"Que raios foi isso?","replace":{"text":"Os raios de sol entravam pela janela da sala.","translation":"The sun's rays were coming in through the living room window.","target":"raios","sense":0}}
+{"lemma":"raptar","text":"Rômulo raptou as virgens das nações vizinhas.","replace":{"text":"No desenho, um disco voador raptou a vaca do fazendeiro.","translation":"In the cartoon, a flying saucer abducted the farmer's cow.","target":"raptou","sense":0}}
+{"lemma":"recepcionista","text":"Quando cheguei aqui, tentei ser recepcionista, garçonete, mas não descartava ser prostituta, não tenho preconceito.","replace":{"text":"A recepcionista do hotel nos deu um mapa da cidade.","translation":"The hotel receptionist gave us a map of the city.","target":"recepcionista","sense":0}}
+{"lemma":"redondo","text":"Bolas são redondas.","keep":true}
+{"lemma":"relatar","text":"Alguns dos inquiridos relataram já terem atingido o orgasmo enquanto faziam exercício.","replace":{"text":"Os turistas relataram que o hotel estava muito sujo.","translation":"The tourists reported that the hotel was very dirty.","target":"relataram","sense":1}}
+{"lemma":"relação","text":"Eu não tive relações sexuais com essa mulher.","replace":{"text":"Ela tem boas relações com todos os vizinhos.","translation":"She has good relations with all her neighbors.","target":"relações","sense":1}}
+{"lemma":"repleto","text":"A floresta está repleta de macacos.","keep":true}
+{"lemma":"retardado","text":"Dizem que sou retardado.","replace":{"text":"Por causa da seca, o crescimento do milho foi retardado.","translation":"Because of the drought, the corn's growth was delayed.","target":"retardado","sense":0}}
+{"lemma":"retardado","text":"Eu sou retardado demais!","replace":{"text":"Esse remédio tem efeito retardado; espere uma hora.","translation":"This medicine has a delayed effect; wait an hour.","target":"retardado","sense":0}}
+{"lemma":"retardado","text":"O amor não é cego, é retardado.","replace":{"text":"Neste ano, a florada dos ipês foi retardada pelo frio.","translation":"This year, the cold delayed the blooming of the ipê trees.","target":"retardada","sense":0}}
+{"lemma":"retomar","text":"Todos os judeus foram expulsos de Buda após a retomada desta pela Hungria.","keep":true}
+{"lemma":"safar","text":"Ele é um safado.","replace":{"text":"Ela se safou da multa com uma boa desculpa.","translation":"She got out of the fine with a good excuse.","target":"safou","sense":5}}
+{"lemma":"satisfação","text":"Não consigo ter satisfação sexual.","replace":{"text":"Foi uma grande satisfação conhecer você.","translation":"It was a great pleasure to meet you.","target":"satisfação","sense":0}}
+{"lemma":"sedutor","text":"Você tem olhos sedutores.","replace":{"text":"Os preços sedutores atraíram muitos clientes.","translation":"The tempting prices attracted many customers.","target":"sedutores","sense":1}}
+{"lemma":"seduzir","text":"Ela foi seduzida por Tom.","replace":{"text":"Fiquei seduzida pela ideia de morar na praia.","translation":"I was tempted by the idea of living by the beach.","target":"seduzida","sense":1}}
+{"lemma":"seduzir","text":"Quem estava seduzindo quem?","replace":{"text":"O cheiro de pão quente estava seduzindo todo mundo na rua.","translation":"The smell of warm bread was tempting everyone on the street.","target":"seduzindo","sense":1}}
+{"lemma":"seduzir","text":"Você não pode me seduzir.","replace":{"text":"A propaganda tenta seduzir o consumidor com preços baixos.","translation":"The ad tries to lure consumers with low prices.","target":"seduzir","sense":1}}
+{"lemma":"seio","text":"A namorada dela tem os seios muito pequenos.","replace":{"text":"Ele está com uma inflamação nos seios da face.","translation":"He has an inflammation of the sinuses.","target":"seios","sense":3}}
+{"lemma":"seio","text":"Eu bebo o leite do seio de minha mãe.","replace":{"text":"Ele cresceu no seio de uma família humilde.","translation":"He grew up in the bosom of a humble family.","target":"seio","sense":2}}
+{"lemma":"seio","text":"Os seios dela são de verdade ou falsos?","replace":{"text":"Quando estou gripado, sinto dor nos seios da face.","translation":"When I have the flu, my sinuses hurt.","target":"seios","sense":3}}
+{"lemma":"sensual","text":"Esta garota é incrivelmente sensual.","replace":{"text":"O tango é uma dança elegante e sensual.","translation":"Tango is an elegant and sensual dance.","target":"sensual","sense":0}}
+{"lemma":"sexo","text":"Hipismo é o único evento olímpico que mistura ambos os sexos.","keep":true}
+{"lemma":"sexo","text":"Quando foi a última vez que você fez sexo?","replace":{"text":"Preencha o formulário com seu nome, idade e sexo.","translation":"Fill in the form with your name, age and gender.","target":"sexo","sense":1}}
+{"lemma":"sexo","text":"Quero fazer sexo com ela.","replace":{"text":"O médico já sabe o sexo do bebê.","translation":"The doctor already knows if the baby is a boy or a girl.","target":"sexo","sense":0}}
+{"lemma":"sexual","text":"Ele não quer que você fale para ele sobre a sua vida sexual.","replace":{"text":"As abelhas ajudam na reprodução sexual de muitas plantas.","translation":"Bees help with the sexual reproduction of many plants.","target":"sexual","sense":0}}
+{"lemma":"sexual","text":"Não tem nada de sexual nisso.","replace":{"text":"Nas plantas, a reprodução sexual acontece nas flores.","translation":"In plants, sexual reproduction takes place in the flowers.","target":"sexual","sense":0}}
+{"lemma":"sexualmente","text":"A Mary é sexualmente ativa.","replace":{"text":"As tartarugas marinhas demoram anos para ficar sexualmente maduras.","translation":"Sea turtles take years to reach breeding age.","target":"sexualmente","sense":0}}
+{"lemma":"sexualmente","text":"A vida é uma doença fatal sexualmente transmissível.","replace":{"text":"Muitas doenças sexualmente transmissíveis não causam sintomas.","translation":"Many STDs cause no symptoms at all.","target":"sexualmente","sense":0}}
+{"lemma":"sexualmente","text":"O médico me disse que havia contraído uma doença sexualmente transmissível.","replace":{"text":"O posto de saúde faz exames de doenças sexualmente transmissíveis de graça.","translation":"The health center offers free STD tests.","target":"sexualmente","sense":0}}
+{"lemma":"sexy","text":"Eu estava olhando um cara sexy quando minha amiga chegou.","replace":{"text":"Matemática não é um assunto muito sexy, mas é útil.","translation":"Math isn't a very sexy subject, but it's useful.","target":"sexy","sense":0}}
+{"lemma":"sexy","text":"Não estou tentando ser sexy.","replace":{"text":"O perfume tem um cheiro doce e sexy.","translation":"The perfume has a sweet, sexy scent.","target":"sexy","sense":0}}
+{"lemma":"sexy","text":"Você é muito sexy.","replace":{"text":"Ela achou o vestido sexy demais para o trabalho.","translation":"She thought the dress was too sexy for work.","target":"sexy","sense":0}}
+{"lemma":"site","text":"Existem poucos sites na língua Tartar na Internet.","keep":true}
+{"lemma":"strip","text":"Ela trabalhava num clube de strip para pagar a faculdade.","drop":true}
+{"lemma":"strip","text":"Na despedida de solteiro, os amigos contrataram um show de strip.","drop":true}
+{"lemma":"stripper","text":"Ela trabalha como uma stripper.","drop":true}
+{"lemma":"sugar","text":"A sanguessuga sugou o sangue dele.","keep":true}
+{"lemma":"sugar","text":"A sanguessuga sugou seu sangue.","keep":true}
+{"lemma":"sugar","text":"O vampiro suga meu sangue.","keep":true}
+{"lemma":"sutiã","text":"Ela está andando por aí de calcinha e sutiã.","replace":{"text":"Ela comprou um sutiã novo na promoção.","translation":"She bought a new bra on sale.","target":"sutiã","sense":0}}
+{"lemma":"sêmen","text":"Vale a pena engarrafar o sêmen.","replace":{"text":"O veterinário analisou o sêmen do touro.","translation":"The vet analyzed the bull's semen.","target":"sêmen","sense":0}}
+{"lemma":"testículo","text":"No feto, antes da descensão do testículo, o músculo cremáster não existe.","keep":true}
+{"lemma":"testículo","text":"Se minha tia tivesse testículos, ela seria meu tio.","replace":{"text":"O autoexame dos testículos ajuda a detectar o câncer cedo.","translation":"Testicular self-exams help detect cancer early.","target":"testículos","sense":0}}
+{"lemma":"tesão","text":"Depois de dez anos na empresa, ele perdeu o tesão pelo trabalho.","drop":true}
+{"lemma":"tesão","text":"“Tesão” é uma palavra vulgar, evite usar no trabalho.","drop":true}
+{"lemma":"teta","text":"Na trigonometria, o ângulo costuma ser chamado de teta.","keep":true}
+{"lemma":"teta","text":"O bezerro mamava na teta da vaca.","keep":true}
+{"lemma":"transa","text":"A campanha de saúde lembra: use camisinha em toda transa.","keep":true,"sense":1}
+{"lemma":"transa","text":"A médica perguntou se a última transa foi sem proteção.","keep":true,"sense":1}
+{"lemma":"transar","text":"Dan passou a noite transando com Linda.","drop":true}
+{"lemma":"transar","text":"Eu quero transar com vocês pelo ânus.","drop":true}
+{"lemma":"transar","text":"Você quer transar comigo hoje à noite?","drop":true}
+{"lemma":"transir","text":"Estamos exaustos porque transamos o dia todo.","replace":{"text":"Ele chegou em casa transido de frio.","translation":"He got home chilled to the bone.","target":"transido","sense":0}}
+{"lemma":"traseiro","text":"Olha que traseiro!","replace":{"text":"O banco traseiro do carro é bem confortável.","translation":"The back seat of the car is very comfortable.","target":"traseiro","sense":0}}
+{"lemma":"travesseiro","text":"Ela dorme com dois travesseiros.","keep":true}
+{"lemma":"trepar","text":"Com grande esforço ele trepou na árvore.","keep":true}
+{"lemma":"trepar","text":"Ele estava ao lado da treliça por onde trepava a fúcsia estimada dele.","keep":true}
+{"lemma":"troféu","text":"Sexo não é um troféu.","replace":{"text":"O time levantou o troféu no fim do campeonato.","translation":"The team lifted the trophy at the end of the championship.","target":"troféu","sense":0}}
+{"lemma":"vadia","text":"Ela é uma vadia.","drop":true}
+{"lemma":"vadia","text":"Mary me chamou de vadia estúpida.","drop":true}
+{"lemma":"vadia","text":"Quando você usa aquele vestido, você parece uma vadia.","drop":true}
+{"lemma":"vadiar","text":"Em vez de estudar, o menino passou a tarde vadiando.","keep":true}
+{"lemma":"vadiar","text":"Nas férias, a gente só quer vadiar pela praia.","keep":true}
+{"lemma":"vagabundo","text":"O vagabundo, quando rico, é chamado de turista.","keep":true}
+{"lemma":"vagabundo","text":"Respeita a polícia, vagabunda!","replace":{"text":"Essa sandália vagabunda arrebentou no primeiro dia.","translation":"This cheap sandal broke on the very first day.","target":"vagabunda","sense":4}}
+{"lemma":"vagabundo","text":"Respeita a polícia, vagabundo!","replace":{"text":"Ele viveu como um vagabundo, de cidade em cidade.","translation":"He lived like a vagabond, moving from town to town.","target":"vagabundo","sense":1}}
+{"lemma":"vagina","text":"A vagina encontra os órgãos externos na vulva.","keep":true}
+{"lemma":"vagina","text":"O pênis entrou na vagina.","replace":{"text":"O ginecologista cuida da saúde do útero e da vagina.","translation":"A gynecologist looks after the health of the uterus and vagina.","target":"vagina","sense":0}}
+{"lemma":"veado","text":"Atropelamos um veado.","keep":true}
+{"lemma":"veado","text":"O caçador atira em veados e lebres.","keep":true}
+{"lemma":"veado","text":"Por que não um touro, um cavalo, em vez de um veado?","replace":{"text":"Vimos um veado correndo no meio da mata.","translation":"We saw a deer running through the woods.","target":"veado","sense":0}}
+{"lemma":"viado","text":"A mulher foi baleada após supostamente ter chamado um rapaz de 'frouxo e viado'.","drop":true}
+{"lemma":"vice","text":"Por que homens se comportam como macacos e vice versa?","keep":true}
+{"lemma":"violar","text":"Eles querem violar nossas mulheres.","replace":{"text":"Quem violar as regras do condomínio vai pagar multa.","translation":"Anyone who breaks the building's rules will pay a fine.","target":"violar","sense":0}}
+{"lemma":"violentar","text":"Mudar o final do livro seria violentar a obra do autor.","keep":true,"sense":2}
+{"lemma":"violentar","text":"O prédio enorme violentou a paisagem da praia.","keep":true,"sense":2}
+{"lemma":"virgem","text":"O azeite virgem é mais caro.","keep":true,"sense":3}
+{"lemma":"virgem","text":"Rômulo raptou as virgens das nações vizinhas.","replace":{"text":"Ainda existem florestas virgens na Amazônia.","translation":"There are still untouched forests in the Amazon.","target":"virgens","sense":3}}
+{"lemma":"virgem","text":"Você ainda é virgem?","replace":{"text":"Essa praia ainda é virgem, sem nenhum hotel por perto.","translation":"This beach is still untouched, with no hotels nearby.","target":"virgem","sense":3}}
+{"lemma":"virgindade","text":"A virgindade de Layla era uma das coisas mais importantes que ela possuía.","drop":true}
+{"lemma":"virgindade","text":"As garotas estão perdendo a virgindade cada vez mais cedo.","drop":true}
+{"lemma":"virgindade","text":"Se Layla perdesse a virgindade, a sociedade iria provavelmente descobrir.","drop":true}
+{"lemma":"xixi","text":"A garotinha está fazendo xixi.","replace":{"text":"Vou fazer xixi antes de a gente sair.","translation":"I'm going to go to the bathroom before we leave.","target":"xixi","sense":0}}
+{"lemma":"xixi","text":"Eu preciso fazer xixi.","keep":true}
+{"lemma":"zoar","text":"Você está me zoando?","replace":{"text":"Ele só está zoando, não fica bravo.","translation":"He's just joking around; don't get mad.","target":"zoando","sense":1}}
+{"lemma":"puta","text":"Não chame ninguém de puta, porque é muito ofensivo.","drop":true}

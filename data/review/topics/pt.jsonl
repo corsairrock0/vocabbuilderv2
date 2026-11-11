@@ -1,0 +1,154 @@
+{"lemma":"do","text":"Eu sou do Egito.","replace":{"text":"Eu sou do Canadá.","translation":"I am from Canada.","target":"do"}}
+{"lemma":"longe","text":"A África do Sul está longe.","replace":{"text":"A Coreia fica muito longe daqui.","translation":"Korea is very far from here.","target":"longe"}}
+{"lemma":"telefone","text":"Estou em Tel Aviv.","replace":{"text":"Meu telefone está sem bateria.","translation":"My phone is out of battery.","target":"telefone"}}
+{"lemma":"graça","text":"Deram graças a Deus.","replace":{"text":"Ela dança com muita graça.","translation":"She dances with great grace.","target":"graça"}}
+{"lemma":"maldito","text":"Eu não peguei o seu maldito carro, meu deus do céu!","replace":{"text":"Esse maldito despertador não toca.","translation":"This damn alarm clock doesn't ring.","target":"maldito"}}
+{"lemma":"deus","text":"Só Deus sabe.","drop":true}
+{"lemma":"deus","text":"Quando soubermos o que é Deus, nós mesmos seremos deuses.","drop":true}
+{"lemma":"vontade","text":"É a vontade de Deus.","replace":{"text":"Tenho vontade de viajar para o Japão.","translation":"I feel like traveling to Japan.","target":"vontade"}}
+{"lemma":"crer","text":"Eu creio em Deus.","replace":{"text":"Eu creio que vai chover hoje.","translation":"I believe it's going to rain today.","target":"creio"}}
+{"lemma":"povo","text":"Alguns povos antigos consideravam o sol como seu deus.","replace":{"text":"Muitos povos antigos viveram na Europa.","translation":"Many ancient peoples lived in Europe.","target":"povos"}}
+{"lemma":"juro","text":"Juro por Deus que eu não matei o Tom.","replace":{"text":"O juro do banco subiu este mês.","translation":"The bank's interest rate went up this month.","target":"juro"}}
+{"lemma":"saúde","text":"Eu sou da Arábia Saudita.","replace":{"text":"Eu cuido bem da minha saúde.","translation":"I take good care of my health.","target":"saúde"}}
+{"lemma":"exceto","text":"Todas as coisas passam, exceto o amor a Deus.","replace":{"text":"Todos vieram à festa, exceto o Pedro.","translation":"Everyone came to the party except Pedro.","target":"exceto"}}
+{"lemma":"criatura","text":"Sou uma criatura de Deus e Dele faço parte.","replace":{"text":"Que criatura fofa, esse gatinho!","translation":"What a cute creature, this kitten!","target":"criatura"}}
+{"lemma":"criatura","text":"Cada criatura é uma palavra de Deus.","replace":{"text":"Essa criatura vive no fundo do mar.","translation":"This creature lives at the bottom of the sea.","target":"criatura"}}
+{"lemma":"invadir","text":"Poucos meses depois, Israel invadiu o Egito.","replace":{"text":"As formigas invadiram a cozinha.","translation":"The ants invaded the kitchen.","target":"invadiram"}}
+{"lemma":"ato","text":"Foi um ato de Deus.","replace":{"text":"Foi um ato de bondade.","translation":"It was an act of kindness.","target":"ato"}}
+{"lemma":"sul","text":"A África do Sul está longe.","replace":{"text":"Busan fica no sul da Coreia.","translation":"Busan is in the south of Korea.","target":"sul"}}
+{"lemma":"abençoar","text":"Que Deus te abençoe.","replace":{"text":"Minha avó sempre nos abençoa antes de viajar.","translation":"My grandmother always blesses us before we travel.","target":"abençoa"}}
+{"lemma":"bagunça","text":"Meu Deus, que bagunça!","replace":{"text":"Que bagunça no meu quarto!","translation":"What a mess in my room!","target":"bagunça"}}
+{"lemma":"leste","text":"A Turquia fica a leste da Grécia.","replace":{"text":"Berlim fica no leste da Alemanha.","translation":"Berlin is in the east of Germany.","target":"leste"}}
+{"lemma":"tribo","text":"A tribo Zulu da África do Sul tem a sua própria língua.","replace":{"text":"A tribo navajo mora no Arizona.","translation":"The Navajo tribe lives in Arizona.","target":"tribo"}}
+{"lemma":"norte","text":"Eu sou do norte da África.","replace":{"text":"Eu sou do norte da Itália.","translation":"I'm from northern Italy.","target":"norte"}}
+{"lemma":"deserto","text":"O Saara é o maior deserto do mundo.","replace":{"text":"O deserto de Gobi é muito grande.","translation":"The Gobi Desert is very big.","target":"deserto"}}
+{"lemma":"recurso","text":"A quem pertencem os recursos da África?","replace":{"text":"A escola tem poucos recursos.","translation":"The school has few resources.","target":"recursos"}}
+{"lemma":"virgem","text":"A Virgem Maria é a mãe de Jesus.","replace":{"text":"O azeite virgem é mais caro.","translation":"Virgin olive oil is more expensive.","target":"virgem"}}
+{"lemma":"cristão","text":"Os cristãos acreditam em Jesus Cristo.","replace":{"text":"Meu vizinho é cristão e vai à missa.","translation":"My neighbor is Christian and goes to Mass.","target":"cristão"}}
+{"lemma":"santo","text":"Na Idade Média, eram mortos todos aqueles que iam contra às Santas Escrituras.","replace":{"text":"Ele é um santo, ajuda todo mundo.","translation":"He's a saint, he helps everybody.","target":"santo"}}
+{"lemma":"sexta-feira","text":"Graças a Deus que hoje é sexta!","replace":{"text":"Hoje é sexta, vamos ao cinema!","translation":"Today is Friday, let's go to the movies!","target":"sexta"}}
+{"lemma":"divisão","text":"Segundo o Hamas, o grupo responde a \"generosos esforços egípcios para acabar com a divisão e alcançar unidade nacional\".","replace":{"text":"A divisão do trabalho foi justa.","translation":"The division of labor was fair.","target":"divisão"}}
+{"lemma":"faminto","text":"Muitas pessoas na África estão famintas.","replace":{"text":"As crianças chegaram famintas da escola.","translation":"The kids came home from school starving.","target":"famintas"}}
+{"lemma":"bíblia","text":"Quem escreveu a Bíblia?","drop":true}
+{"lemma":"bíblia","text":"Isso não tem nada a ver com a Bíblia.","drop":true}
+{"lemma":"bíblia","text":"É a primeira vez que leio a Bíblia.","drop":true}
+{"lemma":"indiano","text":"Ele é indiano e fala Inglês.","drop":true}
+{"lemma":"indiano","text":"Eles queriam viver em paz com os indianos.","drop":true}
+{"lemma":"indiano","text":"Eu gosto de comida indiana.","drop":true}
+{"lemma":"capital","text":"Quantas capitais tem a África do Sul?","replace":{"text":"Quantas capitais da Europa você conhece?","translation":"How many European capitals do you know?","target":"capitais"}}
+{"lemma":"oração","text":"Deus ouviu minhas orações.","replace":{"text":"Essa oração tem um verbo só.","translation":"This clause has only one verb.","target":"oração"}}
+{"lemma":"população","text":"Qual é a população da Índia?","replace":{"text":"Qual é a população do Canadá?","translation":"What is the population of Canada?","target":"população"}}
+{"lemma":"criação","text":"As mulheres são a melhor criação de Deus.","replace":{"text":"A criação do site levou um mês.","translation":"Creating the website took a month.","target":"criação"}}
+{"lemma":"estátua","text":"Depois fomos a Belém ver as estátuas.","replace":{"text":"Depois fomos a Lisboa ver as estátuas.","translation":"Afterwards we went to Lisbon to see the statues.","target":"estátuas"}}
+{"lemma":"alar","text":"Alá é o Ser Supremo.","replace":{"text":"A membrana alar do morcego é fina.","translation":"The bat's wing membrane is thin.","target":"alar"}}
+{"lemma":"alar","text":"Eu acredito em Alá.","replace":{"text":"Esse osso alar é muito pequeno.","translation":"This wing bone is very small.","target":"alar"}}
+{"lemma":"alar","text":"Alá é grande!","replace":{"text":"O músculo alar do pássaro é forte.","translation":"The bird's wing muscle is strong.","target":"alar"}}
+{"lemma":"civilização","text":"As primeiras civilizações surgiram na Mesopotâmia.","replace":{"text":"As primeiras civilizações da Ásia surgiram perto de rios.","translation":"The earliest civilizations in Asia arose near rivers.","target":"civilizações"}}
+{"lemma":"benefício","text":"Isto é para o benefício da Argélia.","replace":{"text":"Isto é para o benefício de todos.","translation":"This is for everyone's benefit.","target":"benefício"}}
+{"lemma":"trânsito","text":"A pior parte de morar em Istambul é ficar preso no trânsito.","replace":{"text":"A pior parte de morar em Seul é o trânsito.","translation":"The worst part of living in Seoul is the traffic.","target":"trânsito"}}
+{"lemma":"conceder","text":"Se Deus nos concedesse ter um filho!","replace":{"text":"O banco vai conceder o empréstimo.","translation":"The bank will grant the loan.","target":"conceder"}}
+{"lemma":"excitante","text":"A ideia de viver no Egito era excitante para Fadil.","replace":{"text":"A ideia de viver em Tóquio era excitante.","translation":"The idea of living in Tokyo was exciting.","target":"excitante"}}
+{"lemma":"piedade","text":"Que Deus tenha piedade de todos nós.","replace":{"text":"Tenha piedade, não grite comigo!","translation":"Have mercy, don't yell at me!","target":"piedade"}}
+{"lemma":"testamento","text":"\"O Antigo Testamento\" é a primeira parte da Bíblia.","replace":{"text":"Meu avô deixou um testamento.","translation":"My grandfather left a will.","target":"testamento"}}
+{"lemma":"investimento","text":"A Argélia precisa atrair mais investimentos.","replace":{"text":"Esse investimento deu muito lucro.","translation":"This investment made a lot of profit.","target":"investimento"}}
+{"lemma":"jesus","text":"O que Jesus faria?","drop":true}
+{"lemma":"jesus","text":"A Virgem Maria é a mãe de Jesus.","drop":true}
+{"lemma":"jesus","text":"A paz do senhor Jesus a todos.","drop":true}
+{"lemma":"misericórdia","text":"Ainda bem que Deus teve misericórdia de nós.","replace":{"text":"Misericórdia, que calor hoje!","translation":"Goodness, it's so hot today!","target":"Misericórdia"}}
+{"lemma":"condado","text":"O Quénia tem quatro matadouros de burros repartidos por quatro condados.","replace":{"text":"Esse condado fica perto de Chicago.","translation":"This county is near Chicago.","target":"condado"}}
+{"lemma":"castigar","text":"O Senhor castiga a quem ama.","replace":{"text":"Minha mãe vai me castigar se eu chegar tarde.","translation":"My mom will ground me if I'm late.","target":"castigar"}}
+{"lemma":"circular","text":"A riqueza de Deus está circulando em minha vida.","replace":{"text":"O ar está circulando bem na sala.","translation":"The air is circulating well in the room.","target":"circulando"}}
+{"lemma":"converter","text":"Quando Fadil se converteu ao Islã?","replace":{"text":"Quero converter metros em pés.","translation":"I want to convert meters into feet.","target":"converter"}}
+{"lemma":"média","text":"Na Idade Média, eram mortos todos aqueles que iam contra as Sagradas Escrituras.","replace":{"text":"Minha média na escola é oito.","translation":"My average at school is eight.","target":"média"}}
+{"lemma":"fluxo","text":"Ela refez o cálculo e estancou o fluxo migratório, mas às custas de um acordo da União Europeia com a Turquia.","replace":{"text":"O fluxo de carros em Tóquio é grande.","translation":"The flow of cars in Tokyo is heavy.","target":"fluxo"}}
+{"lemma":"barril","text":"O preço do petróleo no Oriente Médio aumentou para cinco dólares por barril.","replace":{"text":"O barril de cerveja ficou na adega.","translation":"The beer barrel stayed in the cellar.","target":"barril"}}
+{"lemma":"muçulmano","text":"Você ainda é muçulmano, não é?","drop":true}
+{"lemma":"muçulmano","text":"Ela é uma chinesa muçulmana de olhos azuis.","drop":true}
+{"lemma":"muçulmano","text":"O livro sagrado dos muçulmanos é o Corão.","drop":true}
+{"lemma":"continente","text":"A África é um continente; a Groelândia não o é.","replace":{"text":"A Europa é um continente; a Groenlândia não é.","translation":"Europe is a continent; Greenland is not.","target":"continente"}}
+{"lemma":"justiça","text":"A verdadeira justiça está nas mãos de Deus.","replace":{"text":"A justiça demora, mas chega.","translation":"Justice is slow, but it arrives.","target":"justiça"}}
+{"lemma":"bloqueio","text":"Desde a criação do comitê, Abbas intensificou esforços para enfraquecer o Hamas, que enfrenta bloqueio israelense e egípcio, além de isolamento internacional.","replace":{"text":"Teve um bloqueio na estrada por causa da neve.","translation":"There was a roadblock because of the snow.","target":"bloqueio"}}
+{"lemma":"colônia","text":"O Quênia era uma colônia britânica.","replace":{"text":"As formigas formam uma colônia grande.","translation":"Ants form a big colony.","target":"colônia"}}
+{"lemma":"colônia","text":"Uma vez, a Nigéria foi uma colônia britânica.","replace":{"text":"Ele usa uma colônia de lavanda.","translation":"He wears a lavender cologne.","target":"colônia"}}
+{"lemma":"regular","text":"O Turco é uma língua muito regular e lógica.","replace":{"text":"O horário do ônibus é regular.","translation":"The bus schedule is regular.","target":"regular"}}
+{"lemma":"mago","text":"Segundo a Bíblia, os Reis Magos foram guiados até Jesus por uma estrela luminosa.","replace":{"text":"O mago tirou um coelho da cartola.","translation":"The magician pulled a rabbit from the hat.","target":"mago"}}
+{"lemma":"árabe","text":"O árabe é difícil?","drop":true}
+{"lemma":"árabe","text":"Vocês são árabes?","drop":true}
+{"lemma":"árabe","text":"Eu não falo árabe muito bem.","drop":true}
+{"lemma":"particularmente","text":"O interesse pelo alemão está crescendo, particularmente na China, Índia e Brasil.","replace":{"text":"Gosto de frutas, particularmente de manga.","translation":"I like fruit, particularly mango.","target":"particularmente"}}
+{"lemma":"africano","text":"Há muitos africanos na Alemanha?","drop":true}
+{"lemma":"africano","text":"Eu sei falar muitas línguas africanas.","drop":true}
+{"lemma":"africano","text":"Quais são as diferenças entre os elefantes Africano e Asiático ?","drop":true}
+{"lemma":"turco","text":"O Tom tem uma amiga turca.","drop":true}
+{"lemma":"turco","text":"Eu não falo turco.","drop":true}
+{"lemma":"turco","text":"Quantos turcos vivem na Grécia?","drop":true}
+{"lemma":"profeta","text":"Não sou um profeta.","drop":true}
+{"lemma":"profeta","text":"O melhor profeta do futuro é o passado.","drop":true}
+{"lemma":"profeta","text":"Eu juro pelas barbas do profeta.","drop":true}
+{"lemma":"pirâmide","text":"Pense nas pirâmides do Egito. Como foram construídas?","replace":{"text":"A pirâmide de vidro do Louvre é famosa.","translation":"The Louvre's glass pyramid is famous.","target":"pirâmide"}}
+{"lemma":"cova","text":"Muçulmanos enterram seus mortos em covas.","replace":{"text":"O cachorro cavou uma cova no jardim.","translation":"The dog dug a hole in the garden.","target":"cova"}}
+{"lemma":"econômico","text":"A Argélia tem relações econômicas fortes com a Turquia.","replace":{"text":"Esse carro é muito econômico.","translation":"This car is very economical.","target":"econômico"}}
+{"lemma":"consultório","text":"O Fadil abriu o seu consultório em Cairo.","replace":{"text":"O Fadil abriu seu consultório em Seul.","translation":"Fadil opened his office in Seoul.","target":"consultório"}}
+{"lemma":"consultório","text":"Fadil abriu seu próprio consultório no Cairo.","replace":{"text":"A dentista abriu um consultório em Toronto.","translation":"The dentist opened a practice in Toronto.","target":"consultório"}}
+{"lemma":"madre","text":"Madre Teresa foi uma freira católica que viveu e trabalhou em Calcutá, na Índia.","replace":{"text":"A madre do convento cuida do jardim.","translation":"The mother superior of the convent tends the garden.","target":"madre"}}
+{"lemma":"vacina","text":"Usar essas vacinas viola o mandamento sagrado de Nosso Senhor Jesus Cristo.","replace":{"text":"As vacinas ficam na geladeira.","translation":"The vaccines are kept in the fridge.","target":"vacinas"}}
+{"lemma":"pacto","text":"Na prática, Merkel ficou vulnerável ao presidente turco, Recep Erdogan, que volta e meia ameaça romper o pacto.","replace":{"text":"Os dois amigos fizeram um pacto.","translation":"The two friends made a pact.","target":"pacto"}}
+{"lemma":"egípcio","text":"O egípcio ainda é falado?","drop":true}
+{"lemma":"egípcio","text":"Eu gostaria de saber mais sobre a tecnologia utilizada na construção das pirâmides egípcias.","drop":true}
+{"lemma":"egípcio","text":"Os gatos foram domesticados pelos egípcios.","drop":true}
+{"lemma":"cultivar","text":"O chá é muito cultivado na Índia.","replace":{"text":"O chá é muito cultivado no Japão.","translation":"Tea is widely grown in Japan.","target":"cultivado"}}
+{"lemma":"anual","text":"A Páscoa é a festa anual dos cristãos, comemorativa da ressurreição de Cristo.","replace":{"text":"O festival anual de Kyoto atrai muita gente.","translation":"The annual Kyoto festival attracts many people.","target":"anual"}}
+{"lemma":"arcar","text":"Quantos animais de cada espécie havia na arca de Moisés?","replace":{"text":"Não posso arcar com esse aluguel em Tóquio.","translation":"I can't afford that rent in Tokyo.","target":"arcar"}}
+{"lemma":"verso","text":"Ele está lendo versos do Corão.","replace":{"text":"Ele está lendo versos de poesia.","translation":"He is reading verses of poetry.","target":"versos"}}
+{"lemma":"corrupção","text":"A Argélia precisa erradicar a corrupção.","replace":{"text":"A corrupção do arquivo apagou minhas fotos.","translation":"The corruption of the file erased my photos.","target":"corrupção"}}
+{"lemma":"aleluia","text":"Aleluia é uma expressão de adoração ou agradecimento a Deus.","drop":true}
+{"lemma":"revelação","text":"A mais alta revelação é que em cada homem Deus é.","replace":{"text":"Esse jovem cantor foi a revelação do ano.","translation":"That young singer was the revelation of the year.","target":"revelação"}}
+{"lemma":"ganso","text":"Gansos veem Deus?","replace":{"text":"Gansos nadam no lago do parque.","translation":"Geese swim in the park lake.","target":"Gansos"}}
+{"lemma":"trapaceiro","text":"Existe um deus trapaceiro.","replace":{"text":"Aquele jogador é um trapaceiro.","translation":"That player is a cheater.","target":"trapaceiro"}}
+{"lemma":"comprimento","text":"Qual é o comprimento do Rio Nilo?","replace":{"text":"Qual é o comprimento do Rio Reno?","translation":"How long is the Rhine River?","target":"comprimento"}}
+{"lemma":"transplante","text":"Há sete meses, Luana passou por um transplante de medula no hospital Sírio-Libanês, em São Paulo.","replace":{"text":"O transplante de rim foi um sucesso.","translation":"The kidney transplant was a success.","target":"transplante"}}
+{"lemma":"participação","text":"A participação dos muçulmanos na política é de fundamental importância na sociedade.","replace":{"text":"A participação dos alunos foi ótima.","translation":"The students' participation was great.","target":"participação"}}
+{"lemma":"gigantesco","text":"A Argélia é um país gigantesco.","replace":{"text":"O Canadá é um país gigantesco.","translation":"Canada is a gigantic country.","target":"gigantesco"}}
+{"lemma":"injustiça","text":"Os norte-africanos não toleram injustiça e opressão.","replace":{"text":"Ninguém tolera injustiça.","translation":"Nobody tolerates injustice.","target":"injustiça"}}
+{"lemma":"sepultura","text":"Os muçulmanos enterram seus mortos em sepulturas.","replace":{"text":"A sepultura fica no fundo do cemitério.","translation":"The grave is at the back of the cemetery.","target":"sepultura"}}
+{"lemma":"buda","text":"Não existe nenhum Deus e nenhum Buda.","replace":{"text":"Há uma estátua de Buda em Quioto.","translation":"There is a Buddha statue in Kyoto.","target":"Buda"}}
+{"lemma":"escritura","text":"Na Idade Média, eram mortos todos aqueles que iam contra as Sagradas Escrituras.","replace":{"text":"A escritura da casa está no cartório.","translation":"The deed to the house is at the registry office.","target":"escritura"}}
+{"lemma":"prece","text":"Deus ouviu minhas preces.","replace":{"text":"Ela fez uma prece silenciosa.","translation":"She said a silent prayer.","target":"prece"}}
+{"lemma":"conceber","text":"Como se sabe, Gil concebeu o trabalho após uma viagem à Nigéria.","replace":{"text":"Ele concebeu o projeto depois de uma viagem a Kyoto.","translation":"He conceived the project after a trip to Kyoto.","target":"concebeu"}}
+{"lemma":"orientar","text":"Ninguém sabe se haverá uma guerra no Oriente Médio.","replace":{"text":"Meu professor vai me orientar na tese.","translation":"My professor will guide me on my thesis.","target":"orientar"}}
+{"lemma":"mercenário","text":"Quantos mercenários teria necessário a fim de ganhar a guerra no Iraque?","replace":{"text":"Ele é muito mercenário, só pensa em dinheiro.","translation":"He's very mercenary, he only thinks about money.","target":"mercenário"}}
+{"lemma":"triângulo","text":"Se os triângulos fizessem um deus, lhe dariam três lados.","replace":{"text":"Desenhe dois triângulos no caderno.","translation":"Draw two triangles in your notebook.","target":"triângulos"}}
+{"lemma":"retribuir","text":"Se Deus nos criou à sua própria imagem, nós temos retribuído generosamente.","replace":{"text":"Quero retribuir o seu favor.","translation":"I want to repay your favor.","target":"retribuir"}}
+{"lemma":"crescente","text":"Autoridades locais e organizações internacionais se esforçam para administrar o crescente êxodo, sem precedentes neste conflito.","replace":{"text":"Há um interesse crescente por música coreana.","translation":"There is a growing interest in Korean music.","target":"crescente"}}
+{"lemma":"palestino","text":"A esposa do Sami é palestina.","drop":true}
+{"lemma":"palestino","text":"Oh, você é palestino!","drop":true}
+{"lemma":"palestino","text":"Jerusalém é a capital da Palestina.","drop":true}
+{"lemma":"reverter","text":"Meu pai reverteu ao islã.","replace":{"text":"Preciso reverter essa mudança.","translation":"I need to revert this change.","target":"reverter"}}
+{"lemma":"eternamente","text":"O Deus único, que existe eternamente como três pessoas, Pai, Filho e Espírito Santo.","replace":{"text":"Vou ser eternamente grata pela ajuda.","translation":"I will be eternally grateful for the help.","target":"eternamente"}}
+{"lemma":"catástrofe","text":"Nossa viagem à África tornou-se uma catástrofe.","replace":{"text":"Nossa viagem a Chicago virou uma catástrofe.","translation":"Our trip to Chicago turned into a catastrophe.","target":"catástrofe"}}
+{"lemma":"precedente","text":"Autoridades locais e organizações internacionais se esforçam para administrar o crescente êxodo, sem precedentes neste conflito.","replace":{"text":"Esse caso não tem precedentes na empresa.","translation":"This case has no precedents in the company.","target":"precedentes"}}
+{"lemma":"faraó","text":"Ramses II foi um faraó egípcio.","drop":true}
+{"lemma":"faraó","text":"\"Mas isso é matemática pura, para que serve?\", questiona o faraó.","drop":true}
+{"lemma":"australiano","text":"Esta Bíblia veio de uma fundação australiana.","replace":{"text":"Esta cerveja é de uma marca australiana.","translation":"This beer is from an Australian brand.","target":"australiana"}}
+{"lemma":"gracioso","text":"Em nome de Deus, o mais gracioso, o mais misericordioso.","replace":{"text":"A bailarina é muito graciosa.","translation":"The dancer is very graceful.","target":"graciosa"}}
+{"lemma":"matemático","text":"As leis da natureza são apenas os pensamentos matemáticos de Deus.","replace":{"text":"Meu irmão tem um raciocínio matemático rápido.","translation":"My brother has quick mathematical reasoning.","target":"matemático"}}
+{"lemma":"retratar","text":"Este filme retrata os muçulmanos como pessoas más.","replace":{"text":"Este filme retrata a vida em Tóquio.","translation":"This film portrays life in Tokyo.","target":"retrata"}}
+{"lemma":"citação","text":"Estas são todas citações da Bíblia.","replace":{"text":"Estas são citações de um romance famoso.","translation":"These are quotations from a famous novel.","target":"citações"}}
+{"lemma":"golfo","text":"O Golfo Pérsico se localiza entre o Irã (Pérsia) e a Península Arábica.","replace":{"text":"O Golfo do México fica ao sul do Texas.","translation":"The Gulf of Mexico is south of Texas.","target":"Golfo"}}
+{"lemma":"golfo","text":"O Golfo Pérsico é um elemento de identidade histórica para o povo iraniano.","replace":{"text":"O golfo de Biscaia fica perto da França.","translation":"The Bay of Biscay is near France.","target":"golfo"}}
+{"lemma":"proporção","text":"Foi um dilúvio de proporções bíblicas.","replace":{"text":"Foi uma chuva de grandes proporções.","translation":"It was a rainstorm of great proportions.","target":"proporções"}}
+{"lemma":"noroeste","text":"\"Isto é árabe?\" \"Não, é uigur, uma língua falada no noroeste da China.\"","replace":{"text":"Seattle fica no noroeste dos Estados Unidos.","translation":"Seattle is in the northwest of the United States.","target":"noroeste"}}
+{"lemma":"noroeste","text":"Os rohingyas são uma minoria de fé muçulmana que se concentra no Estado de Rakhine, no noroeste de Mianmar.","replace":{"text":"A Galiza fica no noroeste da Espanha.","translation":"Galicia is in the northwest of Spain.","target":"noroeste"}}
+{"lemma":"medula","text":"Há sete meses, Luana passou por um transplante de medula no hospital Sírio-Libanês, em São Paulo.","replace":{"text":"A medula do osso é macia.","translation":"The bone marrow is soft.","target":"medula"}}
+{"lemma":"hindu","text":"As vacas são sagradas para os hindus.","drop":true}
+{"lemma":"hindu","text":"O rio Ganges é considerado sagrado para os hindus.","drop":true}
+{"lemma":"hindu","text":"As vacas são, para os hindus, animais sagrados.","drop":true}
+{"lemma":"trecho","text":"Ele citou um trecho da Bíblia.","replace":{"text":"Ele leu um trecho do romance.","translation":"He read an excerpt from the novel.","target":"trecho"}}
+{"lemma":"apólice","text":"A apólice de seguro não abrange ocorrências inevitáveis, como furacões ou terremotos.","replace":{"text":"A apólice de seguro cobre roubo e incêndio.","translation":"The insurance policy covers theft and fire.","target":"apólice"}}
+{"lemma":"ocorrência","text":"A apólice de seguro não abrange ocorrências inevitáveis, como furacões ou terremotos.","replace":{"text":"Houve duas ocorrências na estação de Kyoto.","translation":"There were two incidents at Kyoto station.","target":"ocorrências"}}
+{"lemma":"bíblico","text":"Este é um grupo de estudos bíblicos.","drop":true}
+{"lemma":"bíblico","text":"Foi um dilúvio de proporções bíblicas.","drop":true}
+{"lemma":"bíblico","text":"Este é um texto bíblico.","drop":true}
+{"lemma":"messias","text":"Muitos judeus ainda esperam a vinda do messias.","drop":true}
+{"lemma":"messias","text":"O novo técnico foi recebido como um messias pela torcida.","drop":true}
+{"lemma":"bilhar","text":"O pai de Fadil era dono de um salão de bilhar no Cairo.","replace":{"text":"O pai dele tinha um salão de bilhar em Osaka.","translation":"His father owned a billiard parlor in Osaka.","target":"bilhar"}}

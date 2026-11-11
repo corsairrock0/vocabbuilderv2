@@ -1,0 +1,35 @@
+# VocabBuilder — Caddy for a public domain with automatic HTTPS (Let's Encrypt / ZeroSSL).
+# Requirements: a DNS A/AAAA record for VB_DOMAIN pointing at this server, and ports 80 + 443 reachable.
+# Also used for Tailscale *.ts.net names (Caddy gets Tailscale certificates automatically;
+# mount the tailscaled socket as shown in docker-compose.yml).
+# For LAN-only access without a public domain use deploy/Caddyfile.lan (VB_CADDYFILE in .env).
+# Reference: https://caddyserver.com/docs/caddyfile
+{
+	# Expands to "email you@example.com" when ACME_EMAIL is set in .env, otherwise to nothing.
+	{$CADDY_EMAIL_OPTION}
+	admin localhost:2019
+}
+
+(vocabbuilder) {
+	# Compress text responses (HTML, JS, CSS, JSON). Forvo audio never passes through this server.
+	encode zstd gzip
+
+	# Largest accepted request body. The app enforces tighter limits per endpoint
+	# (1 MB for JSON, VB_MAX_UPLOAD_MB for imports); restoring an uploaded backup can be large.
+	request_body {
+		max_size 1GB
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		-Server
+	}
+
+	# Caddy passes the original Host header and sets X-Forwarded-For/-Proto/-Host
+	# (spoofed incoming X-Forwarded-* values are ignored), which the app trusts via VB_TRUST_PROXY=1.
+	reverse_proxy app:3000
+}
+
+{$VB_DOMAIN} {
+	import vocabbuilder
+}

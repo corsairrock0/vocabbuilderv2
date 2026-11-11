@@ -1,0 +1,18 @@
+{"lemma":"затримати","pos":"verb","rank":1364,"drop":[],"gloss":{"1":"to delay, to slow down, to hinder, to stem, to check, to inhibit"},"why":"to retard (delay) is fine but reads like the ableist slur"}
+{"lemma":"сука","pos":"noun","rank":1772,"drop":[0],"gloss":{},"why":"meaning 0 (bitch, fucker) is a vulgar insult; female dog (1) kept"}
+{"lemma":"актив","pos":"noun","rank":1785,"drop":[2],"gloss":{},"why":"meaning 2 (top: gay man who penetrates in sex) is explicit sexual slang"}
+{"lemma":"чорт","pos":"noun","rank":2153,"drop":[1],"gloss":{},"why":"meaning 1 is the curse damn! hell!"}
+{"lemma":"клятий","pos":"adjective","rank":2911,"drop":[1],"gloss":{},"why":"meaning 1 (damned, damn as an expletive) is a curse intensifier; cursed (0) and stubborn (2) kept"}
+{"lemma":"мусор","pos":"noun","rank":2984,"drop":[],"gloss":{"0":"cop (police officer)"},"why":"only meaning: derogatory slang for the police, kept like Polish pies but with pig taken out of the English. Both sentences call it crude slang, so the owner may want to leave the word out"}
+{"lemma":"бидло","pos":"noun","rank":3638,"drop":[1],"gloss":{},"why":"meaning 1 (rabble, stupid people) is an offensive insult for people; the first [all] sentence explains that insult"}
+{"lemma":"божевільний","pos":"adjective","rank":3714,"drop":[],"gloss":{"0":"mad, lunatic, crazy, insane"},"why":"retarded is an ableist slur and not what the word means"}
+{"lemma":"маячня","pos":"noun","rank":4128,"drop":[],"gloss":{"1":"drivel, hogwash (deceptive or exaggerated nonsense)"},"why":"маячня is not vulgar; meaning 1 was worded with the English bullshit"}
+{"lemma":"орк","pos":"noun","rank":4511,"drop":[1],"gloss":{},"why":"meaning 1 (Russian invader) is a dehumanizing slur for Russians, like the already excluded москаль and кацап; orc (0) kept"}
+{"lemma":"дідько","pos":"noun","rank":4844,"drop":[2],"gloss":{},"why":"meaning 2 is the curse damn! hell!"}
+{"lemma":"виродок","pos":"noun","rank":4849,"drop":[2],"gloss":{},"why":"meaning 2 (bastard, contemptible person) is a crude insult; freak (0) and degenerate (1) kept"}
+{"lemma":"затримувати","pos":"verb","rank":5335,"drop":[],"gloss":{"1":"to delay, to slow down, to hinder, to stem, to check, to inhibit"},"why":"to retard (delay) is fine but reads like the ableist slur"}
+{"lemma":"циган","pos":"noun","rank":5502,"drop":[],"gloss":{"0":"Roma, a Romani person"},"why":"Gypsy is offensive English for the Roma"}
+{"lemma":"проклятий","pos":"adjective","rank":5680,"drop":[0,3],"gloss":{},"why":"meanings 0 and 3 are the expletive damn, damned (a curse intensifier); god-forsaken (1) and cursed (2) kept"}
+{"lemma":"москва","pos":"noun","rank":997,"drop":[],"gloss":{"0":"Moscow (the capital of Russia)"},"note":{"0":null},"display":"Москва́","why":"the dictionary data matched the city to its lowercase homograph, a collective word for Russians used as an insult; the word's frequency and its sentences are the city"}
+{"lemma":"киянин","pos":"noun","rank":3715,"drop":[],"gloss":{"0":"Kyivite, Kyivan (resident of Kyiv)"},"why":"Kyiv, the standard English spelling, as in the sentence translations"}
+{"lemma":"укладення","pos":"noun","rank":5844,"drop":[],"gloss":{"0":"conclusion, signing (of a contract or an agreement)"},"why":"the listed meaning, a file attached to a message, belongs to вкладення; укладення is concluding a contract, as its sentences show"}

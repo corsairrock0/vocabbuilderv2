@@ -1,0 +1,29 @@
+{"lemma":"chết","pos":"verb","rank":131,"drop":[],"gloss":{"3":"oh no!, oh dear!"},"why":"meaning 3 is the everyday exclamation oh no! (chết rồi, as in the [3] sentence), not a curse like the excluded chết tiệt; damn taken out"}
+{"lemma":"y","pos":"noun","rank":723,"drop":[],"gloss":{"0":"he/him, that jerk/thug/criminal"},"why":"a formal derogatory pronoun; prick taken out of the English"}
+{"lemma":"ngựa","pos":"noun","rank":851,"drop":[3],"gloss":{},"why":"meaning 3 is Southern slang that brands a woman as tarty or promiscuous (a slur-like insult)"}
+{"lemma":"sữa","pos":"noun","rank":951,"drop":[2],"gloss":{},"why":"meaning 2 (semen) is milk-for-semen slang, like Spanish leche"}
+{"lemma":"cục","pos":"noun","rank":980,"drop":[],"gloss":{"1":"Indicates lumps (of excrement, flour, etc.), stones, erasers, bricks, tiles."},"why":"the classifier meaning is fine but worded with turds"}
+{"lemma":"chim","pos":"noun","rank":1003,"drop":[1],"gloss":{},"why":"meaning 1 (penis, cock, dick) is slang for penis, not the anatomical term"}
+{"lemma":"gan","pos":"noun","rank":1398,"drop":[],"gloss":{"1":"audacity; gall; nerve"},"why":"meaning 1 (nerve, guts) is fine but worded with balls"}
+{"lemma":"ả","pos":"noun","rank":1540,"drop":[],"gloss":{"2":"she/her, that woman"},"why":"meaning 2 is a derogatory pronoun, but that little slut is crude English"}
+{"lemma":"thông","pos":"verb","rank":1680,"drop":[5],"gloss":{},"why":"meaning 5 (to buttfuck, anal sex) is vulgar sexual slang"}
+{"lemma":"đi lại","pos":"verb","rank":2090,"drop":[2],"gloss":{},"why":"meaning 2 (to have sexual intercourse, tagged vulgar) is sexual slang"}
+{"lemma":"kệ","pos":"verb","rank":2152,"drop":[],"gloss":{"1":"whatever; never mind; forget it"},"why":"meaning 1 (whatever!) is not a curse; screw it and what the hell are crude English"}
+{"lemma":"thoáng","pos":"verb","rank":2295,"drop":[],"gloss":{"3":"open; not conservative"},"why":"meaning 3 had a derogatory sexual sense tacked on ((of a girl) easy); kept the meaning open, not conservative"}
+{"lemma":"điếm","pos":"noun","rank":2453,"drop":[0],"gloss":{},"why":"meaning 0 (prostitute, colloquial: điếm = whore) is crude slang, like the excluded gái điếm and đĩ"}
+{"lemma":"vãi","pos":"verb","rank":2470,"drop":[3],"gloss":{},"why":"meaning 3 (extremely; fucking) is a vulgar intensifier"}
+{"lemma":"cu","pos":"noun","rank":2569,"drop":[1],"gloss":{},"why":"meaning 1 (penis, cock, prick) is slang for penis, not the anatomical term"}
+{"lemma":"chuối","pos":"noun","rank":2798,"drop":[1],"gloss":{},"why":"meaning 1 (penis) is slang; cringy (2) kept"}
+{"lemma":"cò","pos":"noun","rank":3007,"drop":[2],"gloss":{},"why":"meaning 2 (penis, pee-pee) is slang for penis, dropped like chim, cu and chuối"}
+{"lemma":"dê","pos":"noun","rank":3166,"drop":[1],"gloss":{},"why":"meaning 1 (lewd, lascivious; tagged vulgar) is sexual slang"}
+{"lemma":"đít","pos":"noun","rank":3388,"drop":[0],"gloss":{},"why":"meaning 0 (butt, arse) is coarse body slang in the South; the bottom of something (1) kept"}
+{"lemma":"nhảm nhí","pos":"interjection","rank":3403,"drop":[],"gloss":{"0":"rubbish, drivel"},"why":"nhảm nhí is not vulgar; meaning 0 used the English bullshit"}
+{"lemma":"bưởi","pos":"noun","rank":4156,"drop":[1],"gloss":{},"why":"meaning 1 (a boob, a jug) is body slang"}
+{"lemma":"ngộ","pos":"adjective","rank":4607,"drop":[],"gloss":{"0":"odd, strange; quaint"},"why":"queer (odd) now reads as a word for gay people"}
+{"lemma":"ngầu","pos":"adjective","rank":4831,"drop":[],"gloss":{"3":"cool; awesome; tough"},"why":"meaning 3 (cool) is fine but worded with kickass, badass"}
+{"lemma":"phang","pos":"verb","rank":4980,"drop":[1],"gloss":{},"why":"meaning 1 (to fuck, to bang) is vulgar sexual slang"}
+{"lemma":"đần độn","pos":"adjective","rank":5003,"drop":[],"gloss":{"0":"dim-witted; incredibly stupid"},"why":"only meaning: an insult (stupid) worded with the ableist slur retarded"}
+{"lemma":"thụ","pos":"noun","rank":5158,"drop":[1],"gloss":{},"why":"meaning 1 (bottom, uke in male same-sex sex) is sexual slang"}
+{"lemma":"nhảm","pos":"adjective","rank":5349,"drop":[],"gloss":{"1":"rubbish, drivel"},"why":"nhảm is not vulgar; meaning 1 used bollocks, bullshit"}
+{"lemma":"quất","pos":"verb","rank":5459,"drop":[2],"gloss":{},"why":"meaning 2 (to fuck, to have intercourse; slang) is vulgar sexual slang"}
+{"lemma":"phò","pos":"noun","rank":5906,"drop":[0],"gloss":{},"why":"meaning 0 (a whore, derogatory) is a crude word"}

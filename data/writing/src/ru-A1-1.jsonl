@@ -1,0 +1,100 @@
+{"id":"ru-A1-1-001","lang":"ru","level":"A1","step":1,"topic":"feelings","en":"I am tired.","answers":["Я {устал|устала}."]}
+{"id":"ru-A1-1-002","lang":"ru","level":"A1","step":2,"topic":"home","en":"The house is big.","answers":["Дом большой."]}
+{"id":"ru-A1-1-003","lang":"ru","level":"A1","step":3,"topic":"family","en":"Mum is at home.","answers":["Мама дома."]}
+{"id":"ru-A1-1-004","lang":"ru","level":"A1","step":4,"topic":"weather","en":"It is snowing.","answers":["{Идёт снег|Снег идёт|Падает снег|Снег падает}."]}
+{"id":"ru-A1-1-005","lang":"ru","level":"A1","step":5,"topic":"work","en":"I am a doctor.","answers":["Я {врач|доктор}."]}
+{"id":"ru-A1-1-006","lang":"ru","level":"A1","step":6,"topic":"food","en":"The bread is fresh.","answers":["Хлеб свежий."]}
+{"id":"ru-A1-1-007","lang":"ru","level":"A1","step":7,"topic":"transport","en":"Where is the metro?","answers":["Где {|находится }метро?"]}
+{"id":"ru-A1-1-008","lang":"ru","level":"A1","step":8,"topic":"conversation","en":"I don't know.","answers":["{Я |}не знаю."]}
+{"id":"ru-A1-1-009","lang":"ru","level":"A1","step":9,"topic":"city","en":"The bank is closed.","answers":["Банк {закрыт|не работает}."]}
+{"id":"ru-A1-1-010","lang":"ru","level":"A1","step":10,"topic":"nature","en":"How beautiful!","answers":["Как красиво!","Какая красота!"]}
+{"id":"ru-A1-1-011","lang":"ru","level":"A1","step":11,"topic":"celebrations","en":"Happy New Year!","answers":["С Новым годом!","Счастливого Нового года!"]}
+{"id":"ru-A1-1-012","lang":"ru","level":"A1","step":12,"topic":"drinks","en":"Tea or coffee?","answers":["Чай или кофе?"]}
+{"id":"ru-A1-1-013","lang":"ru","level":"A1","step":13,"topic":"feelings","en":"I am bored.","answers":["Мне скучно."]}
+{"id":"ru-A1-1-014","lang":"ru","level":"A1","step":14,"topic":"restaurant","en":"The bill, please.","answers":["Счёт, пожалуйста.","Пожалуйста, счёт."]}
+{"id":"ru-A1-1-015","lang":"ru","level":"A1","step":15,"topic":"family","en":"This is my husband.","answers":["Это мой муж."]}
+{"id":"ru-A1-1-016","lang":"ru","level":"A1","step":16,"topic":"weather","en":"It is hot in summer.","answers":["{Летом жарко|Жарко летом}."]}
+{"id":"ru-A1-1-017","lang":"ru","level":"A1","step":17,"topic":"languages","en":"I don't understand.","answers":["{Я |}не понимаю."]}
+{"id":"ru-A1-1-018","lang":"ru","level":"A1","step":18,"topic":"travel","en":"We are tourists.","answers":["Мы {туристы|туристки}."]}
+{"id":"ru-A1-1-019","lang":"ru","level":"A1","step":19,"topic":"friends","en":"How are you?","context":"to a friend","answers":["Как дела?","Как {у тебя дела|дела у тебя|твои дела}?","Как ты?","Как {ты |}поживаешь?","Как {ты |}живёшь?"]}
+{"id":"ru-A1-1-020","lang":"ru","level":"A1","step":20,"topic":"health","en":"I am ill.","answers":["Я {болен|больна|болею|заболел|заболела}."]}
+{"id":"ru-A1-1-021","lang":"ru","level":"A1","step":21,"topic":"home","en":"There is no hot water.","answers":["{Нет горячей воды|Горячей воды нет}."]}
+{"id":"ru-A1-1-022","lang":"ru","level":"A1","step":22,"topic":"hobbies","en":"I like music.","answers":["{Я |}люблю музыку.","Мне нравится музыка."]}
+{"id":"ru-A1-1-023","lang":"ru","level":"A1","step":23,"topic":"time","en":"What time is it?","answers":["Который {|сейчас }час?","Сколько {|сейчас }времени?"]}
+{"id":"ru-A1-1-024","lang":"ru","level":"A1","step":24,"topic":"friends","en":"Are you busy?","context":"to a friend","answers":["{Ты |}{занят|занята}?"]}
+{"id":"ru-A1-1-025","lang":"ru","level":"A1","step":25,"topic":"animals","en":"I have a dog.","answers":["У меня {есть |}{собака|пёс}."]}
+{"id":"ru-A1-1-026","lang":"ru","level":"A1","step":26,"topic":"daily routine","en":"I want to sleep.","answers":["{Я |}хочу {спать|поспать}.","Мне хочется {спать|поспать}."]}
+{"id":"ru-A1-1-027","lang":"ru","level":"A1","step":27,"topic":"time","en":"Tomorrow is Saturday.","answers":["Завтра {|будет }суббота."]}
+{"id":"ru-A1-1-028","lang":"ru","level":"A1","step":28,"topic":"home","en":"Where are my keys?","answers":["Где мои ключи?"]}
+{"id":"ru-A1-1-029","lang":"ru","level":"A1","step":29,"topic":"weather","en":"The sun is shining.","answers":["{Светит солнце|Солнце светит}."]}
+{"id":"ru-A1-1-030","lang":"ru","level":"A1","step":30,"topic":"study","en":"I am learning Russian.","answers":["Я {учу|изучаю} русский{ язык|}."]}
+{"id":"ru-A1-1-031","lang":"ru","level":"A1","step":31,"topic":"work","en":"My father is an engineer.","answers":["{Мой папа|Мой отец} — инженер."]}
+{"id":"ru-A1-1-032","lang":"ru","level":"A1","step":32,"topic":"drinks","en":"I don't drink milk.","answers":["Я не пью {молоко|молока}."]}
+{"id":"ru-A1-1-033","lang":"ru","level":"A1","step":33,"topic":"politeness","en":"Can I come in?","answers":["Можно {|мне }{войти|зайти}?","Можно я {войду|зайду}?","{Я могу|Могу я|Могу ли я} {войти|зайти}?"]}
+{"id":"ru-A1-1-034","lang":"ru","level":"A1","step":34,"topic":"hobbies","en":"I read a lot.","answers":["Я {много читаю|читаю много}."]}
+{"id":"ru-A1-1-035","lang":"ru","level":"A1","step":35,"topic":"work","en":"My sister is a teacher.","answers":["Моя сестра — {учительница|учитель|преподаватель|преподавательница}."]}
+{"id":"ru-A1-1-036","lang":"ru","level":"A1","step":36,"topic":"health","en":"I don't feel well.","answers":["Я {плохо|неважно|нехорошо} себя чувствую.","Я себя {плохо|неважно|нехорошо} чувствую.","Я чувствую себя {плохо|неважно|нехорошо}.","{Плохо|Неважно|Нехорошо} себя чувствую.","Чувствую себя {плохо|неважно|нехорошо}.","Мне {плохо|нехорошо|нездоровится}."]}
+{"id":"ru-A1-1-037","lang":"ru","level":"A1","step":37,"topic":"family","en":"My grandmother lives in a village.","answers":["Моя бабушка живёт в {деревне|селе}."]}
+{"id":"ru-A1-1-038","lang":"ru","level":"A1","step":38,"topic":"city","en":"We live in a big city.","answers":["Мы живём в {большом|крупном} городе."]}
+{"id":"ru-A1-1-039","lang":"ru","level":"A1","step":39,"topic":"shopping","en":"How much is this bag?","answers":["Сколько стоит эта сумка?","Сколько эта сумка стоит?","Эта сумка сколько стоит?"]}
+{"id":"ru-A1-1-040","lang":"ru","level":"A1","step":40,"topic":"transport","en":"Is the station far?","answers":["{Вокзал|Станция} далеко?","До {вокзала|станции} далеко?","Далеко {вокзал|станция|до вокзала|до станции}?"]}
+{"id":"ru-A1-1-041","lang":"ru","level":"A1","step":41,"topic":"friends","en":"My friend is very kind.","answers":["{Мой друг очень {добрый|добр}|Моя подруга очень {добрая|добра}}."]}
+{"id":"ru-A1-1-042","lang":"ru","level":"A1","step":42,"topic":"travel","en":"We are travelling by train.","answers":["Мы {едем|путешествуем} {на поезде|поездом}."]}
+{"id":"ru-A1-1-043","lang":"ru","level":"A1","step":43,"topic":"health","en":"My back hurts.","answers":["У меня {болит спина|спина болит}."]}
+{"id":"ru-A1-1-044","lang":"ru","level":"A1","step":44,"topic":"time","en":"It is ten o'clock.","answers":["{Сейчас |}десять часов.","Сейчас десять."]}
+{"id":"ru-A1-1-045","lang":"ru","level":"A1","step":45,"topic":"food","en":"Do you want to eat?","context":"to a friend","answers":["{Ты |}хочешь {есть|поесть}?","{Ты |}{есть|поесть} хочешь?"]}
+{"id":"ru-A1-1-046","lang":"ru","level":"A1","step":46,"topic":"people","en":"What is your name?","context":"to a child","answers":["Как тебя зовут?","Тебя как зовут?","Как твоё имя?"]}
+{"id":"ru-A1-1-047","lang":"ru","level":"A1","step":47,"topic":"shopping","en":"Do you have bread?","context":"polite","answers":["У вас есть хлеб?","{Есть ли|Есть} у вас хлеб?","У вас хлеб есть?","Хлеб у вас есть?"]}
+{"id":"ru-A1-1-048","lang":"ru","level":"A1","step":48,"topic":"travel","en":"Our hotel is in the centre.","answers":["{Наша гостиница|Наш отель} {|находится }в центре."]}
+{"id":"ru-A1-1-049","lang":"ru","level":"A1","step":49,"topic":"people","en":"Our neighbours are very friendly.","answers":["Наши соседи очень {дружелюбные|приветливые|дружелюбны|приветливы}."]}
+{"id":"ru-A1-1-050","lang":"ru","level":"A1","step":50,"topic":"study","en":"The lesson starts at nine.","answers":["Урок начинается в девять{| часов}.","В девять{| часов} {начинается урок|урок начинается}.","Урок в девять{| часов} начинается."]}
+{"id":"ru-A1-1-051","lang":"ru","level":"A1","step":51,"topic":"family","en":"My son is seven years old.","answers":["Моему сыну семь лет."]}
+{"id":"ru-A1-1-052","lang":"ru","level":"A1","step":52,"topic":"clothes","en":"This dress is very beautiful.","answers":["Это платье очень {красивое|красиво}."]}
+{"id":"ru-A1-1-053","lang":"ru","level":"A1","step":53,"topic":"time","en":"My birthday is in May.","answers":["У меня день рождения в мае.","У меня в мае день рождения.","Мой день рождения в мае.","В мае у меня день рождения.","День рождения у меня в мае."]}
+{"id":"ru-A1-1-054","lang":"ru","level":"A1","step":54,"topic":"animals","en":"My daughter wants a cat.","answers":["Моя {дочь|дочка} хочет {кошку|кота}."]}
+{"id":"ru-A1-1-055","lang":"ru","level":"A1","step":55,"topic":"drinks","en":"We drink tea with jam.","answers":["Мы пьём чай с {вареньем|джемом}."]}
+{"id":"ru-A1-1-056","lang":"ru","level":"A1","step":56,"topic":"transport","en":"Two tickets, please.","answers":["Два билета, пожалуйста.","Пожалуйста, два билета."]}
+{"id":"ru-A1-1-057","lang":"ru","level":"A1","step":57,"topic":"sport","en":"I can swim.","answers":["Я {умею|могу} плавать."]}
+{"id":"ru-A1-1-058","lang":"ru","level":"A1","step":58,"topic":"languages","en":"I speak a little Russian.","answers":["Я {немного|немножко|чуть-чуть} говорю {по-русски|на русском языке|на русском}.","Я говорю {немного|немножко|чуть-чуть} {по-русски|на русском языке|на русском}."]}
+{"id":"ru-A1-1-059","lang":"ru","level":"A1","step":59,"topic":"weather","en":"Winter is long and cold.","answers":["Зима {долгая|длинная} и холодная."]}
+{"id":"ru-A1-1-060","lang":"ru","level":"A1","step":60,"topic":"work","en":"My mother works in a hospital.","answers":["{Моя мама|Моя мать} работает в больнице."]}
+{"id":"ru-A1-1-061","lang":"ru","level":"A1","step":61,"topic":"languages","en":"Please speak slowly.","context":"polite","answers":["Говорите, пожалуйста, медленно.","Пожалуйста, говорите медленно.","Говорите медленно, пожалуйста."]}
+{"id":"ru-A1-1-062","lang":"ru","level":"A1","step":62,"topic":"home","en":"Our flat is old but warm.","answers":["Наша квартира старая, но тёплая."]}
+{"id":"ru-A1-1-063","lang":"ru","level":"A1","step":63,"topic":"time","en":"There are twelve months in a year.","answers":["В году двенадцать месяцев."]}
+{"id":"ru-A1-1-064","lang":"ru","level":"A1","step":64,"topic":"study","en":"Our teacher is very strict.","answers":["{Наш учитель очень {строгий|строг}|Наша учительница очень {строгая|строга}|Наш преподаватель очень {строгий|строг}|Наша преподавательница очень {строгая|строга}}."]}
+{"id":"ru-A1-1-065","lang":"ru","level":"A1","step":65,"topic":"food","en":"In the morning I eat porridge.","answers":["{Утром|По утрам} я ем кашу.","Я {утром|по утрам} ем кашу.","Я ем кашу {утром|по утрам}."]}
+{"id":"ru-A1-1-066","lang":"ru","level":"A1","step":66,"topic":"people","en":"Can you help me?","context":"polite","answers":["{Вы |}можете {мне помочь|помочь мне}?"]}
+{"id":"ru-A1-1-067","lang":"ru","level":"A1","step":67,"topic":"feelings","en":"I am glad to see you.","context":"to a friend","answers":["{Я |}{рад|рада} {тебя видеть|видеть тебя}."]}
+{"id":"ru-A1-1-068","lang":"ru","level":"A1","step":68,"topic":"home","en":"We have a country house.","answers":["У нас {есть |}дача.","У нас {есть |}загородный дом."]}
+{"id":"ru-A1-1-069","lang":"ru","level":"A1","step":69,"topic":"shopping","en":"The shops are open until ten.","answers":["Магазины {работают|открыты} до десяти{| часов}.","Магазины до десяти{| часов} {работают|открыты}."]}
+{"id":"ru-A1-1-070","lang":"ru","level":"A1","step":70,"topic":"sport","en":"We play football on Saturdays.","answers":["Мы играем в футбол {по субботам|каждую субботу}.","{По субботам|Каждую субботу} мы играем в футбол.","Мы {по субботам|каждую субботу} играем в футбол."]}
+{"id":"ru-A1-1-071","lang":"ru","level":"A1","step":71,"topic":"work","en":"Where do you work?","context":"polite","answers":["Где вы работаете?","Вы где работаете?","Где работаете?"]}
+{"id":"ru-A1-1-072","lang":"ru","level":"A1","step":72,"topic":"transport","en":"The train leaves at five.","answers":["Поезд {уходит|отправляется|отходит} в пять{| часов}.","В пять{| часов} {{уходит|отправляется|отходит} поезд|поезд {уходит|отправляется|отходит}}.","Поезд в пять{| часов} {уходит|отправляется|отходит}."]}
+{"id":"ru-A1-1-073","lang":"ru","level":"A1","step":73,"topic":"nature","en":"There are many mushrooms in the forest.","answers":["В лесу много грибов.","Много грибов в лесу."]}
+{"id":"ru-A1-1-074","lang":"ru","level":"A1","step":74,"topic":"weather","en":"What is the weather like today?","answers":["Какая {сегодня погода|погода сегодня}?","Как {сегодня погода|погода сегодня}?"]}
+{"id":"ru-A1-1-075","lang":"ru","level":"A1","step":75,"topic":"hobbies","en":"In the evening we watch films.","answers":["{Вечером|По вечерам} мы смотрим {фильмы|кино}.","Мы {вечером|по вечерам} смотрим {фильмы|кино}.","Мы смотрим {фильмы|кино} {вечером|по вечерам}."]}
+{"id":"ru-A1-1-076","lang":"ru","level":"A1","step":76,"topic":"friends","en":"My friend has a big car.","answers":["{У моего друга|У моей подруги} {есть |}{большая машина|большой автомобиль}."]}
+{"id":"ru-A1-1-077","lang":"ru","level":"A1","step":77,"topic":"work","en":"I don't work on Fridays.","answers":["Я не работаю по пятницам.","По пятницам я не работаю.","Я по пятницам не работаю."]}
+{"id":"ru-A1-1-078","lang":"ru","level":"A1","step":78,"topic":"nature","en":"The river is very beautiful in autumn.","answers":["Река очень {красивая|красива} осенью.","Осенью река очень {красивая|красива}.","Река осенью очень {красивая|красива}."]}
+{"id":"ru-A1-1-079","lang":"ru","level":"A1","step":79,"topic":"transport","en":"The bus stop is opposite the shop.","answers":["{Автобусная остановка|Остановка автобуса} {|находится }напротив магазина."]}
+{"id":"ru-A1-1-080","lang":"ru","level":"A1","step":80,"topic":"study","en":"Our children go to school.","answers":["Наши дети {ходят в школу|учатся в школе}."]}
+{"id":"ru-A1-1-081","lang":"ru","level":"A1","step":81,"topic":"food","en":"We have breakfast at eight.","answers":["Мы завтракаем в восемь{| часов}.","В восемь{| часов} мы завтракаем.","Мы в восемь{| часов} завтракаем."]}
+{"id":"ru-A1-1-082","lang":"ru","level":"A1","step":82,"topic":"health","en":"My son has a temperature.","answers":["У моего сына {температура|жар}."]}
+{"id":"ru-A1-1-083","lang":"ru","level":"A1","step":83,"topic":"clothes","en":"In winter I wear a warm hat.","answers":["Зимой я ношу тёплую шапку.","Я зимой ношу тёплую шапку.","Я ношу тёплую шапку зимой."]}
+{"id":"ru-A1-1-084","lang":"ru","level":"A1","step":84,"topic":"weather","en":"It is minus twenty today!","answers":["Сегодня минус двадцать{| градусов}!","Минус двадцать{| градусов} сегодня!","Сегодня двадцать градусов мороза!"]}
+{"id":"ru-A1-1-085","lang":"ru","level":"A1","step":85,"topic":"shopping","en":"I buy bread and milk every day.","answers":["Я покупаю хлеб и молоко каждый день.","Я каждый день покупаю хлеб и молоко.","Каждый день я покупаю хлеб и молоко."]}
+{"id":"ru-A1-1-086","lang":"ru","level":"A1","step":86,"topic":"home","en":"Do you live in a house or a flat?","context":"polite","answers":["{Вы |}живёте в доме или {в |}квартире?"]}
+{"id":"ru-A1-1-087","lang":"ru","level":"A1","step":87,"topic":"city","en":"Is there a café in this street?","answers":["На этой улице есть кафе?","Есть ли {на этой улице кафе|кафе на этой улице}?","Есть {на этой улице кафе|кафе на этой улице}?"]}
+{"id":"ru-A1-1-088","lang":"ru","level":"A1","step":88,"topic":"hobbies","en":"My grandfather likes to read newspapers.","answers":["Мой {дедушка|дед} любит читать газеты.","Моему {дедушке|деду} нравится читать газеты."]}
+{"id":"ru-A1-1-089","lang":"ru","level":"A1","step":89,"topic":"restaurant","en":"I would like a glass of water, please.","answers":["Я {хотел бы|бы хотел|хотела бы|бы хотела} стакан воды, пожалуйста."]}
+{"id":"ru-A1-1-090","lang":"ru","level":"A1","step":90,"topic":"plans","en":"I can't come today.","answers":["Я не {могу|смогу} {прийти|приехать} сегодня.","Я {сегодня не {могу|смогу}|не {могу|смогу} сегодня} {прийти|приехать}.","Сегодня я не {могу|смогу} {прийти|приехать}.","Не {могу|смогу} {прийти|приехать} сегодня.","Не {могу|смогу} сегодня {прийти|приехать}.","Сегодня не {могу|смогу} {прийти|приехать}."]}
+{"id":"ru-A1-1-091","lang":"ru","level":"A1","step":91,"topic":"family","en":"My aunt has two sons and a daughter.","answers":["У моей тёти {|есть }два сына и {|одна }{дочь|дочка}."]}
+{"id":"ru-A1-1-092","lang":"ru","level":"A1","step":92,"topic":"work","en":"My colleague speaks English and German.","answers":["{Мой коллега|Моя коллега} говорит {по-английски и по-немецки|на английском и {|на }немецком|на английском и {|на }немецком языках}."]}
+{"id":"ru-A1-1-093","lang":"ru","level":"A1","step":93,"topic":"food","en":"Every Sunday my grandmother makes pancakes.","answers":["{Каждое воскресенье|По воскресеньям} моя бабушка {печёт|делает|готовит} {блины|блинчики}.","Моя бабушка {каждое воскресенье|по воскресеньям} {печёт|делает|готовит} {блины|блинчики}.","Моя бабушка {печёт|делает|готовит} {блины|блинчики} {каждое воскресенье|по воскресеньям}."]}
+{"id":"ru-A1-1-094","lang":"ru","level":"A1","step":94,"topic":"home","en":"The kitchen is small, but the rooms are big.","answers":["Кухня {маленькая|небольшая}, {а|но} комнаты большие."]}
+{"id":"ru-A1-1-095","lang":"ru","level":"A1","step":95,"topic":"shopping","en":"I would like to buy this book.","answers":["Я {хотел бы|бы хотел|хотела бы|бы хотела} купить эту книгу.","Мне {хотелось бы|бы хотелось} купить эту книгу."]}
+{"id":"ru-A1-1-096","lang":"ru","level":"A1","step":96,"topic":"city","en":"There is a big park near our house.","answers":["{Рядом с нашим домом|Около нашего дома|Возле нашего дома|Недалеко от нашего дома} {есть |}большой парк."]}
+{"id":"ru-A1-1-097","lang":"ru","level":"A1","step":97,"topic":"transport","en":"Every morning I go to work by metro.","answers":["{Каждое утро|По утрам} я {езжу|еду} {на работу на метро|на метро на работу}.","Я {каждое утро|по утрам} {езжу|еду} {на работу на метро|на метро на работу}.","Я {езжу|еду} {на работу на метро|на метро на работу} {каждое утро|по утрам}."]}
+{"id":"ru-A1-1-098","lang":"ru","level":"A1","step":98,"topic":"drinks","en":"I like tea, but my wife likes coffee.","answers":["Я люблю чай, {а|но} моя жена любит кофе.","Я люблю чай, а моя жена — кофе.","Я люблю чай, {а|но} моей жене нравится кофе.","Мне нравится чай, {а|но} {моей жене нравится|моя жена любит} кофе.","Мне нравится чай, а моей жене — кофе."]}
+{"id":"ru-A1-1-099","lang":"ru","level":"A1","step":99,"topic":"friends","en":"Do you want to go to the cinema with me?","context":"to a friend","answers":["{Ты |}хочешь {пойти|сходить} {со мной в {кино|кинотеатр}|в {кино|кинотеатр} со мной}?","{Ты |}хочешь со мной {пойти|сходить} в {кино|кинотеатр}?"]}
+{"id":"ru-A1-1-100","lang":"ru","level":"A1","step":100,"topic":"home","en":"My husband cooks dinner, and I wash the dishes.","answers":["Мой муж готовит ужин, а я мою посуду."]}

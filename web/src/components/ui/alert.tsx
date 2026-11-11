@@ -1,0 +1,34 @@
+// © 2026 Lango. All rights reserved. Proprietary — see LICENSE.
+import { cva, type VariantProps } from 'class-variance-authority';
+import type { HTMLAttributes } from 'react';
+import { cn } from '../../lib/utils.ts';
+
+const alertVariants = cva(
+  'relative grid w-full grid-cols-[0_1fr] items-start gap-y-0.5 rounded-xl border px-4 py-3 text-sm has-[>svg]:grid-cols-[calc(var(--spacing)*4)_1fr] has-[>svg]:gap-x-3 [&>svg]:size-4 [&>svg]:translate-y-0.5 [&>svg]:text-current',
+  {
+    variants: {
+      variant: {
+        default: 'bg-card text-card-foreground',
+        destructive: 'border-destructive/25 bg-destructive-soft text-destructive *:data-[slot=alert-description]:text-destructive/90',
+        success: 'border-success/25 bg-success-soft text-success *:data-[slot=alert-description]:text-foreground/80',
+        warning: 'border-warning/25 bg-warning-soft text-warning *:data-[slot=alert-description]:text-foreground/80',
+        info: 'border-lang/20 bg-lang-soft text-lang *:data-[slot=alert-description]:text-foreground/80',
+      },
+    },
+    defaultVariants: { variant: 'default' },
+  },
+);
+
+function Alert({ className, variant, ...props }: HTMLAttributes<HTMLDivElement> & VariantProps<typeof alertVariants>) {
+  return <div data-slot="alert" role="alert" className={cn(alertVariants({ variant }), className)} {...props} />;
+}
+
+function AlertTitle({ className, ...props }: HTMLAttributes<HTMLDivElement>) {
+  return <div data-slot="alert-title" className={cn('col-start-2 min-h-4 font-medium tracking-tight', className)} {...props} />;
+}
+
+function AlertDescription({ className, ...props }: HTMLAttributes<HTMLDivElement>) {
+  return <div data-slot="alert-description" className={cn('col-start-2 grid justify-items-start gap-1 text-sm text-muted-foreground [&_p]:leading-relaxed', className)} {...props} />;
+}
+
+export { Alert, AlertTitle, AlertDescription };

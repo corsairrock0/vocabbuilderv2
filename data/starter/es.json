@@ -1,0 +1,3530 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "es",
+  "source": {
+    "name": "VocabBuilder starter set (Colombian Spanish)",
+    "kind": "curated",
+    "license": "© 2026 Lango. All rights reserved.",
+    "notes": "Hand-written by an AI assistant (Claude) as a small starter set for VocabBuilder. Not corpus-derived: curatedOrder is a teaching order, not a frequency rank. Review and edit freely."
+  },
+  "entries": [
+    {
+      "lemma": "buenos días",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "good morning",
+          "translations": [
+            "good morning",
+            "morning",
+            "good day"
+          ],
+          "note": "Used until about noon. Afternoon: buenas tardes; evening and night: buenas noches."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Buenos días, ¿cómo amaneció?",
+          "translation": "Good morning, how are you today?",
+          "target": "Buenos días",
+          "sense": 0
+        },
+        {
+          "text": "Buenos días a todos, ¿cómo están?",
+          "translation": "Good morning, everyone, how are you?",
+          "target": "Buenos días",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "buenas tardes",
+          "translation": "good afternoon"
+        },
+        {
+          "text": "buenas noches",
+          "translation": "good evening; good night"
+        },
+        {
+          "text": "¡buenas!",
+          "translation": "hi! (short greeting, any time of day)"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Colombia you'll often hear ¿Cómo amaneció? (literally 'How did you wake up?') as a morning 'how are you?'.",
+      "curatedOrder": 1
+    },
+    {
+      "lemma": "¿qué más?",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "what's up?",
+          "translations": [
+            "what's up?",
+            "how's it going?",
+            "how are you?",
+            "what's new?"
+          ],
+          "note": "Casual greeting. Typical replies: Bien, ¿y usted? or Todo bien, ¿y tú?"
+        }
+      ],
+      "examples": [
+        {
+          "text": "¡Hola, Juli! ¿Qué más?",
+          "translation": "Hi, Juli! What's up?",
+          "target": "¿Qué más?",
+          "sense": 0
+        },
+        {
+          "text": "¿Qué más? ¿Todo bien en la casa?",
+          "translation": "How's it going? Everything good at home?",
+          "target": "¿Qué más?",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "register": "informal",
+      "regionalNote": "A typically Colombian greeting (also common in Venezuela). In most other countries ¿qué más? just means 'what else?'; ¿qué tal? is the more widespread greeting.",
+      "curatedOrder": 2
+    },
+    {
+      "lemma": "gracias",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "thank you",
+          "translations": [
+            "thank you",
+            "thanks"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Muchas gracias, muy amable.",
+          "translation": "Thank you very much, that's very kind of you.",
+          "target": "gracias",
+          "sense": 0
+        },
+        {
+          "text": "Mil gracias por todo.",
+          "translation": "Thanks a million for everything.",
+          "target": "gracias",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "muchas gracias",
+          "translation": "thank you very much"
+        },
+        {
+          "text": "mil gracias",
+          "translation": "thanks a million"
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Colombia a very common reply is con gusto ('my pleasure'); de nada is also used.",
+      "curatedOrder": 3
+    },
+    {
+      "lemma": "con gusto",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "you're welcome",
+          "translations": [
+            "you're welcome",
+            "my pleasure",
+            "with pleasure",
+            "gladly"
+          ],
+          "note": "Reply to gracias; also 'gladly' when agreeing to do something."
+        }
+      ],
+      "examples": [
+        {
+          "text": "¡Con gusto! Vuelva pronto.",
+          "translation": "You're welcome! Come back soon.",
+          "target": "Con gusto",
+          "sense": 0
+        },
+        {
+          "text": "Con gusto le ayudo, señora.",
+          "translation": "I'd be glad to help you, ma'am.",
+          "target": "Con gusto",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "con mucho gusto",
+          "translation": "it's a real pleasure; you're very welcome"
+        },
+        {
+          "text": "mucho gusto",
+          "translation": "nice to meet you"
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "register": "neutral",
+      "regionalNote": "Very common in Colombia as the reply to gracias, especially in shops and services; de nada is understood everywhere.",
+      "curatedOrder": 4
+    },
+    {
+      "lemma": "por favor",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "please",
+          "translations": [
+            "please"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Un tinto, por favor.",
+          "translation": "A black coffee, please.",
+          "target": "por favor",
+          "sense": 0
+        },
+        {
+          "text": "¿Puede hablar más despacio, por favor?",
+          "translation": "Could you speak more slowly, please?",
+          "target": "por favor",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "register": "neutral",
+      "curatedOrder": 5
+    },
+    {
+      "lemma": "sí",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "yes",
+          "translations": [
+            "yes",
+            "yeah"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Sí, señora, con mucho gusto.",
+          "translation": "Yes, ma'am, with pleasure.",
+          "target": "Sí",
+          "sense": 0
+        },
+        {
+          "text": "Sí, claro, ahorita le ayudo.",
+          "translation": "Yes, of course, I'll help you in a moment.",
+          "target": "Sí",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "¡claro que sí!",
+          "translation": "of course!"
+        },
+        {
+          "text": "creo que sí",
+          "translation": "I think so"
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Written with an accent; si without an accent means 'if'."
+      },
+      "register": "neutral",
+      "curatedOrder": 6
+    },
+    {
+      "lemma": "usted",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "you",
+          "translations": [
+            "you"
+          ],
+          "note": "Singular 'you'. Respectful in most countries, but in Colombia also used with friends, family and partners."
+        }
+      ],
+      "forms": [
+        {
+          "form": "ustedes",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Usted es de Bogotá?",
+          "translation": "Are you from Bogotá?",
+          "target": "Usted",
+          "sense": 0
+        },
+        {
+          "text": "Mamá, ¿usted ya almorzó?",
+          "translation": "Mom, have you had lunch yet?",
+          "target": "usted",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Takes 3rd-person verb forms: usted es, usted tiene. The plural ustedes is the only 'you all' in Latin America (no vosotros)."
+      },
+      "register": "neutral",
+      "regionalNote": "Colombians, especially in Bogotá and the Andean region, use usted far more than Spaniards do, even with close friends and family. In the highlands around Bogotá (Cundinamarca, Boyacá) you may also hear the warm, respectful sumercé.",
+      "curatedOrder": 7
+    },
+    {
+      "lemma": "listo",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "OK",
+          "translations": [
+            "OK",
+            "okay",
+            "all right",
+            "sure",
+            "deal",
+            "done"
+          ],
+          "note": "For agreeing to or confirming plans."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Listo, nos vemos mañana.",
+          "translation": "OK, see you tomorrow.",
+          "target": "Listo",
+          "sense": 0
+        },
+        {
+          "text": "¡Listo! Ahorita le mando la dirección.",
+          "translation": "Sure! I'll send you the address in a bit.",
+          "target": "Listo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "As an adjective, listo/lista means 'ready' (estar listo) or 'clever' (ser listo)."
+      },
+      "register": "neutral",
+      "regionalNote": "Extremely common in Colombia, with friends, strangers and at work alike. In Spain you'd more often hear vale.",
+      "curatedOrder": 8
+    },
+    {
+      "lemma": "ser",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be"
+          ],
+          "note": "Identity, origin, profession and characteristics: Soy de Cali."
+        }
+      ],
+      "forms": [
+        {
+          "form": "soy",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "eres",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "es",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "somos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "son",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "fue",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Soy de Estados Unidos.",
+          "translation": "I'm from the United States.",
+          "target": "Soy",
+          "sense": 0
+        },
+        {
+          "text": "Mi novia es de Medellín.",
+          "translation": "My girlfriend is from Medellín.",
+          "target": "es",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "ser de",
+          "translation": "to be from"
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular. Use ser for identity, origin and characteristics, and estar for location and temporary states. Usted takes the 3rd-person form: usted es."
+      },
+      "register": "neutral",
+      "curatedOrder": 9
+    },
+    {
+      "lemma": "estar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be"
+          ],
+          "note": "Location and temporary states: Estoy cansado."
+        }
+      ],
+      "forms": [
+        {
+          "form": "estoy",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "estás",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "está",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "estamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "están",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "estuvo",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Estoy en la casa.",
+          "translation": "I'm at home.",
+          "target": "Estoy",
+          "sense": 0
+        },
+        {
+          "text": "¿Cómo está su mamá?",
+          "translation": "How's your mom?",
+          "target": "está",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: estoy, está, están, past estuvo. Use estar for where something is and how someone feels; ser for what something is."
+      },
+      "register": "neutral",
+      "curatedOrder": 10
+    },
+    {
+      "lemma": "querer",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to want",
+          "translations": [
+            "to want",
+            "want",
+            "would like"
+          ]
+        },
+        {
+          "gloss": "to love",
+          "translations": [
+            "to love",
+            "love",
+            "to care about",
+            "care about"
+          ],
+          "note": "With people: Te quiero (I love you) is used with family, friends and partners."
+        }
+      ],
+      "forms": [
+        {
+          "form": "quiero",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "quieres",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "quiere",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "queremos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "quieren",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "quiso",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Quiere un tinto o un jugo?",
+          "translation": "Would you like a coffee or a juice?",
+          "target": "Quiere",
+          "sense": 0
+        },
+        {
+          "text": "Quiero ir a Cartagena.",
+          "translation": "I want to go to Cartagena.",
+          "target": "Quiero",
+          "sense": 0
+        },
+        {
+          "text": "Te quiero mucho, mamá.",
+          "translation": "I love you very much, Mom.",
+          "target": "quiero",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Stem change e→ie: quiero, quiere (but queremos). Irregular past: quiso."
+      },
+      "register": "neutral",
+      "curatedOrder": 11
+    },
+    {
+      "lemma": "tener",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to have",
+          "translations": [
+            "to have",
+            "have",
+            "to have got",
+            "have got"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "tengo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "tienes",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "tiene",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "tenemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "tienen",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "tuvo",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hoy no tengo plata.",
+          "translation": "I don't have any money today.",
+          "target": "tengo",
+          "sense": 0
+        },
+        {
+          "text": "¿Cuántos años tiene usted?",
+          "translation": "How old are you?",
+          "target": "tiene",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "tener hambre",
+          "translation": "to be hungry"
+        },
+        {
+          "text": "tener que trabajar",
+          "translation": "to have to work"
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: tengo, tiene, past tuvo. Used for age (Tengo treinta años = I'm thirty) and in many expressions where English uses 'to be'."
+      },
+      "register": "neutral",
+      "curatedOrder": 12
+    },
+    {
+      "lemma": "ir",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to go",
+          "translations": [
+            "to go",
+            "go"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "voy",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "vas",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "va",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "vamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "van",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "fue",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Me voy para la casa.",
+          "translation": "I'm heading home.",
+          "target": "voy",
+          "sense": 0
+        },
+        {
+          "text": "¿Vamos a almorzar juntos?",
+          "translation": "Shall we have lunch together?",
+          "target": "Vamos",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "vamos a ver",
+          "translation": "let's see"
+        },
+        {
+          "text": "¿para dónde va?",
+          "translation": "where are you headed?"
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "Very irregular. Ir a + infinitive = 'going to': Voy a comer. Irse = to leave: Me voy. The past fue is the same as for ser."
+      },
+      "register": "neutral",
+      "regionalNote": "In Colombia you'll constantly hear ir para for direction: ¿Para dónde va? (Where are you headed?), Me voy para la casa.",
+      "curatedOrder": 13
+    },
+    {
+      "lemma": "agua",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "water",
+          "translations": [
+            "water"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "aguas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Me regala un vaso de agua?",
+          "translation": "Could I have a glass of water?",
+          "target": "agua",
+          "sense": 0
+        },
+        {
+          "text": "Para mí, agua sin gas, por favor.",
+          "translation": "Still water for me, please.",
+          "target": "agua",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "agua con gas",
+          "translation": "sparkling water"
+        },
+        {
+          "text": "agua de panela",
+          "translation": "drink made from unrefined cane sugar, served hot or cold"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Feminine, but takes el/un in the singular because it begins with a stressed a-: el agua fría, las aguas."
+      },
+      "register": "neutral",
+      "curatedOrder": 14
+    },
+    {
+      "lemma": "tinto",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "black coffee",
+          "translations": [
+            "black coffee",
+            "coffee",
+            "small black coffee"
+          ],
+          "note": "A small cup of black coffee, often sweetened, sold everywhere from cafés to street vendors."
+        }
+      ],
+      "forms": [
+        {
+          "form": "tintos",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Nos tomamos un tinto?",
+          "translation": "Shall we grab a coffee?",
+          "target": "tinto",
+          "sense": 0
+        },
+        {
+          "text": "Siempre me tomo un tinto en la mañana.",
+          "translation": "I always have a black coffee in the morning.",
+          "target": "tinto",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Colombia, un tinto is a black coffee. In Spain and most other countries, tinto means red wine (vino tinto).",
+      "curatedOrder": 15
+    },
+    {
+      "lemma": "plata",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "money",
+          "translations": [
+            "money",
+            "cash"
+          ],
+          "note": "The everyday spoken word for money in Colombia, fine to use with anyone in conversation; dinero is more formal or written."
+        },
+        {
+          "gloss": "silver",
+          "translations": [
+            "silver"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Se me acabó la plata.",
+          "translation": "I've run out of money.",
+          "target": "plata",
+          "sense": 0
+        },
+        {
+          "text": "¿Cuánta plata le debo?",
+          "translation": "How much do I owe you?",
+          "target": "plata",
+          "sense": 0
+        },
+        {
+          "text": "Mi abuela tiene un anillo de plata.",
+          "translation": "My grandmother has a silver ring.",
+          "target": "plata",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Uncountable in the 'money' sense, like English 'money': mucha plata (a lot of money)."
+      },
+      "register": "informal",
+      "regionalNote": "Plata for 'money' is standard in everyday speech across Latin America; in Spain it mainly means 'silver' (money is dinero, or slang pasta).",
+      "curatedOrder": 16
+    },
+    {
+      "lemma": "poder",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "can",
+          "translations": [
+            "can",
+            "to be able to",
+            "be able to",
+            "could",
+            "may"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "puedo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "puedes",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "puede",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "podemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pueden",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pudo",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Me puede ayudar, por favor?",
+          "translation": "Can you help me, please?",
+          "target": "puede",
+          "sense": 0
+        },
+        {
+          "text": "Hoy no puedo, mañana sí.",
+          "translation": "I can't today, but tomorrow I can.",
+          "target": "puedo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Stem change o→ue: puedo, puede (but podemos). Irregular past: pudo. Followed by an infinitive: ¿Puedo pagar con tarjeta?"
+      },
+      "register": "neutral",
+      "curatedOrder": 17
+    },
+    {
+      "lemma": "hablar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to speak",
+          "translations": [
+            "to speak",
+            "speak",
+            "to talk",
+            "talk"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "hablo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "hablas",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "habla",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "hablamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "hablan",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "habló",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hablo un poquito de español.",
+          "translation": "I speak a little bit of Spanish.",
+          "target": "Hablo",
+          "sense": 0
+        },
+        {
+          "text": "¿Hablamos más tarde? Estoy manejando.",
+          "translation": "Can we talk later? I'm driving.",
+          "target": "Hablamos",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "hablar por teléfono",
+          "translation": "to talk on the phone"
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb."
+      },
+      "register": "neutral",
+      "curatedOrder": 18
+    },
+    {
+      "lemma": "entender",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to understand",
+          "translations": [
+            "to understand",
+            "understand"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "entiendo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "entiendes",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "entiende",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "entendemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "entienden",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "entendió",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Perdón, no le entendí.",
+          "translation": "Sorry, I didn't understand you.",
+          "target": "entendí",
+          "sense": 0
+        },
+        {
+          "text": "¿Me entiende si hablo rápido?",
+          "translation": "Do you understand me if I speak fast?",
+          "target": "entiende",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Stem change e→ie: entiendo, entiende (but entendemos). Regular past: entendí, entendió."
+      },
+      "register": "neutral",
+      "curatedOrder": 19
+    },
+    {
+      "lemma": "dónde",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "where",
+          "translations": [
+            "where"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Dónde queda el baño?",
+          "translation": "Where's the bathroom?",
+          "target": "Dónde",
+          "sense": 0
+        },
+        {
+          "text": "¿De dónde es usted?",
+          "translation": "Where are you from?",
+          "target": "dónde",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "¿de dónde?",
+          "translation": "from where?"
+        },
+        {
+          "text": "¿para dónde?",
+          "translation": "where to?"
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "grammar": {
+        "notes": "Accented in questions (¿Dónde…?); no accent in statements: la casa donde vivo (the house where I live)."
+      },
+      "register": "neutral",
+      "regionalNote": "For the location of places, Colombians very often ask ¿Dónde queda…? (queda = is located).",
+      "curatedOrder": 20
+    },
+    {
+      "lemma": "bien",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "well",
+          "translations": [
+            "well",
+            "fine",
+            "good",
+            "OK",
+            "all right"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bien, gracias, ¿y usted?",
+          "translation": "Fine, thanks, and you?",
+          "target": "Bien",
+          "sense": 0
+        },
+        {
+          "text": "Usted habla muy bien español.",
+          "translation": "You speak Spanish really well.",
+          "target": "bien",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "todo bien",
+          "translation": "all good"
+        },
+        {
+          "text": "muy bien",
+          "translation": "very well; very good"
+        }
+      ],
+      "tags": [
+        "greetings",
+        "feelings"
+      ],
+      "register": "neutral",
+      "curatedOrder": 21
+    },
+    {
+      "lemma": "muy",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "very",
+          "translations": [
+            "very",
+            "really",
+            "so"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "La gente es muy amable aquí.",
+          "translation": "People here are very kind.",
+          "target": "muy",
+          "sense": 0
+        },
+        {
+          "text": "Estoy muy cansado hoy.",
+          "translation": "I'm really tired today.",
+          "target": "muy",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Goes before adjectives and adverbs (muy rico, muy bien). 'Very much' or 'a lot' is mucho: Me gusta mucho."
+      },
+      "register": "neutral",
+      "curatedOrder": 22
+    },
+    {
+      "lemma": "casa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "house",
+          "translations": [
+            "house",
+            "home"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "casas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mi casa es su casa.",
+          "translation": "My home is your home.",
+          "target": "casa",
+          "sense": 0
+        },
+        {
+          "text": "¿Usted está en la casa?",
+          "translation": "Are you at home?",
+          "target": "casa",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home"
+      ],
+      "register": "neutral",
+      "regionalNote": "Colombians very often say en la casa ('at home') and para la casa ('home', with movement), where Spain would normally say en casa and a casa.",
+      "curatedOrder": 23
+    },
+    {
+      "lemma": "trabajo",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "work",
+          "translations": [
+            "work",
+            "job"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "trabajos",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Cómo le fue en el trabajo?",
+          "translation": "How was work?",
+          "target": "trabajo",
+          "sense": 0
+        },
+        {
+          "text": "Tengo mucho trabajo esta semana.",
+          "translation": "I have a lot of work this week.",
+          "target": "trabajo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "work"
+      ],
+      "grammar": {
+        "notes": "The verb is trabajar (to work): Trabajo en un banco."
+      },
+      "register": "neutral",
+      "curatedOrder": 24
+    },
+    {
+      "lemma": "celular",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "cell phone",
+          "translations": [
+            "cell phone",
+            "cellphone",
+            "mobile phone",
+            "mobile",
+            "phone"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "celulares",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Se me descargó el celular.",
+          "translation": "My phone died.",
+          "target": "celular",
+          "sense": 0
+        },
+        {
+          "text": "¿Me da su número de celular?",
+          "translation": "Can I have your cell number?",
+          "target": "celular",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Spain: móvil.",
+      "curatedOrder": 25
+    },
+    {
+      "lemma": "carro",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "car",
+          "translations": [
+            "car"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "carros",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vamos en mi carro.",
+          "translation": "Let's go in my car.",
+          "target": "carro",
+          "sense": 0
+        },
+        {
+          "text": "Dejé el carro en el parqueadero.",
+          "translation": "I left the car in the parking lot.",
+          "target": "carro",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Spain: coche. A parking lot in Colombia is a parqueadero.",
+      "curatedOrder": 26
+    },
+    {
+      "lemma": "baño",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bathroom",
+          "translations": [
+            "bathroom",
+            "restroom",
+            "toilet",
+            "washroom"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "baños",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Perdón, ¿el baño, por favor?",
+          "translation": "Excuse me, where's the bathroom, please?",
+          "target": "baño",
+          "sense": 0
+        },
+        {
+          "text": "El baño está al fondo.",
+          "translation": "The bathroom is at the back.",
+          "target": "baño",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "places"
+      ],
+      "register": "neutral",
+      "curatedOrder": 27
+    },
+    {
+      "lemma": "cuenta",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "bill",
+          "translations": [
+            "bill",
+            "check",
+            "the bill",
+            "the check"
+          ],
+          "note": "At a restaurant or bar."
+        },
+        {
+          "gloss": "account",
+          "translations": [
+            "account",
+            "bank account"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "cuentas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "La cuenta, por favor.",
+          "translation": "The check, please.",
+          "target": "cuenta",
+          "sense": 0
+        },
+        {
+          "text": "Necesito abrir una cuenta en el banco.",
+          "translation": "I need to open a bank account.",
+          "target": "cuenta",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "money"
+      ],
+      "register": "neutral",
+      "curatedOrder": 28
+    },
+    {
+      "lemma": "regalar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to give as a gift",
+          "translations": [
+            "to give as a gift",
+            "give as a gift",
+            "to give",
+            "give",
+            "to gift",
+            "gift"
+          ],
+          "note": "In Colombia, ¿Me regala…? is the everyday polite way to ask for something in shops and restaurants, even when you pay: ¿Me regala un tinto? = Can I have a coffee?"
+        }
+      ],
+      "forms": [
+        {
+          "form": "regalo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "regalas",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "regala",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "regalamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "regalan",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "regaló",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Me regala un tinto, por favor?",
+          "translation": "Can I have a black coffee, please?",
+          "target": "regala",
+          "sense": 0
+        },
+        {
+          "text": "Le regalé un libro a mi hermana.",
+          "translation": "I gave my sister a book.",
+          "target": "regalé",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb. El regalo = the gift."
+      },
+      "register": "neutral",
+      "regionalNote": "Very Colombian: ¿Me regala…? = 'Could I have…?' In other countries it can sound as if you're asking for something for free.",
+      "curatedOrder": 29
+    },
+    {
+      "lemma": "comer",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to eat",
+          "translations": [
+            "to eat",
+            "eat"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "como",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "comes",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "come",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "comemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "comen",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "comió",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Qué quiere comer hoy?",
+          "translation": "What do you want to eat today?",
+          "target": "comer",
+          "sense": 0
+        },
+        {
+          "text": "Comemos a las siete.",
+          "translation": "We eat at seven.",
+          "target": "Comemos",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -er verb."
+      },
+      "register": "neutral",
+      "curatedOrder": 30
+    },
+    {
+      "lemma": "tomar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to drink",
+          "translations": [
+            "to drink",
+            "drink",
+            "to have",
+            "have"
+          ],
+          "note": "The everyday verb for drinks: tomar un tinto, tomar agua."
+        },
+        {
+          "gloss": "to take",
+          "translations": [
+            "to take",
+            "take",
+            "to catch",
+            "catch"
+          ],
+          "note": "Transport, photos, etc.: tomar un taxi, tomar una foto."
+        }
+      ],
+      "forms": [
+        {
+          "form": "tomo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "tomas",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "toma",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "tomamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "toman",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "tomó",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Qué va a tomar?",
+          "translation": "What will you have to drink?",
+          "target": "tomar",
+          "sense": 0
+        },
+        {
+          "text": "Vamos a tomar un taxi.",
+          "translation": "We're going to take a taxi.",
+          "target": "tomar",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb."
+      },
+      "register": "neutral",
+      "regionalNote": "In Colombia tomar is the normal verb for 'to drink' (beber sounds more formal). ¿Usted toma? can mean 'Do you drink (alcohol)?'",
+      "curatedOrder": 31
+    },
+    {
+      "lemma": "almorzar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to have lunch",
+          "translations": [
+            "to have lunch",
+            "have lunch",
+            "to eat lunch",
+            "eat lunch",
+            "to lunch",
+            "lunch"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "almuerzo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "almuerzas",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "almuerza",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "almorzamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "almuerzan",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "almorzó",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hoy almorzamos en la casa de mi mamá.",
+          "translation": "Today we're having lunch at my mom's.",
+          "target": "almorzamos",
+          "sense": 0
+        },
+        {
+          "text": "Siempre almuerzo a la una.",
+          "translation": "I always have lunch at one.",
+          "target": "almuerzo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "daily-routine"
+      ],
+      "grammar": {
+        "notes": "Stem change o→ue: almuerzo, almuerza (but almorzamos). Past 1st person: almorcé. The noun el almuerzo = lunch."
+      },
+      "register": "neutral",
+      "regionalNote": "Lunch (el almuerzo) is the main meal of the day in Colombia, usually around noon to 1 p.m. ¿Ya almorzó? is a common friendly question.",
+      "curatedOrder": 32
+    },
+    {
+      "lemma": "gustar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to like",
+          "translations": [
+            "to like",
+            "like",
+            "to be pleasing",
+            "be pleasing",
+            "to enjoy",
+            "enjoy"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "gusta",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "gustan",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "gustó",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Me gusta mucho Bogotá.",
+          "translation": "I really like Bogotá.",
+          "target": "gusta",
+          "sense": 0
+        },
+        {
+          "text": "¿Le gustan las arepas?",
+          "translation": "Do you like arepas?",
+          "target": "gustan",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Works 'backwards': the thing liked is the subject. Me gusta el café (one thing), me gustan las arepas (several). Le gusta = you (usted) like / he or she likes."
+      },
+      "register": "neutral",
+      "curatedOrder": 33
+    },
+    {
+      "lemma": "hacer",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "hago",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "haces",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "hace",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "hacemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "hacen",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "hizo",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Qué hace este fin de semana?",
+          "translation": "What are you doing this weekend?",
+          "target": "hace",
+          "sense": 0
+        },
+        {
+          "text": "Hoy hace mucho frío en Bogotá.",
+          "translation": "It's really cold in Bogotá today.",
+          "target": "hace",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "hacer mercado",
+          "translation": "to do the grocery shopping (Colombia)"
+        },
+        {
+          "text": "hace frío",
+          "translation": "it's cold"
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "weather"
+      ],
+      "grammar": {
+        "notes": "Irregular: hago, past hizo. Weather: hace frío (it's cold), hace sol (it's sunny)."
+      },
+      "register": "neutral",
+      "curatedOrder": 34
+    },
+    {
+      "lemma": "vivir",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to live",
+          "translations": [
+            "to live",
+            "live"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "vivo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "vives",
+          "tags": [
+            "present",
+            "2nd-person",
+            "singular",
+            "informal"
+          ]
+        },
+        {
+          "form": "vive",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "vivimos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "viven",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "vivió",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿En qué barrio vive?",
+          "translation": "Which neighborhood do you live in?",
+          "target": "vive",
+          "sense": 0
+        },
+        {
+          "text": "Hace dos años vivo en Bogotá.",
+          "translation": "I've been living in Bogotá for two years.",
+          "target": "vivo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ir verb."
+      },
+      "register": "neutral",
+      "curatedOrder": 35
+    },
+    {
+      "lemma": "ahorita",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "right now",
+          "translations": [
+            "right now",
+            "now",
+            "in a moment",
+            "in a bit",
+            "soon",
+            "just now"
+          ],
+          "note": "Depending on context: 'right now', 'in a little while' (sometimes vaguely) or 'a moment ago'."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ahorita no puedo, estoy ocupada.",
+          "translation": "I can't right now, I'm busy.",
+          "target": "Ahorita",
+          "sense": 0
+        },
+        {
+          "text": "Ahorita lo llamo, ¿listo?",
+          "translation": "I'll call you in a bit, OK?",
+          "target": "Ahorita",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Diminutive of ahora (now)."
+      },
+      "register": "informal",
+      "regionalNote": "Very common in Colombia (and Mexico). Because it can mean 'right now', 'in a while' or 'a moment ago', don't take ahorita as a precise time.",
+      "curatedOrder": 36
+    },
+    {
+      "lemma": "ya",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "already",
+          "translations": [
+            "already",
+            "yet",
+            "now",
+            "anymore"
+          ],
+          "note": "¿Ya…? = '…yet?'; ¡Ya voy! = 'Coming!'; ya no = 'not anymore'."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ya llegué, estoy en la puerta.",
+          "translation": "I'm here, I'm at the door.",
+          "target": "Ya",
+          "sense": 0
+        },
+        {
+          "text": "Ya no vivo en Medellín.",
+          "translation": "I don't live in Medellín anymore.",
+          "target": "Ya",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 37
+    },
+    {
+      "lemma": "mañana",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "tomorrow",
+          "translations": [
+            "tomorrow"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nos vemos mañana en la oficina.",
+          "translation": "See you tomorrow at the office.",
+          "target": "mañana",
+          "sense": 0
+        },
+        {
+          "text": "Mañana tengo que madrugar.",
+          "translation": "I have to get up early tomorrow.",
+          "target": "Mañana",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "pasado mañana",
+          "translation": "the day after tomorrow"
+        },
+        {
+          "text": "hasta mañana",
+          "translation": "see you tomorrow"
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "As a noun, la mañana = the morning."
+      },
+      "register": "neutral",
+      "regionalNote": "Colombians often say en la mañana for 'in the morning', where Spain prefers por la mañana.",
+      "curatedOrder": 38
+    },
+    {
+      "lemma": "pero",
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "but",
+          "translations": [
+            "but"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Es caro, pero es muy rico.",
+          "translation": "It's expensive, but it's really good.",
+          "target": "pero",
+          "sense": 0
+        },
+        {
+          "text": "Quiero ir, pero no tengo plata.",
+          "translation": "I want to go, but I don't have money.",
+          "target": "pero",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "connectors"
+      ],
+      "register": "neutral",
+      "curatedOrder": 39
+    },
+    {
+      "lemma": "día",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "day",
+          "translations": [
+            "day"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "días",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Qué día nos vemos?",
+          "translation": "What day are we meeting?",
+          "target": "día",
+          "sense": 0
+        },
+        {
+          "text": "Trabajo todos los días.",
+          "translation": "I work every day.",
+          "target": "días",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Masculine despite ending in -a: el día, buenos días."
+      },
+      "register": "neutral",
+      "curatedOrder": 40
+    },
+    {
+      "lemma": "semana",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "week",
+          "translations": [
+            "week"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "semanas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nos vemos la otra semana.",
+          "translation": "See you next week.",
+          "target": "semana",
+          "sense": 0
+        },
+        {
+          "text": "El fin de semana nos vamos para la finca.",
+          "translation": "This weekend we're heading to the country house.",
+          "target": "semana",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "el fin de semana",
+          "translation": "the weekend"
+        },
+        {
+          "text": "la otra semana",
+          "translation": "next week"
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Colombia la otra semana commonly means 'next week' (also la próxima semana); context makes it clear. A finca is a country house or farm, a classic weekend getaway.",
+      "curatedOrder": 41
+    },
+    {
+      "lemma": "hora",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "hour",
+          "translations": [
+            "hour",
+            "time"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "horas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Perdón, ¿qué hora es?",
+          "translation": "Excuse me, what time is it?",
+          "target": "hora",
+          "sense": 0
+        },
+        {
+          "text": "Llego en una hora.",
+          "translation": "I'll be there in an hour.",
+          "target": "hora",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Telling the time: Es la una (It's one o'clock), Son las tres (It's three o'clock)."
+      },
+      "register": "neutral",
+      "curatedOrder": 42
+    },
+    {
+      "lemma": "amigo",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "friend",
+          "translations": [
+            "friend"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "amiga",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "amigos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "amigas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ella es mi mejor amiga.",
+          "translation": "She's my best friend.",
+          "target": "amiga",
+          "sense": 0
+        },
+        {
+          "text": "Voy a salir con unos amigos.",
+          "translation": "I'm going out with some friends.",
+          "target": "amigos",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "register": "neutral",
+      "regionalNote": "Colombian slang for 'buddy': parce or parcero/parcera, very common among young people.",
+      "curatedOrder": 43
+    },
+    {
+      "lemma": "familia",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "family",
+          "translations": [
+            "family"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "familias",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mi familia vive en Cali.",
+          "translation": "My family lives in Cali.",
+          "target": "familia",
+          "sense": 0
+        },
+        {
+          "text": "¿Cómo está la familia?",
+          "translation": "How's the family?",
+          "target": "familia",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "register": "neutral",
+      "curatedOrder": 44
+    },
+    {
+      "lemma": "bueno",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "good",
+          "translations": [
+            "good",
+            "nice",
+            "fine"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "buena",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "buenos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "buenas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        },
+        {
+          "form": "mejor",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Este restaurante es muy bueno.",
+          "translation": "This restaurant is really good.",
+          "target": "bueno",
+          "sense": 0
+        },
+        {
+          "text": "¡Qué buena idea, me encanta!",
+          "translation": "What a good idea, I love it!",
+          "target": "buena",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "¡qué bueno!",
+          "translation": "great! how nice!"
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Shortens to buen before a masculine singular noun: un buen día. Comparative: mejor (better)."
+      },
+      "register": "neutral",
+      "curatedOrder": 45
+    },
+    {
+      "lemma": "chévere",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "cool",
+          "translations": [
+            "cool",
+            "great",
+            "nice",
+            "awesome",
+            "fun"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "chéveres",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "La fiesta estuvo muy chévere.",
+          "translation": "The party was really fun.",
+          "target": "chévere",
+          "sense": 0
+        },
+        {
+          "text": "Bogotá es una ciudad muy chévere.",
+          "translation": "Bogotá is a really cool city.",
+          "target": "chévere",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "¡qué chévere!",
+          "translation": "how cool! great!"
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Same form for masculine and feminine: un plan chévere, una fiesta chévere."
+      },
+      "register": "informal",
+      "regionalNote": "Common in Colombia, Venezuela and around the Caribbean. In Spain you'd say genial or guay; in Mexico, padre or chido.",
+      "curatedOrder": 46
+    },
+    {
+      "lemma": "rico",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "delicious",
+          "translations": [
+            "delicious",
+            "tasty",
+            "good",
+            "yummy"
+          ],
+          "note": "Also 'lovely, nice' for pleasant things: ¡Qué rico este clima! (What lovely weather!)"
+        },
+        {
+          "gloss": "rich",
+          "translations": [
+            "rich",
+            "wealthy"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "rica",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "ricos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "ricas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¡Qué rico este ajiaco!",
+          "translation": "This ajiaco is delicious!",
+          "target": "rico",
+          "sense": 0
+        },
+        {
+          "text": "La comida estaba muy rica.",
+          "translation": "The food was really tasty.",
+          "target": "rica",
+          "sense": 0
+        },
+        {
+          "text": "Su familia es muy rica.",
+          "translation": "His family is very rich.",
+          "target": "rica",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 47
+    },
+    {
+      "lemma": "caro",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "expensive",
+          "translations": [
+            "expensive",
+            "pricey",
+            "costly"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "cara",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "caros",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "caras",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¡Uy, eso está muy caro!",
+          "translation": "Whoa, that's really expensive!",
+          "target": "caro",
+          "sense": 0
+        },
+        {
+          "text": "Los taxis no son caros aquí.",
+          "translation": "Taxis aren't expensive here.",
+          "target": "caros",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "register": "neutral",
+      "curatedOrder": 48
+    },
+    {
+      "lemma": "barato",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "cheap",
+          "translations": [
+            "cheap",
+            "inexpensive",
+            "affordable"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "barata",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "baratos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "baratas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "La fruta es muy barata en la plaza.",
+          "translation": "Fruit is really cheap at the market.",
+          "target": "barata",
+          "sense": 0
+        },
+        {
+          "text": "¿No tiene uno más barato?",
+          "translation": "Don't you have a cheaper one?",
+          "target": "barato",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Colombia, la plaza (de mercado) is the traditional fresh-food market.",
+      "curatedOrder": 49
+    },
+    {
+      "lemma": "grande",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "big",
+          "translations": [
+            "big",
+            "large"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "grandes",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Un jugo grande, por favor.",
+          "translation": "A large juice, please.",
+          "target": "grande",
+          "sense": 0
+        },
+        {
+          "text": "Su casa es muy grande.",
+          "translation": "Your house is really big.",
+          "target": "grande",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Same form for masculine and feminine. Before a singular noun it becomes gran and means 'great': un gran amigo."
+      },
+      "register": "neutral",
+      "curatedOrder": 50
+    },
+    {
+      "lemma": "pequeño",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "small",
+          "translations": [
+            "small",
+            "little"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pequeña",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "pequeños",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "pequeñas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "El apartamento es pequeño pero chévere.",
+          "translation": "The apartment is small but nice.",
+          "target": "pequeño",
+          "sense": 0
+        },
+        {
+          "text": "Tengo dos hijos pequeños.",
+          "translation": "I have two small children.",
+          "target": "pequeños",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "home"
+      ],
+      "grammar": {
+        "notes": "In everyday speech the diminutive chiquito/chiquita (tiny, little) is very common."
+      },
+      "register": "neutral",
+      "curatedOrder": 51
+    },
+    {
+      "lemma": "bravo",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "angry",
+          "translations": [
+            "angry",
+            "mad",
+            "upset",
+            "annoyed"
+          ],
+          "note": "Colombian everyday usage: estar bravo (con alguien) = to be angry (with someone)."
+        },
+        {
+          "gloss": "fierce",
+          "translations": [
+            "fierce",
+            "wild",
+            "aggressive"
+          ],
+          "note": "Of animals or the sea: un perro bravo (a fierce dog)."
+        }
+      ],
+      "forms": [
+        {
+          "form": "brava",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "bravos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "bravas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mi mamá está brava conmigo.",
+          "translation": "My mom is mad at me.",
+          "target": "brava",
+          "sense": 0
+        },
+        {
+          "text": "¿Usted está bravo conmigo?",
+          "translation": "Are you mad at me?",
+          "target": "bravo",
+          "sense": 0
+        },
+        {
+          "text": "Cuidado, ese perro es muy bravo.",
+          "translation": "Careful, that dog is very fierce.",
+          "target": "bravo",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "register": "informal",
+      "regionalNote": "In Colombia estar bravo = to be angry (Spain: enfadado; Mexico: enojado). Elsewhere bravo usually means 'fierce' or 'brave', and ¡Bravo! is a cheer.",
+      "curatedOrder": 52
+    },
+    {
+      "lemma": "calle",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "street",
+          "translations": [
+            "street",
+            "road"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "calles",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vivo en la calle 45 con carrera 13.",
+          "translation": "I live at the corner of Calle 45 and Carrera 13.",
+          "target": "calle",
+          "sense": 0
+        },
+        {
+          "text": "Crucemos la calle aquí.",
+          "translation": "Let's cross the street here.",
+          "target": "calle",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Bogotá addresses, calles run east–west and carreras run north–south: Calle 72 # 10-34 is on Calle 72, near Carrera 10.",
+      "curatedOrder": 53
+    },
+    {
+      "lemma": "cuadra",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "block",
+          "translations": [
+            "block",
+            "city block"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "cuadras",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Queda a dos cuadras de aquí.",
+          "translation": "It's two blocks from here.",
+          "target": "cuadras",
+          "sense": 0
+        },
+        {
+          "text": "Siga derecho tres cuadras.",
+          "translation": "Go straight for three blocks.",
+          "target": "cuadras",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city"
+      ],
+      "register": "neutral",
+      "regionalNote": "Used all over Latin America for city blocks and distances in blocks; in Spain, manzana is the usual word for a block.",
+      "curatedOrder": 54
+    },
+    {
+      "lemma": "tienda",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "shop",
+          "translations": [
+            "shop",
+            "store",
+            "corner shop",
+            "corner store"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "tiendas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Voy a la tienda a comprar pan.",
+          "translation": "I'm going to the shop to buy bread.",
+          "target": "tienda",
+          "sense": 0
+        },
+        {
+          "text": "La tienda de la esquina abre temprano.",
+          "translation": "The corner shop opens early.",
+          "target": "tienda",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Colombian neighborhoods, la tienda is the small corner shop for everyday groceries, often with a couple of tables where neighbors chat over a beer.",
+      "curatedOrder": 55
+    },
+    {
+      "lemma": "bus",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bus",
+          "translations": [
+            "bus"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "buses",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tomo el bus en la esquina.",
+          "translation": "I catch the bus on the corner.",
+          "target": "bus",
+          "sense": 0
+        },
+        {
+          "text": "¿Este bus va para el centro?",
+          "translation": "Does this bus go downtown?",
+          "target": "bus",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Spain: autobús. Bogotá's rapid-transit bus system is TransMilenio.",
+      "curatedOrder": 56
+    },
+    {
+      "lemma": "comida",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "food",
+          "translations": [
+            "food"
+          ]
+        },
+        {
+          "gloss": "dinner",
+          "translations": [
+            "dinner",
+            "supper",
+            "evening meal"
+          ],
+          "note": "In Colombia la comida often means the evening meal (also la cena)."
+        }
+      ],
+      "forms": [
+        {
+          "form": "comidas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "La comida colombiana es muy rica.",
+          "translation": "Colombian food is really good.",
+          "target": "comida",
+          "sense": 0
+        },
+        {
+          "text": "¿A qué hora es la comida?",
+          "translation": "What time is dinner?",
+          "target": "comida",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "Colombian meals: desayuno (breakfast), almuerzo (lunch, the main meal), comida (dinner). In Mexico, by contrast, la comida is the midday meal.",
+      "curatedOrder": 57
+    },
+    {
+      "lemma": "onces",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "afternoon snack",
+          "translations": [
+            "afternoon snack",
+            "snack",
+            "afternoon tea"
+          ],
+          "note": "A light late-afternoon meal: coffee or hot chocolate with bread, cheese or pastries."
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Vamos a tomar onces?",
+          "translation": "Shall we have an afternoon snack?",
+          "target": "onces",
+          "sense": 0
+        },
+        {
+          "text": "A las cuatro tomamos onces con chocolate.",
+          "translation": "At four we have a snack with hot chocolate.",
+          "target": "onces",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "daily-routine"
+      ],
+      "grammar": {
+        "notes": "Always plural: las onces. The usual verb is tomar: tomar onces."
+      },
+      "register": "neutral",
+      "regionalNote": "Typical of Bogotá and the Colombian Andes; elsewhere in the Spanish-speaking world this is a merienda (Chile has a similar custom called once).",
+      "curatedOrder": 58
+    },
+    {
+      "lemma": "jugo",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "juice",
+          "translations": [
+            "juice"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "jugos",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿El jugo en agua o en leche?",
+          "translation": "Do you want the juice made with water or with milk?",
+          "target": "jugo",
+          "sense": 0
+        },
+        {
+          "text": "Un jugo de lulo, por favor.",
+          "translation": "A lulo juice, please.",
+          "target": "jugo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Spain: zumo. Colombian fresh juices are made either en agua (with water) or en leche (with milk). Lulo is a tangy Andean fruit.",
+      "curatedOrder": 59
+    },
+    {
+      "lemma": "papa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "potato",
+          "translations": [
+            "potato"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "papas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "¿Quiere papas a la francesa?",
+          "translation": "Would you like French fries?",
+          "target": "papas",
+          "sense": 0
+        },
+        {
+          "text": "El ajiaco lleva papa criolla.",
+          "translation": "Ajiaco is made with small yellow potatoes.",
+          "target": "papa",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "la papa = potato; el papa = the Pope; papá (with an accent) = dad."
+      },
+      "register": "neutral",
+      "regionalNote": "Latin American word; in Spain: patata. Ajiaco, Bogotá's classic chicken soup, combines several kinds of potato, including the small yellow papa criolla.",
+      "curatedOrder": 60
+    },
+    {
+      "lemma": "arepa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "arepa",
+          "translations": [
+            "arepa",
+            "corn cake",
+            "cornmeal cake"
+          ],
+          "note": "Round flatbread made from ground corn, eaten at any meal."
+        }
+      ],
+      "forms": [
+        {
+          "form": "arepas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Desayuno arepa con queso y chocolate.",
+          "translation": "For breakfast I have an arepa with cheese and hot chocolate.",
+          "target": "arepa",
+          "sense": 0
+        },
+        {
+          "text": "En la esquina venden arepas muy ricas.",
+          "translation": "They sell really good arepas on the corner.",
+          "target": "arepas",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "A staple in Colombia and Venezuela; every Colombian region has its own style.",
+      "curatedOrder": 61
+    }
+  ]
+}

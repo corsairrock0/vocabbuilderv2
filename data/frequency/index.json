@@ -1,0 +1,64 @@
+{
+  "es": {
+    "words": 5972,
+    "name": "Most frequent words: Spanish (OpenSubtitles + RAE CREA, English Wiktionary)",
+    "bySource": {
+      "wiktionary": 5992,
+      "wiktionary-2023": 8
+    },
+    "skipped": 199,
+    "builtAt": "2026-11-06",
+    "version": "41e44be65a83"
+  },
+  "pl": {
+    "words": 5965,
+    "name": "Most frequent words: Polish (wordfreq, English Wiktionary)",
+    "bySource": {
+      "wiktionary": 6000
+    },
+    "skipped": 591,
+    "builtAt": "2026-11-06",
+    "version": "c0644b456ea9"
+  },
+  "pt": {
+    "words": 5963,
+    "name": "Most frequent words: Brazilian Portuguese (OpenSubtitles pt-BR, English Wiktionary)",
+    "bySource": {
+      "wiktionary": 6000
+    },
+    "skipped": 233,
+    "builtAt": "2026-11-06",
+    "version": "c7e4c568704b"
+  },
+  "ru": {
+    "words": 5991,
+    "name": "Most frequent words: Russian (wordfreq, English Wiktionary)",
+    "bySource": {
+      "wiktionary": 6000
+    },
+    "skipped": 148,
+    "builtAt": "2026-11-06",
+    "version": "7786d84f08f9"
+  },
+  "uk": {
+    "words": 5971,
+    "name": "Most frequent words: Ukrainian (wordfreq, English Wiktionary)",
+    "bySource": {
+      "dmklinger/ukrainian": 1434,
+      "wiktionary": 4566
+    },
+    "skipped": 1013,
+    "builtAt": "2026-11-06",
+    "version": "e6a4d04844c1"
+  },
+  "vi": {
+    "words": 5977,
+    "name": "Most frequent words: Vietnamese (vn-freqs, English Wiktionary)",
+    "bySource": {
+      "wiktionary": 6000
+    },
+    "skipped": 318,
+    "builtAt": "2026-11-06",
+    "version": "e3601d31e230"
+  }
+}

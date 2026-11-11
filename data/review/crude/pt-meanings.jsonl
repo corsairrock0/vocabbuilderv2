@@ -1,0 +1,79 @@
+{"lemma":"droga","pos":"noun","rank":298,"drop":[],"gloss":{"1":"darn!, shoot!"},"why":"'Droga!' is a mild, non-vulgar exclamation in Brazil (a substitute for real curses); reword 'damn!, crap!' to its register"}
+{"lemma":"maldito","pos":"adjective","rank":484,"drop":[0],"gloss":{},"why":"meaning 0 (damn, damned, bloody) is the curse the owner had dropped; keeps cursed (numbers of the reviewed list)"}
+{"lemma":"duro","pos":"adjective","rank":701,"drop":[4],"gloss":{},"why":"meaning 4 is informal sexual slang (erect, of a penis)"}
+{"lemma":"diabo","pos":"noun","rank":718,"drop":[4],"gloss":{},"why":"meaning 4 is a curse (damn!), marked offensive, blasphemous; 1 (what the devil) is mild"}
+{"lemma":"conversa","pos":"noun","rank":733,"drop":[],"gloss":{"2":"nonsense, drivel (untrue statements intended to deceive)"},"why":"'conversa' is not vulgar; reword 'bullshit' as in AGENT.md"}
+{"lemma":"gay","pos":"adjective","rank":892,"drop":[1,2,4],"gloss":{},"why":"1, 2 and 4 are pejorative slang uses of 'gay' (cheesy, effeminate, lame), homophobic in origin; 4 is marked derogatory. Keeps the neutral meanings 0 and 3"}
+{"lemma":"saco","pos":"noun","rank":921,"drop":[1],"gloss":{},"why":"meaning 1 is vulgar body slang (balls, the scrotum). 2 and 3 (patience; a drag) are everyday colloquial uses, only mildly vulgar, kept"}
+{"lemma":"meter","pos":"verb","rank":929,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (to fuck, screw)"}
+{"lemma":"lixo","pos":"noun","rank":944,"drop":[],"gloss":{"2":"junk, rubbish (something of poor quality)"},"why":"'lixo' is not vulgar; reword 'crap'"}
+{"lemma":"bunda","pos":"noun","rank":988,"drop":[],"gloss":{"0":"bottom, backside, rear end"},"why":"only meaning; the everyday Brazilian word for buttocks is fine, but 'ass' is crude English"}
+{"lemma":"pau","pos":"noun","rank":1410,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar slang for penis; 3 (bucks) is fine"}
+{"lemma":"macaco","pos":"noun","rank":1453,"drop":[2,3,4],"gloss":{},"why":"2 is an ethnic slur; 3 and 4 use 'monkey' as an insult for people, which in Brazil carries the same racist charge. Keeps monkey and jack"}
+{"lemma":"danar","pos":"verb","rank":1463,"drop":[],"gloss":{"2":"to annoy, to anger (to cause to become angry)"},"why":"0 'damn to Hell' is literal theology; 2 is fine but worded 'piss off' (AGENT.md wording)"}
+{"lemma":"porcaria","pos":"noun","rank":1515,"drop":[],"gloss":{"2":"trash, junk"},"why":"'porcaria' is not vulgar; reword 'crap'. 1 'smut, filth' is a plain description"}
+{"lemma":"gás","pos":"noun","rank":1527,"drop":[],"gloss":{"1":"flatulence, wind (intestinal gas)"},"why":"intestinal gas is a neutral meaning; reword the toilet-talk 'fart'"}
+{"lemma":"bastardo","pos":"adjective","rank":1603,"drop":[],"gloss":{"0":"illegitimate, born out of wedlock"},"why":"only meaning; 'bastard' reworded to the illegitimacy sense the sentence shows (the insult reading would be crude)"}
+{"lemma":"zona","pos":"noun","rank":1653,"drop":[3],"gloss":{},"why":"red light district sense dropped"}
+{"lemma":"pacote","pos":"noun","rank":1666,"drop":[3],"gloss":{},"why":"meaning 3 is body slang for buttocks (Portugal)"}
+{"lemma":"babaca","pos":"noun","rank":1692,"drop":[2],"gloss":{"1":"jerk (as an insult)"},"why":"2 is slang for the vulva; 1 is the mild insult (the sentences use 'jerk'), reworded from 'asshole'"}
+{"lemma":"anel","pos":"noun","rank":1698,"drop":[1],"gloss":{},"why":"meaning 1 is slang for the anus"}
+{"lemma":"rabo","pos":"noun","rank":1861,"drop":[1,2],"gloss":{},"why":"1 (asshole, anus) and 2 (ass) are vulgar body slang; keeps tail"}
+{"lemma":"vagabundo","pos":"noun","rank":1902,"drop":[],"gloss":{"4":"shoddy; worthless; of low quality"},"why":"'tramp' means vagrant here; reword 'crappy' in 4"}
+{"lemma":"ferramenta","pos":"noun","rank":2084,"drop":[1],"gloss":{},"why":"meaning 1 is slang for penis (euphemistic)"}
+{"lemma":"vaca","pos":"noun","rank":2096,"drop":[1],"gloss":{},"why":"meaning 1 is a crude insult (promiscuous woman, bitch)"}
+{"lemma":"teto","pos":"noun","rank":2161,"drop":[],"gloss":{"2":"teat (projection of mammary gland)"},"why":"the anatomical meaning is fine but 'tit' reads as crude slang"}
+{"lemma":"chupar","pos":"verb","rank":2213,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar sexual slang (blowjob)"}
+{"lemma":"leite","pos":"noun","rank":2310,"drop":[1],"gloss":{},"why":"meaning 1 is vulgar sexual slang (semen, cum)"}
+{"lemma":"canalha","pos":"noun","rank":2506,"drop":[1],"gloss":{"0":"scoundrel, villain, blackguard, degenerate"},"why":"1 is an unspecific term of abuse marked offensive, vulgar; 0 (scoundrel) is fine but worded with 'bastard'"}
+{"lemma":"aranha","pos":"noun","rank":2571,"drop":[1],"gloss":{},"why":"meaning 1 is slang for female genitals"}
+{"lemma":"gozar","pos":"verb","rank":2589,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (to cum); keeps enjoy, mock, joke"}
+{"lemma":"banana","pos":"noun","rank":2741,"drop":[2],"gloss":{},"why":"meaning 2 is slang for penis; 3 names a rude gesture (dar uma banana) in plain words, 4 (wimp) is a mild insult"}
+{"lemma":"pistola","pos":"noun","rank":2757,"drop":[],"gloss":{"1":"furious, mad, aggressively angry"},"why":"'ficar pistola' is not vulgar; reword 'pissed off'"}
+{"lemma":"gado","pos":"noun","rank":2805,"drop":[3],"gloss":{},"why":"meaning 3 is the insult 'cuckold' (corno, on the owner's crude list); simp and sheeple are political slang, not crude"}
+{"lemma":"bife","pos":"noun","rank":2958,"drop":[1],"gloss":{},"why":"meaning 1 is an ethnic slur for the English"}
+{"lemma":"cabra","pos":"noun","rank":2983,"drop":[1],"gloss":{},"why":"meaning 1 is a crude insult (bitch), marked vulgar, offensive; 2 (guy, NE Brazil) is fine"}
+{"lemma":"vara","pos":"noun","rank":3085,"drop":[4],"gloss":{},"why":"meaning 4 is vulgar slang for penis"}
+{"lemma":"tara","pos":"noun","rank":3202,"drop":[3],"gloss":{},"why":"meaning 3 is sexual slang (sexual fetish or desire); 1 (obsession) covers the everyday use"}
+{"lemma":"tomate","pos":"noun","rank":3208,"drop":[1],"gloss":{},"why":"meaning 1 is slang for testicles (balls)"}
+{"lemma":"garra","pos":"noun","rank":3213,"drop":[],"gloss":{"0":"claw (curved, horn-like nail)"},"why":"'horny' means horn-like here, but reads as sexual slang; reworded, meaning unchanged"}
+{"lemma":"borboleta","pos":"noun","rank":3314,"drop":[2],"gloss":{},"why":"meaning 2 is slang for female genitals"}
+{"lemma":"menina","pos":"noun","rank":3354,"drop":[2,3],"gloss":{},"why":"effeminate boy (slur) and prostitute senses dropped"}
+{"lemma":"retardado","pos":"adjective","rank":3397,"drop":[2,4],"gloss":{"1":"having an intellectual disability","3":"a person with an intellectual disability"},"why":"2 and 4 use the word as an ableist insult (like 'retard', on the owner's crude list); 1 and 3 reworded from the outdated 'mental retardation'"}
+{"lemma":"camarão","pos":"noun","rank":3425,"drop":[1],"gloss":{},"why":"meaning 1 is a sexist, body-shaming insult (butterface)"}
+{"lemma":"bico","pos":"noun","rank":3488,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (blowjob, Portugal); 1 (odd job) is fine"}
+{"lemma":"moleque","pos":"noun","rank":3522,"drop":[0],"gloss":{},"why":"meaning 0 is glossed with the racial slur 'pickaninny' (an obsolete demeaning term for a black child); keeps boy, naughty male, funny person, magnet"}
+{"lemma":"cavalgar","pos":"verb","rank":3540,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar sexual slang"}
+{"lemma":"fenda","pos":"noun","rank":3581,"drop":[1],"gloss":{},"why":"meaning 1 is slang for female genitals"}
+{"lemma":"baleia","pos":"noun","rank":3604,"drop":[1],"gloss":{},"why":"meaning 1 is a body-shaming insult for an obese woman (land whale)"}
+{"lemma":"turco","pos":"noun","rank":3642,"drop":[2],"gloss":{},"why":"ethnic label for Middle Eastern immigrants dropped"}
+{"lemma":"trepar","pos":"verb","rank":3716,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (to fuck)"}
+{"lemma":"veado","pos":"noun","rank":3764,"drop":[1],"gloss":{},"why":"meaning 1 is a homophobic slur in Brazil"}
+{"lemma":"penetrar","pos":"verb","rank":3815,"drop":[],"gloss":{"1":"to penetrate (sexually)"},"why":"sexual penetration is a standard sense of the verb, but 'have sex with a hole' is crude wording"}
+{"lemma":"cigano","pos":"adjective","rank":3826,"drop":[1],"gloss":{"0":"Romani (relating to the Roma)","2":"Roma, a Romani person (member of an itinerant people of Europe and the Americas)","3":"Romani, the language of the Roma"},"why":"1 'swindler' is an ethnic insult (the AGENT.md example); 'Gypsy' in 0, 2, 3 is offensive English wording"}
+{"lemma":"arrombar","pos":"verb","rank":3934,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar sexual slang (anal sex)"}
+{"lemma":"piranha","pos":"noun","rank":3952,"drop":[1],"gloss":{},"why":"meaning 1 is a crude insult (slut)"}
+{"lemma":"mona","pos":"noun","rank":4015,"drop":[3],"gloss":{},"why":"meaning 3 is slang for female genitals"}
+{"lemma":"rosca","pos":"noun","rank":4078,"drop":[2],"gloss":{},"why":"meaning 2 is slang for the anus"}
+{"lemma":"prateleira","pos":"noun","rank":4143,"drop":[1],"gloss":{},"why":"meaning 1 is sexual body slang for breasts (like 'rack')"}
+{"lemma":"pinto","pos":"noun","rank":4218,"drop":[1],"gloss":{},"why":"meaning 1 is vulgar slang for penis"}
+{"lemma":"sacana","pos":"noun","rank":4249,"drop":[2],"gloss":{"0":"rogue; scoundrel; trickster"},"why":"2 is a vulgar homophobic slur (passive pederast); 0 (rogue, scoundrel) is fine but worded with 'bastard'"}
+{"lemma":"peru","pos":"noun","rank":4318,"drop":[1],"gloss":{},"why":"meaning 1 is slang for penis"}
+{"lemma":"teta","pos":"noun","rank":4479,"drop":[],"gloss":{"1":"teat (projection of mammary gland)"},"why":"the meaning is fine (the sentence shows a cow's teat; the note still says it is vulgar for humans) but 'tit' is crude wording"}
+{"lemma":"tábua","pos":"noun","rank":4510,"drop":[5],"gloss":{},"why":"meaning 5 is a sexist, body-shaming slang insult"}
+{"lemma":"sacanagem","pos":"noun","rank":4584,"drop":[2],"gloss":{},"why":"meaning 2 is sexual slang (porn, promiscuity); 0 and 1 (dirty trick, unfair) are everyday slang"}
+{"lemma":"condenado","pos":"adjective","rank":4616,"drop":[],"gloss":{"1":"doomed, condemned (ill-fated)","2":"blasted, doggone, darn"},"why":"the intensifier in 2 is mild (like 'blasted'), so 'damn' is reworded rather than dropped; 'damned' removed from the literal 'doomed' in 1"}
+{"lemma":"excitado","pos":"adjective","rank":4657,"drop":[2],"gloss":{},"why":"aroused dropped"}
+{"lemma":"deficiente","pos":"noun","rank":4772,"drop":[1],"gloss":{},"why":"meaning 1 is an ableist insult (retarded, idiot)"}
+{"lemma":"aleijado","pos":"adjective","rank":4804,"drop":[],"gloss":{"0":"physically disabled, maimed"},"why":"only meaning; 'crippled' is offensive English wording (the sentence already says 'disabled')"}
+{"lemma":"tarado","pos":"adjective","rank":4863,"drop":[1],"gloss":{},"why":"meaning 1 is popular sexual slang (sex maniac, pervert); 0 (crazy about) is what the sentences show"}
+{"lemma":"mamar","pos":"verb","rank":4947,"drop":[1],"gloss":{},"why":"meaning 1 is vulgar sexual slang (oral sex)"}
+{"lemma":"mesquinho","pos":"adjective","rank":5194,"drop":[],"gloss":{"0":"stingy, mean, miserly, petty"},"why":"'niggardly' reads as a slur; AGENT.md wording"}
+{"lemma":"molhado","pos":"adjective","rank":5271,"drop":[1],"gloss":{},"why":"meaning 1 is sexual slang (aroused, horny, of a woman)"}
+{"lemma":"baboseira","pos":"noun","rank":5362,"drop":[],"gloss":{"0":"nonsense, drivel"},"why":"only meaning; the word is not vulgar, 'bullshit' reworded as in AGENT.md"}
+{"lemma":"poupança","pos":"noun","rank":5687,"drop":[3],"gloss":{},"why":"meaning 3 is jocular body slang for buttocks (like the owner's орех example)"}
+{"lemma":"anal","pos":"adjective","rank":5792,"drop":[1],"gloss":{},"why":"meaning 1 is slang for anal sex; 0 (anal, medical) is fine"}
+{"lemma":"poça","pos":"noun","rank":5832,"drop":[],"gloss":{"2":"darn!, shoot! (expresses surprise or disappointment)"},"why":"the interjection is a euphemism (a stand-in for a real curse), so 'damn!' is reworded to its mild register rather than dropped"}
+{"lemma":"chico","pos":"noun","rank":5834,"drop":[0],"gloss":{},"why":"meaning 0 is slang for the anus; 1 (period, menstruation) is a harmless euphemism"}
+{"lemma":"égua","pos":"noun","rank":5887,"drop":[],"gloss":{"1":"wow!, jeez!, good grief!"},"why":"'Égua!' is a common regional (Pará) exclamation, colloquial but not marked vulgar; the English list of strong curses is reworded to its register"}
+{"lemma":"nazista","pos":"adjective","rank":2480,"drop":[],"gloss":{"0":"Nazi (relating to Nazism or the Nazi Party; also Nazi-like, xenophobic)"},"note":{"0":null},"why":"the main meaning was missing; its first sentence shows it"}

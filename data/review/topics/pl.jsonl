@@ -1,0 +1,230 @@
+{"lemma":"w","text":"Byłem już w Indiach.","replace":{"text":"Byłem już w Tokio.","translation":"I have already been to Tokyo.","target":"w"}}
+{"lemma":"być","text":"Nie jestem z Algierii.","replace":{"text":"Jestem z Pragi.","translation":"I am from Prague.","target":"jestem"}}
+{"lemma":"być","text":"Byłem już w Indiach.","replace":{"text":"Byłem wczoraj w Pradze.","translation":"I was in Prague yesterday.","target":"Byłem"}}
+{"lemma":"nie","text":"Nie jestem z Algierii.","replace":{"text":"Nie jestem z Seulu.","translation":"I am not from Seoul.","target":"Nie"}}
+{"lemma":"z","text":"Jestem z Arabii Saudyjskiej.","replace":{"text":"Jestem z Seulu.","translation":"I am from Seoul.","target":"z"}}
+{"lemma":"z","text":"Nie jestem z Algierii.","replace":{"text":"Nie jestem z Madrytu.","translation":"I am not from Madrid.","target":"z"}}
+{"lemma":"to","text":"To jest z Biblii.","replace":{"text":"To jest z Krakowa.","translation":"This is from Kraków.","target":"To"}}
+{"lemma":"czy","text":"Czy dużo jest Afrykańczyków w Niemczech?","replace":{"text":"Czy dużo jest Koreańczyków w Niemczech?","translation":"Are there many Koreans in Germany?","target":"Czy"}}
+{"lemma":"mój","text":"Mój Boże! Co to jest?","replace":{"text":"Mój brat mieszka w Toronto.","translation":"My brother lives in Toronto.","target":"Mój"}}
+{"lemma":"już","text":"Byłem już w Indiach.","replace":{"text":"Mam już bilety do Wiednia.","translation":"I already have tickets to Vienna.","target":"już"}}
+{"lemma":"dużo","text":"Czy dużo jest Afrykańczyków w Niemczech?","replace":{"text":"Czy dużo jest Polaków w Chicago?","translation":"Are there many Poles in Chicago?","target":"dużo"}}
+{"lemma":"mówić","text":"W jakim języku mówią w Egipcie?","replace":{"text":"W jakim języku mówią w Japonii?","translation":"What language do they speak in Japan?","target":"mówią"}}
+{"lemma":"jaki","text":"W jakim języku mówią w Egipcie?","replace":{"text":"W jakim języku mówią w Korei?","translation":"What language do they speak in Korea?","target":"jakim"}}
+{"lemma":"gdzie","text":"Gdzie w Turcji mieszkasz?","replace":{"text":"Gdzie w Kanadzie mieszkasz?","translation":"Where in Canada do you live?","target":"Gdzie"}}
+{"lemma":"u","text":"Ono było na początku u Boga.","replace":{"text":"Ona mieszka u babci w Poznaniu.","translation":"She lives at her grandmother's in Poznań.","target":"u"}}
+{"lemma":"nigdy","text":"Nigdy nie wierzył w Boga.","replace":{"text":"Nigdy nie byłem w Seulu.","translation":"I have never been to Seoul.","target":"Nigdy"}}
+{"lemma":"język","text":"W jakim języku mówią w Egipcie?","replace":{"text":"W jakim języku mówią w Wietnamie?","translation":"What language do they speak in Vietnam?","target":"języku"}}
+{"lemma":"początek","text":"Ono było na początku u Boga.","replace":{"text":"Na początku lata pojedziemy do Gdańska.","translation":"At the start of summer we will go to Gdańsk.","target":"początku"}}
+{"lemma":"wierzyć","text":"Nigdy nie wierzył w Boga.","replace":{"text":"Nie wierzę w te plotki z Warszawy.","translation":"I don't believe those rumors from Warsaw.","target":"wierzę"}}
+{"lemma":"możliwość","text":"Świat jest zaniepokojony nuklearnymi możliwościami Iranu i Korei Północnej.","replace":{"text":"Toronto daje studentom wiele możliwości.","translation":"Toronto gives students many opportunities.","target":"możliwości"}}
+{"lemma":"mieszkać","text":"On mieszka w Maroko.","replace":{"text":"On mieszka w Kioto.","translation":"He lives in Kyoto.","target":"mieszka"}}
+{"lemma":"zgodnie","text":"Wszystko dzieje się zgodnie z wolą Boga.","replace":{"text":"Wszystko dzieje się zgodnie z planem.","translation":"Everything is going according to plan.","target":"zgodnie"}}
+{"lemma":"kontakt","text":"To był jego pierwszy kontakt z Islamem.","replace":{"text":"To był jego pierwszy kontakt z Japonią.","translation":"That was his first contact with Japan.","target":"kontakt"}}
+{"lemma":"uznać","text":"Polska była jednym z pierwszych krajów, które uznały Republikę Turcji.","replace":{"text":"Nauczyciel uznał moją odpowiedź za dobrą.","translation":"The teacher found my answer to be good.","target":"uznał"}}
+{"lemma":"woleć","text":"Wszystko dzieje się zgodnie z wolą Boga.","replace":{"text":"Zrobił to zgodnie z wolą ojca.","translation":"He did it according to his father's will.","target":"wolą"}}
+{"lemma":"tak zwany","text":"Policja potwierdziła, że był to atak terrorystyczny, do którego przyznało się tzw. Państwo Islamskie (IS).","replace":{"text":"Spotkamy się w Krakowie, tzw. stolicy kultury.","translation":"We will meet in Kraków, the so-called capital of culture.","target":"tzw"}}
+{"lemma":"wiec","text":"Wiece i akademie odbyły się również w Sofii, Damaszku, Kabulu, Surabai i innych miastach.","replace":{"text":"Studenci zorganizowali wiec przed uczelnią w Poznaniu.","translation":"Students held a rally in front of the university in Poznań.","target":"wiec"}}
+{"lemma":"bóg","text":"Nigdy nie wierzył w Boga.","drop":true}
+{"lemma":"bóg","text":"Bóg nie istnieje.","drop":true}
+{"lemma":"boży","text":"Nie testuj Bożej cierpliwości!","drop":true}
+{"lemma":"boży","text":"Błogosławieni, którzy wprowadzają pokój, albowiem oni będą nazwani synami Bożymi.","drop":true}
+{"lemma":"kanał","text":"Jaki był pierwszy prywatny kanał w Turcji?","replace":{"text":"Jaki był pierwszy prywatny kanał w Polsce?","translation":"What was the first private channel in Poland?","target":"kanał"}}
+{"lemma":"historyczny","text":"Zatoka Perska to dla Irańczyków element tożsamości historycznej.","replace":{"text":"Stare miasto w Krakowie ma wielkie znaczenie historyczne.","translation":"The Old Town in Kraków has great historical significance.","target":"historyczne"}}
+{"lemma":"nieco","text":"Pan Jordan był nieco zaskoczony.","keep":true}
+{"lemma":"chronić","text":"Panie Jezu w niebie - chroń mnie.","replace":{"text":"Czapka chroni mnie przed zimnem w Alpach.","translation":"A hat protects me from the cold in the Alps.","target":"chroni"}}
+{"lemma":"tradycja","text":"To jest turecka tradycja.","replace":{"text":"To jest polska tradycja.","translation":"This is a Polish tradition.","target":"tradycja"}}
+{"lemma":"wschód","text":"Nikt nie wie, czy będzie wojna na bliskim wschodzie.","replace":{"text":"Mieszkam na wschodzie Polski, w Lublinie.","translation":"I live in the east of Poland, in Lublin.","target":"wschodzie"}}
+{"lemma":"piątek","text":"Dzięki Bogu, jest piątek.","replace":{"text":"W piątek jedziemy do Krakowa.","translation":"On Friday we are going to Kraków.","target":"piątek"}}
+{"lemma":"katolicki","text":"Nasza wieś jest katolicka, ale sąsiednia wieś - ewangelicka.","keep":true}
+{"lemma":"dodatkowo","text":"Dodatkowo wzmocnił struktury obronne między Egiptem i Azją, wznosząc Mury Władcy w regionie Delty Wschodniej.","replace":{"text":"Dodatkowo kupił bilety na pociąg do Berlina.","translation":"He additionally bought train tickets to Berlin.","target":"Dodatkowo"}}
+{"lemma":"spędzić","text":"I spędzili ten dzień z Jezusem.","replace":{"text":"Spędzili ten dzień w Gdańsku.","translation":"They spent that day in Gdańsk.","target":"spędzili"}}
+{"lemma":"rozwijać","text":"Jezus rośnie i się rozwija, cieszy się Józef i Maryja.","replace":{"text":"Dziecko rośnie i szybko się rozwija.","translation":"The child is growing and developing quickly.","target":"rozwija"}}
+{"lemma":"wówczas","text":"Wówczas Abraham natychmiast wrócił do swoich sług, i powrócili do domu z niebiańskim błogosławieństwem.","replace":{"text":"Wówczas wróciliśmy do hotelu w Wiedniu.","translation":"Then we returned to the hotel in Vienna.","target":"Wówczas"}}
+{"lemma":"cholera","text":"O Boże! Boli jak cholera!","replace":{"text":"Dziś w Chicago jest zimno jak cholera.","translation":"Today it is damn cold in Chicago.","target":"cholera"}}
+{"lemma":"prowincja","text":"Polska strefa odpowiedzialności w Iraku obejmuje od czwartku dwie a nie trzy prowincje.","replace":{"text":"Mieszkam na prowincji koło Lublina.","translation":"I live in the countryside near Lublin.","target":"prowincji"}}
+{"lemma":"start","text":"Izrael powinien być starty z mapy świata.","replace":{"text":"Samolot z Warszawy ma start o szóstej.","translation":"The plane from Warsaw takes off at six.","target":"start"}}
+{"lemma":"jeż","text":"Panie Jezu w niebie - chroń mnie.","replace":{"text":"W parku w Warszawie spotkałem jeża.","translation":"In a park in Warsaw I met a hedgehog.","target":"jeża"}}
+{"lemma":"strzelać","text":"Człowiek strzela, Pan Bóg kule nosi.","replace":{"text":"Chłopiec strzela do bramki na boisku w Poznaniu.","translation":"The boy shoots at the goal on the pitch in Poznań.","target":"strzela"}}
+{"lemma":"krzyż","text":"Uwielbiamy krzyż Twój, Panie.","replace":{"text":"Na szczycie Giewontu stoi wielki krzyż.","translation":"A big cross stands on top of Giewont.","target":"krzyż"}}
+{"lemma":"populacja","text":"Które to populacja indii.","replace":{"text":"Jaka jest populacja Tokio?","translation":"What is the population of Tokyo?","target":"populacja"}}
+{"lemma":"lud","text":"Atua to bóg u wielu ludów Oceanii.","replace":{"text":"Górale to dumny lud z Tatr.","translation":"The highlanders are a proud people of the Tatras.","target":"lud"}}
+{"lemma":"pobyt","text":"Skończyły mi się pieniądze podczas pobytu w Indiach.","replace":{"text":"Skończyły mi się pieniądze podczas pobytu w Paryżu.","translation":"I ran out of money during my stay in Paris.","target":"pobytu"}}
+{"lemma":"specjalista","text":"Polscy specjaliści pracują w Afryce.","replace":{"text":"Polscy specjaliści pracują w Kanadzie.","translation":"Polish specialists work in Canada.","target":"specjaliści"}}
+{"lemma":"akademia","text":"Wiece i akademie odbyły się również w Sofii, Damaszku, Kabulu, Surabai i innych miastach.","replace":{"text":"W Warszawie odbyły się szkolne akademie.","translation":"School ceremonies took place in Warsaw.","target":"akademie"}}
+{"lemma":"żyd","text":"W XV wieku Żydzi schronili się w Imperium Osmańskim uciekając przed hiszpańską inkwizycją.","replace":{"text":"Żydzi mieszkali w Krakowie od wieków.","translation":"Jews lived in Kraków for centuries.","target":"Żydzi"}}
+{"lemma":"zapis","text":"Zapis arabski został zastąpiony alfabetem rzymskim.","replace":{"text":"Zapis nutowy tego utworu jest bardzo trudny.","translation":"The musical notation of this piece is very hard.","target":"Zapis"}}
+{"lemma":"żydowski","text":"Kiedy już prawie był czas na żydowską Paschę, Jezus poszedł do Jerozolimy.","replace":{"text":"W Krakowie jest znane żydowskie muzeum.","translation":"There is a well-known Jewish museum in Kraków.","target":"żydowskie"}}
+{"lemma":"sekcja","text":"W środę do Jana Kwiatkowskiego, wujka Adama, zadzwonili policjanci z sekcji kryminalnej w Legionowie.","keep":true}
+{"lemma":"określić","text":"Caplan odrzuca głosowanie retrospektywne, cytując naukowców, którzy określili je jako „nie bardziej racjonalne, niż zabijanie faraona, gdy Nil nie wylał”.","replace":{"text":"Lekarze określili jego stan jako dobry.","translation":"The doctors described his condition as good.","target":"określili"}}
+{"lemma":"dolny","text":"Pomimo tego wydaje się, że obaj kontrolowali przynajmniej część terenów Dolnego Egiptu.","replace":{"text":"Mieszkam na dolnym piętrze w Gdańsku.","translation":"I live on the lower floor in Gdańsk.","target":"dolnym"}}
+{"lemma":"niemożliwy","text":"Dla Boga nie ma niczego niemożliwego.","replace":{"text":"Nie ma rzeczy niemożliwych dla dobrego zespołu.","translation":"Nothing is impossible for a good team.","target":"niemożliwych"}}
+{"lemma":"powrócić","text":"Wówczas Abraham natychmiast wrócił do swoich sług, i powrócili do domu z niebiańskim błogosławieństwem.","replace":{"text":"Po wakacjach powrócimy do Warszawy.","translation":"After the holidays we will return to Warsaw.","target":"powrócimy"}}
+{"lemma":"muzułmanin","text":"W Oklahomie został zamordowany muzułmanin przez swojego sąsiada.","drop":true}
+{"lemma":"muzułmanin","text":"Świętą księgą muzułmanów jest Koran.","drop":true}
+{"lemma":"muzułmanin","text":"Dlaczego współcześnie muzułmanie muszą być męczennikami za pokój ?","drop":true}
+{"lemma":"minimalny","text":"Jaka jest płaca minimalna w RPA?","replace":{"text":"Jaka jest płaca minimalna w Niemczech?","translation":"What is the minimum wage in Germany?","target":"minimalna"}}
+{"lemma":"zbrojny","text":"Trwa izraelska akcja zbrojna w Strefie Gazy.","replace":{"text":"Na obrazie w Krakowie widać zbrojnego rycerza.","translation":"In the painting in Kraków you can see an armored knight.","target":"zbrojnego"}}
+{"lemma":"tożsamość","text":"Zatoka Perska to dla Irańczyków element tożsamości historycznej.","replace":{"text":"Rodzina jest ważna dla naszej tożsamości.","translation":"Family is important for our identity.","target":"tożsamości"}}
+{"lemma":"księga","text":"Świętą księgą muzułmanów jest Koran.","replace":{"text":"Ta księga z biblioteki w Pradze jest bardzo stara.","translation":"This book from the Prague library is very old.","target":"księga"}}
+{"lemma":"regularnie","text":"Czy regularnie czytasz biblię?","replace":{"text":"Czy regularnie czytasz gazety?","translation":"Do you regularly read newspapers?","target":"regularnie"}}
+{"lemma":"biskup","text":"Za chwilę kardynałowie i biskupi wyniosą obraz Matki Bożej Jasnogórskiej na ołtarz przed kościołem.","replace":{"text":"Szachowy biskup stoi na polu c4.","translation":"The chess bishop stands on square c4.","target":"biskup"}}
+{"lemma":"arabski","text":"On mówi po arabsku.","drop":true}
+{"lemma":"arabski","text":"Uczę się arabskiego.","drop":true}
+{"lemma":"arabski","text":"Arabski jest trudny!","drop":true}
+{"lemma":"kula","text":"Człowiek strzela, Pan Bóg kule nosi.","replace":{"text":"Dzieci lepią kulę ze śniegu w Zakopanem.","translation":"The children are making a snowball in Zakopane.","target":"kulę"}}
+{"lemma":"legenda","text":"Jest wiele starych indyjskich legend.","replace":{"text":"Jest wiele starych polskich legend.","translation":"There are many old Polish legends.","target":"legend"}}
+{"lemma":"islam","text":"To był jego pierwszy kontakt z Islamem.","drop":true}
+{"lemma":"islam","text":"Czy Islam też ma wydać świętych ?","drop":true}
+{"lemma":"islam","text":"Islam zakazuje przemocy.","drop":true}
+{"lemma":"uczynić","text":"Niech Wszechmogący Bóg uczyni cię bardzo szczęśliwym.","replace":{"text":"Niech ten wyjazd uczyni cię bardzo szczęśliwym.","translation":"May this trip make you very happy.","target":"uczyni"}}
+{"lemma":"boski","text":"Na miłość boską!","replace":{"text":"Ta czekolada w Wiedniu jest boska.","translation":"This chocolate in Vienna is divine.","target":"boska"}}
+{"lemma":"przygoda","text":"Opowiedział dzieciom o swoich przygodach w Afryce.","replace":{"text":"Opowiedział dzieciom o swoich przygodach w Alpach.","translation":"He told the children about his adventures in the Alps.","target":"przygodach"}}
+{"lemma":"chrześcijanin","text":"Niektórzy Arabowie są Chrześcijanami.","replace":{"text":"Wielu Polaków to chrześcijanie.","translation":"Many Poles are Christians.","target":"chrześcijanie"}}
+{"lemma":"okręg","text":"Do jednego starcia doszło w okręgu Medak, a do drugiego w - Adilababie w południowej części Indii.","replace":{"text":"Mieszkam w okręgu wyborczym Krakowa.","translation":"I live in the Kraków district.","target":"okręgu"}}
+{"lemma":"płaca","text":"Jaka jest płaca minimalna w RPA?","replace":{"text":"Jaka jest płaca minimalna w Kanadzie?","translation":"What is the minimum wage in Canada?","target":"płaca"}}
+{"lemma":"zaprezentować","text":"Odręcznie napisany po arabsku list zaprezentowała katarska telewizja Al-Dżazira.","replace":{"text":"Telewizja z Seulu zaprezentowała nowy program.","translation":"Seoul television presented a new program.","target":"zaprezentowała"}}
+{"lemma":"skupiać","text":"Podobnie jak autor \"Zderzenia cywilizacji\", jego polemiści skupiają się głównie na problemie islamu i fundamentalizmu.","replace":{"text":"Jego rodzice skupiają się głównie na nauce.","translation":"His parents focus mainly on studying.","target":"skupiają"}}
+{"lemma":"kurde","text":"– kurde no mówisz z dzieciakiem.","keep":true}
+{"lemma":"kurde","text":"Kurde, nawet chciałem wziąć piersiówkę.","keep":true}
+{"lemma":"badawczy","text":"Nie ma jeszcze solidnej podstawy badawczej w Afryce dla Afryki.","replace":{"text":"Nie ma jeszcze solidnej podstawy badawczej w tej dziedzinie.","translation":"There is not yet a solid research base in this field.","target":"badawczej"}}
+{"lemma":"elita","text":"Oprócz tego między elitami macedońskimi i perskimi było wiele mieszanych małżeństw.","replace":{"text":"Elita miasta spotkała się w Wiedniu.","translation":"The city elite met in Vienna.","target":"elita"}}
+{"lemma":"dar","text":"Muzyka to dar od Boga.","replace":{"text":"Muzyka to dar od mojej babci z Krakowa.","translation":"Music is a gift from my grandmother in Kraków.","target":"dar"}}
+{"lemma":"naczelny","text":"Naaman, naczelny wódz króla syryjskiego, był człowiekiem bogatym i możnym.","replace":{"text":"Naczelny architekt miasta mieszka w Poznaniu.","translation":"The chief architect of the city lives in Poznań.","target":"naczelny"}}
+{"lemma":"medialny","text":"Wokół Iraku, w samym Iraku akredytowało się kilkuset żurnalistów, a przekaz medialny stał się nieodłączną częścią wojny.","replace":{"text":"Przekaz medialny tego festiwalu w Seulu był świetny.","translation":"The media coverage of this festival in Seoul was great.","target":"medialny"}}
+{"lemma":"plakat","text":"U siebie w pokoju mam menorę, izraelskie plakaty.","replace":{"text":"Na ścianie w pokoju mam plakaty z Tokio.","translation":"On my bedroom wall I have posters from Tokyo.","target":"plakaty"}}
+{"lemma":"zatoka","text":"Zatoka Perska to dla Irańczyków element tożsamości historycznej.","replace":{"text":"Zatoka Gdańska jest bardzo piękna latem.","translation":"The Bay of Gdańsk is very beautiful in summer.","target":"Zatoka"}}
+{"lemma":"republika","text":"Polska była jednym z pierwszych krajów, które uznały Republikę Turcji.","replace":{"text":"Czechy to republika w środku Europy.","translation":"Czechia is a republic in the middle of Europe.","target":"republika"}}
+{"lemma":"cytat","text":"To są wszystko cytaty z Biblii.","replace":{"text":"To są wszystko cytaty z polskich powieści.","translation":"These are all quotations from Polish novels.","target":"cytaty"}}
+{"lemma":"począć","text":"I chcę, aby świat cały począł służyć Jezusowi.","replace":{"text":"Po wakacjach w Alpach począł pisać książkę.","translation":"After the holiday in the Alps he began writing a book.","target":"począł"}}
+{"lemma":"indyjski","text":"Nie chodzimy już jeść do indyjskiej restauracji.","drop":true}
+{"lemma":"indyjski","text":"Jest wiele starych indyjskich legend.","drop":true}
+{"lemma":"indyjski","text":"Przykładami są Line Islands na Pacyfiku i Malediwy na Oceanie Indyjskim.","drop":true}
+{"lemma":"młodzieżowy","text":"Podczas jednego harcerze zaznajomili się z działalnością organizacji młodzieżowej w Syrii.","replace":{"text":"Młodzieżowa organizacja w Gdańsku organizuje obóz.","translation":"A youth organization in Gdańsk runs a camp.","target":"młodzieżowa"}}
+{"lemma":"wkład","text":"Nie ma zbyt wielu Berberów mających wkład w Tatoeba.","replace":{"text":"Każdy może mieć wkład w ten projekt.","translation":"Anyone can contribute to this project.","target":"wkład"}}
+{"lemma":"posługiwać","text":"Język suahili posługuje się pismem łacińskim.","replace":{"text":"Język polski posługuje się alfabetem łacińskim.","translation":"The Polish language uses the Latin alphabet.","target":"posługuje"}}
+{"lemma":"mazowiecki","text":"Wydarzeniu patronował marszałek województwa mazowieckiego Adam Struzik.","keep":true}
+{"lemma":"władca","text":"Dodatkowo wzmocnił struktury obronne między Egiptem i Azją, wznosząc Mury Władcy w regionie Delty Wschodniej.","replace":{"text":"Władca w tej baśni mieszkał w zamku nad Renem.","translation":"The ruler in this fairy tale lived in a castle on the Rhine.","target":"Władca"}}
+{"lemma":"wyznanie","text":"Ogólnie rzecz biorąc, pani pytanie dotyczy wolności wyznania w Turcji.","replace":{"text":"Złożył szczere wyznanie przyjaciołom w Gdańsku.","translation":"He made an honest confession to his friends in Gdańsk.","target":"wyznanie"}}
+{"lemma":"wykazywać","text":"Nowość polegała na tym, że nauczyciele chrześcijańscy wykazywali, iż w osobie Jezusa Chrystusa wypełniły się wszystkie przepowiednie proroków.","replace":{"text":"Badania wykazywały, że kawa w Wiedniu jest bardzo popularna.","translation":"Surveys showed that coffee in Vienna is very popular.","target":"wykazywały"}}
+{"lemma":"sprowadzić","text":"Sprowadzili gniew Boga na swoich wrogów.","replace":{"text":"Deszcz sprowadził chłód do Krakowa.","translation":"The rain brought cold to Kraków.","target":"sprowadził"}}
+{"lemma":"marynarka","text":"Imperium Osmańskiemu i Rosji odmówiono pozwolenia na stacjonowanie ich marynarek wojennych na Morzu Czarnym.","replace":{"text":"Polska marynarka ma port w Gdyni.","translation":"The Polish navy has a port in Gdynia.","target":"marynarka"}}
+{"lemma":"emigracja","text":"Susza, ubóstwo i bezrobocie napędzały emigrację z Mauretanii od lat siedemdziesiątych.","replace":{"text":"Emigracja do Kanady była w tej rodzinie częsta.","translation":"Emigration to Canada was common in this family.","target":"Emigracja"}}
+{"lemma":"łaska","text":"Prawo zostało dane przez Mojżesza, łaska i prawda przyszły przez Jezusa Chrystusa.","replace":{"text":"Zrobił to z łaski, bez żadnego obowiązku.","translation":"He did it out of kindness, with no obligation.","target":"łaski"}}
+{"lemma":"izraelski","text":"Trwa izraelska akcja zbrojna w Strefie Gazy.","drop":true}
+{"lemma":"izraelski","text":"U siebie w pokoju mam menorę, izraelskie plakaty.","drop":true}
+{"lemma":"izraelski","text":"Przy wspólnym stole jadają tu studenci izraelscy i palestyńscy.","drop":true}
+{"lemma":"prawica","text":"Ale Bóg objawił się tylko poprzez swego jednorodzonego Syna, który siedzi po prawicy Ojca.","replace":{"text":"Siedział po prawicy gospodarza w Gdańsku.","translation":"He sat at the right hand of the host in Gdańsk.","target":"prawicy"}}
+{"lemma":"rzymski","text":"Zapis arabski został zastąpiony alfabetem rzymskim.","replace":{"text":"Polacy używają rzymskiego alfabetu.","translation":"Poles use the Roman alphabet.","target":"rzymskiego"}}
+{"lemma":"krowa","text":"W Indiach krowa jest świętym zwierzęciem.","replace":{"text":"Na łące pod Zakopanem pasie się krowa.","translation":"A cow is grazing in a meadow near Zakopane.","target":"krowa"}}
+{"lemma":"turecki","text":"Mi to wygląda bardziej na tureckie imię.","drop":true}
+{"lemma":"turecki","text":"To jest turecka tradycja.","drop":true}
+{"lemma":"turecki","text":"Czy umiesz mówić po turecku?","drop":true}
+{"lemma":"chaos","text":"Boże, to kompletny chaos!","replace":{"text":"To jest kompletny chaos na lotnisku w Chicago!","translation":"This is complete chaos at the Chicago airport!","target":"chaos"}}
+{"lemma":"koszmar","text":"Czy życie w Algierii jest koszmarem?","replace":{"text":"Ten egzamin w Toronto był koszmarem.","translation":"That exam in Toronto was a nightmare.","target":"koszmarem"}}
+{"lemma":"kardynał","text":"Za chwilę kardynałowie i biskupi wyniosą obraz Matki Bożej Jasnogórskiej na ołtarz przed kościołem.","replace":{"text":"Czerwony kardynał siedzi na gałęzi w Toronto.","translation":"A red cardinal sits on a branch in Toronto.","target":"kardynał"}}
+{"lemma":"kontynuacja","text":"Obecna decyzja - według Dżihadu - spowodowana jest kontynuacją ataków izraelskich.","replace":{"text":"Dziękuję za kontynuację kursu w Pradze.","translation":"Thank you for the continuation of the course in Prague.","target":"kontynuację"}}
+{"lemma":"gol","text":"Boże, gol królową!","replace":{"text":"Gol w ostatniej minucie meczu w Madrycie!","translation":"A goal in the last minute of the match in Madrid!","target":"Gol"}}
+{"lemma":"aktywnie","text":"Springer aktywnie działał na rzecz pojednania z Żydami, zarówno prywatnie, jak publicznie, i odbył wiele podróży do Izraela.","replace":{"text":"Mój brat aktywnie działa w klubie w Krakowie.","translation":"My brother is actively involved in a club in Kraków.","target":"aktywnie"}}
+{"lemma":"islamski","text":"Islamscy konserwatyści traktują tę odmowę jako uzasadnienie interpelacji.","drop":true}
+{"lemma":"islamski","text":"Studiowano również medycynę, szczególnie w południowych Włoszech, gdzie medycyna islamska miała wpływ na szkołę w Salerno.","drop":true}
+{"lemma":"islamski","text":"Policja potwierdziła, że był to atak terrorystyczny, do którego przyznało się tzw. Państwo Islamskie (IS).","drop":true}
+{"lemma":"bezrobocie","text":"Susza, ubóstwo i bezrobocie napędzały emigrację z Mauretanii od lat siedemdziesiątych.","replace":{"text":"Bezrobocie w tym regionie Polski spada.","translation":"Unemployment in this region of Poland is falling.","target":"Bezrobocie"}}
+{"lemma":"powiatowy","text":"Radni powiatowi z Nowogródka zdecydowali wczoraj, że w rodzinnym mieście Adama Mickiewicza nie będzie polskiej szkoły.","keep":true}
+{"lemma":"uderzać","text":"W opowieści biblijnej uderza ścisłość historyczna w odtwarzaniu obyczajów egipskich.","replace":{"text":"W tym filmie uderza piękno krajobrazów Tatr.","translation":"In this film the beauty of the Tatra landscapes is striking.","target":"uderza"}}
+{"lemma":"gniew","text":"Sprowadzili gniew Boga na swoich wrogów.","replace":{"text":"Jego gniew szybko minął po meczu w Poznaniu.","translation":"His anger quickly passed after the match in Poznań.","target":"gniew"}}
+{"lemma":"bal","text":"- Boże, jak ja się kiedyś bawiłam po balach!","replace":{"text":"Jak ja się kiedyś bawiłam po balach w Wiedniu!","translation":"How I used to enjoy myself at balls in Vienna!","target":"balach"}}
+{"lemma":"odgrywać","text":"- Jaką rolę w obecnej polityce Izraela odgrywa religia?","replace":{"text":"Jaką rolę odgrywa muzyka w twoim życiu?","translation":"What role does music play in your life?","target":"odgrywa"}}
+{"lemma":"zechcieć","text":"Jak Bóg zechce...","replace":{"text":"Jak pogoda zechce, pojedziemy w Tatry.","translation":"If the weather allows, we will go to the Tatras.","target":"zechce"}}
+{"lemma":"uświadomić","text":"Bob Johnson starał się uświadomić ludziom powagę sytuacji w Afryce.","replace":{"text":"Chcę uświadomić ludziom wagę recyklingu w Berlinie.","translation":"I want to make people aware of the importance of recycling in Berlin.","target":"uświadomić"}}
+{"lemma":"muzułmański","text":"Muzułmańskie kobiety ubierają się konserwatywnie.","drop":true}
+{"lemma":"muzułmański","text":"Wśród tradycjonalistów muzułmańskich z państw Półwyspu Arabskiego wywołało ono szok.","drop":true}
+{"lemma":"muzułmański","text":"Czas spędzony przez Renalda na Bliskim Wschodzie podzielić można na dwa całkowicie różne okresy: przed i po szesnastoletniej muzułmańskiej niewoli.","drop":true}
+{"lemma":"terroryzm","text":"W niedzielny wieczór premier Izraela Ariel Saron ogłosił wojnę z palestyńskim terroryzmem.","replace":{"text":"Studenci piszą esej o terroryzmie w Berlinie.","translation":"Students are writing an essay about terrorism in Berlin.","target":"terroryzmie"}}
+{"lemma":"bojowy","text":"Arabowie traktowali ją jako napój wzmagający ducha bojowego i działający na potencję.","replace":{"text":"Drużyna z Gdańska miała bojowego ducha.","translation":"The team from Gdańsk had a fighting spirit.","target":"bojowego"}}
+{"lemma":"ochronny","text":"W piątek rząd Izraela rozpoczął operację \"Ochronny mur\".","replace":{"text":"Ochronny kask jest obowiązkowy w Alpach.","translation":"A protective helmet is mandatory in the Alps.","target":"Ochronny"}}
+{"lemma":"szatan","text":"Szatan jest zadowolony.","drop":true}
+{"lemma":"szatan","text":"Duch szatana się budzi.","drop":true}
+{"lemma":"szatan","text":"A potem po jakimś czasie zaczęło się nawet przyzywanie szatana.","drop":true}
+{"lemma":"terrorystyczny","text":"Policja potwierdziła, że był to atak terrorystyczny, do którego przyznało się tzw. Państwo Islamskie (IS).","replace":{"text":"Miasto ogłosiło ostrzeżenie terrorystyczne dla lotniska w Berlinie.","translation":"The city announced a terrorist warning for the Berlin airport.","target":"terrorystyczne"}}
+{"lemma":"kryminalny","text":"W środę do Jana Kwiatkowskiego, wujka Adama, zadzwonili policjanci z sekcji kryminalnej w Legionowie.","keep":true}
+{"lemma":"obronny","text":"Dodatkowo wzmocnił struktury obronne między Egiptem i Azją, wznosząc Mury Władcy w regionie Delty Wschodniej.","replace":{"text":"Stary mur obronny stoi w Krakowie.","translation":"An old defensive wall stands in Kraków.","target":"obronny"}}
+{"lemma":"sąsiedni","text":"Nasza wieś jest katolicka, ale sąsiednia wieś - ewangelicka.","keep":true}
+{"lemma":"afrykański","text":"Na kontynencie afrykańskim dominują ssaki.","drop":true}
+{"lemma":"afrykański","text":"Jeden z ich wielu żałobnych postów na Facebooku zawiera sformułowanie, które zachwyciłoby Chrisa: „Nigdy nie znałem nikogo bardziej afrykańskiego, niż Ty”.","drop":true}
+{"lemma":"aga","text":"W Imperium Osmańskim aga był ważnym urzędnikiem.","drop":true}
+{"lemma":"aga","text":"Na lekcji historii czytaliśmy o tureckim adze.","drop":true}
+{"lemma":"wyrób","text":"Wiele wyrobów importuje się do Turcji z Polski.","replace":{"text":"Wiele wyrobów importuje się do Kanady z Polski.","translation":"Many products are imported to Canada from Poland.","target":"wyrobów"}}
+{"lemma":"wyruszyć","text":"Następnego dnia Jezus zdecydował się wyruszyć do Galilei.","replace":{"text":"Następnego dnia zdecydował się wyruszyć do Gdańska.","translation":"The next day he decided to set out for Gdańsk.","target":"wyruszyć"}}
+{"lemma":"obliczyć","text":"Według moich obliczeń, powinna być już w Indiach.","replace":{"text":"Według moich obliczeń, powinna być już w Berlinie.","translation":"According to my calculations, she should be in Berlin by now.","target":"obliczeń"}}
+{"lemma":"łaciński","text":"Język suahili posługuje się pismem łacińskim.","replace":{"text":"Polacy piszą alfabetem łacińskim.","translation":"Poles write with the Latin alphabet.","target":"łacińskim"}}
+{"lemma":"testować","text":"Nie testuj Bożej cierpliwości!","replace":{"text":"Nie testuj mojej cierpliwości!","translation":"Don't test my patience!","target":"testuj"}}
+{"lemma":"skomentować","text":"Adamek nie zdążył skomentować.","keep":true}
+{"lemma":"bunt","text":"Bunt dojrzewał w całej Arabii.","replace":{"text":"Bunt dojrzewał wśród uczniów w Poznaniu.","translation":"Rebellion was brewing among the pupils in Poznań.","target":"Bunt"}}
+{"lemma":"pustynia","text":"Sahara jest największą pustynią na świecie.","replace":{"text":"Gobi jest największą pustynią Azji.","translation":"The Gobi is the largest desert in Asia.","target":"pustynią"}}
+{"lemma":"budownictwo","text":"Trzeba rozruszać budownictwo - uważa Piłat.","keep":true}
+{"lemma":"chata","text":"Mężczyźni szybko zakneblowali mu usta i poprowadzili do chaty proroka.","replace":{"text":"Mężczyźni szybko poszli do chaty w górach.","translation":"The men quickly went to the cabin in the mountains.","target":"chaty"}}
+{"lemma":"średniowiecze","text":"W średniowieczu większość chrześcijan nie miała dostępu do Biblii w języku ojczystym.","replace":{"text":"W średniowieczu Kraków był ważnym miastem handlowym.","translation":"In the Middle Ages Kraków was an important trading city.","target":"średniowieczu"}}
+{"lemma":"jest","text":"To jest z Biblii.","replace":{"text":"To jest z Warszawy.","translation":"This is from Warsaw.","target":"jest"}}
+{"lemma":"uzasadnienie","text":"Islamscy konserwatyści traktują tę odmowę jako uzasadnienie interpelacji.","replace":{"text":"Jego uzasadnienie decyzji było bardzo jasne.","translation":"His justification for the decision was very clear.","target":"uzasadnienie"}}
+{"lemma":"naftowy","text":"Arabia Saudyjska jest bogata w złoża ropy naftowej.","replace":{"text":"Norwegia jest bogata w złoża ropy naftowej.","translation":"Norway is rich in oil deposits.","target":"naftowej"}}
+{"lemma":"egipski","text":"Chcę dowiedzieć się więcej o technologii, której użyto przy budowie egipskich piramid.","drop":true}
+{"lemma":"egipski","text":"Zginęło wówczas czterech funkcjonariuszy policji egipskiej.","drop":true}
+{"lemma":"egipski","text":"Teraz wiedziała, że takie maski mają egipskie mumie.","drop":true}
+{"lemma":"męczennik","text":"Dlaczego współcześnie muzułmanie muszą być męczennikami za pokój ?","replace":{"text":"W filmie o Lwowie bohater cierpi jak męczennik.","translation":"In the film about Lviv the hero suffers like a martyr.","target":"męczennik"}}
+{"lemma":"odmowa","text":"Islamscy konserwatyści traktują tę odmowę jako uzasadnienie interpelacji.","replace":{"text":"Jego odmowę w Berlinie wszyscy zrozumieli.","translation":"Everyone understood his refusal in Berlin.","target":"odmowę"}}
+{"lemma":"wiekowy","text":"W czasie tym Iran, wyczerpany, wyniszczony wiekowymi wojnami z Bizancjum, jest świeżo podbity przez Arabów, którzy zaczynają krzewić nową wiarę - islam.","replace":{"text":"Stary zamek w Malborku ma wiekowe mury.","translation":"The old castle in Malbork has ancient walls.","target":"wiekowe"}}
+{"lemma":"urzędowy","text":"Urzędowy język w Angoli to portugalski.","replace":{"text":"Urzędowy język w Polsce to polski.","translation":"The official language in Poland is Polish.","target":"Urzędowy"}}
+{"lemma":"saudyjski","text":"Jestem z Arabii Saudyjskiej.","drop":true}
+{"lemma":"saudyjski","text":"Arabia Saudyjska jest bogata w złoża ropy naftowej.","drop":true}
+{"lemma":"saudyjski","text":"W czwartek prom wypłynął z Duby w Arabii Saudyjskiej.","drop":true}
+{"lemma":"ewangelia","text":"Ewangelie opisują życie i naukę Jezusa.","drop":true}
+{"lemma":"ewangelia","text":"Ewangelia według świętego Marka jest najkrótsza z czterech.","drop":true}
+{"lemma":"cyfra","text":"Nawet kształt cyfr arabskich na tarczy szybkościomierza miał w sobie coś z cyrylicy.","replace":{"text":"Nawet kształt cyfr na tarczy zegara był piękny.","translation":"Even the shape of the digits on the clock face was beautiful.","target":"cyfr"}}
+{"lemma":"przyczyniać","text":"Różnice między nimi są tak ważne jak to, co je łączy, bo przyczyniają się do wzbogacenia podejścia Boga do nas.","replace":{"text":"Dobre wyniki przyczyniają się do sukcesu drużyny z Poznania.","translation":"Good results contribute to the success of the team from Poznań.","target":"przyczyniają"}}
+{"lemma":"czuwać","text":"Niech Bóg nad tobą czuwa.","replace":{"text":"Niech ktoś czuwa nad dzieckiem w nocy.","translation":"Let someone watch over the child at night.","target":"czuwa"}}
+{"lemma":"DJ","text":"Młodego dja, pochodzącego z Głogowa, wylansował dj Adamus.","keep":true}
+{"lemma":"racjonalny","text":"Caplan odrzuca głosowanie retrospektywne, cytując naukowców, którzy określili je jako „nie bardziej racjonalne, niż zabijanie faraona, gdy Nil nie wylał”.","replace":{"text":"To bardzo racjonalne rozwiązanie dla Krakowa.","translation":"That is a very rational solution for Kraków.","target":"racjonalne"}}
+{"lemma":"błogosławieństwo","text":"Wówczas Abraham natychmiast wrócił do swoich sług, i powrócili do domu z niebiańskim błogosławieństwem.","replace":{"text":"Babcia dała nam błogosławieństwo przed podróżą do Wiednia.","translation":"Grandma gave us her blessing before the trip to Vienna.","target":"błogosławieństwo"}}
+{"lemma":"rebeliant","text":"Jej walka z Imperium Osmańskim na Morzu Śródziemnym znacznie ograniczyła siłę militarną, jakiej mogła użyć przeciwko rebeliantom w Holandii.","replace":{"text":"Rebelianci z filmu ukrywali się w lasach Szwecji.","translation":"The rebels in the film hid in the forests of Sweden.","target":"Rebelianci"}}
+{"lemma":"opad","text":"W Egipcie mają niższe opady niż w Japonii.","replace":{"text":"W Japonii są wyższe opady niż w Polsce.","translation":"There is more rainfall in Japan than in Poland.","target":"opady"}}
+{"lemma":"syryjski","text":"Naaman, naczelny wódz króla syryjskiego, był człowiekiem bogatym i możnym.","drop":true}
+{"lemma":"pokonywać","text":"- Mój Boże, pokonywał mnie każdym słowem.","replace":{"text":"Mój przeciwnik pokonywał mnie w szachach w Pradze.","translation":"My opponent kept beating me at chess in Prague.","target":"pokonywał"}}
+{"lemma":"prorok","text":"Chwal Pana, nie Jego proroków.","drop":true}
+{"lemma":"prorok","text":"Kapłani dalej domagali się ukarania proroka.","drop":true}
+{"lemma":"prorok","text":"Księga Jonasza nie zawiera żadnych proroctw, wyroczni i nauk proroka.","drop":true}
+{"lemma":"nuklearny","text":"Świat jest zaniepokojony nuklearnymi możliwościami Iranu i Korei Północnej.","replace":{"text":"Francja ma wiele elektrowni nuklearnych.","translation":"France has many nuclear power plants.","target":"nuklearnych"}}
+{"lemma":"arka","text":"Gdy Arka została ukończona Bóg zesłał na ziemię wielki potop, nieustanny deszcz podniósł poziom wody tak że zakryła ona nawet najwyższe góry.","replace":{"text":"Arka Gdynia wygrała mecz w Warszawie.","translation":"Arka Gdynia won the match in Warsaw.","target":"Arka"}}
+{"lemma":"sługa","text":"Wówczas Abraham natychmiast wrócił do swoich sług, i powrócili do domu z niebiańskim błogosławieństwem.","replace":{"text":"W starym filmie sługa otwierał drzwi pałacu w Wersalu.","translation":"In the old film a servant opened the doors of the palace at Versailles.","target":"sługa"}}
+{"lemma":"sługa","text":"- Jesteś prawdziwym sługą Jezusa...","replace":{"text":"W tej operze w Wiedniu sługa śpiewa piękną arię.","translation":"In this opera in Vienna the servant sings a beautiful aria.","target":"sługa"}}
+{"lemma":"ekstremalny","text":"Klimat Sahelu jest podobny do klimatu pustyni Sahara położonej bezpośrednio na północy, ale mniej ekstremalny.","replace":{"text":"Klimat w Syberii jest bardzo ekstremalny.","translation":"The climate in Siberia is very extreme.","target":"ekstremalny"}}
+{"lemma":"beczka","text":"Bliski Wschód jest wciąż nazywany „beczką z prochem”.","replace":{"text":"Woda w beczce w ogrodzie zamarzła zimą.","translation":"The water in the barrel in the garden froze in winter.","target":"beczce"}}
+{"lemma":"meczet","text":"Meczet jest tam.","drop":true}
+{"lemma":"meczet","text":"W środku nocy meczet został podpalony.","drop":true}
+{"lemma":"błogosławić","text":"Błogosławieni, którzy wprowadzają pokój, albowiem oni będą nazwani synami Bożymi.","replace":{"text":"Babcia błogosławi nas przed każdą podróżą.","translation":"Grandma blesses us before every trip.","target":"błogosławi"}}
+{"lemma":"arsenał","text":"Iracki dyktator twierdzi, że to skutki pocisków uranowych, a nie jego arsenału bakteriologiczno-chemicznego.","replace":{"text":"W muzeum w Gdańsku jest stary arsenał.","translation":"There is an old arsenal in the museum in Gdańsk.","target":"arsenał"}}
+{"lemma":"ateista","text":"Dzięki Bogu jestem ateistą.","replace":{"text":"Mój kolega z Krakowa jest ateistą.","translation":"My friend from Kraków is an atheist.","target":"ateistą"}}
+{"lemma":"długotrwały","text":"Nie będąc w stanie utrzymać długotrwałego oblężenia, Ramzes wrócił do Egiptu.","replace":{"text":"Długotrwały remont w Poznaniu wreszcie się skończył.","translation":"The long renovation in Poznań has finally ended.","target":"Długotrwały"}}
+{"lemma":"piramida","text":"Chcę dowiedzieć się więcej o technologii, której użyto przy budowie egipskich piramid.","replace":{"text":"Przed Luwrem w Paryżu stoi szklana piramida.","translation":"A glass pyramid stands in front of the Louvre in Paris.","target":"piramida"}}
+{"lemma":"konserwatysta","text":"Islamscy konserwatyści traktują tę odmowę jako uzasadnienie interpelacji.","replace":{"text":"Mój wujek jest konserwatystą i lubi stare zwyczaje.","translation":"My uncle is a conservative and likes old customs.","target":"konserwatystą"}}
+{"lemma":"gaza","text":"Maluje na wypełzłym jedwabiu twarze jakby oglądane przez zasłonę z gazy.","keep":true}
+{"lemma":"delta","text":"Wprawdzie okupowali tylko Dolny Egipt z deltą Nilu, ale prowincjonalni książęta Górnego Egiptu stali się wasalami, płacąc uciążliwy trybut.","replace":{"text":"Wisła tworzy deltę niedaleko Gdańska.","translation":"The Vistula forms a delta near Gdańsk.","target":"deltę"}}
+{"lemma":"rzeź","text":"W ciągu następnych czterech lat konsulowie europejscy depeszowali z Kairu niedokładne wiadomości o rzeziach, jakich oddziały muzułmańskie dokonywały na ciemnoskórej ludności Sudanu.","replace":{"text":"Wiele osób protestowało przeciwko rzezi zwierząt w Chicago.","translation":"Many people protested against the slaughter of animals in Chicago.","target":"rzezi"}}
+{"lemma":"parafialny","text":"Oprócz sprzątania otoczenia zabytkowych nagrobków na cmentarzu parafialnym dzieci zagrabiły liście wokół grobów na cmentarzu ewangelickim.","keep":true}
+{"lemma":"wznosić","text":"Dodatkowo wzmocnił struktury obronne między Egiptem i Azją, wznosząc Mury Władcy w regionie Delty Wschodniej.","replace":{"text":"W Seulu wznoszą nowy, bardzo wysoki budynek.","translation":"In Seoul they are putting up a new, very tall building.","target":"wznoszą"}}
+{"lemma":"dobór","text":"Bóg jeden wie, czym się kierował premier Miller w doborze kolejnych ministrów.","replace":{"text":"Dobór prezentów w Wiedniu zajął nam cały dzień.","translation":"Choosing presents in Vienna took us the whole day.","target":"Dobór"}}
+{"lemma":"rozpowszechnić","text":"Ci ostatni rozpowszechnili również islam w pasie nabrzeżnym, ale większość Bantu nigdy się z tym wyznaniem nie zetknęła i pozostała przy rdzennej religii afrykańskiej.","replace":{"text":"Internet rozpowszechnił nowe zwyczaje w Japonii.","translation":"The internet spread new customs in Japan.","target":"rozpowszechnił"}}
+{"lemma":"podpalić","text":"W środku nocy meczet został podpalony.","replace":{"text":"Dziadek chciał podpalić drewno w kominku.","translation":"Grandpa wanted to light the wood in the fireplace.","target":"podpalić"}}
+{"lemma":"ziemny","text":"Obecnie głównymi dostawcami gazu ziemnego są Norwegia, Rosja i Afryka Północna.","replace":{"text":"Polska importuje gaz ziemny z Norwegii.","translation":"Poland imports natural gas from Norway.","target":"ziemny"}}
+{"lemma":"ubóstwo","text":"Susza, ubóstwo i bezrobocie napędzały emigrację z Mauretanii od lat siedemdziesiątych.","replace":{"text":"Miasto Chicago walczy z ubóstwem.","translation":"The city of Chicago is fighting poverty.","target":"ubóstwem"}}
+{"lemma":"zaniepokoić","text":"Świat jest zaniepokojony nuklearnymi możliwościami Iranu i Korei Północnej.","replace":{"text":"Jestem zaniepokojony pogodą w Alpach.","translation":"I am worried about the weather in the Alps.","target":"zaniepokojony"}}
+{"lemma":"wystrzelić","text":"Iran planuje wystrzelić w kosmos małpę.","replace":{"text":"Korea Południowa planuje wystrzelić satelitę.","translation":"South Korea plans to launch a satellite.","target":"wystrzelić"}}
+{"lemma":"godzić","text":"Izrael nie godzi się na żadne warunki.","replace":{"text":"Nie godzę się na zmianę planów w Kioto.","translation":"I do not agree to a change of plans in Kyoto.","target":"godzę"}}
+{"lemma":"następca","text":"Następcy Piotra wybrali na siedzibę Rzym, a nie Jerozolimę.","replace":{"text":"Następcy cesarza wybrali na siedzibę Kraków.","translation":"The emperor's successors chose Kraków as their seat.","target":"Następcy"}}
+{"lemma":"afrykański","text":"Przecież afrykańscy Pigmeje, choć też zmniejszyli rozmiary swojego ciała, nie zmienili wielkości mózgów.","drop":true}
+{"lemma":"taktyka","text":"Algierska prasa podaje, że islamiści stosują zawsze tę samą taktykę.","replace":{"text":"Trener z Krakowa stosuje zawsze tę samą taktykę.","translation":"The coach from Kraków always uses the same tactics.","target":"taktykę"}}
+{"lemma":"klan","text":"Dlatego od trzech lat trwają zabiegi wokół umiarkowanych talibów, inicjatywy skierowane do szefów wpływowych klanów i kolejne amnestie dla indywidualnych partyzantów, aby wykruszyć ich ze struktur zbrojnego podziemia.","replace":{"text":"W Edynburgu poznasz w muzeum historię szkockich klanów.","translation":"In Edinburgh you can learn the history of Scottish clans in a museum.","target":"klanów"}}
+{"lemma":"autonomiczny","text":"Zamiast tego postanowili, że Albania będzie pod władzą osmańską, ale z autonomicznym rządem.","replace":{"text":"Po Seulu jeździmy autonomicznym samochodem.","translation":"We get around Seoul in an autonomous car.","target":"autonomicznym"}}
+{"lemma":"swoisty","text":"Worek Judaszów jest swoistą encyklopedią zła - zbrodni, występku, nieprawości.","replace":{"text":"Stare Miasto w Krakowie ma swoistą atmosferę.","translation":"The Old Town in Kraków has a peculiar atmosphere.","target":"swoistą"}}
+{"lemma":"zaobserwować","text":"W Chojnowie przed świętem Matki Boskiej Gromnicznej zaobserwowano niepokojące zjawisko - mniej rodzin niż w ubiegłym roku przyjęło księdza po kolędzie.","replace":{"text":"W parku zaobserwowano rzadki gatunek ptaka.","translation":"A rare species of bird was observed in the park.","target":"zaobserwowano"}}
+{"lemma":"nadmierny","text":"Przede wszystkim nadmierna cześć dla świętych i Matki Boskiej, w czym, tak jak pozostali protestanci, dopatrywał się bałwochwalstwa.","replace":{"text":"Nadmierna ilość cukru szkodzi zdrowiu.","translation":"Too much sugar is bad for your health.","target":"Nadmierna"}}

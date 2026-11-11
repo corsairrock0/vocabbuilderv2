@@ -1,0 +1,24 @@
+# Never send local dependencies, builds, data or secrets to the Docker build.
+node_modules
+dist
+storage
+data/runtime
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.env
+.env.*
+!.env.example
+.git
+.github
+tests
+test-results
+playwright-report
+deploy
+docs
+*.md
+!README.md
+# The frequency-set build reports are served by the app (Settings → Most frequent words).
+!data/frequency/reports/*.md
+.DS_Store
+npm-debug.log*

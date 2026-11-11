@@ -1,0 +1,873 @@
+lemma	pos	sentence	target	translation
+тис	noun	Біля старої церкви росте високий тис.	тис	A tall yew grows by the old church.
+тис	noun	Колись із тису робили міцні луки.	тису	In the old days, strong bows were made from yew.
+звернення	noun	Я написала звернення до міської ради про ремонт дороги.	звернення	I wrote an appeal to the city council about repairing the road.
+звернення	noun	У зверненні мешканці просять полагодити ліфт.	зверненні	In their appeal, the residents ask for the lift to be repaired.
+головня	noun	Дід витяг із печі головню й запалив люльку.	головню	Grandpa pulled a burning stick out of the stove and lit his pipe.
+головня	noun	З багаття вилетіла головня й упала в суху траву.	головня	A burning ember flew out of the campfire and landed in the dry grass.
+православний	adjective	Наші сусіди — православні, а ми — греко-католики.	православні	Our neighbors are Orthodox, and we are Greek Catholics.
+православний	adjective	Великдень — найбільше свято для православних християн.	православних	Easter is the biggest holiday for Orthodox Christians.
+всеукраїнський	adjective	Моя донька перемогла у всеукраїнській олімпіаді з хімії.	всеукраїнській	My daughter won the all-Ukrainian chemistry olympiad.
+всеукраїнський	adjective	Щороку дев'ятого листопада ми пишемо всеукраїнський радіодиктант.	всеукраїнський	Every year on the ninth of November, we write the all-Ukrainian radio dictation.
+озброєння	noun	Армія отримала нове сучасне озброєння.	озброєння	The army received new, modern weapons.
+озброєння	noun	Солдати вчаться працювати з новим озброєнням.	озброєнням	The soldiers are learning to use the new weaponry.
+конституційний	adjective	Конституційний суд розглядає нову справу.	Конституційний	The Constitutional Court is considering a new case.
+конституційний	adjective	Освіта — конституційне право кожного громадянина.	конституційне	Education is a constitutional right of every citizen.
+вінницький	adjective	Мій брат навчається у вінницькому університеті.	вінницькому	My brother studies at a university in Vinnytsia.
+вінницький	adjective	Вінницька область славиться своїми яблуневими садами.	Вінницька	Vinnytsia Oblast is famous for its apple orchards.
+антикорупційний	adjective	В Україні працює Вищий антикорупційний суд.	антикорупційний	Ukraine has a High Anti-Corruption Court.
+антикорупційний	adjective	У новинах розповіли про нову антикорупційну реформу.	антикорупційну	The news reported on a new anti-corruption reform.
+актив	noun	Найцінніший актив нашої фірми — її працівники.	актив	Our firm's most valuable asset is its employees.
+актив	noun	Компанія продала частину своїх активів.	активів	The company sold part of its assets.
+країна 404	noun	«Країна чотириста чотири» — зневажлива інтернет-назва Росії.	Країна	'Country 404' is a derogatory internet name for Russia.
+країна 404	noun	У мемах Росію часто називають «країною чотириста чотири».	країною	In memes, Russia is often called 'country 404'.
+хтіти	verb	«Я не хтів тебе образити», — сказав дід.	хтів	'I didn't mean to offend you,' Grandpa said.
+хтіти	verb	«Хтіла б я знати, де він ходить», — бурчала баба.	Хтіла	'I'd love to know where he's wandering about,' the old woman grumbled.
+голодомор	noun	Голодомор забрав життя мільйонів українців.	Голодомор	The Holodomor took the lives of millions of Ukrainians.
+голодомор	noun	У листопаді ми вшановуємо пам'ять жертв голодоморів.	голодоморів	In November we honor the memory of the victims of the famines.
+затримання	noun	Поліція повідомила про затримання двох крадіїв.	затримання	The police reported the arrest of two thieves.
+затримання	noun	Сусід допоміг поліції в затриманні злодія.	затриманні	A neighbor helped the police apprehend the thief.
+майор	noun	Майор наказав солдатам вишикуватися на плацу.	Майор	The major ordered the soldiers to line up on the parade ground.
+майор	noun	Мій дядько став майором минулого року.	майором	My uncle became a major last year.
+абиякий	adjective	Не купуй абияку ковбасу, бери хорошу.	абияку	Don't buy just any old sausage; get a good one.
+абиякий	adjective	Готель виявився абияким: старі меблі й холодна вода.	абияким	The hotel turned out to be mediocre: old furniture and cold water.
+розподіл	noun	Ми обговорили розподіл обов'язків на новій роботі.	розподіл	We discussed the division of duties at the new job.
+розподіл	noun	Брати не могли домовитися щодо розподілу грошей.	розподілу	The brothers couldn't agree on how to divide the money.
+садовий	adjective	Тато купив нові садові ножиці.	садові	Dad bought new garden shears.
+садовий	adjective	На нашій садовій ділянці ростуть яблуні й малина.	садовій	Apple trees and raspberries grow on our garden plot.
+кацап	noun	«Кацап» — образливе прізвисько росіян, його краще не вживати.	Кацап	'Katsap' is an offensive nickname for Russians; it's better not to use it.
+кацап	noun	Учителька пояснила, чому слово «кацапи» вважають образливим.	кацапи	The teacher explained why the word 'katsapy' is considered offensive.
+терти	verb	Бабуся терла буряк для борщу.	терла	Grandma was grating beets for borscht.
+терти	verb	Він довго тер плиту щіткою, але пляма лишилася.	тер	He scrubbed the stove with a brush for a long time, but the stain remained.
+посад	noun	Посад розташовувався за міською стіною, біля річки.	Посад	The trading quarter lay outside the city wall, near the river.
+посад	noun	Між фортецею й посадом був глибокий рів.	посадом	There was a deep moat between the fortress and the trading quarter.
+мо'	adverb	«Мо', підемо сьогодні в кіно?» — запитала Оля.	Мо'	'Maybe we could go to the cinema today?' Olia asked.
+мо'	adverb	«Він, мо', ще спить», — сказала мама.	мо'	'Maybe he's still asleep,' Mom said.
+агресор	noun	Психолог пояснив дітям, як поводитися з агресором у школі.	агресором	The psychologist explained to the children how to deal with an aggressor at school.
+агресор	noun	Агресор напав на сусідню країну без попередження.	Агресор	The aggressor attacked the neighboring country without warning.
+командування	noun	Наказ надійшов від командування рано вранці.	командування	The order came from command early in the morning.
+командування	noun	Під командуванням полковника загін перейшов річку.	командуванням	Under the colonel's command, the unit crossed the river.
+комерційний	adjective	Мама працює бухгалтеркою в комерційному банку.	комерційному	Mom works as an accountant at a commercial bank.
+комерційний	adjective	Вибачте, але це комерційна таємниця.	комерційна	Sorry, but that's a trade secret.
+шоб	conjunction	«Я тобі кажу, шоб ти не спізнювався», — сказав батько.	шоб	'I'm telling you not to be late,' Dad said.
+шоб	conjunction	«Подзвони мамі, шоб вона не хвилювалася», — сказала бабуся.	шоб	'Call your mom so she doesn't worry,' Grandma said.
+новість	noun	Для мене це вже не новість.	новість	That's nothing new to me anymore.
+новість	noun	Тоді мобільний телефон у селі був справжньою новістю.	новістю	Back then, a mobile phone in the village was a real novelty.
+українка	noun	Моя подруга — українка, але вже десять років живе в Польщі.	українка	My friend is Ukrainian, but she has been living in Poland for ten years.
+українка	noun	У Берліні я познайомився з чарівною українкою.	українкою	In Berlin I met a charming Ukrainian woman.
+оден	numeral	«Дай мені ще оден пиріжок», — попросив дідусь.	оден	'Give me one more pie,' Grandpa asked.
+оден	numeral	У класі залишилася тільки одна вільна парта.	одна	Only one free desk was left in the classroom.
+врем'я	noun	«Уже врем'я вечеряти?» — спитав дід.	врем'я	'Is it already time for dinner?' Grandpa asked.
+врем'я	noun	«Нема в мене времені на дурниці», — буркнув сусід.	времені	'I've got no time for nonsense,' the neighbor grumbled.
+випускник	noun	Наш новий лікар — випускник Львівського медичного університету.	випускник	Our new doctor is a graduate of Lviv Medical University.
+випускник	noun	Випускники нашої школи зустрічаються кожні п'ять років.	Випускники	Graduates of our school get together every five years.
+порохобот	noun	«Порохоботами» зневажливо називають прихильників колишнього президента.	Порохоботами	'Porokhoboty' is a derogatory name for supporters of the former president.
+порохобот	noun	Слово «порохобот» часто трапляється в політичних суперечках у соцмережах.	порохобот	The word 'porokhobot' often comes up in political arguments on social media.
+посібник	noun	Учитель порадив нам новий посібник із граматики.	посібник	The teacher recommended a new grammar textbook to us.
+посібник	noun	У цьому посібнику багато корисних вправ.	посібнику	This textbook has a lot of useful exercises.
+відбір	noun	Мій син пройшов відбір до футбольної команди.	відбір	My son made it through the selection for the football team.
+відбір	noun	Після суворого відбору в команді залишилося десять гравців.	відбору	After a tough selection, ten players remained on the team.
+довідка	noun	Лікар дав мені довідку для школи.	довідку	The doctor gave me a medical certificate for school.
+довідка	noun	Для візи потрібна довідка з роботи.	довідка	For the visa you need a certificate from your employer.
+патріарх	noun	Дідусь — справжній патріарх нашої великої родини.	патріарх	Grandpa is the true patriarch of our big family.
+патріарх	noun	На Різдво тисячі вірян прийшли послухати патріарха.	патріарха	At Christmas, thousands of believers came to hear the patriarch.
+єпископ	noun	Єпископ освятив нову церкву в нашому селі.	Єпископ	The bishop consecrated the new church in our village.
+єпископ	noun	Діти подарували єпископові букет квітів.	єпископові	The children gave the bishop a bouquet of flowers.
+авіакомпанія	noun	Ця авіакомпанія часто скасовує рейси.	авіакомпанія	This airline often cancels flights.
+авіакомпанія	noun	Я купила квитки на сайті авіакомпанії.	авіакомпанії	I bought the tickets on the airline's website.
+патріархат	noun	У родині моєї бабусі панував суворий патріархат.	патріархат	Strict patriarchy reigned in my grandmother's family.
+патріархат	noun	Ця книжка — про боротьбу жінок проти патріархату.	патріархату	This book is about women's struggle against patriarchy.
+аграрний	adjective	Україна — аграрна країна з родючими землями.	аграрна	Ukraine is an agrarian country with fertile land.
+аграрний	adjective	Сестра вступила до аграрного університету.	аграрного	My sister got into an agricultural university.
+збірник	noun	Я купила синові збірник задач із математики.	збірник	I bought my son a book of math problems.
+збірник	noun	У цьому збірнику є мої улюблені казки.	збірнику	This collection has my favorite fairy tales.
+кіровоградський	adjective	Кіровоградська область розташована в центрі України.	Кіровоградська	Kirovohrad Oblast is located in the center of Ukraine.
+кіровоградський	adjective	Мій дідусь родом із кіровоградського села.	кіровоградського	My grandfather comes from a village in the Kirovohrad region.
+артилерія	noun	Артилерія стріляла всю ніч, і ми не спали.	Артилерія	The artillery fired all night, and we didn't sleep.
+артилерія	noun	Мій прадід розповідав про службу в артилерії.	артилерії	My great-grandfather used to talk about his service in the artillery.
+модуль	noun	Ми вже закінчили перший модуль курсу англійської мови.	модуль	We've already finished the first module of the English course.
+модуль	noun	Онлайн-курс складається з п'яти модулів.	модулів	The online course consists of five modules.
+частота	noun	Яка частота цієї радіостанції?	частота	What frequency is this radio station on?
+частота	noun	Медсестра виміряла частоту пульсу.	частоту	The nurse measured the pulse rate.
+компенсація	noun	Пасажири отримали компенсацію за скасований рейс.	компенсацію	The passengers received compensation for the cancelled flight.
+компенсація	noun	Мені належить компенсація за невикористану відпустку.	компенсація	I'm entitled to compensation for unused vacation days.
+титул	noun	Наша команда знову виграла титул чемпіона.	титул	Our team won the championship title again.
+титул	noun	Старий барон дуже пишався своїм титулом.	титулом	The old baron was very proud of his title.
+поділ	noun	На уроці біології ми вивчали поділ клітини.	поділ	In biology class we studied cell division.
+поділ	noun	Після розлучення вони довго сперечалися щодо поділу майна.	поділу	After the divorce, they argued for a long time over the division of property.
+снаряд	noun	Сапери знайшли в полі старий снаряд.	снаряд	Sappers found an old shell in the field.
+снаряд	noun	Гімнастка впевнено виступила на всіх снарядах.	снарядах	The gymnast performed confidently on every apparatus.
+проросійський	adjective	Він раніше мав проросійські погляди, але змінив їх.	проросійські	He used to have pro-Russian views, but he changed them.
+проросійський	adjective	Журналісти дослідили вплив проросійських каналів у соцмережах.	проросійських	Journalists studied the influence of pro-Russian channels on social media.
+посадка	noun	Посадка на рейс до Львова почнеться о восьмій.	Посадка	Boarding for the flight to Lviv will begin at eight.
+посадка	noun	Навесні вся родина займається посадкою картоплі.	посадкою	In spring, the whole family is busy planting potatoes.
+хан	noun	Козаки уклали союз із кримським ханом.	ханом	The Cossacks made an alliance with the Crimean khan.
+хан	noun	Туристи відвідали палац, де колись жив хан.	хан	The tourists visited the palace where a khan once lived.
+покриття	noun	У дитячій кімнаті постелили м'яке покриття.	покриття	Soft flooring was laid in the children's room.
+покриття	noun	Сковорідка з антипригарним покриттям коштує дорожче.	покриттям	A frying pan with a non-stick coating costs more.
+перетворення	noun	Перетворення гусениці на метелика — справжнє диво природи.	Перетворення	The transformation of a caterpillar into a butterfly is a true wonder of nature.
+перетворення	noun	Діти з цікавістю спостерігали за перетворенням льоду на воду.	перетворенням	The children watched with interest as the ice turned into water.
+мусор	noun	«Мусор» — грубе жаргонне слово для поліцейського.	Мусор	'Musor' is a crude slang word for a police officer.
+мусор	noun	Мама попросила сина не називати поліцейських «мусорами».	мусорами	Mom asked her son not to call police officers 'musory'.
+прес	noun	На заводі встановили новий гідравлічний прес.	прес	A new hydraulic press was installed at the factory.
+прес	noun	Робітник обережно працював із важким пресом.	пресом	The worker carefully operated the heavy press.
+розшук	noun	Поліція оголосила розшук зниклої дівчинки.	розшук	The police launched a search for the missing girl.
+розшук	noun	Цей чоловік уже два роки перебуває в розшуку.	розшуку	This man has been wanted by the police for two years.
+солідарність	noun	Люди вийшли на площу на знак солідарності.	солідарності	People came out to the square as a sign of solidarity.
+солідарність	noun	Солідарність сусідів допомогла нам після пожежі.	Солідарність	Our neighbors' solidarity helped us after the fire.
+зайнятість	noun	Центр зайнятості допомагає людям знайти роботу.	зайнятості	The employment center helps people find work.
+зайнятість	noun	Через постійну зайнятість він рідко бачить дітей.	зайнятість	Because he's always busy, he rarely sees his children.
+ріст	noun	Для росту рослинам потрібні сонце й вода.	росту	Plants need sun and water to grow.
+ріст	noun	Лікар уважно стежить за ростом дитини.	ростом	The doctor closely monitors the child's growth.
+виявлення	noun	Раннє виявлення хвороби рятує життя.	виявлення	Early detection of a disease saves lives.
+виявлення	noun	Нова програма допомагає лікарям у виявленні раку.	виявленні	A new program helps doctors detect cancer.
+сертифікат	noun	Після курсів я отримала сертифікат.	сертифікат	After the course, I received a certificate.
+сертифікат	noun	Без сертифіката якості цей товар не можна продавати.	сертифіката	This product can't be sold without a quality certificate.
+мобілізація	noun	Через мобілізацію на заводі бракує працівників.	мобілізацію	Because of the mobilization, the factory is short of workers.
+мобілізація	noun	Загальна мобілізація почалася в перший день повномасштабної війни.	мобілізація	General mobilization began on the first day of the full-scale war.
+осередок	noun	У нашому місті відкрили осередок партії.	осередок	A local party cell was opened in our town.
+осередок	noun	Члени місцевого осередку зібралися в школі.	осередку	Members of the local cell gathered at the school.
+арсенал	noun	У старому арсеналі тепер працює музей.	арсеналі	There is now a museum in the old arsenal.
+арсенал	noun	Армія поповнила свій арсенал новими ракетами.	арсенал	The army added new missiles to its arsenal.
+хуйло	noun	«Хуйло» — дуже вульгарна лайка, її не кажуть при дітях.	Хуйло	'Khuilo' is a very vulgar swear word; people don't say it in front of children.
+хуйло	noun	Хтось написав на паркані «хуйло», і сусіди обурилися.	хуйло	Someone wrote 'khuilo' on the fence, and the neighbors were outraged.
+складовий	adjective	Спорт — важлива складова здорового способу життя.	складова	Sport is an important component of a healthy lifestyle.
+складовий	adjective	Довіра є важливою складовою міцної родини.	складовою	Trust is an important component of a strong family.
+люстрація	noun	Після революції в країні провели люстрацію.	люстрацію	After the revolution, a lustration was carried out in the country.
+люстрація	noun	Люстрація стосувалася чиновників старої влади.	Люстрація	The lustration applied to officials of the old regime.
+безвіз	noun	Завдяки безвізу ми злітали на вихідні до Праги.	безвізу	Thanks to visa-free travel, we flew to Prague for the weekend.
+безвіз	noun	Безвіз із Євросоюзом запрацював у червні.	Безвіз	The visa-free regime with the EU came into effect in June.
+проходження	noun	Астрономи спостерігали за проходженням Меркурія по диску Сонця.	проходженням	Astronomers observed the transit of Mercury across the Sun's disk.
+проходження	noun	Наступне проходження Венери відбудеться аж у двадцять другому столітті.	проходження	The next transit of Venus won't happen until the twenty-second century.
+луцький	adjective	Луцький замок — одна з найгарніших пам'яток України.	Луцький	Lutsk Castle is one of the most beautiful landmarks in Ukraine.
+луцький	adjective	Ми купили на луцькому ринку свіжі гриби.	луцькому	We bought fresh mushrooms at the Lutsk market.
+переселенець	noun	Мій колега — переселенець із Донецька.	переселенець	My colleague is a displaced person from Donetsk.
+переселенець	noun	Місто допомагає переселенцям знайти житло.	переселенцям	The city helps displaced people find housing.
+реформування	noun	Уряд оголосив про реформування системи освіти.	реформування	The government announced a reform of the education system.
+реформування	noun	Над реформуванням пенсійної системи працюють експерти.	реформуванням	Experts are working on reforming the pension system.
+депутатський	adjective	Депутатський запит надіслали до міністерства.	Депутатський	The deputy's inquiry was sent to the ministry.
+депутатський	adjective	Він показав охоронцеві своє депутатське посвідчення.	депутатське	He showed the guard his deputy's ID.
+кучма	noun	Козак носив високу кучму з овечого хутра.	кучму	The Cossack wore a tall sheepskin hat.
+кучма	noun	Узимку дід ходив у старій баранячій кучмі.	кучмі	In winter, Grandpa wore an old sheepskin hat.
+лауреат	noun	Мій улюблений поет став лауреатом престижної премії.	лауреатом	My favorite poet became the winner of a prestigious prize.
+лауреат	noun	Лауреати конкурсу отримають грошові призи.	Лауреати	The competition's prizewinners will receive cash prizes.
+номінація	noun	Фільм отримав номінацію на європейську кінопремію.	номінацію	The film received a nomination for a European film award.
+номінація	noun	Ця номінація стала для письменника несподіванкою.	номінація	This nomination came as a surprise to the writer.
+беркут	noun	Беркут — великий і рідкісний хижий птах.	Беркут	The golden eagle is a large, rare bird of prey.
+беркут	noun	У Карпатах ми побачили беркута високо в небі.	беркута	In the Carpathians we saw a golden eagle high in the sky.
+дніпровський	adjective	Улітку ми відпочивали на дніпровському пляжі.	дніпровському	In summer we relaxed on a beach on the Dnipro.
+дніпровський	adjective	Дніпровські кручі біля Канева дуже мальовничі.	Дніпровські	The Dnipro bluffs near Kaniv are very picturesque.
+арена	noun	На арені цирку виступають клоуни й акробати.	арені	Clowns and acrobats perform in the circus ring.
+арена	noun	Нова спортивна арена вміщує двадцять тисяч глядачів.	арена	The new sports arena holds twenty thousand spectators.
+боєприпаси	noun	Військовим терміново потрібні боєприпаси.	боєприпаси	The military urgently needs ammunition.
+боєприпаси	noun	Склад із боєприпасами охороняють цілодобово.	боєприпасами	The ammunition depot is guarded around the clock.
+партійний	adjective	На партійному з'їзді обрали нового лідера.	партійному	A new leader was elected at the party congress.
+партійний	adjective	Партійні списки опублікували за місяць до виборів.	Партійні	The party lists were published a month before the elections.
+профспілка	noun	Мама вже двадцять років у профспілці вчителів.	профспілці	Mom has been in the teachers' union for twenty years.
+профспілка	noun	Профспілка домоглася підвищення зарплат.	Профспілка	The union won a pay raise.
+придбання	noun	Придбання квартири — серйозне рішення для молодої родини.	Придбання	Buying an apartment is a serious decision for a young family.
+придбання	noun	Ми довго радилися перед придбанням машини.	придбанням	We talked it over for a long time before buying a car.
+приватизація	noun	Приватизація квартири займає кілька місяців.	Приватизація	Privatizing an apartment takes several months.
+приватизація	noun	Держава виставила на приватизацію старий цукровий завод.	приватизацію	The state put an old sugar factory up for privatization.
+єпархія	noun	Єпархія відкрила при соборі недільну школу.	Єпархія	The diocese opened a Sunday school at the cathedral.
+єпархія	noun	Наш храм належить до Львівської єпархії.	єпархії	Our church belongs to the Lviv diocese.
+ансамбль	noun	Оля співає в народному ансамблі.	ансамблі	Olia sings in a folk ensemble.
+ансамбль	noun	Ансамбль виконав кілька старовинних українських пісень.	Ансамбль	The ensemble performed several old Ukrainian songs.
+контент	noun	Вона створює контент для соцмереж.	контент	She creates content for social media.
+контент	noun	Платформа стежить за контентом, який публікують користувачі.	контентом	The platform monitors the content that users publish.
+конвенція	noun	Женевська конвенція захищає права військовополонених.	конвенція	The Geneva Convention protects the rights of prisoners of war.
+конвенція	noun	Конвенцію про права дитини підписали майже всі країни світу.	Конвенцію	Almost every country in the world has signed the Convention on the Rights of the Child.
+гвардія	noun	Національна гвардія охороняє важливі об'єкти.	гвардія	The National Guard protects important facilities.
+гвардія	noun	Після університету Тарас пішов служити в гвардію.	гвардію	After university, Taras went to serve in the Guard.
+класифікація	noun	Підручник пояснює класифікацію тварин простими словами.	класифікацію	The textbook explains the classification of animals in simple words.
+класифікація	noun	Ця класифікація допомагає швидко знайти потрібну книжку.	класифікація	This classification helps you quickly find the book you need.
+обіг	noun	Ці монети вже вийшли з обігу.	обігу	These coins are no longer in circulation.
+обіг	noun	Річний обіг компанії зріс удвічі.	обіг	The company's annual turnover doubled.
+декоративний	adjective	Я купила декоративну подушку для дивана.	декоративну	I bought a decorative cushion for the sofa.
+декоративний	adjective	Ці декоративні рослини не потребують багато води.	декоративні	These ornamental plants don't need much water.
+передовий	adjective	Ця лікарня використовує передові технології.	передові	This hospital uses advanced technology.
+передовий	adjective	Мій друг зараз служить на передовій.	передовій	My friend is serving on the front line right now.
+оприлюднити	verb	Міністерство оприлюднило результати іспитів.	оприлюднило	The ministry published the exam results.
+оприлюднити	verb	Компанія обіцяє оприлюднити звіт наступного тижня.	оприлюднити	The company promises to publish its report next week.
+семінар	noun	Завтра в нас семінар з історії.	семінар	Tomorrow we have a history seminar.
+семінар	noun	На семінарі ми обговорювали нову книжку.	семінарі	At the seminar we discussed a new book.
+символіка	noun	У вишивці кожен колір має свою символіку.	символіку	In embroidery, every color has its own symbolism.
+символіка	noun	Державна символіка України — це прапор, герб і гімн.	символіка	Ukraine's state symbols are the flag, the coat of arms and the anthem.
+апеляційний	adjective	Адвокат подав скаргу до апеляційного суду.	апеляційного	The lawyer filed a complaint with the court of appeal.
+апеляційний	adjective	Апеляційний суд залишив рішення без змін.	Апеляційний	The court of appeal upheld the decision.
+кулемет	noun	У музеї стоїть старий кулемет часів Другої світової війни.	кулемет	There's an old machine gun from the Second World War in the museum.
+кулемет	noun	На навчаннях солдат уперше стріляв із кулемета.	кулемета	During training, the soldier fired a machine gun for the first time.
+нагляд	noun	Діти гралися під наглядом вихователя.	наглядом	The children played under the teacher's supervision.
+нагляд	noun	Нагляд за будівництвом здійснює міська рада.	Нагляд	The city council oversees the construction work.
+бидло	noun	«Бидло» — образливе слово для неосвічених і грубих людей.	Бидло	'Bydlo' is an offensive word for uneducated, rude people.
+бидло	noun	Колись «бидлом» називали звичайну худобу.	бидлом	Long ago, 'bydlo' was simply a word for cattle.
+бляха	noun	Бабуся спекла пиріжки на великій блясі.	блясі	Grandma baked little pies on a big baking tray.
+бляха	noun	Мама поставила бляху з печивом у духовку.	бляху	Mom put the tray of cookies into the oven.
+анексія	noun	Більшість країн світу не визнала анексію Криму.	анексію	Most countries in the world did not recognize the annexation of Crimea.
+анексія	noun	Анексія — це насильницьке приєднання чужої території.	Анексія	Annexation is the forcible incorporation of another country's territory.
+доцент	noun	Мій батько працює доцентом на кафедрі історії.	доцентом	My father works as an associate professor in the history department.
+доцент	noun	Доцент перевірив наші контрольні роботи.	Доцент	The associate professor graded our tests.
+рядовий	noun	Рядовий виконав наказ командира.	Рядовий	The private carried out the commander's order.
+рядовий	noun	Мій дід пішов до армії рядовим, а повернувся офіцером.	рядовим	My grandfather joined the army as a private and came back an officer.
+ель	noun	У пабі ми замовили по кухлю темного елю.	елю	At the pub, we each ordered a mug of dark ale.
+ель	noun	Цей ель варять у маленькій сімейній пивоварні.	ель	This ale is brewed in a small family brewery.
+російськомовний	adjective	У нашому класі є кілька російськомовних учнів.	російськомовних	There are several Russian-speaking students in our class.
+російськомовний	adjective	Він вирішив більше не дивитися російськомовні серіали.	російськомовні	He decided to stop watching Russian-language TV series.
+випадок1	noun	Це був дуже дивний випадок.	випадок	It was a very strange incident.
+випадок1	noun	У такому випадку краще подзвонити лікарю.	випадку	In that case, it's better to call a doctor.
+транспортування	noun	Транспортування меблів коштувало дорожче, ніж самі меблі.	Транспортування	Transporting the furniture cost more than the furniture itself.
+транспортування	noun	Фірма займається транспортуванням зерна до порту.	транспортуванням	The firm handles transporting grain to the port.
+україномовний	adjective	Я дивлюся тільки україномовні фільми.	україномовні	I only watch Ukrainian-language films.
+україномовний	adjective	Після переїзду до Києва Марко став україномовним.	україномовним	After moving to Kyiv, Marko switched to speaking Ukrainian.
+ракетний	adjective	Інженери випробували новий ракетний двигун.	ракетний	Engineers tested a new rocket engine.
+ракетний	adjective	Мій дідусь усе життя пропрацював на ракетному заводі.	ракетному	My grandfather worked at a rocket factory his whole life.
+теза	noun	Автор доводить свою тезу прикладами з життя.	тезу	The author supports his thesis with examples from real life.
+теза	noun	Ця теза здається мені сумнівною.	теза	This thesis seems doubtful to me.
+заснування	noun	Цього року місто святкує річницю заснування.	заснування	This year the city is celebrating the anniversary of its founding.
+заснування	noun	Із заснуванням університету місто почало швидко рости.	заснуванням	With the founding of the university, the town began to grow quickly.
+менеджмент	noun	Моя сестра вивчає менеджмент і маркетинг.	менеджмент	My sister studies management and marketing.
+менеджмент	noun	Проблеми компанії пов'язані з поганим менеджментом.	менеджментом	The company's problems are due to poor management.
+діаспора	noun	Українська діаспора в Канаді дуже велика.	діаспора	The Ukrainian diaspora in Canada is very large.
+діаспора	noun	Ця організація допомагає діаспорі зберігати рідну мову.	діаспорі	This organization helps the diaspora preserve its native language.
+резолюція	noun	Міська рада ухвалила резолюцію на підтримку вчителів.	резолюцію	The city council adopted a resolution in support of teachers.
+резолюція	noun	Резолюція конференції закликає до миру.	Резолюція	The conference resolution calls for peace.
+миротворець	noun	Миротворці ООН патрулюють кордон.	Миротворці	UN peacekeepers patrol the border.
+миротворець	noun	У нашій родині мама завжди була миротворцем.	миротворцем	In our family, Mom was always the peacemaker.
+переказ	noun	На уроці ми писали переказ тексту про осінь.	переказ	In class, we wrote a retelling of a text about autumn.
+переказ	noun	За давнім переказом, тут колись стояв замок.	переказом	According to an old account, a castle once stood here.
+совок	noun	Подай мені, будь ласка, віник і совок.	совок	Please hand me the broom and dustpan.
+совок	noun	Дитина гралася в пісочниці з відерцем і совком.	совком	The child was playing in the sandbox with a bucket and a scoop.
+кремлівський	adjective	Кремлівські стіни будували італійські майстри.	Кремлівські	The Kremlin walls were built by Italian craftsmen.
+кремлівський	adjective	Експерти аналізують кремлівську пропаганду в соцмережах.	кремлівську	Experts analyze Kremlin propaganda on social media.
+розстріляти	verb	Мисливець розстріляв усі патрони, але нічого не вполював.	розстріляв	The hunter used up all his cartridges but didn't bag anything.
+розстріляти	verb	У тридцять сьомому році його прадіда розстріляли.	розстріляли	In nineteen thirty-seven, his great-grandfather was executed by firing squad.
+орда	noun	Кочова орда напала на прикордонне місто.	орда	A nomadic horde attacked the border town.
+орда	noun	Князь зібрав велике військо проти орди.	орди	The prince gathered a large army against the horde.
+ухвалення	noun	Ухвалення нового закону затягнулося на пів року.	Ухвалення	The passing of the new law dragged on for half a year.
+ухвалення	noun	Перед ухваленням рішення варто все добре обдумати.	ухваленням	Before making a decision, it's worth thinking everything through.
+альянс	noun	Фінляндія вступила до Північноатлантичного альянсу.	альянсу	Finland joined the North Atlantic Alliance.
+альянс	noun	Дві авіакомпанії створили стратегічний альянс.	альянс	Two airlines formed a strategic alliance.
+бот	noun	Рибалки вийшли в море на старому дерев'яному боті.	боті	The fishermen went out to sea in an old wooden boat.
+бот	noun	Бабуся взула теплі боти й пішла на ринок.	боти	Grandma put on her warm overshoes and went to the market.
+град	noun	Учора вдень ішов сильний град.	град	Yesterday afternoon there was a heavy hailstorm.
+град	noun	Машину побило градом, і тепер на ній вм'ятини.	градом	The car was damaged by hail, and now it has dents.
+меморіал	noun	Біля школи відкрили меморіал загиблим воїнам.	меморіал	A memorial to fallen soldiers was unveiled near the school.
+меморіал	noun	Школярі поклали квіти до меморіалу.	меморіалу	Schoolchildren laid flowers at the memorial.
+теракт	noun	У новинах повідомили про теракт у метро.	теракт	The news reported a terrorist attack in the metro.
+теракт	noun	Поліція запобігла теракту на вокзалі.	теракту	The police prevented a terrorist attack at the train station.
+легалізація	noun	Парламент підтримав легалізацію медичного канабісу.	легалізацію	Parliament backed the legalization of medical cannabis.
+легалізація	noun	Легалізація зброї — гаряча тема для суперечок.	Легалізація	Legalizing guns is a hot topic for debate.
+пільга	noun	Пенсіонери мають пільгу на проїзд у транспорті.	пільгу	Pensioners get a discount on public transport fares.
+пільга	noun	Студенти отримують пільги на квитки в музеї.	пільги	Students get discounts on museum tickets.
+керівний	adjective	Він обіймає керівну посаду в банку.	керівну	He holds a managerial position at a bank.
+керівний	adjective	Керівний склад компанії зібрався на нараду.	Керівний	The company's management team gathered for a meeting.
+саміт	noun	Лідери країн зустрілися на саміті в Брюсселі.	саміті	The national leaders met at a summit in Brussels.
+саміт	noun	Саміт НАТО відбудеться наступного року.	Саміт	The NATO summit will take place next year.
+сап	noun	Сап — небезпечна інфекційна хвороба коней.	Сап	Glanders is a dangerous infectious disease of horses.
+сап	noun	Ветеринар перевірив усіх коней на сап.	сап	The vet tested all the horses for glanders.
+цех	noun	Тато працює в механічному цеху.	цеху	Dad works in the machine shop.
+цех	noun	Цех випускає двісті деталей на день.	Цех	The shop turns out two hundred parts a day.
+уряд1	noun	Уряд ухвалив нову програму підтримки молоді.	Уряд	The government adopted a new youth support program.
+уряд1	noun	Журналісти поставили урядові кілька незручних запитань.	урядові	Journalists asked the government several awkward questions.
+міномет	noun	Солдати встановили міномет за пагорбом.	міномет	The soldiers set up a mortar behind the hill.
+міномет	noun	Усю ніч було чути постріли мінометів.	мінометів	Mortar fire could be heard all night.
+стоп	particle	Бронза — це стоп міді й олова.	стоп	Bronze is an alloy of copper and tin.
+стоп	particle	Ця деталь зроблена з легкого стопу алюмінію.	стопу	This part is made of a light aluminum alloy.
+реабілітація	noun	Після операції на нього чекає довга реабілітація.	реабілітація	A long rehabilitation awaits him after the surgery.
+реабілітація	noun	Центр реабілітації допомагає ветеранам повернутися до звичного життя.	реабілітації	The rehabilitation center helps veterans return to normal life.
+спікер	noun	Спікер парламенту відкрив засідання.	Спікер	The speaker of parliament opened the session.
+спікер	noun	Журналісти чекали на коментар спікера міністерства.	спікера	Journalists were waiting for a comment from the ministry's spokesperson.
+вимірювання	noun	Точне вимірювання температури дуже важливе.	вимірювання	Accurate temperature measurement is very important.
+вимірювання	noun	Після вимірювань стало зрозуміло, що шафа не влізе.	вимірювань	After taking measurements, it was clear that the wardrobe wouldn't fit.
+ухвала	noun	Суд виніс ухвалу про арешт майна.	ухвалу	The court issued a ruling to seize the property.
+ухвала	noun	Ухвала зборів набуває чинності негайно.	Ухвала	The meeting's decision takes effect immediately.
+кропивницький	adjective	Кропивницький театр запрошує на нову виставу.	Кропивницький	The Kropyvnytskyi theater invites you to a new play.
+кропивницький	adjective	Ми зупинилися в кропивницькому готелі на одну ніч.	кропивницькому	We stayed at a hotel in Kropyvnytskyi for one night.
+добровольчий	adjective	Мій однокласник воював у добровольчому батальйоні.	добровольчому	My classmate fought in a volunteer battalion.
+добровольчий	adjective	Тисячі людей долучилися до добровольчого руху.	добровольчого	Thousands of people joined the volunteer movement.
+танковий	adjective	Дядько служив у танковій бригаді.	танковій	My uncle served in a tank brigade.
+танковий	adjective	Танковий батальйон пройшов парадом через центр міста.	Танковий	The tank battalion paraded through the city center.
+суто	adverb	Це суто моя справа.	суто	This is purely my own business.
+суто	adverb	Я питаю суто з цікавості.	суто	I'm asking purely out of curiosity.
+витік	noun	На кухні стався витік газу.	витік	There was a gas leak in the kitchen.
+витік	noun	Сантехнік довго шукав місце витоку води.	витоку	The plumber spent a long time looking for the source of the water leak.
+командувач	noun	Командувач провів нараду з офіцерами.	Командувач	The commander held a meeting with the officers.
+командувач	noun	Солдати привітали нового командувача.	командувача	The soldiers welcomed the new commander.
+оголошувати	verb	Диктор оголошує прибуття потяга з Одеси.	оголошує	The announcer is announcing the arrival of the train from Odesa.
+оголошувати	verb	На вокзалі довго не оголошували посадку.	оголошували	At the station, they didn't announce boarding for a long time.
+отаман	noun	Козаки обрали нового отамана.	отамана	The Cossacks elected a new ataman.
+отаман	noun	Отаман повів військо в похід.	Отаман	The ataman led the army on a campaign.
+маячня	noun	Це повна маячня, я в це не вірю!	маячня	That's complete nonsense; I don't believe it!
+маячня	noun	Не слухай його маячню.	маячню	Don't listen to his nonsense.
+замах	noun	Поліція розслідує замах на мера міста.	замах	The police are investigating the attempt on the mayor's life.
+замах	noun	Його звинуватили в замаху на крадіжку.	замаху	He was charged with attempted theft.
+вишиванка	noun	На свято я одягну вишиванку.	вишиванку	I'll wear a vyshyvanka for the holiday.
+вишиванка	noun	Тобі дуже личить ця вишиванка.	вишиванка	This vyshyvanka really suits you.
+автономія	noun	Університети отримали більшу автономію.	автономію	Universities were given greater autonomy.
+автономія	noun	Автономія регіону закріплена в конституції.	Автономія	The region's autonomy is enshrined in the constitution.
+особовий	adjective	Особова справа працівника зберігається у відділі кадрів.	Особова	An employee's personal file is kept in the HR department.
+особовий	adjective	Номер особового рахунку вказаний на квитанції за газ.	особового	The personal account number is printed on the gas bill.
+загострення	noun	Навесні в нього завжди загострення алергії.	загострення	In spring his allergy always flares up.
+загострення	noun	Лікар порадив, як боротися із загостренням гастриту.	загостренням	The doctor gave advice on how to deal with a flare-up of gastritis.
+мельник	noun	Мельник змолов зерно на борошно.	Мельник	The miller ground the grain into flour.
+мельник	noun	Колись мій прадід був мельником у селі.	мельником	My great-grandfather was once a miller in the village.
+державність	noun	Козаки боролися за українську державність.	державність	The Cossacks fought for Ukrainian statehood.
+державність	noun	Історики вивчають традиції української державності.	державності	Historians study the traditions of Ukrainian statehood.
+захищений	adjective	Ця територія захищена законом.	захищена	This area is protected by law.
+захищений	adjective	Наш сайт має захищене з'єднання.	захищене	Our website has a secure connection.
+тил	noun	Шапка закривала вуха й тил голови.	тил	The hat covered the ears and the back of the head.
+тил	noun	Хлопець посковзнувся й ударився тилом голови об лід.	тилом	The boy slipped and hit the back of his head on the ice.
+послання	noun	У фільмі є важливе послання для глядачів.	послання	The film has an important message for the audience.
+послання	noun	У своєму посланні автор закликає до миру.	посланні	In his message, the author calls for peace.
+випромінювання	noun	Ультрафіолетове випромінювання шкодить шкірі.	випромінювання	Ultraviolet radiation damages the skin.
+випромінювання	noun	Мікрохвильовка гріє їжу електромагнітним випромінюванням.	випромінюванням	A microwave heats food with electromagnetic radiation.
+дума	noun	На концерті прозвучала старовинна дума про козаків.	дума	An old duma about the Cossacks was performed at the concert.
+дума	noun	Сумні думи не давали їй заснути.	думи	Sad thoughts kept her from falling asleep.
+причетність	noun	Поліція перевіряє його причетність до крадіжки.	причетність	The police are looking into his involvement in the theft.
+причетність	noun	Слідчі не знайшли доказів його причетності до злочину.	причетності	Investigators found no evidence of his involvement in the crime.
+ранг	noun	Дипломат має ранг посла.	ранг	The diplomat holds the rank of ambassador.
+ранг	noun	Турнір найвищого рангу відбудеться в Києві.	рангу	A top-level tournament will be held in Kyiv.
+граф	noun	Старий граф запросив гостей на бал у свій замок.	граф	The old count invited guests to a ball at his castle.
+граф	noun	Програміст зобразив зв'язки між містами у вигляді графа.	графа	The programmer represented the connections between cities as a graph.
+алея	noun	Ми гуляли тінистою алеєю в парку.	алеєю	We strolled along a shady avenue in the park.
+алея	noun	Біля школи посадили каштанову алею.	алею	An avenue of chestnut trees was planted near the school.
+свердловина	noun	На подвір'ї пробурили нову свердловину.	свердловину	A new borehole was drilled in the yard.
+свердловина	noun	Свердловина дає чисту питну воду.	Свердловина	The well provides clean drinking water.
+першість	noun	Наша команда виборола першість у змаганнях.	першість	Our team took first place in the competition.
+першість	noun	Брати завжди сперечалися за першість у всьому.	першість	The brothers always competed to be first in everything.
+протистояти	verb	Важко протистояти спокусі з'їсти ще шматочок торта.	протистояти	It's hard to resist the temptation to eat another piece of cake.
+протистояти	verb	Маленьке село довго протистояло повені.	протистояло	The small village held out against the flood for a long time.
+кінцівка	noun	Лікар оглянув пошкоджену кінцівку.	кінцівку	The doctor examined the injured limb.
+кінцівка	noun	У людини чотири кінцівки: дві руки й дві ноги.	кінцівки	Humans have four limbs: two arms and two legs.
+описувати	verb	Автор дуже гарно описує природу.	описує	The author describes nature very beautifully.
+описувати	verb	Свідок довго описував поліції злодія.	описував	The witness spent a long time describing the thief to the police.
+членство	noun	Членство в тенісному клубі коштує дорого.	Членство	Membership in the tennis club is expensive.
+членство	noun	Україна прагне членства в Європейському Союзі.	членства	Ukraine aspires to membership in the European Union.
+технік	noun	Технік прийшов полагодити інтернет.	Технік	A technician came to fix the internet.
+технік	noun	Сусід працює техніком на заводі.	техніком	Our neighbor works as a technician at a factory.
+кацапський	adjective	Прикметник «кацапський» має зневажливе забарвлення.	кацапський	The adjective 'katsapskyi' has a derogatory connotation.
+кацапський	adjective	Редактор викреслив зі статті образливе слово «кацапські».	кацапські	The editor struck the offensive word 'katsapski' from the article.
+інженерний	adjective	Андрій вступив на інженерний факультет.	інженерний	Andrii got into the engineering faculty.
+інженерний	adjective	Це складне інженерне рішення.	інженерне	This is a complex engineering solution.
+набуття	noun	Закон визначає порядок набуття громадянства.	набуття	The law sets out the procedure for acquiring citizenship.
+набуття	noun	З набуттям досвіду робота стає легшою.	набуттям	As you gain experience, the work gets easier.
+комбінат	noun	Батько все життя працював на металургійному комбінаті.	комбінаті	My father worked at a steel plant all his life.
+комбінат	noun	Комбінат дає роботу половині міста.	Комбінат	The industrial complex provides jobs for half the town.
+масив	noun	Цей гірський масив укритий густими лісами.	масив	This mountain massif is covered with dense forests.
+масив	noun	Функція сортує елементи масиву за зростанням.	масиву	The function sorts the elements of the array in ascending order.
+нарід	noun	«Нарід уже зібрався біля церкви», — сказала бабуся.	Нарід	'The folks have already gathered by the church,' Grandma said.
+нарід	noun	На ярмарку сьогодні дуже багато народу.	народу	There are lots of people at the fair today.
+клініка	noun	Ми записалися на прийом до приватної клініки.	клініки	We made an appointment at a private clinic.
+клініка	noun	Ця клініка працює цілодобово.	клініка	This clinic is open around the clock.
+чо	adverb	«Чо ти мовчиш?» — спитав брат.	Чо	'Why are you so quiet?' my brother asked.
+чо	adverb	«А чо ти вчора не прийшов?» — здивувався Петро.	чо	'So how come you didn't come yesterday?' Petro asked in surprise.
+довідник	noun	Подивися номер у телефонному довіднику.	довіднику	Look up the number in the phone directory.
+довідник	noun	Я купив новий довідник з української граматики.	довідник	I bought a new reference book on Ukrainian grammar.
+вихованець	noun	Чи можна заселитися в готель із домашнім вихованцем?	вихованцем	Can you check into the hotel with a pet?
+вихованець	noun	У нас удома живуть два вихованці: пес і кіт.	вихованці	We have two pets at home: a dog and a cat.
+парафія	noun	Священник знає всіх людей своєї парафії.	парафії	The priest knows everyone in his parish.
+парафія	noun	Наша парафія збирає гроші на новий дах для церкви.	парафія	Our parish is raising money for a new church roof.
+пря	noun	Дід не хотів вступати в прю із сусідом.	прю	Grandpa didn't want to get into a quarrel with the neighbor.
+пря	noun	Між братами знову спалахнула давня пря.	пря	An old feud flared up between the brothers again.
+визволення	noun	Місто святкує річницю визволення від нацистів.	визволення	The city is celebrating the anniversary of its liberation from the Nazis.
+визволення	noun	Із визволенням села люди почали повертатися додому.	визволенням	With the liberation of the village, people began returning home.
+бар'єр	noun	Мовний бар'єр заважав нам спілкуватися.	бар'єр	The language barrier made it hard for us to communicate.
+бар'єр	noun	Бігунка спіткнулася на останньому бар'єрі.	бар'єрі	The runner stumbled at the last hurdle.
+недоторканність	noun	Депутатську недоторканність скасували кілька років тому.	недоторканність	Parliamentary immunity was abolished a few years ago.
+недоторканність	noun	Порушення недоторканності житла карається законом.	недоторканності	Violating the inviolability of the home is punishable by law.
+гугл	noun	Я не знав відповіді, тож пошукав у гуглі.	гуглі	I didn't know the answer, so I looked it up on Google.
+гугл	noun	Я щодня користуюся гуглом на роботі.	гуглом	I use Google every day at work.
+затвердження	noun	Проєкт подали на затвердження до міської ради.	затвердження	The project was submitted to the city council for approval.
+затвердження	noun	Директор зайнятий затвердженням розкладу на новий рік.	затвердженням	The principal is busy approving the schedule for the new year.
+кобзар	noun	На ярмарку люди слухали старого кобзаря.	кобзаря	At the fair, people listened to an old kobzar.
+кобзар	noun	Кобзарі ходили від села до села й співали.	Кобзарі	Kobzars went from village to village, singing.
+розіграш	noun	Першого квітня друзі влаштували мені розіграш.	розіграш	On April Fools' Day, my friends played a prank on me.
+розіграш	noun	Усі довго сміялися з цього розіграшу.	розіграшу	Everyone laughed about that prank for a long time.
+асамблея	noun	Генеральна Асамблея ООН збирається щороку у вересні.	Асамблея	The UN General Assembly meets every year in September.
+асамблея	noun	Делегати виступили на асамблеї з важливими заявами.	асамблеї	The delegates made important statements at the assembly.
+хрещення	noun	Хрещення Русі відбулося за князя Володимира.	Хрещення	The Christianization of Rus took place under Prince Volodymyr.
+хрещення	noun	Бабуся подарувала онукові хрестик на хрещення.	хрещення	Grandma gave her grandson a little cross for his christening.
+арсен	noun	Арсен — дуже отруйний хімічний елемент.	Арсен	Arsenic is a highly poisonous chemical element.
+арсен	noun	У воді з криниці знайшли забагато арсену.	арсену	Too much arsenic was found in the well water.
+профілактика	noun	Найкраща профілактика грипу — щеплення.	профілактика	The best way to prevent flu is vaccination.
+профілактика	noun	Лікар радить пити вітаміни для профілактики застуди.	профілактики	The doctor recommends taking vitamins to prevent colds.
+краєзнавчий	adjective	Учні пішли на екскурсію до краєзнавчого музею.	краєзнавчого	The students went on a trip to the local history museum.
+краєзнавчий	adjective	У нашій школі працює краєзнавчий гурток.	краєзнавчий	Our school has a local history club.
+безвізовий	adjective	Українці отримали безвізовий режим із Євросоюзом.	безвізовий	Ukrainians got visa-free travel to the European Union.
+безвізовий	adjective	Після запровадження безвізового режиму туристів побільшало.	безвізового	After the visa-free regime was introduced, the number of tourists grew.
+браво!	interjection	Браво, ти чудово впоралася з іспитом!	Браво	Well done, you did brilliantly on the exam!
+браво!	interjection	Ну, браво, тепер ми точно спізнимося!	браво	Well, bravo, now we'll definitely be late!
+браття	noun	Козацьке браття зібралося на раду.	браття	The Cossack brethren gathered for a council.
+браття	noun	Браття, помолімося разом за мир.	Браття	Brethren, let us pray together for peace.
+культ	noun	У Давньому Єгипті існував культ кішок.	культ	In Ancient Egypt there was a cult of cats.
+культ	noun	У Бразилії футбол став справжнім культом.	культом	In Brazil, football has become a real cult.
+ринковий	adjective	Ринкова ціна квартири постійно змінюється.	Ринкова	The market price of the apartment keeps changing.
+ринковий	adjective	Після розпаду СРСР країна перейшла до ринкової економіки.	ринкової	After the collapse of the USSR, the country switched to a market economy.
+стрільба	noun	Змагання зі стрільби відбудуться в неділю.	стрільби	The shooting competition will be held on Sunday.
+стрільба	noun	Оксана займається стрільбою з лука.	стрільбою	Oksana does archery.
+перехідний	adjective	Підлітковий вік — складний перехідний період.	перехідний	Adolescence is a difficult transitional period.
+перехідний	adjective	Дієслово «читати» — перехідне, а «спати» — ні.	перехідне	The verb 'chytaty' (to read) is transitive, but 'spaty' (to sleep) is not.
+розширити	verb	Місто планує розширити дорогу до аеропорту.	розширити	The city plans to widen the road to the airport.
+розширити	verb	Магазин розширив асортимент овочів і фруктів.	розширив	The store expanded its range of fruit and vegetables.
+голодування	noun	Лікар заборонив йому тривале голодування.	голодування	The doctor forbade him to fast for long periods.
+голодування	noun	Не захоплюйся голодуванням, це шкідливо для здоров'я.	голодуванням	Don't get carried away with fasting; it's bad for your health.
+купол	noun	Золотий купол собору видно здалеку.	купол	The cathedral's golden dome can be seen from afar.
+купол	noun	Над куполами церкви кружляли голуби.	куполами	Pigeons circled above the church domes.
+казино	noun	У нашому місті відкрили нове казино.	казино	A new casino opened in our city.
+казино	noun	Він програв у казино всі свої заощадження.	казино	He lost all his savings at the casino.
+брифінг	noun	Міністр провів брифінг для журналістів.	брифінг	The minister held a briefing for journalists.
+брифінг	noun	На брифінгу речник поліції розповів про нові правила.	брифінгу	At the briefing, the police spokesperson talked about the new rules.
+спонсор	noun	Спонсор турніру — місцевий банк.	Спонсор	The tournament's sponsor is a local bank.
+спонсор	noun	Ми шукаємо спонсорів для шкільного концерту.	спонсорів	We're looking for sponsors for the school concert.
+посадовий	adjective	Посадова особа не може приймати подарунки.	Посадова	An official may not accept gifts.
+посадовий	adjective	У посадовій інструкції написано, що я маю робити.	посадовій	My job description says what I'm supposed to do.
+хроніка	noun	У давній хроніці згадується наше місто.	хроніці	Our town is mentioned in an ancient chronicle.
+хроніка	noun	Літописець вів хроніку подій свого часу.	хроніку	The chronicler kept a record of the events of his time.
+груповий	adjective	Ми зробили групове фото на випускному.	групове	We took a group photo at the graduation party.
+груповий	adjective	Груповий тур до Італії виявився дешевшим.	Груповий	The group tour to Italy turned out to be cheaper.
+розряд	noun	Юний шахіст отримав перший розряд.	розряд	The young chess player earned a first-class rating.
+розряд	noun	Він працює токарем п'ятого розряду.	розряду	He works as a grade-five lathe operator.
+сільрада	noun	Довідку можна взяти в сільраді.	сільраді	You can get the certificate at the village council.
+сільрада	noun	Сільрада вирішила відремонтувати дорогу до школи.	Сільрада	The village council decided to repair the road to the school.
+катер	verb	Улітку ми каталися на катері по Дніпру.	катері	In summer we went for a motorboat ride on the Dnipro.
+катер	verb	Рятувальний катер швидко дістався до човна.	катер	The rescue boat quickly reached the rowboat.
+квота	noun	Кожна країна має свою квоту на вилов риби.	квоту	Every country has its own fishing quota.
+квота	noun	Мовні квоти зобов'язують радіо ставити українські пісні.	квоти	Language quotas require radio stations to play Ukrainian songs.
+цензура	noun	У Радянському Союзі діяла сувора цензура.	цензура	There was strict censorship in the Soviet Union.
+цензура	noun	Журналісти виступили проти цензури.	цензури	Journalists spoke out against censorship.
+вітчизна	noun	Солдати присягають захищати свою вітчизну.	вітчизну	Soldiers swear an oath to defend their homeland.
+вітчизна	noun	Любов до вітчизни батько передав синові.	вітчизни	The father passed his love of the homeland on to his son.
+рухомий	adjective	Автомобіль належить до рухомого майна.	рухомого	A car is classed as movable property.
+рухомий	adjective	У цієї ляльки рухомі руки й ноги.	рухомі	This doll has movable arms and legs.
+козацтво	noun	На уроці історії ми вивчали українське козацтво.	козацтво	In history class we studied the Ukrainian Cossacks.
+козацтво	noun	У музеї є виставка, присвячена історії козацтва.	козацтва	The museum has an exhibition devoted to the history of the Cossacks.
+тактичний	adjective	Тренер пояснив гравцям свій тактичний план на матч.	тактичний	The coach explained his tactical plan for the match to the players.
+тактичний	adjective	Пізня заміна була тактичною помилкою тренера.	тактичною	The late substitution was a tactical mistake by the coach.
+рея	noun	Молодий матрос швидко виліз на рею.	рею	The young sailor quickly climbed up onto the yard.
+рея	noun	На реях старого корабля висіли білі вітрила.	реях	White sails hung from the yards of the old ship.
+життє	noun	Це найщасливіший день у моєму житті.	житті	This is the happiest day of my life.
+життє	noun	Лікарі кажуть, що його життю нічого не загрожує.	життю	Doctors say his life is not in danger.
+селянський	adjective	Моя бабуся виросла в бідній селянській родині.	селянській	My grandmother grew up in a poor peasant family.
+селянський	adjective	У музеї просто неба можна побачити старі селянські хати.	селянські	At the open-air museum you can see old peasant houses.
+відзначення	noun	Після концерту відбулося відзначення найкращих учнів школи.	відзначення	After the concert, the school's best students were honored.
+відзначення	noun	Мер узяв участь у відзначенні найкращих волонтерів міста.	відзначенні	The mayor took part in honoring the city's best volunteers.
+сокіл	noun	Над полем високо в небі кружляв сокіл.	сокіл	A falcon was circling high in the sky above the field.
+сокіл	noun	Бабуся називала онука своїм соколом.	соколом	Grandma used to call her grandson her falcon.
+діагностика	noun	Майстер запропонував зробити повну діагностику автомобіля.	діагностику	The mechanic suggested doing a full diagnostic check of the car.
+діагностика	noun	Рання діагностика допомагає вчасно виявити хворобу.	діагностика	Early diagnosis helps detect the disease in time.
+сепаратизм	noun	Учитель пояснив, що таке сепаратизм.	сепаратизм	The teacher explained what separatism is.
+сепаратизм	noun	Його звинуватили в підтримці сепаратизму.	сепаратизму	He was accused of supporting separatism.
+відновлювати	verb	Робітники відновлюють старий міст через річку.	відновлюють	Workers are restoring the old bridge across the river.
+відновлювати	verb	Після хвороби спортсмен поступово відновлює сили.	відновлює	After his illness, the athlete is gradually regaining his strength.
+магістр	noun	Моя сестра отримала ступінь магістра з економіки.	магістра	My sister received a master's degree in economics.
+магістр	noun	Після університету Олег став магістром права.	магістром	After university, Oleh became a Master of Laws.
+ювілей	noun	Наступного тижня дідусь святкує свій ювілей.	ювілей	Next week Grandpa is celebrating his milestone birthday.
+ювілей	noun	Колеги привітали директорку з ювілеєм.	ювілеєм	The colleagues congratulated the director on her anniversary.
+сходинка	noun	Обережно, тут одна сходинка зламана!	сходинка	Careful, one of the steps here is broken!
+сходинка	noun	Дитина сиділа на нижній сходинці й плакала.	сходинці	The child was sitting on the bottom step, crying.
+розвідник	noun	Мій дід під час війни був розвідником.	розвідником	My grandfather was a scout during the war.
+розвідник	noun	Розвідники повернулися на світанку з важливими відомостями.	Розвідники	The scouts returned at dawn with important information.
+складність	noun	Головна складність цієї роботи — брак часу.	складність	The main difficulty of this job is the lack of time.
+складність	noun	Ці вправи мають різний рівень складності.	складності	These exercises have different levels of complexity.
+платіжний	adjective	Оплатити покупку можна платіжною карткою.	платіжною	You can pay for the purchase with a payment card.
+платіжний	adjective	Не зберігайте платіжні дані на чужому комп'ютері.	платіжні	Don't save your payment details on someone else's computer.
+мігрант	noun	У новинах повідомили, що кількість мігрантів у Європі зросла.	мігрантів	The news reported that the number of migrants in Europe has grown.
+мігрант	noun	Мій сусід — мігрант, він приїхав сюди на заробітки.	мігрант	My neighbor is a migrant; he came here to work.
+русня	noun	Слово «русня» — зневажлива й образлива назва росіян.	русня	The word “rusnia” is a contemptuous and offensive name for Russians.
+русня	noun	Учителька пояснила, що «русня» — це етнічна образа.	русня	The teacher explained that “rusnia” is an ethnic slur.
+журі	noun	Журі оголосило переможців конкурсу.	Журі	The jury announced the winners of the contest.
+журі	noun	Мою маму запросили до складу журі.	журі	My mom was invited to sit on the jury.
+нічо	pronoun	«Як справи?» — «Та нічо, живемо потроху».	нічо	“How are you?” “Oh, nothing much, we're getting by.”
+нічо	pronoun	«Нічо, до весілля заживе», — усміхнулася бабуся.	Нічо	“It's nothing, it'll heal before your wedding,” Grandma smiled.
+унаслідок	conjunction	Унаслідок сильної зливи затопило кілька вулиць.	Унаслідок	Because of the heavy downpour, several streets were flooded.
+унаслідок	conjunction	Матч перенесли на тиждень унаслідок поганої погоди.	унаслідок	The match was postponed for a week because of bad weather.
+поліпшення	noun	Лікар не бачить поліпшення, тому змінить ліки.	поліпшення	The doctor sees no improvement, so he will change the medicine.
+поліпшення	noun	Нове обладнання сприятиме поліпшенню якості води.	поліпшенню	The new equipment will help improve water quality.
+постраждалий	noun	Під час пожежі постраждалих не було.	постраждалих	There were no casualties in the fire.
+постраждалий	noun	Лікарі надали допомогу постраждалому на місці.	постраждалому	Doctors treated the victim at the scene.
+подолання	noun	Подолання страху — перший крок до успіху.	Подолання	Overcoming fear is the first step to success.
+подолання	noun	Психолог допомагає їй у подоланні стресу.	подоланні	A psychologist is helping her overcome stress.
+архівний	adjective	Журналіст знайшов цікаві архівні документи про своє місто.	архівні	The journalist found interesting archival documents about his town.
+архівний	adjective	Документальний фільм складається з архівних кадрів.	архівних	The documentary is made up of archival footage.
+зобов'язати	verb	Суд зобов'язав компанію виплатити борг.	зобов'язав	The court obliged the company to pay the debt.
+зобов'язати	verb	Новий закон зобов'яже магазини приймати картки.	зобов'яже	The new law will oblige shops to accept cards.
+імідж	noun	Скандал зіпсував імідж компанії.	імідж	The scandal damaged the company's image.
+імідж	noun	Нова форма — частина іміджу ресторану.	іміджу	The new uniform is part of the restaurant's image.
+гімно	noun	«Гімно» — грубе слово, при дітях так не кажуть.	Гімно	“Himno” is a crude word; you don't say it in front of children.
+гімно	noun	«Знову вступив у собаче гімно!» — вилаявся сусід.	гімно	“Stepped in dog shit again!” the neighbor swore.
+всупереч	preposition	Погода була чудова всупереч прогнозам синоптиків.	всупереч	The weather was great, contrary to the forecasters' predictions.
+всупереч	preposition	Він вийшов на роботу всупереч порадам лікаря.	всупереч	He went to work against the doctor's advice.
+колгосп	noun	Моя бабуся все життя працювала в колгоспі.	колгоспі	My grandmother worked on a collective farm all her life.
+колгосп	noun	Після розпаду Радянського Союзу колгоспи поступово зникли.	колгоспи	After the collapse of the Soviet Union, collective farms gradually disappeared.
+ділити	verb	Ми ділимо квартиру з двома друзями.	ділимо	We share an apartment with two friends.
+ділити	verb	Мама ділить пиріг на вісім шматків.	ділить	Mom is dividing the pie into eight pieces.
+кабель	noun	Майстер проклав новий кабель для інтернету.	кабель	The technician laid a new internet cable.
+кабель	noun	Без кабелю я не можу зарядити телефон.	кабелю	I can't charge my phone without a cable.
+спиратися	verb	Бабуся спирається на палицю, коли ходить.	спирається	Grandma leans on a cane when she walks.
+спиратися	verb	Не спирайся на перила, вони хиткі.	спирайся	Don't lean on the railing, it's wobbly.
+заворушення	noun	У новинах показали масові заворушення в столиці.	заворушення	The news showed mass riots in the capital.
+заворушення	noun	Під час заворушень постраждало кілька поліцейських.	заворушень	Several police officers were injured during the unrest.
+достойний	adjective	Він достойний кандидат на цю посаду.	достойний	He is a worthy candidate for this position.
+достойний	adjective	Наша команда показала достойну гру.	достойну	Our team put up a worthy performance.
+чаша	noun	Священник підняв золоту чашу над вівтарем.	чашу	The priest raised the golden chalice above the altar.
+чаша	noun	На столі стояла велика чаша з фруктами.	чаша	A large bowl of fruit stood on the table.
+посередник	noun	Ми купили квартиру без посередника.	посередника	We bought the apartment without a middleman.
+посередник	noun	Ця країна виступила посередником у переговорах.	посередником	This country acted as a mediator in the negotiations.
+монтаж	noun	Монтаж кондиціонера займе приблизно дві години.	Монтаж	Installing the air conditioner will take about two hours.
+монтаж	noun	Мій брат займається монтажем відео для блогерів.	монтажем	My brother edits videos for bloggers.
+заодно	adverb	Будеш у магазині — заодно купи хліба.	заодно	When you're at the store, pick up some bread while you're at it.
+заодно	adverb	Ці брати завжди діють заодно.	заодно	These brothers always act as one.
+елітний	adjective	Вони живуть в елітному районі біля парку.	елітному	They live in an upscale neighborhood near the park.
+елітний	adjective	Це елітна школа, і навчання там дуже дороге.	елітна	It's an elite school, and tuition there is very expensive.
+богослужіння	noun	У неділю вся родина ходить на богослужіння.	богослужіння	On Sundays the whole family goes to church service.
+богослужіння	noun	На святковому богослужінні було багато людей.	богослужінні	There were a lot of people at the holiday service.
+головнокомандувач	noun	Головнокомандувач провів нараду з генералами.	Головнокомандувач	The commander-in-chief held a meeting with the generals.
+головнокомандувач	noun	Новини про призначення нового головнокомандувача показали всі канали.	головнокомандувача	All the channels showed the news about the appointment of a new commander-in-chief.
+заряд	noun	У телефоні залишилося лише десять відсотків заряду.	заряду	My phone has only ten percent battery left.
+заряд	noun	Ранкова пробіжка дає мені заряд енергії на весь день.	заряд	A morning run gives me an energy boost for the whole day.
+пизда	noun	«Пизда» — одне з найгрубіших лайливих слів.	Пизда	“Pyzda” is one of the crudest swear words.
+пизда	noun	У словниках слово «пизда» позначене як вульгарне.	пизда	In dictionaries, the word “pyzda” is marked as vulgar.
+мораторій	noun	Уряд продовжив мораторій на продаж землі.	мораторій	The government extended the moratorium on land sales.
+мораторій	noun	Скасування мораторію обговорювали в парламенті цілий рік.	мораторію	Lifting the moratorium was debated in parliament for a whole year.
+гранатомет	noun	У музеї зброї можна побачити старий гранатомет.	гранатомет	At the weapons museum you can see an old grenade launcher.
+гранатомет	noun	Солдати вчилися стріляти з гранатомета на полігоні.	гранатомета	The soldiers practiced firing a grenade launcher at the training ground.
+бездіяльність	noun	Журналісти критикують бездіяльність місцевої влади.	бездіяльність	Journalists criticize the inaction of the local authorities.
+бездіяльність	noun	Мешканці втомилися від бездіяльності комунальних служб.	бездіяльності	Residents are tired of the utility services doing nothing.
+адміністратор	noun	Зверніться до адміністратора готелю на першому поверсі.	адміністратора	Please contact the hotel administrator on the ground floor.
+адміністратор	noun	Моя сестра працює адміністратором у салоні краси.	адміністратором	My sister works as an administrator at a beauty salon.
+трибунал	noun	Після війни нацистських злочинців судив військовий трибунал.	трибунал	After the war, Nazi criminals were tried by a military tribunal.
+трибунал	noun	Справу передали до міжнародного трибуналу.	трибуналу	The case was referred to an international tribunal.
+віко	noun	Дідусь відкрив віко старої скрині.	віко	Grandpa opened the lid of the old chest.
+віко	noun	Під віком скриньки лежали старі листи й фотографії.	віком	Old letters and photos lay under the lid of the box.
+процесуальний	adjective	Адвокат знайшов у справі процесуальні порушення.	процесуальні	The lawyer found procedural violations in the case.
+процесуальний	adjective	Справу закрили через порушення процесуального законодавства.	процесуального	The case was closed because of a breach of procedural law.
+дука	noun	Дука жив у великому будинку й мав багато землі.	Дука	The rich man lived in a big house and owned a lot of land.
+дука	noun	Бідний козак не хотів кланятися жодному дуці.	дуці	The poor Cossack refused to bow to any rich man.
+госпіталь	noun	Пораненого солдата привезли до госпіталю.	госпіталю	The wounded soldier was brought to the hospital.
+госпіталь	noun	Моя тітка працює медсестрою у військовому госпіталі.	госпіталі	My aunt works as a nurse at a military hospital.
+експертний	adjective	Суд чекає на експертний висновок.	експертний	The court is waiting for the expert's report.
+експертний	adjective	Експертна комісія перевірила якість ремонту доріг.	Експертна	An expert commission checked the quality of the road repairs.
+гоголь	noun	Узимку на річці можна побачити гоголя.	гоголя	In winter you can see a goldeneye on the river.
+гоголь	noun	Гоголь — це дика качка з чорно-білим пір'ям.	Гоголь	The goldeneye is a wild duck with black-and-white plumage.
+абонент	noun	Абонент тимчасово недоступний, зателефонуйте пізніше.	Абонент	The subscriber is temporarily unavailable; please call later.
+абонент	noun	Компанія має понад мільйон абонентів по всій країні.	абонентів	The company has over a million subscribers across the country.
+аудіо	noun	Подруга надіслала мені довге аудіо в месенджері.	аудіо	My friend sent me a long voice message on the messenger app.
+аудіо	noun	Якість аудіо в цьому відео дуже погана.	аудіо	The audio quality in this video is very poor.
+конфіскація	noun	Суд призначив штраф із конфіскацією майна.	конфіскацією	The court imposed a fine with confiscation of property.
+конфіскація	noun	За контрабанду загрожує конфіскація товару.	конфіскація	Smuggling can lead to confiscation of the goods.
+поділля	noun	Наше село лежить у зеленому поділлі біля річки.	поділлі	Our village lies in a green valley by the river.
+поділля	noun	Уранці густий туман укрив усе поділля.	поділля	In the morning, thick fog covered the whole valley.
+інстанція	noun	Суд першої інстанції відмовив у позові.	інстанції	The court of first instance dismissed the claim.
+інстанція	noun	Я цілий місяць ходив по різних інстанціях.	інстанціях	For a whole month I went from one office to another.
+крів	noun	Уранці я здав аналіз крові.	крові	This morning I had a blood test.
+крів	noun	Пораненому терміново потрібне переливання крові.	крові	The wounded man urgently needs a blood transfusion.
+чорноморський	adjective	Ми щоліта відпочиваємо на чорноморському узбережжі.	чорноморському	Every summer we vacation on the Black Sea coast.
+чорноморський	adjective	У ресторані подавали свіжу чорноморську рибу.	чорноморську	The restaurant served fresh Black Sea fish.
+вдосконалення	noun	Ця програма потребує подальшого вдосконалення.	вдосконалення	This program needs further improvement.
+вдосконалення	noun	Цей тренер приділяє велику увагу вдосконаленню техніки.	вдосконаленню	This coach pays a lot of attention to improving technique.
+оцінювання	noun	Учителька пояснила критерії оцінювання контрольної роботи.	оцінювання	The teacher explained the grading criteria for the test.
+оцінювання	noun	Оцінюванням проєктів займається спеціальна комісія.	Оцінюванням	A special committee is in charge of evaluating the projects.
+канцлер	noun	Канцлер Німеччини приїхав до Києва з візитом.	Канцлер	The German chancellor has arrived in Kyiv on a visit.
+канцлер	noun	Нового канцлера обрали в парламенті.	канцлера	The new chancellor was elected in parliament.
+порушник	noun	Поліція оштрафувала порушника за перевищення швидкості.	порушника	The police fined the offender for speeding.
+порушник	noun	Порушників правил паркування штрафуватимуть.	Порушників	Parking violators will be fined.
+претендувати	verb	На цю посаду претендують троє кандидатів.	претендують	Three candidates are competing for this position.
+претендувати	verb	Я не претендую на роль експерта в цьому питанні.	претендую	I don't claim to be an expert on this matter.
+побиття	noun	Поліція розслідує побиття студента біля нічного клубу.	побиття	The police are investigating the beating of a student near a nightclub.
+побиття	noun	Двох чоловіків підозрюють у побитті охоронця.	побитті	Two men are suspected of beating up a security guard.
+гарант	noun	Президент є гарантом Конституції.	гарантом	The president is the guarantor of the Constitution.
+гарант	noun	Міжнародні партнери виступили гарантами угоди.	гарантами	International partners acted as guarantors of the agreement.
+тренінг	noun	Наступного тижня я йду на тренінг з продажів.	тренінг	Next week I'm going to a sales training.
+тренінг	noun	Компанія регулярно проводить тренінги для працівників.	тренінги	The company regularly runs trainings for its employees.
+владика	noun	Владика освятив новий храм у нашому селі.	Владика	The bishop consecrated the new church in our village.
+владика	noun	Парафіяни зустріли владику з квітами.	владику	The parishioners welcomed the bishop with flowers.
+президія	noun	Члени президії сіли за стіл на сцені.	президії	The members of the presidium sat down at the table on stage.
+президія	noun	Делегати обрали президію конференції.	президію	The delegates elected the presidium of the conference.
+кримськотатарський	adjective	Ми вчимо кілька слів кримськотатарською мовою.	кримськотатарською	We're learning a few words in the Crimean Tatar language.
+кримськотатарський	adjective	У цьому ресторані подають кримськотатарські страви.	кримськотатарські	This restaurant serves Crimean Tatar dishes.
+сирійський	adjective	У новинах показали сирійських біженців на кордоні.	сирійських	The news showed Syrian refugees at the border.
+сирійський	adjective	Сусід приготував нам сирійську страву з нуту.	сирійську	Our neighbor cooked us a Syrian chickpea dish.
+насос	noun	Для басейну потрібен потужний насос.	насос	The pool needs a powerful pump.
+насос	noun	Тато накачав колесо велосипеда ручним насосом.	насосом	Dad pumped up the bike tire with a hand pump.
+технікум	noun	Після дев'ятого класу брат вступив до технікуму.	технікуму	After ninth grade, my brother enrolled in a technical college.
+технікум	noun	Мій батько навчався в аграрному технікумі.	технікумі	My father studied at an agricultural college.
+ватажок	noun	Ватажок банди втік від поліції.	Ватажок	The gang's ringleader escaped from the police.
+ватажок	noun	Сашко завжди був ватажком серед хлопців у дворі.	ватажком	Sashko was always the ringleader among the boys in the yard.
+пішохідний	adjective	Переходь дорогу тільки пішохідним переходом.	пішохідним	Only cross the road at a pedestrian crossing.
+пішохідний	adjective	У центрі міста є довга пішохідна вулиця.	пішохідна	There is a long pedestrian street in the city center.
+примирення	noun	Після довгої сварки брати пішли на примирення.	примирення	After a long quarrel, the brothers made peace.
+примирення	noun	Ця суперечка, на щастя, закінчилася примиренням.	примиренням	Fortunately, the argument ended in reconciliation.
+міграція	noun	Учені вивчають міграцію птахів.	міграцію	Scientists study bird migration.
+міграція	noun	Трудова міграція — велика проблема для маленьких міст.	міграція	Labor migration is a big problem for small towns.
+оптимальний	adjective	Яка оптимальна температура в дитячій кімнаті?	оптимальна	What is the optimal temperature for a child's room?
+оптимальний	adjective	Ми шукаємо оптимальний варіант для відпустки.	оптимальний	We're looking for the best option for our vacation.
+депозит	noun	Батьки поклали гроші на депозит у банку.	депозит	My parents put money on deposit at the bank.
+депозит	noun	Відсотки за депозитом цього року знизилися.	депозитом	The interest on the deposit went down this year.
+півзахисник	noun	Молодий півзахисник забив чудовий гол.	півзахисник	The young midfielder scored a great goal.
+півзахисник	noun	Тренер вирішив замінити півзахисника в другому таймі.	півзахисника	The coach decided to substitute the midfielder in the second half.
+липа	noun	Біля нашого будинку росте стара липа.	липа	An old linden tree grows near our house.
+липа	noun	Ми сиділи на лавці під липою й пили чай.	липою	We sat on a bench under a linden tree and drank tea.
+шаблон	noun	Завантаж шаблон резюме з цього сайту.	шаблон	Download a résumé template from this website.
+шаблон	noun	Діти вирізали сніжинки за шаблоном.	шаблоном	The children cut out snowflakes using a template.
+мерія	noun	Довідку можна отримати в мерії.	мерії	You can get the certificate at the town hall.
+мерія	noun	Мерія пообіцяла відремонтувати дорогу до осені.	Мерія	City hall promised to repair the road by autumn.
+інспекція	noun	Завтра на фабриці буде санітарна інспекція.	інспекція	Tomorrow there will be a sanitary inspection at the factory.
+інспекція	noun	Після інспекції ресторан закрили на тиждень.	інспекції	After the inspection, the restaurant was closed for a week.
+літопис	noun	Про цю подію згадує давній літопис.	літопис	An ancient chronicle mentions this event.
+літопис	noun	Уперше місто згадується в літописі в одинадцятому столітті.	літописі	The town is first mentioned in a chronicle in the eleventh century.
+губернія	noun	Колись наше місто належало до Полтавської губернії.	губернії	Our town once belonged to the Poltava Governorate.
+губернія	noun	Кожну губернію поділяли на кілька повітів.	губернію	Each governorate was divided into several districts.
+піст	noun	Бабуся суворо тримає піст перед Великоднем.	піст	Grandma strictly keeps the fast before Easter.
+піст	noun	Під час посту мама не готує м'ясних страв.	посту	During the fast, Mom doesn't cook meat dishes.
+здохнути	verb	Уночі в сусіда здохла стара корова.	здохла	The neighbor's old cow died during the night.
+здохнути	verb	Мій телефон здох якраз посеред розмови.	здох	My phone died right in the middle of a call.
+брама	noun	Біля старої брами нас чекав екскурсовод.	брами	A tour guide was waiting for us by the old gate.
+брама	noun	Сторож зачинив браму на ніч.	браму	The watchman closed the gate for the night.
+розвідувальний	adjective	Розвідувальний літак пролетів над кордоном.	Розвідувальний	A reconnaissance plane flew over the border.
+розвідувальний	adjective	Ці дані отримали розвідувальні служби.	розвідувальні	This information was obtained by the intelligence services.
+царський	adjective	У царській Росії більшість селян не вміла читати.	царській	In tsarist Russia, most peasants couldn't read.
+царський	adjective	Цей палац колись був царською резиденцією.	царською	This palace was once a royal residence.
+проникати	verb	Сонячне світло проникає крізь штори.	проникає	Sunlight comes through the curtains.
+проникати	verb	Під час дощу вода проникала в підвал.	проникала	During the rain, water was seeping into the basement.
+інноваційний	adjective	Наша школа отримала нагороду за інноваційний проєкт.	інноваційний	Our school received an award for an innovative project.
+інноваційний	adjective	Компанія впроваджує інноваційні технології у виробництво.	інноваційні	The company is introducing innovative technologies into production.
+підприємницький	adjective	У нього справжній підприємницький талант.	підприємницький	He has a real entrepreneurial talent.
+підприємницький	adjective	Мій брат почав підприємницьку діяльність у двадцять років.	підприємницьку	My brother started his own business at twenty.
+декан	noun	Святкову літургію очолив декан із сусіднього міста.	декан	The festive liturgy was led by the dean from a neighboring town.
+декан	noun	Отець Іван став деканом і тепер опікується десятьма парафіями.	деканом	Father Ivan became dean and now looks after ten parishes.
+нанести	verb	Діти нанесли в коридор багато снігу.	нанесли	The kids tracked a lot of snow into the hallway.
+нанести	verb	Вітер наніс на подвір'я купу сухого листя.	наніс	The wind blew a pile of dry leaves into the yard.
+тю	interjection	Тю, а я думав, що ти вже поїхав!	Тю	Huh, and I thought you'd already left!
+тю	interjection	«Тю, і це все?» — розчаровано спитав син.	Тю	“Pfft, is that all?” the son asked, disappointed.
+тайм	noun	Перший тайм закінчився внічию.	тайм	The first half ended in a draw.
+тайм	noun	Наша команда забила два голи в другому таймі.	таймі	Our team scored two goals in the second half.
+домогтися	verb	Мешканці будинку домоглися ремонту даху.	домоглися	The residents of the building finally got the roof repaired.
+домогтися	verb	Вона наполегливо працювала й домоглася успіху.	домоглася	She worked hard and achieved success.
+урочистість	noun	Урочистості з нагоди Дня міста почнуться о десятій.	Урочистості	The City Day celebrations will begin at ten.
+урочистість	noun	Уся школа готувалася до урочистостей першого вересня.	урочистостей	The whole school was preparing for the first of September celebrations.
+прикрашати	verb	Ми завжди прикрашаємо ялинку всією родиною.	прикрашаємо	We always decorate the Christmas tree as a family.
+прикрашати	verb	Свіжі квіти прикрашають нашу кухню.	прикрашають	Fresh flowers brighten up our kitchen.
+політв'язень	noun	Правозахисники вимагають звільнити всіх політв'язнів.	політв'язнів	Human rights activists demand the release of all political prisoners.
+політв'язень	noun	Після звільнення колишній політв'язень дав інтерв'ю журналістам.	політв'язень	After his release, the former political prisoner gave an interview to journalists.
+валити	verb	Сильний вітер валив дерева по всьому місту.	валив	A strong wind was knocking down trees all over the city.
+валити	verb	Лісоруби валять старі сосни біля дороги.	валять	Lumberjacks are felling old pine trees by the road.
+ратуша	noun	Ми піднялися на вежу Львівської ратуші.	ратуші	We climbed the tower of Lviv City Hall.
+ратуша	noun	Ринкова площа з ратушею — серце старого міста.	ратушею	The market square with its town hall is the heart of the old town.
+львів'янин	noun	Мій колега — справжній львів'янин, він знає всі кав'ярні.	львів'янин	My colleague is a true Lviv native; he knows every café.
+львів'янин	noun	Львів'яни дуже люблять каву й шоколад.	Львів'яни	People from Lviv really love coffee and chocolate.
+поступовий	adjective	Лікар радить поступовий перехід на нову дієту.	поступовий	The doctor recommends a gradual switch to the new diet.
+поступовий	adjective	Синоптики прогнозують поступове потепління.	поступове	Forecasters predict gradual warming.
+вість	noun	Ця радісна вість швидко облетіла все село.	вість	This happy news quickly spread through the whole village.
+вість	noun	Від сина давно немає жодної вісті.	вісті	There has been no word from our son for a long time.
+запорожець	noun	Кожен запорожець умів добре їздити верхи.	запорожець	Every Zaporozhian Cossack could ride a horse well.
+запорожець	noun	Запорожці обирали кошового отамана на раді.	Запорожці	The Zaporozhians elected their chief otaman at a council.
+уточнити	verb	Можна уточнити, о котрій годині починається зустріч?	уточнити	May I check what time the meeting starts?
+уточнити	verb	Я подзвоню в готель і уточню адресу.	уточню	I'll call the hotel and confirm the address.
+закріпити	verb	Тато закріпив полицю на стіні.	закріпив	Dad fixed the shelf to the wall.
+закріпити	verb	Закріпи намет, бо вітер дуже сильний.	Закріпи	Secure the tent, the wind is very strong.
+стрий	noun	Мій стрий живе в селі під Тернополем.	стрий	My uncle on my father's side lives in a village near Ternopil.
+стрий	noun	На Різдво ми завжди їдемо до стрия.	стрия	At Christmas we always go to my uncle's.
+сімейство	noun	На Великдень до бабусі приїхало все сімейство.	сімейство	At Easter the whole family came to Grandma's.
+сімейство	noun	Сусіди переїхали до нового будинку всім сімейством.	сімейством	The neighbors moved into the new house with the whole family.
+виліт	noun	Виліт рейсу затримується на дві години.	Виліт	The flight's departure is delayed by two hours.
+виліт	noun	Приїдьте в аеропорт за три години до вильоту.	вильоту	Arrive at the airport three hours before departure.
+ствол	noun	Мисливець почистив ствол рушниці.	ствол	The hunter cleaned the barrel of his gun.
+ствол	noun	У стволі шахти зламався підйомник.	стволі	The hoist broke down in the mine shaft.
+архієпископ	noun	Архієпископ відслужив святкову літургію в соборі.	Архієпископ	The archbishop celebrated the festive liturgy in the cathedral.
+архієпископ	noun	Вірні чекали на приїзд архієпископа.	архієпископа	The faithful were waiting for the archbishop to arrive.
+досьє	noun	Поліція має на нього досьє.	досьє	The police have a file on him.
+досьє	noun	Менеджерка уважно вивчила досьє кожного кандидата.	досьє	The manager carefully studied each candidate's file.
+присвоєння	noun	Присвоєння чужих ідей — це плагіат.	Присвоєння	Appropriating other people's ideas is plagiarism.
+присвоєння	noun	Бухгалтера підозрюють у присвоєнні коштів фірми.	присвоєнні	The accountant is suspected of misappropriating company funds.
+модифікація	noun	Інженери розробили нову модифікацію двигуна.	модифікацію	The engineers developed a new modification of the engine.
+модифікація	noun	Після модифікації програма працює набагато швидше.	модифікації	After the modification, the program runs much faster.
+матка	noun	Лікар призначив мені УЗД матки.	матки	The doctor sent me for an ultrasound of the uterus.
+матка	noun	Дитина розвивається в матці дев'ять місяців.	матці	A baby develops in the womb for nine months.
+найменування	noun	Укажіть у заяві повне найменування вашої організації.	найменування	State the full name of your organization in the application.
+найменування	noun	На складі є понад сто найменувань товарів.	найменувань	The warehouse stocks over a hundred different products.
+розкриття	noun	Банк вимагає розкриття інформації про власників компанії.	розкриття	The bank requires disclosure of information about the company's owners.
+розкриття	noun	Фільм закінчується розкриттям головної таємниці.	розкриттям	The film ends with the revelation of the main secret.
+нацгвардія	noun	Мій двоюрідний брат служить у Нацгвардії.	Нацгвардії	My cousin serves in the National Guard.
+нацгвардія	noun	Для охорони порядку в місті залучили Нацгвардію.	Нацгвардію	The National Guard was brought in to keep order in the city.
+ісламський	adjective	У музеї відкрилася виставка ісламського мистецтва.	ісламського	An exhibition of Islamic art has opened at the museum.
+ісламський	adjective	Студенти вивчають історію ісламської архітектури.	ісламської	The students study the history of Islamic architecture.
+лан	noun	За селом простягаються широкі пшеничні лани.	лани	Wide wheat fields stretch beyond the village.
+лан	noun	Посеред лану росла самотня груша.	лану	A lone pear tree grew in the middle of the field.
+очистити	verb	Двірник очистив тротуар від снігу.	очистив	The janitor cleared the snow off the sidewalk.
+очистити	verb	Спершу треба очистити рану від бруду.	очистити	First you need to clean the dirt out of the wound.
+обґрунтування	noun	Начальник попросив письмове обґрунтування цих витрат.	обґрунтування	The boss asked for a written justification of these expenses.
+обґрунтування	noun	Учитель погодився з моїм обґрунтуванням.	обґрунтуванням	The teacher agreed with my reasoning.
+спам	noun	Щодня на електронну пошту приходить купа спаму.	спаму	Loads of spam arrive in my inbox every day.
+спам	noun	Цей лист потрапив у спам, тому я його не бачив.	спам	This email went to spam, so I didn't see it.
+рубіж	noun	Козаки захищали південні рубежі країни.	рубежі	The Cossacks defended the country's southern frontiers.
+рубіж	noun	Курс долара подолав психологічний рубіж у сорок гривень.	рубіж	The dollar exchange rate crossed the psychological threshold of forty hryvnias.
+мука	noun	Для мене ранній підйом — справжня мука.	мука	For me, getting up early is real torture.
+мука	noun	Після операції він довго терпів страшні муки.	муки	After the operation he suffered terrible pain for a long time.
+скорий	adjective	Бажаю тобі скорого одужання!	скорого	I wish you a speedy recovery!
+скорий	adjective	Дякую за гостину, до скорої зустрічі!	скорої	Thanks for having us, see you soon!
+скупчення	noun	Уникайте місць великого скупчення людей.	скупчення	Avoid places where large crowds gather.
+скупчення	noun	Астрономи спостерігають за цим зоряним скупченням.	скупченням	Astronomers are observing this star cluster.
+популяризація	noun	Фестиваль сприяє популяризації української мови.	популяризації	The festival helps popularize the Ukrainian language.
+популяризація	noun	Мій друг займається популяризацією науки в соцмережах.	популяризацією	My friend popularizes science on social media.
+укриття	noun	Під час тривоги всі спустилися в укриття.	укриття	During the air-raid alert, everyone went down to the shelter.
+укриття	noun	Ми просиділи в укритті майже дві години.	укритті	We sat in the shelter for almost two hours.
+преподобний	adjective	Сьогодні церква вшановує пам'ять преподобного Нестора Літописця.	преподобного	Today the church honors the memory of the Venerable Nestor the Chronicler.
+преподобний	adjective	У печерах лаври спочивають мощі преподобних отців.	преподобних	The relics of the venerable fathers rest in the caves of the Lavra.
+молот	noun	Коваль бив важким молотом по розпеченому залізу.	молотом	The blacksmith struck the red-hot iron with a heavy hammer.
+молот	noun	Спортсменка метнула молот на рекордну відстань.	молот	The athlete threw the hammer a record distance.
+сертифікація	noun	Цей продукт пройшов обов'язкову сертифікацію.	сертифікацію	This product has passed mandatory certification.
+сертифікація	noun	Без сертифікації ми не можемо продавати товар за кордоном.	сертифікації	Without certification we can't sell the product abroad.
+реставрація	noun	Реставрація собору триватиме три роки.	Реставрація	The restoration of the cathedral will take three years.
+реставрація	noun	Музей закрили на реставрацію.	реставрацію	The museum has been closed for restoration.
+спір	noun	Між сусідами виник спір через паркан.	спір	A dispute arose between the neighbors over the fence.
+спір	noun	Суд поставив крапку в довгому спорі за землю.	спорі	The court put an end to the long dispute over the land.
+дуга	noun	М'яч полетів у ворота по красивій дузі.	дузі	The ball flew into the goal in a beautiful arc.
+дуга	noun	Брови в неї вигнуті дугою.	дугою	Her eyebrows are arched.
+підкорити	verb	Ця співачка підкорила серця мільйонів глядачів.	підкорила	This singer won the hearts of millions of viewers.
+підкорити	verb	Альпіністи нарешті підкорили найвищу вершину.	підкорили	The climbers finally conquered the highest peak.
+бунт	noun	Моряки підняли бунт проти капітана.	бунт	The sailors rose in mutiny against the captain.
+бунт	noun	Учитель історії розповів про причини селянського бунту.	бунту	The history teacher talked about the causes of the peasant revolt.
+легший	adjective	Нова валіза набагато легша за стару.	легша	The new suitcase is much lighter than the old one.
+легший	adjective	Сьогоднішній тест був легший, ніж учорашній.	легший	Today's test was easier than yesterday's.
+виключний	adjective	Компанія має виключне право продавати цей товар в Україні.	виключне	The company has the exclusive right to sell this product in Ukraine.
+виключний	adjective	Телеканал отримав виключні права на показ чемпіонату.	виключні	The TV channel got exclusive rights to broadcast the championship.
+шкала	noun	Оцініть свій біль за шкалою від одного до десяти.	шкалою	Rate your pain on a scale from one to ten.
+шкала	noun	У нашій школі використовують дванадцятибальну шкалу.	шкалу	Our school uses a twelve-point scale.
+шикарний	adjective	Наречена була в шикарній білій сукні.	шикарній	The bride wore a gorgeous white dress.
+шикарний	adjective	З вікна готелю відкривається шикарний вид на море.	шикарний	The hotel window offers a stunning view of the sea.
+капсула	noun	Лікар порадив приймати по одній капсулі на день.	капсулі	The doctor advised taking one capsule a day.
+капсула	noun	Ковтайте капсулу цілою, запиваючи водою.	капсулу	Swallow the capsule whole with water.
+виконком	noun	Рішення про ремонт школи ухвалив міський виконком.	виконком	The decision to renovate the school was made by the city executive committee.
+виконком	noun	Засідання виконкому відбудеться в четвер.	виконкому	The executive committee meeting will be held on Thursday.
+усередині	preposition	Усередині будинку було тепло й затишно.	Усередині	Inside the house it was warm and cozy.
+усередині	preposition	Ми не знали, що кіт сидить усередині коробки.	усередині	We didn't know the cat was sitting inside the box.
+мафія	noun	Фільм розповідає про італійську мафію.	мафію	The film is about the Italian mafia.
+мафія	noun	Поліція затримала членів місцевої мафії.	мафії	Police detained members of the local mafia.
+працевлаштування	noun	Центр зайнятості допомагає безробітним у працевлаштуванні.	працевлаштуванні	The job center helps unemployed people find work.
+працевлаштування	noun	Для працевлаштування потрібні паспорт і диплом.	працевлаштування	To get hired, you need a passport and a diploma.
+колос	noun	Пшеничний колос нахилився під вагою зерна.	колос	The ear of wheat bent under the weight of the grain.
+колос	noun	На полі достигають золоті колоси.	колоси	Golden ears of grain are ripening in the field.
+гріш	noun	У мене в кишені немає ні гроша.	гроша	I don't have a penny in my pocket.
+гріш	noun	Він продав стару машину за гріш.	гріш	He sold his old car for next to nothing.
+візовий	adjective	Мама подала документи до візового центру.	візового	Mom submitted her documents to the visa center.
+візовий	adjective	Ці дві країни скасували візовий режим.	візовий	These two countries have abolished visa requirements.
+поліклініка	noun	Завтра вранці я йду в поліклініку до терапевта.	поліклініку	Tomorrow morning I'm going to the clinic to see the GP.
+поліклініка	noun	Дитяча поліклініка розташована поруч зі школою.	поліклініка	The children's clinic is located next to the school.
+притаманний	adjective	Їй притаманне гарне почуття гумору.	притаманне	She has a naturally good sense of humor.
+притаманний	adjective	Ця риса притаманна багатьом підліткам.	притаманна	This trait is typical of many teenagers.
+притула	noun	«Сіно складемо в притулі», — сказав дід.	притулі	“We'll stack the hay in the barn,” Grandpa said.
+притула	noun	«Іди до мене, моя притуло!» — жартома кликав дід бабусю.	притуло	“Come here, my darling!” Grandpa jokingly called to Grandma.
+дошкільний	adjective	Діти дошкільного віку дуже допитливі.	дошкільного	Preschool-age children are very curious.
+дошкільний	adjective	У нашому районі відкрили новий дошкільний заклад.	дошкільний	A new preschool has opened in our neighborhood.
+агітація	noun	Передвиборча агітація заборонена в день виборів.	агітація	Election campaigning is banned on election day.
+агітація	noun	Волонтери займалися агітацією на вулицях міста.	агітацією	Volunteers were campaigning on the city streets.
+карантин	noun	Через грип школу закрили на карантин.	карантин	The school was closed for quarantine because of the flu.
+карантин	noun	Під час карантину ми працювали віддалено.	карантину	During the quarantine we worked remotely.
+запорозький	adjective	Запорозька Січ була центром козацтва.	Запорозька	The Zaporozhian Sich was the center of Cossack life.
+запорозький	adjective	Запорозькі козаки славилися своєю хоробрістю.	Запорозькі	The Zaporozhian Cossacks were famous for their bravery.
+недостатній	adjective	Освітлення в класі недостатнє для читання.	недостатнє	The lighting in the classroom is not sufficient for reading.
+недостатній	adjective	Через недостатню кількість учасників екскурсію скасували.	недостатню	The tour was canceled because there weren't enough participants.
+підприємництво	noun	Мій батько вже двадцять років займається підприємництвом.	підприємництвом	My father has been running his own business for twenty years.
+підприємництво	noun	Держава обіцяє підтримку малого підприємництва.	підприємництва	The state promises support for small businesses.
+металургійний	adjective	У нашому місті працює великий металургійний завод.	металургійний	There is a large metallurgical plant in our city.
+металургійний	adjective	Мій дідусь усе життя пропрацював на металургійному комбінаті.	металургійному	My grandfather worked at the steelworks all his life.
+каналізація	noun	У старому будинку часто засмічується каналізація.	каналізація	In the old building the sewer often gets clogged.
+каналізація	noun	У селі ще немає центральної каналізації.	каналізації	The village still has no central sewage system.
+реорганізація	noun	Після реорганізації наш відділ об'єднали з іншим.	реорганізації	After the reorganization, our department was merged with another one.
+реорганізація	noun	Міністерство оголосило про реорганізацію лікарень.	реорганізацію	The ministry announced a reorganization of hospitals.
+живописець	noun	Цю картину намалював відомий живописець.	живописець	This picture was painted by a famous painter.
+живописець	noun	Музей відкрив виставку молодих живописців.	живописців	The museum opened an exhibition of young painters.
+стабілізація	noun	Уряд обіцяє стабілізацію цін на продукти.	стабілізацію	The government promises to stabilize food prices.
+стабілізація	noun	Після стабілізації стану пацієнта перевели в палату.	стабілізації	Once his condition stabilized, the patient was moved to a ward.
+грош	noun	Злотий ділиться на сто грошів.	грошів	The zloty is divided into a hundred groszy.
+грош	noun	Польська монета номіналом один грош зовсім крихітна.	грош	The Polish one-grosz coin is tiny.
+лабораторний	adjective	Завтра в нас лабораторна робота з хімії.	лабораторна	Tomorrow we have a chemistry lab.
+лабораторний	adjective	Учені провели лабораторні дослідження нових ліків.	лабораторні	Scientists carried out laboratory studies of the new medicine.
+автокефалія	noun	Українська церква довго домагалася автокефалії.	автокефалії	The Ukrainian church sought autocephaly for a long time.
+автокефалія	noun	Томос про автокефалію привезли до Києва з Константинополя.	автокефалію	The Tomos of autocephaly was brought to Kyiv from Constantinople.
+поширити	verb	Поширте це оголошення серед своїх друзів.	Поширте	Share this announcement with your friends.
+поширити	verb	Журналісти швидко поширили новину в соцмережах.	поширили	Journalists quickly spread the news on social media.
+набережна	noun	Увечері ми гуляли набережною Дніпра.	набережною	In the evening we walked along the Dnipro embankment.
+набережна	noun	На набережній відкрили нові кав'ярні.	набережній	New cafés have opened on the waterfront.
+кредитор	noun	Компанія не змогла розрахуватися з кредиторами.	кредиторами	The company couldn't pay off its creditors.
+кредитор	noun	Кредитор вимагає повернути борг до кінця місяця.	Кредитор	The creditor demands that the debt be repaid by the end of the month.
+агенція	noun	Ми купили путівку в туристичній агенції.	агенції	We bought a holiday package at a travel agency.
+агенція	noun	Про це повідомляє інформаційна агенція.	агенція	This is reported by a news agency.
+астроном	noun	Астрономи відкрили нову планету.	Астрономи	Astronomers have discovered a new planet.
+астроном	noun	У дитинстві мій син мріяв стати астрономом.	астрономом	As a child, my son dreamed of becoming an astronomer.
+започаткувати	verb	Наша школа започаткувала нову традицію.	започаткувала	Our school has started a new tradition.
+започаткувати	verb	Мій дід започаткував цей сімейний бізнес.	започаткував	My grandfather founded this family business.
+призупинити	verb	Через ремонт колії рух трамваїв призупинили.	призупинили	Tram service was suspended because of track repairs.
+призупинити	verb	Банк тимчасово призупинив роботу відділення.	призупинив	The bank temporarily suspended operations at the branch.
+баран	noun	На пасовищі пасся великий баран із закрученими рогами.	баран	A big ram with curled horns was grazing in the pasture.
+баран	noun	Фермер продав барана на ярмарку.	барана	The farmer sold the ram at the fair.
+намагання	noun	Усі мої намагання переконати брата були марними.	намагання	All my attempts to persuade my brother were in vain.
+намагання	noun	Після кількох намагань я нарешті відкрив банку.	намагань	After several attempts I finally opened the jar.
+одночасний	adjective	Одночасне ввімкнення кількох приладів може вибити пробки.	Одночасне	Switching on several appliances at once can blow the fuses.
+одночасний	adjective	Хірурги провели дві одночасні операції.	одночасні	The surgeons performed two simultaneous operations.
+притягнути	verb	Діти притягнули з лісу велику ялинку.	притягнули	The kids dragged a big fir tree home from the forest.
+притягнути	verb	Винних притягнуть до відповідальності, пообіцяли в поліції.	притягнуть	Those responsible will be brought to justice, the police promised.
+покровський	adjective	Покровський район розташований на Донеччині.	Покровський	Pokrovsk district is located in Donetsk region.
+покровський	adjective	Багато покровських родин переїхало до Дніпра.	покровських	Many families from Pokrovsk have moved to Dnipro.
+хірургія	noun	Моя донька хоче вивчати хірургію в медичному університеті.	хірургію	My daughter wants to study surgery at medical university.
+хірургія	noun	Він завідує відділенням хірургії в обласній лікарні.	хірургії	He heads the surgery department at the regional hospital.
+творіння	noun	Художник із гордістю показав нам своє нове творіння.	творіння	The artist proudly showed us his new creation.
+творіння	noun	Гості захоплювалися творінням молодого кухаря.	творінням	The guests admired the young chef's creation.
+балка	noun	Стару дерев'яну балку під стелею треба замінити.	балку	The old wooden beam under the ceiling needs replacing.
+балка	noun	Дах тримається на чотирьох металевих балках.	балках	The roof rests on four metal beams.
+проза	noun	Я більше люблю читати прозу, ніж поезію.	прозу	I prefer reading prose to poetry.
+проза	noun	Цей роман — найкращий зразок сучасної української прози.	прози	This novel is the finest example of modern Ukrainian prose.
+оборонити	verb	Козаки змогли оборонити фортецю від ворога.	оборонити	The Cossacks managed to defend the fortress against the enemy.
+оборонити	verb	Старший брат оборонив мене від хуліганів.	оборонив	My older brother defended me from the bullies.
+хунта	noun	Після перевороту владу в країні захопила військова хунта.	хунта	After the coup, a military junta seized power in the country.
+хунта	noun	На уроці історії ми говорили про грецьку хунту.	хунту	In history class we talked about the Greek junta.
+атмосферний	adjective	Синоптики прогнозують зниження атмосферного тиску.	атмосферного	Forecasters predict a drop in atmospheric pressure.
+атмосферний	adjective	Ми знайшли дуже атмосферну кав'ярню в старому місті.	атмосферну	We found a very atmospheric café in the old town.
+окупувати	verb	Під час Другої світової війни нацисти окупували Київ.	окупували	During World War Two the Nazis occupied Kyiv.
+окупувати	verb	Кіт знову окупував моє крісло.	окупував	The cat has taken over my armchair again.
+десантний	adjective	Мій дід служив у десантних військах.	десантних	My grandfather served in the airborne troops.
+десантний	adjective	До берега підійшов великий десантний корабель.	десантний	A large landing ship approached the shore.
+публіцист	noun	Відомий публіцист написав статтю про реформу освіти.	публіцист	A well-known columnist wrote an article about education reform.
+публіцист	noun	Його батько був талановитим письменником і публіцистом.	публіцистом	His father was a talented writer and essayist.
+вживатися	verb	Наш кіт добре вживається із собакою.	вживається	Our cat gets along well with the dog.
+вживатися	verb	Ці двоє ніколи не вживалися в одному кабінеті.	вживалися	Those two never got along sharing an office.
+делегат	noun	Делегати з'їзду проголосували за нового голову.	Делегати	The congress delegates voted for a new chairman.
+делегат	noun	Нашу вчительку обрали делегатом на конференцію.	делегатом	Our teacher was chosen as a delegate to the conference.
+йо	interjection	«Підеш завтра на ринок?» — «Йо, піду».	Йо	“Will you go to the market tomorrow?” “Yeah, I will.”
+йо	interjection	«Йо, а ти коли приїхав?» — здивувався дядько із Закарпаття.	Йо	“Whoa, when did you get here?” asked the uncle from Zakarpattia in surprise.
+реформувати	verb	Уряд планує реформувати систему охорони здоров'я.	реформувати	The government plans to reform the healthcare system.
+реформувати	verb	Нова директорка реформувала роботу бібліотеки.	реформувала	The new director reformed the way the library works.
+ізраїльський	adjective	Ізраїльські лікарі провели складну операцію.	Ізраїльські	Israeli doctors performed a complex operation.
+ізраїльський	adjective	Моя подруга вчиться в ізраїльському університеті.	ізраїльському	My friend studies at an Israeli university.
+відступ	noun	Зробіть відступ на початку кожного абзацу.	відступ	Indent the beginning of each paragraph.
+відступ	noun	Лектор часто робить відступи від теми.	відступи	The lecturer often digresses from the topic.
+філологія	noun	Моя сестра вивчає філологію в університеті.	філологію	My sister studies philology at university.
+філологія	noun	Він захистив дисертацію з філології.	філології	He defended his dissertation in philology.
+русин	noun	Мій дідусь із Закарпаття вважав себе русином.	русином	My grandfather from Zakarpattia considered himself a Rusyn.
+русин	noun	Русини живуть у Закарпатті, Словаччині та Польщі.	Русини	Rusyns live in Zakarpattia, Slovakia and Poland.
+толерантність	noun	Учителька говорила з дітьми про толерантність.	толерантність	The teacher talked with the children about tolerance.
+толерантність	noun	Нам усім бракує толерантності до чужих поглядів.	толерантності	We all lack tolerance for other people's views.
+розкривати	verb	Журналіст ніколи не розкриває своїх джерел.	розкриває	A journalist never reveals his sources.
+розкривати	verb	Не розкривай парасольку в приміщенні — це погана прикмета!	розкривай	Don't open an umbrella indoors, it's bad luck!
+престижний	adjective	Мій брат вступив до престижного університету.	престижного	My brother got into a prestigious university.
+престижний	adjective	Вона отримала престижну премію за свою книжку.	престижну	She received a prestigious award for her book.
+викуп	noun	Викрадачі вимагали великий викуп.	викуп	The kidnappers demanded a large ransom.
+викуп	noun	Весілля почалося з веселого викупу нареченої.	викупу	The wedding began with the fun custom of “ransoming” the bride.
+відчуження	noun	Між батьком і сином з роками виросло відчуження.	відчуження	Over the years, an estrangement grew between father and son.
+відчуження	noun	Після переїзду дівчинка довго боролася з відчуженням у новому класі.	відчуженням	After the move, the girl struggled for a long time with feeling alienated in her new class.
+соратник	noun	Ветеран зустрівся зі своїми бойовими соратниками.	соратниками	The veteran met up with his comrades-in-arms.
+соратник	noun	Він був найближчим соратником гетьмана.	соратником	He was the hetman's closest companion-in-arms.
+соціаліст	noun	У молодості мій прадід був соціалістом.	соціалістом	In his youth, my great-grandfather was a socialist.
+соціаліст	noun	Соціалісти виступають за безкоштовну освіту й медицину.	Соціалісти	Socialists advocate free education and healthcare.
+контрольований	adjective	Хімічна реакція відбувається в контрольованих умовах.	контрольованих	The chemical reaction takes place under controlled conditions.
+контрольований	adjective	Учені провели контрольований експеримент у лабораторії.	контрольований	The scientists carried out a controlled experiment in the lab.
+домен	noun	Ми купили домен для сайту нашої кав'ярні.	домен	We bought a domain for our café's website.
+домен	noun	Термін реєстрації домену закінчується наступного місяця.	домену	The domain registration expires next month.
+нюанс	noun	У цьому договорі є один важливий нюанс.	нюанс	There's one important nuance in this contract.
+нюанс	noun	Юрист пояснив нам усі нюанси оренди квартири.	нюанси	The lawyer explained all the ins and outs of renting an apartment to us.
+вето	noun	Президент наклав вето на цей закон.	вето	The president vetoed this law.
+вето	noun	Парламент подолав вето більшістю голосів.	вето	Parliament overrode the veto by a majority vote.
+педагогіка	noun	Моя мама викладає педагогіку в університеті.	педагогіку	My mother teaches pedagogy at university.
+педагогіка	noun	Сучасна педагогіка радить хвалити дітей за зусилля.	педагогіка	Modern pedagogy recommends praising children for their effort.
+бандерівець	noun	Дідусь розповідав, що його батько був бандерівцем.	бандерівцем	Grandpa told us that his father had been a Banderite.
+бандерівець	noun	Після війни бандерівці ще довго переховувалися в лісах.	бандерівці	After the war, the Banderites hid in the forests for a long time.

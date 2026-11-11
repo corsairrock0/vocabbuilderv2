@@ -1,0 +1,80 @@
+{"lemma":"maldito","pos":"adjective","rank":322,"drop":[0],"gloss":{},"why":"meaning 0 (damn, damned before a noun) is the curse the owner had dropped; keeps cursed (numbers of the reviewed list)"}
+{"lemma":"demonios","pos":"adverb","rank":727,"drop":[],"gloss":{"0":"on earth, the heck (for emphasis after a question word)"},"why":"only meaning; reword the mild profanity 'the hell', meaning unchanged"}
+{"lemma":"francés","pos":"adjective","rank":777,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (blowjob)"}
+{"lemma":"ruso","pos":"adjective","rank":1283,"drop":[2],"gloss":{},"why":"informal ethnic label (Ashkenazic Jew) dropped"}
+{"lemma":"pollo","pos":"noun","rank":1324,"drop":[3],"gloss":{},"why":"twink: sexual slang sense dropped"}
+{"lemma":"leche","pos":"noun","rank":1372,"drop":[1,2],"gloss":{},"why":"1 is vulgar sexual slang (cum), 2 a vulgar curse (shit!); keeps milk"}
+{"lemma":"pelota","pos":"noun","rank":1504,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar body slang (balls = testicles); 3 (toady) is fine"}
+{"lemma":"bastardo","pos":"adjective","rank":1608,"drop":[],"gloss":{"0":"illegitimate, born out of wedlock"},"why":"only meaning; 'bastard' reworded to the illegitimacy sense the sentences show (the insult reading would be crude)"}
+{"lemma":"polvo","pos":"noun","rank":1613,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar sexual slang (a fuck, a screw)"}
+{"lemma":"activo","pos":"adjective","rank":1623,"drop":[2],"gloss":{},"why":"top: sexual-role slang dropped"}
+{"lemma":"pájaro","pos":"noun","rank":1643,"drop":[1,2],"gloss":{},"why":"1 is a homophobic slur (Caribbean slang for a gay man), 2 slang for penis; keeps bird and shady character"}
+{"lemma":"queso","pos":"noun","rank":1697,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar sexual slang (sexual desire, Venezuela, Panama)"}
+{"lemma":"paquete","pos":"noun","rank":1716,"drop":[2,4],"gloss":{},"why":"2 and 4 are sexual body slang for male genitals (package, lunchbox); keeps parcel, package, incompetent person"}
+{"lemma":"roto","pos":"adjective","rank":1735,"drop":[6],"gloss":{},"why":"meaning 6 is a pejorative nickname for Chileans (national insult); 4 'vulgar, low-class' is a plain adjective, false match"}
+{"lemma":"instrumento","pos":"noun","rank":1784,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar slang for penis"}
+{"lemma":"bola","pos":"noun","rank":1882,"drop":[1],"gloss":{},"why":"meaning 1 is slang for testicles (balls)"}
+{"lemma":"aparato","pos":"noun","rank":1991,"drop":[3],"gloss":{},"why":"meaning 3 is slang for penis (willy, tool)"}
+{"lemma":"griego","pos":"adjective","rank":2262,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (anal sex)"}
+{"lemma":"delicado","pos":"adjective","rank":2346,"drop":[5],"gloss":{},"why":"meaning 5 is a homophobic slur (Argentina, derogatory)"}
+{"lemma":"primavera","pos":"noun","rank":2373,"drop":[],"gloss":{"3":"simple soul, simple creature, simpleton"},"why":"'turdus' is a false match (the robin's Latin name); 'sod' in meaning 3 is British vulgar slang, reworded"}
+{"lemma":"pisar","pos":"verb","rank":2406,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar sexual slang (to screw, bang)"}
+{"lemma":"borde","pos":"noun","rank":2420,"drop":[],"gloss":{"5":"illegitimate (born out of wedlock)"},"why":"meaning 5 is fine (illegitimate) but worded with 'bastard'"}
+{"lemma":"calentar","pos":"verb","rank":2490,"drop":[1],"gloss":{},"why":"to turn on (sexually) dropped"}
+{"lemma":"mina","pos":"noun","rank":2501,"drop":[4],"gloss":{},"why":"meaning 4 is sexual slang for a prostitute; 3 (woman, colloquial) is fine"}
+{"lemma":"oso","pos":"noun","rank":2560,"drop":[2],"gloss":{},"why":"bear (gay slang) dropped"}
+{"lemma":"conejo","pos":"noun","rank":2638,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar slang for female genitals (the owner's example)"}
+{"lemma":"retrasar","pos":"verb","rank":2721,"drop":[],"gloss":{"0":"to delay, to set back, to slow down, to postpone, to hold up, to put back"},"why":"meaning is fine; drop the synonym 'to retard', which reads as a slur in modern English"}
+{"lemma":"bote","pos":"noun","rank":2816,"drop":[4],"gloss":{},"why":"meaning 4 is body slang (butt, booty), like the owner's орех example"}
+{"lemma":"hueco","pos":"noun","rank":2849,"drop":[2,4],"gloss":{},"why":"2 and 4 are homophobic slurs (Central America, Chile)"}
+{"lemma":"pirata","pos":"noun","rank":3102,"drop":[2],"gloss":{},"why":"meaning 2 is a derogatory national nickname for the English (Argentina)"}
+{"lemma":"mamar","pos":"verb","rank":3129,"drop":[2,4,5],"gloss":{},"why":"2 (blowjob), 4 (to bullshit, fuck around) and 5 (to fuck) are vulgar sexual slang; keeps suckle, suck, pocket"}
+{"lemma":"pato","pos":"noun","rank":3134,"drop":[1],"gloss":{},"why":"meaning 1 is a homophobic slur"}
+{"lemma":"porquería","pos":"noun","rank":3149,"drop":[],"gloss":{"0":"trash, filth, junk, rubbish"},"why":"the word itself is not vulgar; remove 'crap' from the wording"}
+{"lemma":"paloma","pos":"noun","rank":3203,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar slang for penis"}
+{"lemma":"sudar","pos":"verb","rank":3235,"drop":[1],"gloss":{},"why":"meaning 1 is the vulgar Spain expression 'me la suda' (I don't give a damn)"}
+{"lemma":"cuero","pos":"noun","rank":3295,"drop":[4],"gloss":{},"why":"meaning 4 is slang for a prostitute; 3 (attractive body) is informal, not vulgar"}
+{"lemma":"enano","pos":"noun","rank":3366,"drop":[],"gloss":{"0":"dwarf, person of short stature"},"why":"'midget' is offensive wording; meaning kept"}
+{"lemma":"bicho","pos":"noun","rank":3383,"drop":[3,4],"gloss":{},"why":"3 (vulva) and 4 (penis) are vulgar slang; 5 (kid) is fine"}
+{"lemma":"turco","pos":"adjective","rank":3549,"drop":[2],"gloss":{},"why":"Arab or Jew: ethnic label dropped"}
+{"lemma":"salchicha","pos":"noun","rank":3551,"drop":[2],"gloss":{},"why":"meaning 2 is vulgar slang for penis; also the sentence 'Estaba jugando de forma asquerosa con su salchicha.' reads as the crude double meaning and should be replaced"}
+{"lemma":"so","pos":"preposition","rank":3568,"drop":[],"gloss":{"1":"blithering, utter"},"why":"the emphatic before insults is not vulgar; reword the British swear 'bloody'"}
+{"lemma":"chupar","pos":"verb","rank":3716,"drop":[2,5],"gloss":{},"why":"2 and 5 are vulgar sexual slang (to give a blowjob); keeps suck, absorb, hog"}
+{"lemma":"marrón","pos":"adjective","rank":3806,"drop":[],"gloss":{"1":"mess, pain, drag (something annoying)"},"why":"the Spain colloquialism is not vulgar; reword the English 'bitch'"}
+{"lemma":"motel","pos":"noun","rank":3864,"drop":[],"gloss":{"1":"love hotel (short-stay hotel for couples)"},"why":"a motel is not a brothel; the Colombian sense is a love hotel"}
+{"lemma":"mariposa","pos":"noun","rank":3878,"drop":[1],"gloss":{},"why":"meaning 1 is derogatory slang for a gay man (like 'fairy')"}
+{"lemma":"coraje","pos":"noun","rank":3952,"drop":[],"gloss":{"0":"courage, bravery, pluck"},"why":"'spunk' is vulgar slang for semen in British English; reworded, meaning kept"}
+{"lemma":"capullo","pos":"noun","rank":3956,"drop":[3,4,5],"gloss":{},"why":"3 (dick), 4 (foreskin) and 5 (asshole, jerk) are vulgar Spain slang; keeps cocoon, bud, pod"}
+{"lemma":"moro","pos":"noun","rank":3975,"drop":[0,1,2,4,5],"gloss":{},"why":"0, 1, 2, 4, 5 are ethnic terms marked now usually derogatory or offensive (slurs); 3 (the Moro people of the Philippines) is neutral"}
+{"lemma":"palestino","pos":"adjective","rank":3991,"drop":[2],"gloss":{},"why":"meaning 2 is a derogatory Cuban label for (internal) migrants"}
+{"lemma":"coco","pos":"noun","rank":4034,"drop":[1],"gloss":{},"why":"meaning 1 is slang for testicles"}
+{"lemma":"concha","pos":"noun","rank":4239,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar slang for female genitals"}
+{"lemma":"polaco","pos":"adjective","rank":4268,"drop":[3],"gloss":{},"why":"meaning 3 is an offensive nickname for Catalans (regional insult)"}
+{"lemma":"reventar","pos":"verb","rank":4281,"drop":[5],"gloss":{},"why":"meaning 5 is vulgar sexual slang (anal sex)"}
+{"lemma":"zorra","pos":"noun","rank":4312,"drop":[0,1,2,4],"gloss":{},"why":"0 (slut, prostitute) and 1 (bitch) are crude insults, 2 sexual slang for a woman, 4 slang for female genitals; keeps vixen, cunning woman, drunkenness"}
+{"lemma":"goma","pos":"noun","rank":4332,"drop":[2],"gloss":{},"why":"meaning 2 is derogatory sexual slang for a woman (easy, Bolivia)"}
+{"lemma":"hostia","pos":"noun","rank":4494,"drop":[1,2,3,4],"gloss":{},"why":"1 to 4 are vulgar Spain slang (smack, 'the shit', and curses); keeps communion wafer. The sentence 'Hoy hace un calor de la ostia.' shows the vulgar intensifier and should be replaced"}
+{"lemma":"violín","pos":"noun","rank":4570,"drop":[3],"gloss":{},"why":"meaning 3 is street/prison slang for a rapist; 2 (body odor) is fine"}
+{"lemma":"gitano","pos":"noun","rank":4591,"drop":[],"gloss":{"0":"Roma, a Romani person","1":"Romani (of or like the Roma)"},"why":"'Gypsy' is offensive English wording; meanings kept"}
+{"lemma":"paja","pos":"noun","rank":4621,"drop":[3],"gloss":{},"why":"meaning 3 is vulgar sexual slang (wank, handjob); 4 (lie, used in Colombia) is fine"}
+{"lemma":"agallas","pos":"noun","rank":4687,"drop":[],"gloss":{"1":"grit, backbone, pluck","2":"guts, stomach, gumption, spine, courage"},"why":"the word (guts) is not vulgar; reword English 'spunk', 'balls', 'stones'"}
+{"lemma":"moler","pos":"verb","rank":4741,"drop":[4],"gloss":{},"why":"meaning 4 is sexual slang (to screw); 2 (to toil, Colombia) is fine"}
+{"lemma":"cuchara","pos":"noun","rank":4886,"drop":[1],"gloss":{},"why":"meaning 1 is vulgar slang for female genitals"}
+{"lemma":"manada","pos":"noun","rank":4892,"drop":[2],"gloss":{},"why":"a group of rapists (Spain) dropped"}
+{"lemma":"plátano","pos":"noun","rank":4940,"drop":[1],"gloss":{},"why":"meaning 1 is vulgar slang for penis"}
+{"lemma":"grieta","pos":"noun","rank":4986,"drop":[],"gloss":{"0":"crack, crevice"},"why":"'chink' is also an ethnic slur in English; the AGENT.md wording"}
+{"lemma":"violeta","pos":"adjective","rank":5006,"drop":[3],"gloss":{},"why":"meaning 3 is slang insult for a sex offender (rapist, nonce)"}
+{"lemma":"negra","pos":"noun","rank":5103,"drop":[],"gloss":{"0":"black woman"},"why":"the cross-reference to Spanish 'negro' reads as the English slur 'negro'; reworded to the meaning (black woman)"}
+{"lemma":"salido","pos":"adjective","rank":5106,"drop":[2],"gloss":{},"why":"meaning 2 is sexual slang (horny); 1 (on heat, of animals) is fine"}
+{"lemma":"pito","pos":"noun","rank":5113,"drop":[5],"gloss":{},"why":"meaning 5 is vulgar slang for penis; 4 (joint) is drug slang, not crude"}
+{"lemma":"pasivo","pos":"adjective","rank":5186,"drop":[1],"gloss":{},"why":"bottom: sexual-role slang dropped"}
+{"lemma":"chulo","pos":"noun","rank":5391,"drop":[2],"gloss":{},"why":"pimp dropped"}
+{"lemma":"trío","pos":"noun","rank":5413,"drop":[1],"gloss":{"0":"trio (a group of three, especially musicians)"},"why":"the sexual meaning is dropped (owner review) and \"threesome\" taken out of the group meaning"}
+{"lemma":"retorcido","pos":"adjective","rank":5520,"drop":[],"gloss":{"1":"warped, perverse"},"why":"'kinky' here means a warped mind; reword the sexual-slang English"}
+{"lemma":"palomita","pos":"noun","rank":5547,"drop":[5],"gloss":{},"why":"meaning 5 is slang for penis (Peru)"}
+{"lemma":"banana","pos":"noun","rank":5551,"drop":[3],"gloss":{"2":"smart aleck, know-it-all"},"why":"meaning 3 is vulgar slang for penis; 'smartass' in 2 reworded"}
+{"lemma":"chiquito","pos":"adjective","rank":5636,"drop":[3],"gloss":{},"why":"meaning 3 is colloquial slang for the anus"}
+{"lemma":"trompeta","pos":"noun","rank":5754,"drop":[1],"gloss":{},"why":"meaning 1 is slang for penis"}
+{"lemma":"infernal","pos":"adjective","rank":5878,"drop":[],"gloss":{"2":"hellish, hellacious (very annoying, dreadful)"},"why":"the word is not vulgar; reword 'hell of' and 'damned' (and leave out the identical English 'infernal')"}
+{"lemma":"pajarito","pos":"noun","rank":5909,"drop":[2],"gloss":{},"why":"meaning 2 is slang for penis (euphemistic, but still genital slang)"}
+{"lemma":"na","pos":"contraction","rank":4155,"drop":[],"gloss":{"0":"nothing (short for nada)"},"note":{"0":"colloquial"},"why":"the listed meaning, an obsolete contraction of la, is not the frequent word; colloquial na (nada) is, as its sentences show"}

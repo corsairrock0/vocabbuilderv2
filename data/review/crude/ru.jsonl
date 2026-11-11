@@ -1,0 +1,140 @@
+{"lemma":"баба","text":"Мэри назвала Тома бабой.","replace":{"text":"Летом я жил в деревне с бабой Олей.","translation":"In the summer I lived in the village with Granny Olya.","target":"бабой","sense":0}}
+{"lemma":"баня","text":"Иди в баню!","replace":{"text":"В субботу мы ходили в баню.","translation":"On Saturday we went to the banya.","target":"баню","sense":0}}
+{"lemma":"биография","text":"Мне плевать, что можно будет написать в моей биографии.","replace":{"text":"В его биографии много интересных фактов.","translation":"There are many interesting facts in his biography.","target":"биографии","sense":0}}
+{"lemma":"блин","text":"Блин, я слишком много потратил.","replace":{"text":"Первый блин всегда комом.","translation":"The first pancake always comes out lumpy.","target":"блин","sense":0}}
+{"lemma":"блядь","text":"Блять, пароль забыл!","drop":true}
+{"lemma":"блядь","text":"О чём вы, бля, придурки, говорите?","drop":true}
+{"lemma":"блядь","text":"Что это, блядь, такое?","drop":true}
+{"lemma":"богатство","text":"Они хотят секса, богатства и славы.","replace":{"text":"Для счастья не нужно большого богатства.","translation":"You don't need great wealth to be happy.","target":"богатства","sense":0}}
+{"lemma":"братский","text":"Никто не знает, была ли его любовь к сестре плотской или братской.","replace":{"text":"Мы очень дорожим нашей братской дружбой.","translation":"We really value our brotherly friendship.","target":"братской","sense":0}}
+{"lemma":"бред","text":"Бред какой-то несёшь!","keep":true}
+{"lemma":"возбудить","text":"Его поведение возбудило во мне подозрение.","keep":true}
+{"lemma":"возбудить","text":"Ты возбудил во мне интерес.","keep":true}
+{"lemma":"возбуждение","text":"Его глаза светились возбуждением.","keep":true,"sense":1}
+{"lemma":"возбуждение","text":"Зал гудел от возбуждения.","keep":true,"sense":1}
+{"lemma":"возбуждение","text":"Победа привела нас в возбуждение.","keep":true,"sense":1}
+{"lemma":"возрастной","text":"Фильм получил в американском прокате возрастные ограничения для детей (R) (за имеющиеся там жестокие сцены насилия и наличие эпизодов с обнаженными телами).","replace":{"text":"В кинотеатре строго соблюдают возрастные ограничения.","translation":"The cinema strictly enforces age restrictions.","target":"возрастные","sense":0}}
+{"lemma":"воспитание","text":"Том заснул на уроке полового воспитания.","replace":{"text":"Хорошие манеры — признак хорошего воспитания.","translation":"Good manners are a sign of a good upbringing.","target":"воспитания","sense":0}}
+{"lemma":"выделение","text":"У вас есть выделения из половых путей?","replace":{"text":"Мы ждём выделения денег на ремонт школы.","translation":"We're waiting for money to be allocated for the school repairs.","target":"выделения","sense":0}}
+{"lemma":"выделение","text":"У меня выделения из соска.","keep":true}
+{"lemma":"выявить","text":"У Мэри выявили рак молочной железы в октябре.","keep":true}
+{"lemma":"генетический","text":"Банки спермы проводят отбор доноров, чтобы уменьшить вероятность передачи генетических и инфекционных заболеваний.","keep":true}
+{"lemma":"головка","text":"Головка твоего члена торчит из-под ремня.","replace":{"text":"На столе лежала головка чеснока.","translation":"A bulb of garlic lay on the table.","target":"головка","sense":1}}
+{"lemma":"голый","text":"Он не голый.","replace":{"text":"В новой квартире пока голый бетонный пол.","translation":"The new flat still has a bare concrete floor.","target":"голый","sense":0}}
+{"lemma":"голый","text":"Она не голая.","replace":{"text":"Эта стена слишком голая, давай повесим картину.","translation":"This wall is too bare; let's hang a picture.","target":"голая","sense":0}}
+{"lemma":"голый","text":"Том не был голым.","replace":{"text":"К ноябрю дерево стало совсем голым.","translation":"By November the tree was completely bare.","target":"голым","sense":0}}
+{"lemma":"грудной","text":"\"Женщина с грудной квалификацией получила работу\" - пример оговорки по Фрейду.","replace":{"text":"У дедушки сильный грудной кашель.","translation":"Grandpa has a bad chesty cough.","target":"грудной","sense":0}}
+{"lemma":"грудной","text":"Всего год спустя её грудные импланты потекли, и ей пришлось их удалить.","replace":{"text":"Грудные дети много спят.","translation":"Babies sleep a lot.","target":"Грудные","sense":0}}
+{"lemma":"грудь","text":"Тебе нравятся женщины с большой грудью или маленькой?","replace":{"text":"Она кормит малыша грудью.","translation":"She breastfeeds her baby.","target":"грудью","sense":1}}
+{"lemma":"грудь","text":"Том, ты смотришь на мою грудь?","replace":{"text":"Мальчик гордо выпятил грудь.","translation":"The boy proudly puffed out his chest.","target":"грудь","sense":0}}
+{"lemma":"де","text":"Мадам де Помпадур была любовницей Людовика XV.","keep":true}
+{"lemma":"девка","text":"Единственная разница между глупой девкой и проституткой - плата.","drop":true}
+{"lemma":"девка","text":"Не одевайся, как продажная девка.","drop":true}
+{"lemma":"девка","text":"Эта девка невероятно горячая.","drop":true}
+{"lemma":"дерьмо","text":"Кто ты такой, чтобы судить меня, кусок дерьма?","drop":true}
+{"lemma":"дерьмо","text":"Мы по уши в дерьме.","drop":true}
+{"lemma":"дерьмо","text":"Что это за дерьмо?","drop":true}
+{"lemma":"десятка","text":"А ты не из робкого десятка, раз вот так пришёл сюда.","replace":{"text":"У меня осталась только бубновая десятка.","translation":"I've only got the ten of diamonds left.","target":"десятка","sense":2}}
+{"lemma":"дикий","text":"Дик попал в ДТП.","keep":true}
+{"lemma":"еврей","text":"Том не еврей.","keep":true}
+{"lemma":"еврей","text":"Этот мужик похож на еврея.","replace":{"text":"Её бабушка вышла замуж за еврея из Риги.","translation":"Her grandmother married a Jewish man from Riga.","target":"еврея","sense":0}}
+{"lemma":"еврейский","text":"\"Это первый случай за несколько столетий, когда был изменен еврейский календарь.","keep":true}
+{"lemma":"еврейский","text":"Дастин Московиц — еврейский бизнесмен. Он один из основателей сайта Facebook.","keep":true}
+{"lemma":"еврейский","text":"Тишрей - это первый месяц еврейского года.","keep":true}
+{"lemma":"железа","text":"У матери и сестры Тома был рак молочной железы.","keep":true}
+{"lemma":"жопа","text":"Иди в жопу!","drop":true}
+{"lemma":"жопа","text":"У меня болит жопа.","drop":true}
+{"lemma":"жопа","text":"Я живу в жопе Земли.","drop":true}
+{"lemma":"зад","text":"Он шлёпнул меня по заду.","replace":{"text":"Он надел свитер задом наперёд.","translation":"He put his sweater on back to front.","target":"задом","sense":0}}
+{"lemma":"зад","text":"У неё большой зад.","replace":{"text":"Зад машины сильно помят.","translation":"The back of the car is badly dented.","target":"Зад","sense":0}}
+{"lemma":"задница","text":"Посмотри на её задницу.","replace":{"text":"Я поскользнулся на льду и упал на задницу.","translation":"I slipped on the ice and fell on my backside.","target":"задницу","sense":0}}
+{"lemma":"задница","text":"Ты просто как заноза в заднице.","replace":{"text":"У него на джинсах дырка на заднице.","translation":"His jeans have a hole in the seat.","target":"заднице","sense":0}}
+{"lemma":"задница","text":"У неё большая задница.","replace":{"text":"После долгой велопрогулки у меня болит задница.","translation":"My backside hurts after a long bike ride.","target":"задница","sense":0}}
+{"lemma":"изнасилование","text":"В Торе Лот отдает дочерей-девственниц на изнасилование толпе.","drop":true}
+{"lemma":"изнасилование","text":"Встречаются и иные мотивы совершения изнасилования: ревность, хулиганский мотив и др...","drop":true}
+{"lemma":"кавказский","text":"Чуркистан — так русские националисты презрительно называют азиатские страны или кавказские республики Российской Федерации.","replace":{"text":"Кавказские горы очень красивые.","translation":"The Caucasus Mountains are very beautiful.","target":"Кавказские","sense":0}}
+{"lemma":"класть","text":"Мы на это класть хотели.","replace":{"text":"Сюда нельзя класть сумки.","translation":"You can't put bags here.","target":"класть","sense":0}}
+{"lemma":"колхоз","text":"Началось в колхозе утро!","replace":{"text":"Мой дедушка всю жизнь проработал в колхозе.","translation":"My grandfather worked on a collective farm all his life.","target":"колхозе","sense":0}}
+{"lemma":"контент","text":"Продажи платного контента на порносайтах росли медленно.","replace":{"text":"Блогеры создают много интересного контента.","translation":"Bloggers create a lot of interesting content.","target":"контента","sense":0}}
+{"lemma":"му","text":"Корова говорит \"му\", петух \"кукареку\", свинья \"хрю-хрю\", утка \"кря-кря\", а кошка \"мяу\".","keep":true}
+{"lemma":"националист","text":"Но енотовидные называли Коренных «националистами» и считали, что те попросту завидуют их способности пробиваться в жизни.","replace":{"text":"Когда речь заходит о кухне, мои друзья становятся настоящими националистами.","translation":"When it comes to food, my friends turn into real nationalists.","target":"националистами","sense":0}}
+{"lemma":"националист","text":"Чуркистан — так русские националисты презрительно называют азиатские страны или кавказские республики Российской Федерации.","replace":{"text":"Во время чемпионата мира мы все немного националисты.","translation":"During the World Cup, we all become a bit nationalistic.","target":"националисты","sense":0}}
+{"lemma":"нацист","text":"\"Какова форма множественного числа слова нацист?\" - \"Придурки.\"","drop":true}
+{"lemma":"обследование","text":"Я бы хотела сделать обследование груди на наличие рака.","keep":true}
+{"lemma":"общественно","text":"Заниматься математикой - это единственный общественно приемлемый способ самоудовлетворения на публике.","replace":{"text":"Волонтёры занимаются общественно полезным делом.","translation":"The volunteers are doing socially useful work.","target":"общественно","sense":0}}
+{"lemma":"объект","text":"Женщины — это не сексуальные объекты.","replace":{"text":"Учёные изучают далёкие космические объекты.","translation":"Scientists study distant objects in space.","target":"объекты","sense":0}}
+{"lemma":"одетый","text":"Я лег спать одетым.","keep":true}
+{"lemma":"орех","text":"Белки находят только четверть орехов, которые прячут.","keep":true}
+{"lemma":"орех","text":"Белки питаются семенами и орехами, а также насекомыми и грибами.","keep":true}
+{"lemma":"орех","text":"Он говорит, что ему нельзя орехи.","keep":true}
+{"lemma":"ориентация","text":"У этой собаки нетрадиционная сексуальная ориентация.","replace":{"text":"У него отличная ориентация в пространстве.","translation":"He has an excellent sense of direction.","target":"ориентация","sense":0}}
+{"lemma":"основатель","text":"Дастин Московиц — еврейский бизнесмен. Он один из основателей сайта Facebook.","keep":true}
+{"lemma":"особь","text":"Особи, в норме несущие пару половых хромосом X и Y или одну хромосому X, -- самцы, а несущие две хромосомы X -- самки.","keep":true}
+{"lemma":"отбор","text":"Банки спермы проводят отбор доноров, чтобы уменьшить вероятность передачи генетических и инфекционных заболеваний.","keep":true}
+{"lemma":"очко","text":"На очко отвечаешь?","replace":{"text":"За ничью команда получает одно очко.","translation":"A team gets one point for a draw.","target":"очко","sense":0}}
+{"lemma":"плоть","text":"Оттяните крайнюю плоть, перед тем как надевать презерватив.","replace":{"text":"Постепенно его идея обрела плоть.","translation":"Little by little, his idea took shape.","target":"плоть","sense":0}}
+{"lemma":"подключение","text":"Меня вдруг отсоединило, чёртовы проблемы с подключением.","replace":{"text":"Мастер занялся подключением новой стиральной машины.","translation":"The repairman got to work connecting the new washing machine.","target":"подключением","sense":0}}
+{"lemma":"поза","text":"Никому не интересно знать, какие позы ты предпочитаешь в сексе.","replace":{"text":"На занятиях йогой мы учим новые позы.","translation":"In yoga class we learn new poses.","target":"позы","sense":0}}
+{"lemma":"половой","text":"Когда в последний раз у вас был половой акт?","replace":{"text":"Бабушка вытерла лужу половой тряпкой.","translation":"Grandma wiped up the puddle with a floor cloth.","target":"половой","sense":0}}
+{"lemma":"половой","text":"Том заснул на уроке полового воспитания.","replace":{"text":"Мы долго выбирали цвет полового покрытия.","translation":"We spent a long time choosing the colour of the floor covering.","target":"полового","sense":0}}
+{"lemma":"половой","text":"У вас есть выделения из половых путей?","replace":{"text":"Мы заменили несколько старых половых досок.","translation":"We replaced several old floorboards.","target":"половых","sense":0}}
+{"lemma":"поп","text":"«Попов предатель?» — «Да. Надо дать ему пизды!» — «Как?!» — «Хрен его знает...»","replace":{"text":"Она слушает только поп и рок.","translation":"She only listens to pop and rock.","target":"поп","sense":1}}
+{"lemma":"пояс","text":"Том раздет до пояса.","replace":{"text":"У этого платья нет пояса.","translation":"This dress doesn't have a belt.","target":"пояса","sense":0}}
+{"lemma":"предварительный","text":"Считаешь ли ты предварительные ласки важной частью секса?","replace":{"text":"Предварительные результаты экзамена объявят завтра.","translation":"The preliminary exam results will be announced tomorrow.","target":"Предварительные","sense":0}}
+{"lemma":"придурок","text":"Я и не знал, что ты такой придурок.","replace":{"text":"Какой-то придурок поставил машину прямо у наших ворот.","translation":"Some idiot parked right in front of our gate.","target":"придурок","sense":0}}
+{"lemma":"приключение","text":"Это было лишь приключение на одну ночь.","replace":{"text":"Наш поход в лес превратился в настоящее приключение.","translation":"Our hike in the woods turned into a real adventure.","target":"приключение","sense":0}}
+{"lemma":"проклятый","text":"Будь я проклят, если это правда.","replace":{"text":"По легенде, этот замок проклят.","translation":"According to legend, this castle is cursed.","target":"проклят","sense":0}}
+{"lemma":"проклятый","text":"Мы будем прокляты.","replace":{"text":"Говорят, эти сокровища прокляты.","translation":"They say this treasure is cursed.","target":"прокляты","sense":0}}
+{"lemma":"проникновение","text":"Секс с проникновением рано в таком возрасте.","replace":{"text":"Актриса читала стихи с большим проникновением.","translation":"The actress recited the poems with deep feeling.","target":"проникновением","sense":1}}
+{"lemma":"проститутка","text":"Ни одна женщина не рождается проституткой.","drop":true}
+{"lemma":"проститутка","text":"Те девушки — проститутки.","drop":true}
+{"lemma":"проститутка","text":"Я не проститутка.","drop":true}
+{"lemma":"рог","text":"Мы у чёрта на рогах.","keep":true}
+{"lemma":"связанный","text":"Он создавал еврейский мир в своих картинах, находясь внутри него и оставаясь с ним неразрывно связанным.","keep":true}
+{"lemma":"сегмент","text":"Пьяные вопли под окнами, поножовщина и блеваши вечные спутники данные питейных заведений низшего ценового сегмента.","replace":{"text":"Этот магазин продаёт одежду среднего ценового сегмента.","translation":"This shop sells mid-priced clothing.","target":"сегмента","sense":0}}
+{"lemma":"секс","text":"Когда в последний раз у тебя был секс?","drop":true}
+{"lemma":"секс","text":"Мы больше не занимаемся сексом.","drop":true}
+{"lemma":"секс","text":"Они хотят секса, богатства и славы.","drop":true}
+{"lemma":"сексуальный","text":"Нет ничего сексуального в этом.","replace":{"text":"В этом скромном платье нет ничего сексуального.","translation":"There's nothing sexy about this modest dress.","target":"сексуального","sense":0}}
+{"lemma":"сексуальный","text":"Она очень сексуальная.","replace":{"text":"Эта юбка слишком сексуальная для офиса.","translation":"This skirt is too sexy for the office.","target":"сексуальная","sense":0}}
+{"lemma":"сексуальный","text":"У меня не было сексуальных отношений с этой женщиной.","replace":{"text":"У этой машины очень сексуальный дизайн.","translation":"This car has a really sexy design.","target":"сексуальный","sense":0}}
+{"lemma":"слава","text":"Они хотят секса, богатства и славы.","replace":{"text":"Он никогда не искал славы.","translation":"He never sought fame.","target":"славы","sense":1}}
+{"lemma":"слегка","text":"Том слегка не в себе.","keep":true}
+{"lemma":"сооружение","text":"Кроме деревянных построек было много каменных сооружений.","keep":true,"sense":1}
+{"lemma":"сооружение","text":"Небоскребы — красивые сооружения.","keep":true,"sense":1}
+{"lemma":"сооружение","text":"Сооружение покажите и расскажите о нем интересно, пожалуйста.","keep":true,"sense":1}
+{"lemma":"спецназ","text":"Но этого мало, дуры ещё спамят аккаунты наших детей порнухой прикидываясь разведчиками и спецназом.","replace":{"text":"У нашего тренера тренировки как в спецназе.","translation":"Our coach's training sessions are like special forces training.","target":"спецназе","sense":0}}
+{"lemma":"стальной","text":"У Тома стальные яйца.","replace":{"text":"У неё стальные нервы.","translation":"She has nerves of steel.","target":"стальные","sense":1}}
+{"lemma":"стан","text":"Этот стан твой похож на пальму, и груди твои на виноградные кисти.","replace":{"text":"У этой балерины тонкий стан.","translation":"This ballerina has a slender figure.","target":"стан","sense":0}}
+{"lemma":"строитель","text":"А, он говорил насчёт того, что дети являются строителями будущего, или какую-то подобную ерунду.","replace":{"text":"Дом был построен опытными строителями.","translation":"The house was built by experienced builders.","target":"строителями","sense":0}}
+{"lemma":"сука","text":"Мэри обозвала меня тупой сукой.","replace":{"text":"Заводчица приехала на выставку с молодой сукой.","translation":"The breeder came to the show with a young female dog.","target":"сукой","sense":0}}
+{"lemma":"сука","text":"Она самая настоящая сука.","replace":{"text":"Ваша собака — кобель или сука?","translation":"Is your dog a male or a female?","target":"сука","sense":0}}
+{"lemma":"татарин","text":"-- Ага Ахмет, -- сказала я татарину, -- остановись здесь и выпусти меня!","keep":true}
+{"lemma":"татарин","text":"Незваный гость хуже татарина.","replace":{"text":"Я спросил у знакомого татарина, как сказать спасибо по-татарски.","translation":"I asked a Tatar acquaintance how to say thank you in Tatar.","target":"татарина","sense":0}}
+{"lemma":"татарин","text":"Поскреби русского — найдёшь татарина.","replace":{"text":"Она вышла замуж за татарина из Казани.","translation":"She married a Tatar man from Kazan.","target":"татарина","sense":0}}
+{"lemma":"татарский","text":"В интернете мало сайтов на татарском языке.","keep":true}
+{"lemma":"татарский","text":"Моя мечта - поехать изучать татарский в Казань.","keep":true}
+{"lemma":"татарский","text":"Поисковая система «Яндекс» начала поддерживать и татарский язык.","keep":true}
+{"lemma":"тор","text":"В Торе Лот отдает дочерей-девственниц на изнасилование толпе.","replace":{"text":"На уроке геометрии мы говорили о торе и сфере.","translation":"In geometry class we talked about the torus and the sphere.","target":"торе","sense":0}}
+{"lemma":"удовлетворение","text":"Я не могу достичь сексуального удовлетворения.","replace":{"text":"Эта работа не приносит мне никакого удовлетворения.","translation":"This job doesn't give me any satisfaction.","target":"удовлетворения","sense":0}}
+{"lemma":"уменьшиться","text":"Не курите. От курения член может уменьшиться.","replace":{"text":"После ремонта расходы на отопление должны уменьшиться.","translation":"After the renovation, heating costs should go down.","target":"уменьшиться","sense":0}}
+{"lemma":"упоминание","text":"Древнейшее упоминание о «голой истине» находят у римского поэта Горация.","keep":true}
+{"lemma":"федерация","text":"Чуркистан — так русские националисты презрительно называют азиатские страны или кавказские республики Российской Федерации.","replace":{"text":"Наш тренер раньше работал в федерации тенниса.","translation":"Our coach used to work at the tennis federation.","target":"федерации","sense":0}}
+{"lemma":"хрен","text":"«Попов предатель?» — «Да. Надо дать ему пизды!» — «Как?!» — «Хрен его знает...»","replace":{"text":"Хрен отлично подходит к холодцу.","translation":"Horseradish goes really well with aspic.","target":"Хрен","sense":0}}
+{"lemma":"хрен","text":"Какого хрена тут происходит?","replace":{"text":"Добавь в соус немного хрена.","translation":"Add a little horseradish to the sauce.","target":"хрена","sense":0}}
+{"lemma":"хрен","text":"Ни хрена не понимаю.","replace":{"text":"Мы посадили хрен у забора на даче.","translation":"We planted horseradish by the fence at the dacha.","target":"хрен","sense":0}}
+{"lemma":"хрень","text":"«Что это за хрень?» – «Хер его знает».","drop":true}
+{"lemma":"хрень","text":"Не покупай эту хрень.","drop":true}
+{"lemma":"хрень","text":"Что это за хрень?","drop":true}
+{"lemma":"частый","text":"Частый секс не очень хорош.","replace":{"text":"Он частый гость в нашем доме.","translation":"He's a frequent guest in our house.","target":"частый","sense":0}}
+{"lemma":"чувак","text":"Этот чувак просто с ума сошёл!","keep":true}
+{"lemma":"чёрт","text":"Где ж тебя черти носили, Мэри?","replace":{"text":"В тихом омуте черти водятся.","translation":"Still waters run deep.","target":"черти","sense":0}}
+{"lemma":"чёрт","text":"Что ты делаешь, чёрт возьми?","replace":{"text":"В этой сказке хитрый чёрт обманывает бедного крестьянина.","translation":"In this fairy tale, a cunning devil tricks a poor peasant.","target":"чёрт","sense":0}}
+{"lemma":"чёрт","text":"Что, чёрт возьми, только что было?","replace":{"text":"Не так страшен чёрт, как его малюют.","translation":"The devil is not as black as he is painted.","target":"чёрт","sense":0}}
+{"lemma":"чёртов","text":"Открой эту чёртову дверь!","replace":{"text":"Бабушка испекла чёртову дюжину пирожков.","translation":"Grandma baked a baker's dozen of pies.","target":"чёртову","sense":0}}
+{"lemma":"чёртов","text":"Чёртово землетрясение было ужасным!","replace":{"text":"Чёртово колесо в парке видно издалека.","translation":"The Ferris wheel in the park can be seen from far away.","target":"Чёртово","sense":0}}
+{"lemma":"чёртов","text":"Этот чёртов компьютер не работает.","replace":{"text":"Дети нашли на берегу реки чёртов палец.","translation":"The children found a devil's finger fossil on the riverbank.","target":"чёртов","sense":0}}
+{"lemma":"шар","text":"Это не имеет значения, ребята. Шары не работают.","keep":true}
+{"lemma":"шлюха","text":"Не могу поверить, что он бросил меня ради этой шлюхи!","drop":true}
+{"lemma":"шлюха","text":"Она назвала её шлюхой.","drop":true}
+{"lemma":"шлюха","text":"Я не шлюха!","drop":true}

@@ -1,0 +1,39 @@
+{"lemma":"хозяйство","pos":"noun","rank":820,"drop":[3],"gloss":{},"why":"meaning 3 is a slang word for male genitals: manhood, package"}
+{"lemma":"собака","pos":"noun","rank":994,"drop":[],"gloss":{"2":"mongrel, cur, scoundrel (a detestable person)"},"why":"meaning 2 is a mild insult (cur) worded with bastard"}
+{"lemma":"задержать","pos":"verb","rank":1264,"drop":[],"gloss":{"3":"to slow down, to delay, to hamper"},"why":"to retard (delay) is fine but reads like the ableist slur"}
+{"lemma":"очко","pos":"noun","rank":1501,"drop":[4,5],"gloss":{},"why":"meaning 4 (asshole, anus) is vulgar body slang and 5 is a vulgar sense derived from it"}
+{"lemma":"чёрт","pos":"noun","rank":1549,"drop":[2],"gloss":{},"why":"meaning 2 is the curse damn! hell!"}
+{"lemma":"яйцо","pos":"noun","rank":1590,"drop":[2],"gloss":{},"why":"meaning 2 (ball, nut: testicle) is body slang"}
+{"lemma":"дойти","pos":"verb","rank":1842,"drop":[3],"gloss":{},"why":"meaning 3 (to ejaculate, to cum) is vulgar sexual slang"}
+{"lemma":"голубой","pos":"adjective","rank":1984,"drop":[],"gloss":{"3":"gay man (neutral term)"},"why":"gay (colloquial) is kept as a neutral meaning, but the gloss of meaning 3 listed педераст, an offensive word, as a see-also"}
+{"lemma":"куча","pos":"noun","rank":2226,"drop":[3],"gloss":{},"why":"meaning 3 (piece of…, i.e. a pile of excrement, vulgar) is vulgar body slang"}
+{"lemma":"блин","pos":"noun","rank":2238,"drop":[4],"gloss":{},"why":"meaning 4 (dammit!) is a minced-oath curse, like Polish kurde which was already left out; pancake meanings kept"}
+{"lemma":"доска","pos":"noun","rank":2474,"drop":[4],"gloss":{},"why":"meaning 4 (a flat-chested woman) is derogatory body slang"}
+{"lemma":"сок","pos":"noun","rank":2516,"drop":[2],"gloss":{},"why":"meaning 2 (cum, semen) is vulgar sexual slang"}
+{"lemma":"прибор","pos":"noun","rank":2517,"drop":[2],"gloss":{},"why":"meaning 2 is a slang word for male genitals"}
+{"lemma":"мусор","pos":"noun","rank":2913,"drop":[],"gloss":{"1":"cop (policeman)"},"why":"cop (derogatory slang) is kept like Polish pies, but pig taken out of the English"}
+{"lemma":"вор","pos":"noun","rank":3064,"drop":[1],"gloss":{},"why":"meaning 1 (vore, a sexual fetish) is obscene sexual slang"}
+{"lemma":"сука","pos":"noun","rank":3598,"drop":[1,2,3,4],"gloss":{},"why":"meanings 1-2 are crude insults, 3 is a prison insult built on them and 4 is a vulgar curse; female dog (0) kept. The [all] sentence Не пили сук uses сук (bough), a different word"}
+{"lemma":"надоесть","pos":"verb","rank":3783,"drop":[],"gloss":{"1":"to bother, to pester, to worry, to annoy, to plague"},"why":"to molest now reads as sexual abuse; the meaning is to pester"}
+{"lemma":"дьявол","pos":"noun","rank":3790,"drop":[2],"gloss":{},"why":"meaning 2 is the curse dammit"}
+{"lemma":"поляк","pos":"noun","rank":4065,"drop":[1],"gloss":{},"why":"meaning 1 (Polack) is an ethnic slur; the neutral sense is meaning 0"}
+{"lemma":"палка","pos":"noun","rank":4071,"drop":[1],"gloss":{},"why":"meaning 1 (instance of sex, a fuck) is vulgar sexual slang"}
+{"lemma":"доходить","pos":"verb","rank":4073,"drop":[3],"gloss":{},"why":"meaning 3 (to ejaculate, to cum) is vulgar sexual slang"}
+{"lemma":"проклятый","pos":"adjective","rank":4144,"drop":[1],"gloss":{},"why":"meaning 1 (damned, damn used as an expletive) is a curse intensifier; cursed (0) kept"}
+{"lemma":"задержка","pos":"noun","rank":4262,"drop":[],"gloss":{"1":"delay, slowdown"},"why":"retardation (delay) is fine but reads like the ableist slur"}
+{"lemma":"пан","pos":"noun","rank":4424,"drop":[],"gloss":{"0":"a Pole, a Polish person"},"why":"a Pole (sometimes derogatory) is not a slur in itself, but Polack is offensive English"}
+{"lemma":"бабочка","pos":"noun","rank":4624,"drop":[3],"gloss":{},"why":"meaning 3 (prostitute, hooker) is slang; words for prostitutes were left out (проститутка)"}
+{"lemma":"чёртов","pos":"adjective","rank":4928,"drop":[1],"gloss":{},"why":"meaning 1 (damn, frigging, fucking) is a curse intensifier"}
+{"lemma":"станок","pos":"noun","rank":4977,"drop":[4],"gloss":{},"why":"meaning 4 (ass, booty) is vulgar body slang"}
+{"lemma":"орех","pos":"noun","rank":5115,"drop":[4],"gloss":{},"why":"meaning 4 (ass, booty) is vulgar body slang; cocaine (3) is drug slang, not crude"}
+{"lemma":"плоть","pos":"noun","rank":5272,"drop":[1],"gloss":{},"why":"meaning 1 (foreskin, vulgar slang) is vulgar body slang"}
+{"lemma":"шкура","pos":"noun","rank":5461,"drop":[1,2],"gloss":{},"why":"meanings 1 (bastard, scum) and 2 (whore) are crude insults"}
+{"lemma":"тормоз","pos":"noun","rank":5480,"drop":[],"gloss":{"2":"slow-witted person, slowpoke"},"why":"slow-witted person is a mild insult; retard is an ableist slur"}
+{"lemma":"хрен","pos":"noun","rank":5560,"drop":[1,2,3],"gloss":{},"why":"meanings 1-3 come from хрен as a minced oath (prick as a curse, prick/asshole, old fart): a curse and crude insults; хрень was already left out. Horseradish kept"}
+{"lemma":"козёл","pos":"noun","rank":5661,"drop":[2,3],"gloss":{"1":"idiot, blockhead; jerk"},"why":"meanings 2 and 3 are very offensive criminal slang (3 is a homophobic slur); meaning 1 is a common insult worded with crude English"}
+{"lemma":"кончить","pos":"verb","rank":5755,"drop":[2],"gloss":{},"why":"meaning 2 (to ejaculate, to cum, to orgasm) is sexual slang"}
+{"lemma":"скважина","pos":"noun","rank":5768,"drop":[],"gloss":{"0":"crack, slit, gap, interstice, rift"},"why":"chink is fine here (a crack) but is also a slur"}
+{"lemma":"придурок","pos":"noun","rank":5819,"drop":[],"gloss":{"1":"jerk (inconsiderate or mean-spirited person)"},"why":"meaning 1 is a common insult (jerk) worded with arsehole"}
+{"lemma":"шахтёр","pos":"noun","rank":4490,"drop":[1],"gloss":{},"why":"meaning 1 (someone from the Donbass region) ties the word to Ukraine, which the Russian set keeps off (politics pass); miner (0) kept"}
+{"lemma":"киевский","pos":"adjective","rank":1504,"drop":[],"gloss":{"0":"Kyiv; Kyivan, Kyivite"},"why":"Kyiv, the standard English spelling, as in the sentence translations"}
+{"lemma":"фашист","pos":"noun","rank":4145,"drop":[2],"gloss":{},"why":"meaning 2 (law enforcement agencies of the bourgeoisie in the Russian Federation) is garbled political slang; fascist and Nazi stay"}

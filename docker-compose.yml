@@ -1,0 +1,91 @@
+# VocabBuilder — production stack: the app (Node.js 24 + SQLite) behind Caddy (automatic HTTPS).
+#
+#   cp .env.example .env      # then set VB_DOMAIN (and optionally ACME_EMAIL, VB_FORVO_API_KEY, …)
+#   docker compose up -d --build
+#   docker compose logs app   # shows the one-time setup code on first start
+#
+# Full guide: docs/DEPLOYMENT.md. Backups: docs/BACKUP_RESTORE.md.
+name: vocabbuilder
+
+services:
+  app:
+    build:
+      context: .
+      args:
+        NODE_IMAGE: ${NODE_IMAGE:-node:24-bookworm-slim}
+    image: vocabbuilder:${VB_IMAGE_TAG:-latest}
+    restart: unless-stopped
+    init: true
+    env_file:
+      - .env
+    environment:
+      # Container paths are fixed; persistent data lives in the named volumes below.
+      NODE_ENV: production
+      VB_HOST: 0.0.0.0
+      VB_PORT: "3000"
+      VB_DATA_DIR: /data
+      VB_BACKUP_DIR: /backups
+      VB_STATIC_DIR: /app/dist/web
+      VB_TRUST_PROXY: "1"
+    volumes:
+      - vb_data:/data        # SQLite database, uploaded import files, your own recordings
+      - vb_backups:/backups  # verified backups — also keep a copy away from this server
+      # Independent backup copy on another disk or NAS mount. Set VB_OFFSITE_BACKUP_DIR=/offsite
+      # in .env and make the host directory writable by uid 1000:
+      # - /mnt/backup-disk/vocabbuilder:/offsite
+    # Reachable only by Caddy on the internal network; no host port is published.
+    expose:
+      - "3000"
+    # Plain HTTP on this machine only, without Caddy (testing or an SSH tunnel).
+    # Installing the PWA and offline mode need HTTPS (or localhost).
+    # ports:
+    #   - "127.0.0.1:3000:3000"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/healthz').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 40s
+      start_interval: 3s # quick checks while starting (Docker Engine 25+), so Caddy starts sooner
+    stop_grace_period: 30s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "5"
+    networks:
+      - web
+
+  caddy:
+    # Official image. The 2.11 tag follows 2.11.x patch releases (`docker compose pull caddy`).
+    # For an exact pin use e.g. caddy:2.11.7-alpine (latest exact tag on Docker Hub, Nov 2026).
+    image: caddy:2.11-alpine
+    restart: unless-stopped
+    depends_on:
+      app:
+        condition: service_healthy
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp" # HTTP/3
+    environment:
+      VB_DOMAIN: ${VB_DOMAIN:?Set VB_DOMAIN in .env (for example vocab.example.com)}
+      # Becomes "email you@example.com" in the Caddyfile when ACME_EMAIL is set, otherwise empty.
+      CADDY_EMAIL_OPTION: ${ACME_EMAIL:+email ${ACME_EMAIL}}
+    volumes:
+      - ${VB_CADDYFILE:-./deploy/Caddyfile}:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data     # TLS certificates and keys — keep this volume
+      - caddy_config:/config
+      # Tailscale (*.ts.net) certificates: share the host's tailscaled socket.
+      # - /var/run/tailscale/tailscaled.sock:/var/run/tailscale/tailscaled.sock
+    networks:
+      - web
+
+volumes:
+  vb_data:
+  vb_backups:
+  caddy_data:
+  caddy_config:
+
+networks:
+  web:

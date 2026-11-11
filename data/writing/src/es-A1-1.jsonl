@@ -1,0 +1,100 @@
+{"id":"es-A1-1-001","lang":"es","level":"A1","step":1,"topic":"feelings","en":"I am tired.","answers":["{|Yo }estoy {cansado|cansada}."]}
+{"id":"es-A1-1-002","lang":"es","level":"A1","step":2,"topic":"home","en":"The house is big.","answers":["La casa es grande."]}
+{"id":"es-A1-1-003","lang":"es","level":"A1","step":3,"topic":"study","en":"I am a student.","answers":["{|Yo }soy estudiante."]}
+{"id":"es-A1-1-004","lang":"es","level":"A1","step":4,"topic":"family","en":"My sister is tall.","answers":["Mi hermana es alta."]}
+{"id":"es-A1-1-005","lang":"es","level":"A1","step":5,"topic":"animals","en":"The dog is small.","answers":["El perro es {pequeño|chiquito|chico}."]}
+{"id":"es-A1-1-006","lang":"es","level":"A1","step":6,"topic":"food","en":"I am hungry.","answers":["{|Yo }tengo hambre."]}
+{"id":"es-A1-1-007","lang":"es","level":"A1","step":7,"topic":"home","en":"The window is open.","answers":["La ventana está abierta."]}
+{"id":"es-A1-1-008","lang":"es","level":"A1","step":8,"topic":"friends","en":"We are friends.","answers":["{|Nosotros }somos amigos.","{|Nosotras }somos amigas."]}
+{"id":"es-A1-1-009","lang":"es","level":"A1","step":9,"topic":"weather","en":"It is cold today.","answers":["{Hoy hace frío|Hace frío hoy|Hoy está haciendo frío|Está haciendo frío hoy}."]}
+{"id":"es-A1-1-010","lang":"es","level":"A1","step":10,"topic":"home","en":"Where is the bathroom?","answers":["¿Dónde {está|queda} el baño?"]}
+{"id":"es-A1-1-011","lang":"es","level":"A1","step":11,"topic":"weather","en":"It is raining.","answers":["{Está lloviendo|Llueve}."]}
+{"id":"es-A1-1-012","lang":"es","level":"A1","step":12,"topic":"time","en":"What time is it?","answers":["¿Qué {hora es|horas son}?"]}
+{"id":"es-A1-1-013","lang":"es","level":"A1","step":13,"topic":"time","en":"Today is Monday.","answers":["Hoy es lunes."]}
+{"id":"es-A1-1-014","lang":"es","level":"A1","step":14,"topic":"animals","en":"We have a cat.","answers":["{|Nosotros |Nosotras }tenemos un gato."]}
+{"id":"es-A1-1-015","lang":"es","level":"A1","step":15,"topic":"food","en":"There is no milk.","answers":["No hay leche."]}
+{"id":"es-A1-1-016","lang":"es","level":"A1","step":16,"topic":"food","en":"I don't eat meat.","answers":["{|Yo }no como carne."]}
+{"id":"es-A1-1-017","lang":"es","level":"A1","step":17,"topic":"shopping","en":"The shop is closed.","answers":["La tienda está cerrada."]}
+{"id":"es-A1-1-018","lang":"es","level":"A1","step":18,"topic":"transport","en":"The bus is full.","answers":["El {bus|autobús} está lleno."]}
+{"id":"es-A1-1-019","lang":"es","level":"A1","step":19,"topic":"home","en":"I live in a flat.","answers":["{|Yo }vivo en un apartamento."]}
+{"id":"es-A1-1-020","lang":"es","level":"A1","step":20,"topic":"weather","en":"There are a lot of clouds today.","answers":["{Hoy hay muchas nubes|Hay muchas nubes hoy}."]}
+{"id":"es-A1-1-021","lang":"es","level":"A1","step":21,"topic":"food","en":"A black coffee, please.","answers":["{Un tinto|Un café tinto|Un café negro}, por favor.","Por favor, {un tinto|un café tinto|un café negro}."]}
+{"id":"es-A1-1-022","lang":"es","level":"A1","step":22,"topic":"food","en":"I like fruit.","answers":["{|A mí }me gusta la fruta.","{|A mí }me gustan las frutas."]}
+{"id":"es-A1-1-023","lang":"es","level":"A1","step":23,"topic":"family","en":"I have two brothers.","answers":["{|Yo }tengo dos hermanos."]}
+{"id":"es-A1-1-024","lang":"es","level":"A1","step":24,"topic":"health","en":"I have a cold.","answers":["{|Yo }tengo {gripa|gripe|un resfriado}.","{|Yo }estoy {resfriado|resfriada|agripado|agripada}."]}
+{"id":"es-A1-1-025","lang":"es","level":"A1","step":25,"topic":"friends","en":"Are you ready?","context":"to several friends","answers":["¿{Están|Ustedes están|Están ustedes} {listos|listas}?"]}
+{"id":"es-A1-1-026","lang":"es","level":"A1","step":26,"topic":"health","en":"Are you cold?","context":"to a friend","answers":["¿{Tienes|Tú tienes|Tiene|Usted tiene|Tiene usted} frío?"]}
+{"id":"es-A1-1-027","lang":"es","level":"A1","step":27,"topic":"study","en":"I study Spanish.","answers":["{|Yo }estudio {español|castellano}."]}
+{"id":"es-A1-1-028","lang":"es","level":"A1","step":28,"topic":"people","en":"Who is that man?","answers":["¿Quién es {ese|aquel} {señor|hombre}?"]}
+{"id":"es-A1-1-029","lang":"es","level":"A1","step":29,"topic":"work","en":"My mother is a doctor.","answers":["Mi {mamá|madre} es {médica|doctora}."]}
+{"id":"es-A1-1-030","lang":"es","level":"A1","step":30,"topic":"shopping","en":"How much is the bread?","answers":["¿Cuánto {cuesta|vale|es} el pan?"]}
+{"id":"es-A1-1-031","lang":"es","level":"A1","step":31,"topic":"time","en":"It is three o'clock.","answers":["Son las tres{| en punto}."]}
+{"id":"es-A1-1-032","lang":"es","level":"A1","step":32,"topic":"animals","en":"Cows eat grass.","answers":["Las vacas comen {pasto|hierba}."]}
+{"id":"es-A1-1-033","lang":"es","level":"A1","step":33,"topic":"family","en":"My parents are at home.","answers":["Mis {papás|padres} están en {la casa|casa}."]}
+{"id":"es-A1-1-034","lang":"es","level":"A1","step":34,"topic":"work","en":"The waiter is very young.","answers":["El mesero es muy joven."]}
+{"id":"es-A1-1-035","lang":"es","level":"A1","step":35,"topic":"family","en":"My son is ten years old.","answers":["Mi hijo tiene diez años."]}
+{"id":"es-A1-1-036","lang":"es","level":"A1","step":36,"topic":"health","en":"I drink a lot of water every day.","answers":["{|Yo }{tomo|bebo} mucha agua {todos los días|cada día}.","{Todos los días|Cada día} {|yo }{tomo|bebo} mucha agua."]}
+{"id":"es-A1-1-037","lang":"es","level":"A1","step":37,"topic":"clothes","en":"Where are my socks?","answers":["¿Dónde están mis {medias|calcetines}?"]}
+{"id":"es-A1-1-038","lang":"es","level":"A1","step":38,"topic":"shopping","en":"I don't have any money.","answers":["{|Yo }no tengo {|nada de }{plata|dinero}."]}
+{"id":"es-A1-1-039","lang":"es","level":"A1","step":39,"topic":"work","en":"My father works in an office.","answers":["Mi {papá|padre} trabaja en una oficina."]}
+{"id":"es-A1-1-040","lang":"es","level":"A1","step":40,"topic":"sport","en":"The match is on Sunday.","answers":["El partido es el domingo.","El domingo es el partido."]}
+{"id":"es-A1-1-041","lang":"es","level":"A1","step":41,"topic":"health","en":"My head hurts.","answers":["{|A mí }me duele la cabeza.","{|Yo }tengo dolor de cabeza."]}
+{"id":"es-A1-1-042","lang":"es","level":"A1","step":42,"topic":"study","en":"There are twenty students in the class.","answers":["Hay veinte {estudiantes|alumnos} en la clase.","En la clase hay veinte {estudiantes|alumnos}."]}
+{"id":"es-A1-1-043","lang":"es","level":"A1","step":43,"topic":"nature","en":"The mountains are green.","answers":["Las montañas {son|están} verdes."]}
+{"id":"es-A1-1-044","lang":"es","level":"A1","step":44,"topic":"clothes","en":"I need a new jacket.","answers":["{|Yo }necesito una {chaqueta nueva|nueva chaqueta}."]}
+{"id":"es-A1-1-045","lang":"es","level":"A1","step":45,"topic":"shopping","en":"Can I pay by card?","answers":["¿{|Yo }puedo pagar con tarjeta?"]}
+{"id":"es-A1-1-046","lang":"es","level":"A1","step":46,"topic":"food","en":"We eat rice and beans.","answers":["{|Nosotros |Nosotras }comemos arroz y {fríjoles|frijoles}."]}
+{"id":"es-A1-1-047","lang":"es","level":"A1","step":47,"topic":"time","en":"When is your birthday?","context":"to a friend","answers":["¿Cuándo es {tu|su} cumpleaños?","¿Cuándo {cumples|cumple} años?"]}
+{"id":"es-A1-1-048","lang":"es","level":"A1","step":48,"topic":"transport","en":"We don't have a car.","answers":["{|Nosotros |Nosotras }no tenemos {carro|un carro|auto|un auto}."]}
+{"id":"es-A1-1-049","lang":"es","level":"A1","step":49,"topic":"sport","en":"My brother plays football.","answers":["Mi hermano juega {fútbol|al fútbol}."]}
+{"id":"es-A1-1-050","lang":"es","level":"A1","step":50,"topic":"shopping","en":"A kilo of tomatoes, please.","answers":["Un kilo de {tomates|tomate}, por favor.","Por favor, un kilo de {tomates|tomate}."]}
+{"id":"es-A1-1-051","lang":"es","level":"A1","step":51,"topic":"city","en":"The park is near my house.","answers":["El parque {está|queda} cerca de mi casa."]}
+{"id":"es-A1-1-052","lang":"es","level":"A1","step":52,"topic":"weather","en":"Do you have an umbrella?","context":"to a friend","answers":["¿{Tienes|Tú tienes|Tiene|Usted tiene|Tiene usted} {sombrilla|paraguas|una sombrilla|un paraguas}?"]}
+{"id":"es-A1-1-053","lang":"es","level":"A1","step":53,"topic":"weather","en":"It rains a lot in April.","answers":["{Llueve mucho en abril|En abril llueve mucho}."]}
+{"id":"es-A1-1-054","lang":"es","level":"A1","step":54,"topic":"food","en":"Breakfast is at seven.","answers":["El desayuno es a las siete.","A las siete es el desayuno."]}
+{"id":"es-A1-1-055","lang":"es","level":"A1","step":55,"topic":"travel","en":"Do you speak English?","context":"polite","answers":["¿{Habla|Usted habla|Habla usted} inglés?"]}
+{"id":"es-A1-1-056","lang":"es","level":"A1","step":56,"topic":"weather","en":"I don't like rain.","answers":["{|A mí }no me gusta la lluvia."]}
+{"id":"es-A1-1-057","lang":"es","level":"A1","step":57,"topic":"feelings","en":"My friend is sad today.","answers":["Mi {amigo|amiga} está triste hoy.","Hoy mi {amigo|amiga} está triste.","Mi {amigo|amiga} hoy está triste."]}
+{"id":"es-A1-1-058","lang":"es","level":"A1","step":58,"topic":"shopping","en":"On Saturdays I go to the market.","answers":["Los sábados {|yo }voy al mercado.","{|Yo }voy al mercado los sábados."]}
+{"id":"es-A1-1-059","lang":"es","level":"A1","step":59,"topic":"family","en":"My grandparents live in the countryside.","answers":["Mis abuelos viven en el campo."]}
+{"id":"es-A1-1-060","lang":"es","level":"A1","step":60,"topic":"study","en":"The teacher is very nice.","answers":["{El profesor|El maestro} es muy {amable|simpático|agradable}.","{La profesora|La maestra} es muy {amable|simpática|agradable}."]}
+{"id":"es-A1-1-061","lang":"es","level":"A1","step":61,"topic":"people","en":"Where do you live?","context":"polite, to several people","answers":["¿{Dónde|En dónde} viven{| ustedes}?","¿Ustedes {dónde|en dónde} viven?"]}
+{"id":"es-A1-1-062","lang":"es","level":"A1","step":62,"topic":"hobbies","en":"We watch television on Sundays.","answers":["{|Nosotros |Nosotras }{vemos|miramos} {televisión|la televisión} los domingos.","Los domingos {|nosotros |nosotras }{vemos|miramos} {televisión|la televisión}."]}
+{"id":"es-A1-1-063","lang":"es","level":"A1","step":63,"topic":"work","en":"We work from Monday to Friday.","answers":["{|Nosotros |Nosotras }trabajamos de lunes a viernes.","De lunes a viernes {|nosotros |nosotras }trabajamos."]}
+{"id":"es-A1-1-064","lang":"es","level":"A1","step":64,"topic":"food","en":"I like arepas with cheese.","answers":["{|A mí }me gustan las arepas con queso."]}
+{"id":"es-A1-1-065","lang":"es","level":"A1","step":65,"topic":"home","en":"Welcome to our home!","answers":["¡{Bienvenidos|Bienvenido|Bienvenida|Bienvenidas} a nuestra casa!","¡{Bienvenidos|Bienvenido|Bienvenida|Bienvenidas} a nuestro hogar!"]}
+{"id":"es-A1-1-066","lang":"es","level":"A1","step":66,"topic":"animals","en":"The birds sing in the morning.","answers":["Los pájaros cantan {en|por} {la mañana|las mañanas}.","{En|Por} {la mañana|las mañanas} {los pájaros cantan|cantan los pájaros}.","Las aves cantan {en|por} {la mañana|las mañanas}.","{En|Por} {la mañana|las mañanas} {las aves cantan|cantan las aves}."]}
+{"id":"es-A1-1-067","lang":"es","level":"A1","step":67,"topic":"food","en":"Do you want a juice or a coffee?","context":"to a friend","answers":["¿{Quieres|Tú quieres|Quiere|Usted quiere|Quiere usted} un jugo o un café?"]}
+{"id":"es-A1-1-068","lang":"es","level":"A1","step":68,"topic":"city","en":"Is there a pharmacy near here?","answers":["¿Hay {una|alguna} {droguería|farmacia} {cerca de aquí|cerca de acá|por aquí cerca|por acá cerca|aquí cerca|acá cerca}?"]}
+{"id":"es-A1-1-069","lang":"es","level":"A1","step":69,"topic":"family","en":"How old is your daughter?","context":"polite","answers":["¿{Cuántos años|Qué edad} tiene su hija?","¿Su hija {cuántos años|qué edad} tiene?"]}
+{"id":"es-A1-1-070","lang":"es","level":"A1","step":70,"topic":"travel","en":"The hotel is next to the beach.","answers":["El hotel {está|queda} {al lado de|junto a} la playa."]}
+{"id":"es-A1-1-071","lang":"es","level":"A1","step":71,"topic":"work","en":"My colleague doesn't work on Wednesdays.","answers":["Mi {colega|compañero|compañera|compañero de trabajo|compañera de trabajo} no trabaja los miércoles.","Los miércoles mi {colega|compañero|compañera|compañero de trabajo|compañera de trabajo} no trabaja."]}
+{"id":"es-A1-1-072","lang":"es","level":"A1","step":72,"topic":"transport","en":"I go to university by bike.","answers":["{|Yo }voy a la universidad en {bicicleta|bici}.","{|Yo }voy en {bicicleta|bici} a la universidad."]}
+{"id":"es-A1-1-073","lang":"es","level":"A1","step":73,"topic":"weather","en":"What a beautiful day!","answers":["¡Qué día {tan|más} {bonito|lindo|hermoso|bello}!","¡Qué {bonito|lindo|hermoso|bello} día!"]}
+{"id":"es-A1-1-074","lang":"es","level":"A1","step":74,"topic":"hobbies","en":"My father likes to cook.","answers":["A mi {papá|padre} le gusta cocinar."]}
+{"id":"es-A1-1-075","lang":"es","level":"A1","step":75,"topic":"study","en":"My classes start in February.","answers":["Mis clases {empiezan|comienzan} en febrero.","En febrero {empiezan|comienzan} mis clases.","En febrero mis clases {empiezan|comienzan}."]}
+{"id":"es-A1-1-076","lang":"es","level":"A1","step":76,"topic":"health","en":"My eyes are brown.","answers":["Mis ojos son {cafés|café|castaños|marrones}.","{|Yo }tengo los ojos {cafés|café|castaños|marrones}."]}
+{"id":"es-A1-1-077","lang":"es","level":"A1","step":77,"topic":"time","en":"It is half past two.","answers":["Son las dos y {media|treinta}."]}
+{"id":"es-A1-1-078","lang":"es","level":"A1","step":78,"topic":"family","en":"My cousin lives with us.","answers":["Mi {primo|prima} vive con {nosotros|nosotras}."]}
+{"id":"es-A1-1-079","lang":"es","level":"A1","step":79,"topic":"feelings","en":"I am very happy here.","answers":["{|Yo }estoy muy {feliz|contento|contenta} {aquí|acá}.","{Aquí|Acá} {|yo }estoy muy {feliz|contento|contenta}.","{|Yo }soy muy feliz {aquí|acá}.","{Aquí|Acá} {|yo }soy muy feliz."]}
+{"id":"es-A1-1-080","lang":"es","level":"A1","step":80,"topic":"travel","en":"Our suitcases are very heavy.","answers":["Nuestras maletas {están|son} muy pesadas."]}
+{"id":"es-A1-1-081","lang":"es","level":"A1","step":81,"topic":"travel","en":"We travel by plane in December.","answers":["{|Nosotros |Nosotras }viajamos en avión en diciembre.","En diciembre {|nosotros |nosotras }viajamos en avión."]}
+{"id":"es-A1-1-082","lang":"es","level":"A1","step":82,"topic":"city","en":"There is a lot of traffic in the city.","answers":["Hay mucho {tráfico|tránsito|trancón} en la ciudad.","En la ciudad hay mucho {tráfico|tránsito|trancón}."]}
+{"id":"es-A1-1-083","lang":"es","level":"A1","step":83,"topic":"work","en":"My uncle has a small shop.","answers":["Mi tío tiene una {tienda pequeña|pequeña tienda}."]}
+{"id":"es-A1-1-084","lang":"es","level":"A1","step":84,"topic":"food","en":"This soup is delicious!","answers":["¡Esta sopa {está|es} {deliciosa|rica|sabrosa}!","¡{Está|Es} {deliciosa|rica|sabrosa} esta sopa!"]}
+{"id":"es-A1-1-085","lang":"es","level":"A1","step":85,"topic":"home","en":"Our neighbour has two dogs and a cat.","answers":["{Nuestro vecino|Nuestra vecina} tiene dos perros y un gato."]}
+{"id":"es-A1-1-086","lang":"es","level":"A1","step":86,"topic":"shopping","en":"Do you have this shirt in blue?","context":"polite","answers":["¿{Tiene|Usted tiene|Tiene usted|Tienen|Ustedes tienen|Tienen ustedes} esta camisa en azul?"]}
+{"id":"es-A1-1-087","lang":"es","level":"A1","step":87,"topic":"transport","en":"The bus stop is on this street.","answers":["{El paradero|La parada} {está|queda} en esta calle."]}
+{"id":"es-A1-1-088","lang":"es","level":"A1","step":88,"topic":"family","en":"My parents' house is old but beautiful.","answers":["La casa de mis {papás|padres} es {vieja|antigua}, pero {bonita|linda|hermosa|bella}."]}
+{"id":"es-A1-1-089","lang":"es","level":"A1","step":89,"topic":"hobbies","en":"My son plays the guitar very well.","answers":["Mi hijo toca {muy bien la guitarra|la guitarra muy bien}."]}
+{"id":"es-A1-1-090","lang":"es","level":"A1","step":90,"topic":"city","en":"The museum is closed on Mondays.","answers":["El museo está cerrado los lunes.","Los lunes el museo está cerrado.","Los lunes está cerrado el museo.","El museo cierra los lunes.","Los lunes {el museo cierra|cierra el museo}."]}
+{"id":"es-A1-1-091","lang":"es","level":"A1","step":91,"topic":"time","en":"Today is the fifteenth of March.","answers":["Hoy es {|el }quince de marzo."]}
+{"id":"es-A1-1-092","lang":"es","level":"A1","step":92,"topic":"study","en":"Is the library open today?","answers":["¿La biblioteca {está abierta|abre} hoy?","¿Está abierta {la biblioteca hoy|hoy la biblioteca}?","¿Está la biblioteca abierta hoy?","¿Hoy {está abierta la biblioteca|la biblioteca está abierta|abre la biblioteca}?","¿La biblioteca hoy está abierta?","¿Abre {la biblioteca hoy|hoy la biblioteca}?"]}
+{"id":"es-A1-1-093","lang":"es","level":"A1","step":93,"topic":"weather","en":"It is very windy in August.","answers":["En agosto {hace|hay} mucho viento.","{Hace|Hay} mucho viento en agosto."]}
+{"id":"es-A1-1-094","lang":"es","level":"A1","step":94,"topic":"shopping","en":"How many oranges do you want?","context":"polite","answers":["¿Cuántas naranjas {quiere|desea}{| usted}?","¿Usted cuántas naranjas {quiere|desea}?"]}
+{"id":"es-A1-1-095","lang":"es","level":"A1","step":95,"topic":"people","en":"What is your phone number?","context":"to a friend","answers":["¿Cuál es {tu|su} número de {celular|teléfono}?","¿Cuál es el número de {tu|su} {celular|teléfono}?"]}
+{"id":"es-A1-1-096","lang":"es","level":"A1","step":96,"topic":"clothes","en":"My shoes are under the bed.","answers":["Mis zapatos están {debajo de|bajo} la cama."]}
+{"id":"es-A1-1-097","lang":"es","level":"A1","step":97,"topic":"travel","en":"I would like a room for two nights, please.","answers":["{Quisiera|Me gustaría|Yo quisiera|A mí me gustaría} {una habitación|un cuarto} {para|por} dos noches, por favor.","Por favor, {quisiera|me gustaría|yo quisiera|a mí me gustaría} {una habitación|un cuarto} {para|por} dos noches."]}
+{"id":"es-A1-1-098","lang":"es","level":"A1","step":98,"topic":"nature","en":"The flowers in our garden are yellow.","answers":["Las flores {de|en} nuestro jardín son amarillas."]}
+{"id":"es-A1-1-099","lang":"es","level":"A1","step":99,"topic":"study","en":"My daughter does her homework in the afternoon.","answers":["Mi hija hace {la tarea|las tareas|su tarea|sus tareas} {en|por} {la tarde|las tardes}.","{En|Por} {la tarde|las tardes} mi hija hace {la tarea|las tareas|su tarea|sus tareas}."]}
+{"id":"es-A1-1-100","lang":"es","level":"A1","step":100,"topic":"family","en":"On Sundays we have lunch with my grandparents.","answers":["Los domingos {|nosotros |nosotras }almorzamos con mis abuelos.","{|Nosotros |Nosotras }almorzamos con mis abuelos los domingos."]}

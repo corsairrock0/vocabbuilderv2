@@ -1,0 +1,3528 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "pt",
+  "source": {
+    "name": "VocabBuilder starter set (Brazilian Portuguese)",
+    "kind": "curated",
+    "license": "© 2026 Lango. All rights reserved.",
+    "notes": "Hand-written by an AI assistant (Claude) as a small starter set for VocabBuilder. Not corpus-derived: curatedOrder is a teaching order, not a frequency rank. Review and edit freely."
+  },
+  "entries": [
+    {
+      "lemma": "tudo bem",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "how are you?",
+          "translations": [
+            "how are you?",
+            "how's it going?",
+            "are you OK?",
+            "all good?",
+            "everything OK?"
+          ],
+          "note": "The standard casual greeting question."
+        },
+        {
+          "gloss": "I'm fine",
+          "translations": [
+            "I'm fine",
+            "all good",
+            "fine",
+            "OK",
+            "it's fine",
+            "no problem"
+          ],
+          "note": "As an answer or reply: Tudo bem! = I'm fine / It's OK / No problem."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Oi, Ana! Tudo bem?",
+          "translation": "Hi, Ana! How are you?",
+          "target": "Tudo bem",
+          "sense": 0
+        },
+        {
+          "text": "Tudo bem, e você?",
+          "translation": "I'm good, and you?",
+          "target": "Tudo bem",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "register": "neutral",
+      "regionalNote": "The everyday Brazilian greeting. Casual variants: Tudo bom? / Tudo certo? / Beleza?",
+      "curatedOrder": 1
+    },
+    {
+      "lemma": "bom dia",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "good morning",
+          "translations": [
+            "good morning",
+            "morning",
+            "good day"
+          ],
+          "note": "Used until about noon; then boa tarde (good afternoon) and boa noite (good evening, good night)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Bom dia! Dormiu bem?",
+          "translation": "Good morning! Did you sleep well?",
+          "target": "Bom dia",
+          "sense": 0
+        },
+        {
+          "text": "Bom dia, gente! Tudo bem?",
+          "translation": "Morning, everyone! How's it going?",
+          "target": "Bom dia",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "boa tarde",
+          "translation": "good afternoon"
+        },
+        {
+          "text": "boa noite",
+          "translation": "good evening; good night"
+        }
+      ],
+      "tags": [
+        "greetings"
+      ],
+      "register": "neutral",
+      "curatedOrder": 2
+    },
+    {
+      "lemma": "obrigado",
+      "pos": "interjection",
+      "senses": [
+        {
+          "gloss": "thank you",
+          "translations": [
+            "thank you",
+            "thanks"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "obrigada",
+          "tags": [
+            "feminine"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Muito obrigado pela ajuda!",
+          "translation": "Thanks so much for the help!",
+          "target": "obrigado",
+          "sense": 0
+        },
+        {
+          "text": "Obrigada, você é muito gentil.",
+          "translation": "Thank you, you're very kind.",
+          "target": "Obrigada",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "muito obrigado",
+          "translation": "thank you very much"
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Agrees with the speaker: men say obrigado, women say obrigada."
+      },
+      "register": "neutral",
+      "regionalNote": "Among friends Brazilians often just say Valeu! (Thanks!, informal).",
+      "curatedOrder": 3
+    },
+    {
+      "lemma": "por favor",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "please",
+          "translations": [
+            "please"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Um café, por favor.",
+          "translation": "A coffee, please.",
+          "target": "por favor",
+          "sense": 0
+        },
+        {
+          "text": "Pode falar mais devagar, por favor?",
+          "translation": "Could you speak more slowly, please?",
+          "target": "por favor",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "register": "neutral",
+      "curatedOrder": 4
+    },
+    {
+      "lemma": "de nada",
+      "pos": "phrase",
+      "senses": [
+        {
+          "gloss": "you're welcome",
+          "translations": [
+            "you're welcome",
+            "no problem",
+            "don't mention it",
+            "not at all"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "De nada, foi um prazer.",
+          "translation": "You're welcome, it was a pleasure.",
+          "target": "De nada",
+          "sense": 0
+        },
+        {
+          "text": "Imagina, de nada! Precisando, é só falar.",
+          "translation": "Don't mention it! If you need anything, just ask.",
+          "target": "de nada",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "greetings",
+        "communication"
+      ],
+      "register": "neutral",
+      "regionalNote": "Brazilians also reply Imagina! (Don't mention it!) or Por nada.",
+      "curatedOrder": 5
+    },
+    {
+      "lemma": "sim",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "yes",
+          "translations": [
+            "yes",
+            "yeah"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Sim, claro! Pode entrar.",
+          "translation": "Yes, of course! Come on in.",
+          "target": "Sim",
+          "sense": 0
+        },
+        {
+          "text": "Eu acho que sim.",
+          "translation": "I think so.",
+          "target": "sim",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Brazilians often answer 'yes' by repeating the verb instead: Você quer café? — Quero!"
+      },
+      "register": "neutral",
+      "curatedOrder": 6
+    },
+    {
+      "lemma": "não",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "no",
+          "translations": [
+            "no",
+            "not",
+            "don't"
+          ],
+          "note": "Before a verb it means 'not': Não entendi (I didn't understand)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Não, obrigado. Estou bem.",
+          "translation": "No, thanks. I'm fine.",
+          "target": "Não",
+          "sense": 0
+        },
+        {
+          "text": "Desculpa, eu não entendi.",
+          "translation": "Sorry, I didn't get that.",
+          "target": "não",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "In speech it is often repeated at the end for emphasis: Não sei, não (I really don't know)."
+      },
+      "register": "neutral",
+      "curatedOrder": 7
+    },
+    {
+      "lemma": "você",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "you",
+          "translations": [
+            "you"
+          ],
+          "note": "The everyday singular 'you' in Brazil."
+        }
+      ],
+      "forms": [
+        {
+          "form": "vocês",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Você é de onde?",
+          "translation": "Where are you from?",
+          "target": "Você",
+          "sense": 0
+        },
+        {
+          "text": "Vocês querem tomar um café?",
+          "translation": "Do you guys want to grab a coffee?",
+          "target": "Vocês",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people",
+        "communication"
+      ],
+      "grammar": {
+        "notes": "Takes the same verb form as ele/ela: você fala, você é. Plural vocês = you all. To show respect (older people, formal settings): o senhor / a senhora."
+      },
+      "register": "neutral",
+      "regionalNote": "Standard in most of Brazil; in speech often shortened to cê. In some regions (the South, Rio, parts of the North and Northeast) you'll also hear tu.",
+      "curatedOrder": 8
+    },
+    {
+      "lemma": "a gente",
+      "pos": "pronoun",
+      "senses": [
+        {
+          "gloss": "we",
+          "translations": [
+            "we",
+            "us"
+          ],
+          "note": "Colloquial 'we', extremely common in speech; 'us' after prepositions: com a gente (with us)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A gente se vê amanhã!",
+          "translation": "See you tomorrow!",
+          "target": "A gente",
+          "sense": 0
+        },
+        {
+          "text": "Você quer almoçar com a gente?",
+          "translation": "Do you want to have lunch with us?",
+          "target": "a gente",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "Takes the 3rd-person singular verb form: a gente vai (we're going), a gente é. Without the article, gente means 'people' or 'guys': Oi, gente!"
+      },
+      "register": "informal",
+      "regionalNote": "Used all over Brazil in everyday speech; nós sounds more formal or written.",
+      "curatedOrder": 9
+    },
+    {
+      "lemma": "ser",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be"
+          ],
+          "note": "Identity, origin, profession and characteristics: Sou de Chicago."
+        }
+      ],
+      "forms": [
+        {
+          "form": "sou",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "é",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "somos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "é",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "são",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "foi",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu sou dos Estados Unidos.",
+          "translation": "I'm from the United States.",
+          "target": "sou",
+          "sense": 0
+        },
+        {
+          "text": "Ela é muito simpática.",
+          "translation": "She's very friendly.",
+          "target": "é",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular. Ser for identity, origin and characteristics; estar for location and temporary states. Você and a gente take the ele form: você é, a gente é."
+      },
+      "register": "neutral",
+      "curatedOrder": 10
+    },
+    {
+      "lemma": "estar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to be",
+          "translations": [
+            "to be",
+            "be"
+          ],
+          "note": "Location and temporary states: Estou cansado."
+        }
+      ],
+      "forms": [
+        {
+          "form": "estou",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "está",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "estamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "está",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "estão",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "esteve",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hoje eu estou muito cansado.",
+          "translation": "I'm really tired today.",
+          "target": "estou",
+          "sense": 0
+        },
+        {
+          "text": "Onde você está agora?",
+          "translation": "Where are you now?",
+          "target": "está",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular. In speech often shortened: tô (estou), tá (está), tão (estão)."
+      },
+      "register": "neutral",
+      "curatedOrder": 11
+    },
+    {
+      "lemma": "ter",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to have",
+          "translations": [
+            "to have",
+            "have",
+            "to have got",
+            "have got"
+          ]
+        },
+        {
+          "gloss": "there is",
+          "translations": [
+            "there is",
+            "there are"
+          ],
+          "note": "Brazilian everyday use of tem: Tem pão? (Is there any bread?)"
+        }
+      ],
+      "forms": [
+        {
+          "form": "tenho",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "tem",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "temos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "tem",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "têm",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "teve",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu tenho uma irmã mais velha.",
+          "translation": "I have an older sister.",
+          "target": "tenho",
+          "sense": 0
+        },
+        {
+          "text": "Tem farmácia aqui perto?",
+          "translation": "Is there a pharmacy near here?",
+          "target": "Tem",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: tenho, tem, past teve. Note the circumflex in vocês/eles têm."
+      },
+      "register": "neutral",
+      "regionalNote": "In Brazil tem is the everyday way to say 'there is/are'; há (from haver) sounds formal or written.",
+      "curatedOrder": 12
+    },
+    {
+      "lemma": "querer",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to want",
+          "translations": [
+            "to want",
+            "want",
+            "would like"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "quero",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "quer",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "queremos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "quer",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "querem",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "quis",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Você quer sair hoje à noite?",
+          "translation": "Do you want to go out tonight?",
+          "target": "quer",
+          "sense": 0
+        },
+        {
+          "text": "Eu queria um suco de manga.",
+          "translation": "I'd like a mango juice.",
+          "target": "queria",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: ele quer (no final -e), past quis. For polite requests use the imperfect: Eu queria… (I'd like…)."
+      },
+      "register": "neutral",
+      "curatedOrder": 13
+    },
+    {
+      "lemma": "ir",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to go",
+          "translations": [
+            "to go",
+            "go"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "vou",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "vai",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "vamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "vai",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "vão",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "foi",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu vou ao mercado mais tarde.",
+          "translation": "I'm going to the supermarket later.",
+          "target": "vou",
+          "sense": 0
+        },
+        {
+          "text": "Vamos tomar um açaí?",
+          "translation": "Shall we go get an açaí?",
+          "target": "Vamos",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "vamos embora",
+          "translation": "let's go; let's leave"
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "travel"
+      ],
+      "grammar": {
+        "notes": "Very irregular. Ir + infinitive = 'going to': Vou comer. The past foi is the same as for ser."
+      },
+      "register": "neutral",
+      "curatedOrder": 14
+    },
+    {
+      "lemma": "água",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "water",
+          "translations": [
+            "water"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "águas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Uma água sem gás, por favor.",
+          "translation": "A still water, please.",
+          "target": "água",
+          "sense": 0
+        },
+        {
+          "text": "Quer um copo de água?",
+          "translation": "Would you like a glass of water?",
+          "target": "água",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "água com gás",
+          "translation": "sparkling water"
+        },
+        {
+          "text": "água de coco",
+          "translation": "coconut water"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 15
+    },
+    {
+      "lemma": "café",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "coffee",
+          "translations": [
+            "coffee"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "cafés",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vamos tomar um café?",
+          "translation": "Shall we grab a coffee?",
+          "target": "café",
+          "sense": 0
+        },
+        {
+          "text": "Eu tomo café sem açúcar.",
+          "translation": "I drink my coffee without sugar.",
+          "target": "café",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "café com leite",
+          "translation": "coffee with milk"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "A cafezinho (small, strong, often sweet coffee) is offered to guests and clients all over Brazil.",
+      "curatedOrder": 16
+    },
+    {
+      "lemma": "poder",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "can",
+          "translations": [
+            "can",
+            "to be able to",
+            "be able to",
+            "could",
+            "may"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "posso",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "pode",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "podemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pode",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "podem",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pôde",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Posso pagar com cartão?",
+          "translation": "Can I pay by card?",
+          "target": "Posso",
+          "sense": 0
+        },
+        {
+          "text": "Você pode me ajudar?",
+          "translation": "Can you help me?",
+          "target": "pode",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Irregular: eu posso. The past pôde has a circumflex to distinguish it from the present pode."
+      },
+      "register": "neutral",
+      "curatedOrder": 17
+    },
+    {
+      "lemma": "falar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to speak",
+          "translations": [
+            "to speak",
+            "speak",
+            "to talk",
+            "talk",
+            "to say",
+            "say"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "falo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "fala",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "falamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "fala",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "falam",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "falou",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Você fala inglês ou espanhol?",
+          "translation": "Do you speak English or Spanish?",
+          "target": "fala",
+          "sense": 0
+        },
+        {
+          "text": "Eu falo um pouco de português.",
+          "translation": "I speak a little Portuguese.",
+          "target": "falo",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "falar com",
+          "translation": "to talk to"
+        },
+        {
+          "text": "falou!",
+          "translation": "OK, deal! / see ya! (slang)"
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb."
+      },
+      "register": "neutral",
+      "curatedOrder": 18
+    },
+    {
+      "lemma": "entender",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to understand",
+          "translations": [
+            "to understand",
+            "understand",
+            "to get",
+            "get"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "entendo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "entende",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "entendemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "entende",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "entendem",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "entendeu",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Você entendeu o que eu falei?",
+          "translation": "Did you understand what I said?",
+          "target": "entendeu",
+          "sense": 0
+        },
+        {
+          "text": "Eu entendo, mas não falo bem.",
+          "translation": "I understand, but I don't speak well.",
+          "target": "entendo",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -er verb. Não entendi = I didn't understand / I didn't get that."
+      },
+      "register": "neutral",
+      "curatedOrder": 19
+    },
+    {
+      "lemma": "onde",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "where",
+          "translations": [
+            "where"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Onde fica a estação de metrô?",
+          "translation": "Where's the subway station?",
+          "target": "Onde",
+          "sense": 0
+        },
+        {
+          "text": "Onde você comprou essa camiseta?",
+          "translation": "Where did you buy that T-shirt?",
+          "target": "Onde",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "onde fica…?",
+          "translation": "where is…? (for places)"
+        },
+        {
+          "text": "de onde",
+          "translation": "from where"
+        }
+      ],
+      "tags": [
+        "questions"
+      ],
+      "grammar": {
+        "notes": "For the location of places use Onde fica…? (Where is…?). 'Where to' is para onde: Para onde você vai?"
+      },
+      "register": "neutral",
+      "curatedOrder": 20
+    },
+    {
+      "lemma": "muito",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "very",
+          "translations": [
+            "very",
+            "really",
+            "so"
+          ]
+        },
+        {
+          "gloss": "a lot",
+          "translations": [
+            "a lot",
+            "much",
+            "very much",
+            "lots"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Você fala muito bem!",
+          "translation": "You speak really well!",
+          "target": "muito",
+          "sense": 0
+        },
+        {
+          "text": "Eu gosto muito daqui.",
+          "translation": "I really like it here.",
+          "target": "muito",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "grammar": {
+        "notes": "As an adverb it never changes. Before a noun it agrees like an adjective: muita gente (a lot of people), muitos amigos (lots of friends)."
+      },
+      "register": "neutral",
+      "curatedOrder": 21
+    },
+    {
+      "lemma": "aqui",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "here",
+          "translations": [
+            "here"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu moro aqui perto.",
+          "translation": "I live near here.",
+          "target": "aqui",
+          "sense": 0
+        },
+        {
+          "text": "Vem aqui um minutinho!",
+          "translation": "Come here a sec!",
+          "target": "aqui",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "aqui perto",
+          "translation": "near here"
+        },
+        {
+          "text": "por aqui",
+          "translation": "around here; this way"
+        }
+      ],
+      "tags": [
+        "places"
+      ],
+      "grammar": {
+        "notes": "lá = there; ali = over there."
+      },
+      "register": "neutral",
+      "curatedOrder": 22
+    },
+    {
+      "lemma": "casa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "house",
+          "translations": [
+            "house",
+            "home"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "casas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Estou em casa agora.",
+          "translation": "I'm at home now.",
+          "target": "casa",
+          "sense": 0
+        },
+        {
+          "text": "Vem aqui em casa no sábado!",
+          "translation": "Come over to my place on Saturday!",
+          "target": "casa",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home"
+      ],
+      "grammar": {
+        "notes": "em casa = at home; para casa = (to) home."
+      },
+      "register": "neutral",
+      "curatedOrder": 23
+    },
+    {
+      "lemma": "trabalho",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "work",
+          "translations": [
+            "work",
+            "job"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "trabalhos",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Como foi o trabalho hoje?",
+          "translation": "How was work today?",
+          "target": "trabalho",
+          "sense": 0
+        },
+        {
+          "text": "Eu vou de metrô para o trabalho.",
+          "translation": "I take the subway to work.",
+          "target": "trabalho",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "work"
+      ],
+      "grammar": {
+        "notes": "The verb is trabalhar (to work). A job is also emprego: Estou procurando emprego."
+      },
+      "register": "neutral",
+      "curatedOrder": 24
+    },
+    {
+      "lemma": "celular",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "cell phone",
+          "translations": [
+            "cell phone",
+            "cellphone",
+            "mobile phone",
+            "mobile",
+            "phone"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "celulares",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Meu celular está sem bateria.",
+          "translation": "My phone's battery is dead.",
+          "target": "celular",
+          "sense": 0
+        },
+        {
+          "text": "Qual é o seu número de celular?",
+          "translation": "What's your cell number?",
+          "target": "celular",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "communication"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Portugal: telemóvel.",
+      "curatedOrder": 25
+    },
+    {
+      "lemma": "dinheiro",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "money",
+          "translations": [
+            "money",
+            "cash"
+          ],
+          "note": "Common slang: grana (Tô sem grana = I'm broke)."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Estou sem dinheiro este mês.",
+          "translation": "I'm out of money this month.",
+          "target": "dinheiro",
+          "sense": 0
+        },
+        {
+          "text": "Aceita cartão ou só dinheiro?",
+          "translation": "Do you take cards or just cash?",
+          "target": "dinheiro",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "money",
+        "shopping"
+      ],
+      "grammar": {
+        "notes": "Uncountable, like English 'money': muito dinheiro (a lot of money)."
+      },
+      "register": "neutral",
+      "curatedOrder": 26
+    },
+    {
+      "lemma": "banheiro",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bathroom",
+          "translations": [
+            "bathroom",
+            "restroom",
+            "toilet",
+            "washroom"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "banheiros",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Com licença, onde fica o banheiro?",
+          "translation": "Excuse me, where's the bathroom?",
+          "target": "banheiro",
+          "sense": 0
+        },
+        {
+          "text": "O banheiro está ocupado.",
+          "translation": "The bathroom is occupied.",
+          "target": "banheiro",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "places"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Portugal: casa de banho.",
+      "curatedOrder": 27
+    },
+    {
+      "lemma": "conta",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "bill",
+          "translations": [
+            "bill",
+            "check",
+            "the bill",
+            "the check"
+          ],
+          "note": "At a restaurant or bar."
+        },
+        {
+          "gloss": "account",
+          "translations": [
+            "account",
+            "bank account"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "contas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "A conta, por favor.",
+          "translation": "The check, please.",
+          "target": "conta",
+          "sense": 0
+        },
+        {
+          "text": "Você tem conta nesse banco?",
+          "translation": "Do you have an account at this bank?",
+          "target": "conta",
+          "sense": 1
+        }
+      ],
+      "expressions": [
+        {
+          "text": "fechar a conta",
+          "translation": "to ask for and settle the bill"
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "money"
+      ],
+      "register": "neutral",
+      "curatedOrder": 28
+    },
+    {
+      "lemma": "comer",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to eat",
+          "translations": [
+            "to eat",
+            "eat"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "como",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "come",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "comemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "come",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "comem",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "comeu",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vamos comer alguma coisa?",
+          "translation": "Shall we get something to eat?",
+          "target": "comer",
+          "sense": 0
+        },
+        {
+          "text": "Eu não como carne.",
+          "translation": "I don't eat meat.",
+          "target": "como",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -er verb."
+      },
+      "register": "neutral",
+      "curatedOrder": 29
+    },
+    {
+      "lemma": "tomar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to drink",
+          "translations": [
+            "to drink",
+            "drink",
+            "to have",
+            "have"
+          ],
+          "note": "The everyday verb for drinks: tomar um café, tomar uma cerveja."
+        },
+        {
+          "gloss": "to take",
+          "translations": [
+            "to take",
+            "take"
+          ],
+          "note": "tomar banho = to take a shower; tomar remédio = to take medicine."
+        }
+      ],
+      "forms": [
+        {
+          "form": "tomo",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "toma",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "tomamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "toma",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "tomam",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "tomou",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vamos tomar uma cerveja?",
+          "translation": "Shall we have a beer?",
+          "target": "tomar",
+          "sense": 0
+        },
+        {
+          "text": "Vou tomar banho e já volto.",
+          "translation": "I'm going to take a shower, I'll be right back.",
+          "target": "tomar",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "daily-routine",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb."
+      },
+      "register": "neutral",
+      "curatedOrder": 30
+    },
+    {
+      "lemma": "gostar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to like",
+          "translations": [
+            "to like",
+            "like",
+            "to enjoy",
+            "enjoy"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "gosto",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "gosta",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "gostamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "gosta",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "gostam",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "gostou",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu gosto muito de samba.",
+          "translation": "I really like samba.",
+          "target": "gosto",
+          "sense": 0
+        },
+        {
+          "text": "Você gostou do restaurante?",
+          "translation": "Did you like the restaurant?",
+          "target": "gostou",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Always followed by de: gosto de café, gosto do Brasil (de + o = do)."
+      },
+      "register": "neutral",
+      "curatedOrder": 31
+    },
+    {
+      "lemma": "fazer",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to do",
+          "translations": [
+            "to do",
+            "do",
+            "to make",
+            "make"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "faço",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "faz",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "fazemos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "faz",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "fazem",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "fez",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "O que você vai fazer hoje?",
+          "translation": "What are you doing today?",
+          "target": "fazer",
+          "sense": 0
+        },
+        {
+          "text": "Faz muito calor no Rio.",
+          "translation": "It's really hot in Rio.",
+          "target": "Faz",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs",
+        "weather"
+      ],
+      "grammar": {
+        "notes": "Irregular: faço, faz, past fez. Weather: faz calor / faz frio (it's hot / cold). Time ago: faz dois anos (two years ago)."
+      },
+      "register": "neutral",
+      "curatedOrder": 32
+    },
+    {
+      "lemma": "morar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to live",
+          "translations": [
+            "to live",
+            "live",
+            "to reside",
+            "reside"
+          ],
+          "note": "Where you live (your home). Viver = to live in the sense of being alive or experiencing."
+        }
+      ],
+      "forms": [
+        {
+          "form": "moro",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "mora",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "moramos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "mora",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "moram",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "morou",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu moro em São Paulo há dois anos.",
+          "translation": "I've lived in São Paulo for two years.",
+          "target": "moro",
+          "sense": 0
+        },
+        {
+          "text": "Vocês moram perto daqui?",
+          "translation": "Do you guys live near here?",
+          "target": "moram",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "home",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb. Onde você mora? = Where do you live?"
+      },
+      "register": "neutral",
+      "curatedOrder": 33
+    },
+    {
+      "lemma": "precisar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to need",
+          "translations": [
+            "to need",
+            "need"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "preciso",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "precisa",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "precisamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "precisa",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "precisam",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "precisou",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Preciso de um táxi.",
+          "translation": "I need a taxi.",
+          "target": "Preciso",
+          "sense": 0
+        },
+        {
+          "text": "Você precisa de alguma coisa?",
+          "translation": "Do you need anything?",
+          "target": "precisa",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "precisar de + noun (Preciso de ajuda); no de before an infinitive (Preciso ir)."
+      },
+      "register": "neutral",
+      "curatedOrder": 34
+    },
+    {
+      "lemma": "pegar",
+      "pos": "verb",
+      "senses": [
+        {
+          "gloss": "to take",
+          "translations": [
+            "to take",
+            "take",
+            "to catch",
+            "catch",
+            "to get",
+            "get"
+          ],
+          "note": "Transport: pegar o ônibus, pegar um Uber."
+        },
+        {
+          "gloss": "to pick up",
+          "translations": [
+            "to pick up",
+            "pick up",
+            "to grab",
+            "grab",
+            "to fetch",
+            "fetch"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pego",
+          "tags": [
+            "present",
+            "1st-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "pega",
+          "tags": [
+            "present",
+            "3rd-person",
+            "singular"
+          ]
+        },
+        {
+          "form": "pegamos",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pega",
+          "tags": [
+            "present",
+            "1st-person",
+            "plural",
+            "informal"
+          ]
+        },
+        {
+          "form": "pegam",
+          "tags": [
+            "present",
+            "3rd-person",
+            "plural"
+          ]
+        },
+        {
+          "form": "pegou",
+          "tags": [
+            "past",
+            "3rd-person",
+            "singular"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vou pegar um táxi para o aeroporto.",
+          "translation": "I'm going to take a taxi to the airport.",
+          "target": "pegar",
+          "sense": 0
+        },
+        {
+          "text": "Eu te pego no hotel às oito.",
+          "translation": "I'll pick you up at the hotel at eight.",
+          "target": "pego",
+          "sense": 1
+        }
+      ],
+      "tags": [
+        "transport",
+        "basic-verbs"
+      ],
+      "grammar": {
+        "notes": "Regular -ar verb; pego, pega and pegam have an open e (é)."
+      },
+      "register": "neutral",
+      "regionalNote": "In Portugal: apanhar (o autocarro).",
+      "curatedOrder": 35
+    },
+    {
+      "lemma": "agora",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "now",
+          "translations": [
+            "now",
+            "right now"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Agora não posso, estou no trabalho.",
+          "translation": "I can't right now, I'm at work.",
+          "target": "Agora",
+          "sense": 0
+        },
+        {
+          "text": "Vou sair agora mesmo.",
+          "translation": "I'm leaving right now.",
+          "target": "agora",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "agora mesmo",
+          "translation": "right now; just now"
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 36
+    },
+    {
+      "lemma": "hoje",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "today",
+          "translations": [
+            "today"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Hoje está muito quente.",
+          "translation": "It's really hot today.",
+          "target": "Hoje",
+          "sense": 0
+        },
+        {
+          "text": "Hoje à noite a gente sai.",
+          "translation": "We're going out tonight.",
+          "target": "Hoje",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "hoje à noite",
+          "translation": "tonight"
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 37
+    },
+    {
+      "lemma": "amanhã",
+      "pos": "adverb",
+      "senses": [
+        {
+          "gloss": "tomorrow",
+          "translations": [
+            "tomorrow"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Tchau, gente, até amanhã!",
+          "translation": "Bye, guys, see you tomorrow!",
+          "target": "amanhã",
+          "sense": 0
+        },
+        {
+          "text": "Amanhã eu trabalho cedo.",
+          "translation": "I work early tomorrow.",
+          "target": "Amanhã",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "até amanhã",
+          "translation": "see you tomorrow"
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "de manhã = in the morning; a manhã = the morning."
+      },
+      "register": "neutral",
+      "curatedOrder": 38
+    },
+    {
+      "lemma": "mas",
+      "pos": "conjunction",
+      "senses": [
+        {
+          "gloss": "but",
+          "translations": [
+            "but"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "É caro, mas é muito bom.",
+          "translation": "It's expensive, but it's really good.",
+          "target": "mas",
+          "sense": 0
+        },
+        {
+          "text": "Eu queria ir, mas não posso.",
+          "translation": "I'd like to go, but I can't.",
+          "target": "mas",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "connectors"
+      ],
+      "grammar": {
+        "notes": "Don't confuse it with mais (more)."
+      },
+      "register": "neutral",
+      "curatedOrder": 39
+    },
+    {
+      "lemma": "dia",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "day",
+          "translations": [
+            "day"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "dias",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que dia é hoje?",
+          "translation": "What day is it today?",
+          "target": "dia",
+          "sense": 0
+        },
+        {
+          "text": "Eu trabalho todos os dias.",
+          "translation": "I work every day.",
+          "target": "dias",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "Masculine despite ending in -a: o dia, bom dia."
+      },
+      "register": "neutral",
+      "curatedOrder": 40
+    },
+    {
+      "lemma": "semana",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "week",
+          "translations": [
+            "week"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "semanas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "A gente se fala semana que vem.",
+          "translation": "Let's talk next week.",
+          "target": "semana",
+          "sense": 0
+        },
+        {
+          "text": "Trabalho cinco dias por semana.",
+          "translation": "I work five days a week.",
+          "target": "semana",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "semana que vem",
+          "translation": "next week"
+        },
+        {
+          "text": "fim de semana",
+          "translation": "weekend"
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "register": "neutral",
+      "curatedOrder": 41
+    },
+    {
+      "lemma": "hora",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "hour",
+          "translations": [
+            "hour",
+            "time"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "horas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Você sabe que horas são?",
+          "translation": "Do you know what time it is?",
+          "target": "horas",
+          "sense": 0
+        },
+        {
+          "text": "Chego daqui a uma hora.",
+          "translation": "I'll be there in an hour.",
+          "target": "hora",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "time"
+      ],
+      "grammar": {
+        "notes": "The time is asked in the plural: Que horas são? (What time is it?)"
+      },
+      "register": "neutral",
+      "curatedOrder": 42
+    },
+    {
+      "lemma": "amigo",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "friend",
+          "translations": [
+            "friend"
+          ],
+          "note": "Informal: cara (dude, guy) is used all over Brazil: E aí, cara?"
+        }
+      ],
+      "forms": [
+        {
+          "form": "amiga",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "amigos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "amigas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ela é minha melhor amiga.",
+          "translation": "She's my best friend.",
+          "target": "amiga",
+          "sense": 0
+        },
+        {
+          "text": "Vou sair com uns amigos hoje.",
+          "translation": "I'm going out with some friends today.",
+          "target": "amigos",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "register": "neutral",
+      "curatedOrder": 43
+    },
+    {
+      "lemma": "família",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "family",
+          "translations": [
+            "family"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "famílias",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Minha família mora em Recife.",
+          "translation": "My family lives in Recife.",
+          "target": "família",
+          "sense": 0
+        },
+        {
+          "text": "Como vai a família?",
+          "translation": "How's the family?",
+          "target": "família",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "family"
+      ],
+      "register": "neutral",
+      "curatedOrder": 44
+    },
+    {
+      "lemma": "pessoa",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "person",
+          "translations": [
+            "person"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pessoas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Ele é uma pessoa muito legal.",
+          "translation": "He's a really nice person.",
+          "target": "pessoa",
+          "sense": 0
+        },
+        {
+          "text": "Tinha muitas pessoas na festa.",
+          "translation": "There were lots of people at the party.",
+          "target": "pessoas",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people"
+      ],
+      "grammar": {
+        "notes": "Always feminine, even when it refers to a man: Ele é uma pessoa ótima."
+      },
+      "register": "neutral",
+      "curatedOrder": 45
+    },
+    {
+      "lemma": "bom",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "good",
+          "translations": [
+            "good",
+            "nice",
+            "fine"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "boa",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "bons",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "boas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        },
+        {
+          "form": "melhor",
+          "tags": [
+            "comparative"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Esse restaurante é muito bom.",
+          "translation": "This restaurant is really good.",
+          "target": "bom",
+          "sense": 0
+        },
+        {
+          "text": "Boa ideia! Vamos nessa.",
+          "translation": "Good idea! Let's do it.",
+          "target": "Boa",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Irregular: bom, boa, bons, boas. Comparative: melhor (better)."
+      },
+      "register": "neutral",
+      "curatedOrder": 46
+    },
+    {
+      "lemma": "legal",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "cool",
+          "translations": [
+            "cool",
+            "nice",
+            "great",
+            "fun"
+          ],
+          "note": "Of people it means 'nice': Ele é muito legal. It can also mean 'legal' (lawful)."
+        }
+      ],
+      "forms": [
+        {
+          "form": "legais",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que legal! Parabéns pelo emprego novo!",
+          "translation": "That's great! Congrats on the new job!",
+          "target": "legal",
+          "sense": 0
+        },
+        {
+          "text": "Sua irmã é muito legal.",
+          "translation": "Your sister is really nice.",
+          "target": "legal",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "feelings"
+      ],
+      "grammar": {
+        "notes": "Same form for masculine and feminine; plural legais."
+      },
+      "register": "informal",
+      "regionalNote": "Very Brazilian in the sense of 'cool' or 'nice'; in Portugal you'd say fixe.",
+      "curatedOrder": 47
+    },
+    {
+      "lemma": "gostoso",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "delicious",
+          "translations": [
+            "delicious",
+            "tasty",
+            "yummy",
+            "good"
+          ],
+          "note": "Also 'pleasant' for things like a breeze or a shower. Said of a person, gostoso/gostosa means 'hot, sexy', so keep it for food and things."
+        }
+      ],
+      "forms": [
+        {
+          "form": "gostosa",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "gostosos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "gostosas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Esse bolo está muito gostoso!",
+          "translation": "This cake is really delicious!",
+          "target": "gostoso",
+          "sense": 0
+        },
+        {
+          "text": "A comida da sua mãe é gostosa.",
+          "translation": "Your mom's cooking is delicious.",
+          "target": "gostosa",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 48
+    },
+    {
+      "lemma": "caro",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "expensive",
+          "translations": [
+            "expensive",
+            "pricey",
+            "costly"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "cara",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "caros",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "caras",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Nossa, isso está muito caro!",
+          "translation": "Wow, that's really expensive!",
+          "target": "caro",
+          "sense": 0
+        },
+        {
+          "text": "As passagens estão caras.",
+          "translation": "The tickets are expensive.",
+          "target": "caras",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "register": "neutral",
+      "curatedOrder": 49
+    },
+    {
+      "lemma": "barato",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "cheap",
+          "translations": [
+            "cheap",
+            "inexpensive",
+            "affordable"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "barata",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "baratos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "baratas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "A feira é mais barata que o mercado.",
+          "translation": "The street market is cheaper than the supermarket.",
+          "target": "barata",
+          "sense": 0
+        },
+        {
+          "text": "Você conhece um hotel barato por aqui?",
+          "translation": "Do you know a cheap hotel around here?",
+          "target": "barato",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "money"
+      ],
+      "grammar": {
+        "notes": "Careful: the noun a barata means 'cockroach'."
+      },
+      "register": "neutral",
+      "curatedOrder": 50
+    },
+    {
+      "lemma": "bonito",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "beautiful",
+          "translations": [
+            "beautiful",
+            "pretty",
+            "nice",
+            "handsome",
+            "good-looking",
+            "lovely"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "bonita",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "bonitos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "bonitas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Que dia bonito hoje, né?",
+          "translation": "What a beautiful day today, huh?",
+          "target": "bonito",
+          "sense": 0
+        },
+        {
+          "text": "Sua casa é muito bonita.",
+          "translation": "Your house is really beautiful.",
+          "target": "bonita",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "people",
+        "places"
+      ],
+      "register": "neutral",
+      "curatedOrder": 51
+    },
+    {
+      "lemma": "grande",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "big",
+          "translations": [
+            "big",
+            "large"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "grandes",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "São Paulo é muito grande.",
+          "translation": "São Paulo is really big.",
+          "target": "grande",
+          "sense": 0
+        },
+        {
+          "text": "Um açaí grande, por favor.",
+          "translation": "A large açaí, please.",
+          "target": "grande",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "places"
+      ],
+      "grammar": {
+        "notes": "Same form for masculine and feminine."
+      },
+      "register": "neutral",
+      "curatedOrder": 52
+    },
+    {
+      "lemma": "pequeno",
+      "pos": "adjective",
+      "senses": [
+        {
+          "gloss": "small",
+          "translations": [
+            "small",
+            "little"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pequena",
+          "tags": [
+            "feminine",
+            "singular"
+          ]
+        },
+        {
+          "form": "pequenos",
+          "tags": [
+            "masculine",
+            "plural"
+          ]
+        },
+        {
+          "form": "pequenas",
+          "tags": [
+            "feminine",
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Meu apartamento é pequeno, mas é confortável.",
+          "translation": "My apartment is small, but it's comfortable.",
+          "target": "pequeno",
+          "sense": 0
+        },
+        {
+          "text": "Tenho dois filhos pequenos.",
+          "translation": "I have two small kids.",
+          "target": "pequenos",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "shopping",
+        "home"
+      ],
+      "grammar": {
+        "notes": "In speech Brazilians often use diminutives instead: um cafezinho, uma casinha."
+      },
+      "register": "neutral",
+      "curatedOrder": 53
+    },
+    {
+      "lemma": "rua",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "street",
+          "translations": [
+            "street",
+            "road"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "ruas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Eu moro nessa rua.",
+          "translation": "I live on this street.",
+          "target": "rua",
+          "sense": 0
+        },
+        {
+          "text": "Cuidado ao atravessar a rua!",
+          "translation": "Be careful crossing the street!",
+          "target": "rua",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "city"
+      ],
+      "register": "neutral",
+      "curatedOrder": 54
+    },
+    {
+      "lemma": "ônibus",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bus",
+          "translations": [
+            "bus"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "ônibus",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Esse ônibus vai para o centro?",
+          "translation": "Does this bus go downtown?",
+          "target": "ônibus",
+          "sense": 0
+        },
+        {
+          "text": "Eu pego o ônibus na esquina.",
+          "translation": "I catch the bus on the corner.",
+          "target": "ônibus",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport"
+      ],
+      "grammar": {
+        "notes": "Same form in the plural: um ônibus, dois ônibus."
+      },
+      "register": "neutral",
+      "regionalNote": "In Portugal: autocarro.",
+      "curatedOrder": 55
+    },
+    {
+      "lemma": "carro",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "car",
+          "translations": [
+            "car"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "carros",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vamos de carro ou de ônibus?",
+          "translation": "Are we going by car or by bus?",
+          "target": "carro",
+          "sense": 0
+        },
+        {
+          "text": "Onde você estacionou o carro?",
+          "translation": "Where did you park the car?",
+          "target": "carro",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "transport"
+      ],
+      "register": "neutral",
+      "curatedOrder": 56
+    },
+    {
+      "lemma": "café da manhã",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "breakfast",
+          "translations": [
+            "breakfast"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "cafés da manhã",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "O café da manhã está incluído?",
+          "translation": "Is breakfast included?",
+          "target": "café da manhã",
+          "sense": 0
+        },
+        {
+          "text": "No café da manhã eu como pão com manteiga.",
+          "translation": "For breakfast I have bread and butter.",
+          "target": "café da manhã",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "daily-routine"
+      ],
+      "grammar": {
+        "notes": "Masculine: o café da manhã. To have breakfast = tomar café da manhã (often just tomar café)."
+      },
+      "register": "neutral",
+      "regionalNote": "In Portugal: pequeno-almoço.",
+      "curatedOrder": 57
+    },
+    {
+      "lemma": "almoço",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "lunch",
+          "translations": [
+            "lunch"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "almoços",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "O almoço está pronto!",
+          "translation": "Lunch is ready!",
+          "target": "almoço",
+          "sense": 0
+        },
+        {
+          "text": "Hoje o almoço é feijoada!",
+          "translation": "Today lunch is feijoada!",
+          "target": "almoço",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "hora do almoço",
+          "translation": "lunchtime"
+        },
+        {
+          "text": "prato feito (PF)",
+          "translation": "set lunch plate: rice, beans, meat and salad"
+        }
+      ],
+      "tags": [
+        "food-drink",
+        "daily-routine"
+      ],
+      "grammar": {
+        "notes": "The verb is almoçar (to have lunch)."
+      },
+      "register": "neutral",
+      "curatedOrder": 58
+    },
+    {
+      "lemma": "comida",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "food",
+          "translations": [
+            "food",
+            "meal"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "comidas",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "A comida daqui é muito boa.",
+          "translation": "The food here is really good.",
+          "target": "comida",
+          "sense": 0
+        },
+        {
+          "text": "Você gosta de comida mineira?",
+          "translation": "Do you like food from Minas Gerais?",
+          "target": "comida",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "curatedOrder": 59
+    },
+    {
+      "lemma": "pão",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "bread",
+          "translations": [
+            "bread",
+            "bread roll",
+            "roll"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "pães",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vou passar na padaria para comprar pão.",
+          "translation": "I'm going to stop by the bakery to buy bread.",
+          "target": "pão",
+          "sense": 0
+        },
+        {
+          "text": "Eu adoro pão de queijo.",
+          "translation": "I love cheese bread.",
+          "target": "pão",
+          "sense": 0
+        }
+      ],
+      "expressions": [
+        {
+          "text": "pão de queijo",
+          "translation": "cheese bread (small cheese rolls from Minas Gerais)"
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "grammar": {
+        "notes": "Irregular plural: pães."
+      },
+      "register": "neutral",
+      "curatedOrder": 60
+    },
+    {
+      "lemma": "suco",
+      "pos": "noun",
+      "gender": "m",
+      "senses": [
+        {
+          "gloss": "juice",
+          "translations": [
+            "juice"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "sucos",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Um suco de laranja, por favor.",
+          "translation": "An orange juice, please.",
+          "target": "suco",
+          "sense": 0
+        },
+        {
+          "text": "O suco de maracujá aqui é ótimo.",
+          "translation": "The passion fruit juice here is great.",
+          "target": "suco",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "food-drink"
+      ],
+      "register": "neutral",
+      "regionalNote": "In Portugal: sumo.",
+      "curatedOrder": 61
+    },
+    {
+      "lemma": "praia",
+      "pos": "noun",
+      "gender": "f",
+      "senses": [
+        {
+          "gloss": "beach",
+          "translations": [
+            "beach"
+          ]
+        }
+      ],
+      "forms": [
+        {
+          "form": "praias",
+          "tags": [
+            "plural"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Vamos à praia no domingo?",
+          "translation": "Shall we go to the beach on Sunday?",
+          "target": "praia",
+          "sense": 0
+        },
+        {
+          "text": "A praia estava lotada hoje.",
+          "translation": "The beach was packed today.",
+          "target": "praia",
+          "sense": 0
+        }
+      ],
+      "tags": [
+        "places",
+        "travel"
+      ],
+      "register": "neutral",
+      "curatedOrder": 62
+    }
+  ]
+}

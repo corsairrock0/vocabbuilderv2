@@ -1,0 +1,7 @@
+{"word": "casa", "pos": "noun", "lang": "Portuguese", "lang_code": "pt", "sounds": [{"ipa": "/ˈka.zɐ/", "tags": ["Portugal"]}, {"ipa": "/ˈka.za/", "tags": ["Brazil"]}], "forms": [{"form": "casas", "tags": ["plural"]}, {"form": "pt-noun", "tags": ["inflection-template"]}], "senses": [{"glosses": ["house", "structure serving as an abode of human beings"], "examples": [{"text": "Aquela casa é grande.", "translation": "That house is big.", "type": "example"}]}, {"glosses": ["home"], "raw_glosses": ["home (one’s own dwelling place)"]}]}
+{"word": "casa", "pos": "verb", "lang": "Portuguese", "lang_code": "pt", "senses": [{"glosses": ["inflection of casar:", "third-person singular present indicative"], "tags": ["form-of"], "form_of": [{"word": "casar"}]}]}
+{"word": "casas", "pos": "noun", "lang": "Portuguese", "lang_code": "pt", "senses": [{"glosses": ["plural of casa"], "tags": ["form-of", "plural"], "form_of": [{"word": "casa"}]}]}
+{"word": "cachorro", "pos": "noun", "lang": "Portuguese", "lang_code": "pt", "senses": [{"raw_glosses": ["(Portugal) puppy"], "glosses": ["puppy"], "tags": ["Portugal"]}, {"raw_glosses": ["(Brazil, colloquial) dog"], "glosses": ["dog"], "tags": ["Brazil", "colloquial"]}]}
+{"word": "do", "pos": "contraction", "lang": "Portuguese", "lang_code": "pt", "senses": [{"glosses": ["Contraction of de o: of the"]}]}
+{"word": "Lisboa", "pos": "name", "lang": "Portuguese", "lang_code": "pt", "senses": [{"glosses": ["Lisbon"]}]}
+{"word": "water", "pos": "noun", "lang": "English", "lang_code": "en", "senses": [{"glosses": ["água"]}]}

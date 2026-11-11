@@ -1,0 +1,15 @@
+{
+  "format": "vocabbuilder-v1",
+  "language": "vi",
+  "source": { "name": "Test fixture (Southern Vietnamese)", "kind": "curated", "license": "CC0-1.0", "notes": "Small fixture for automated tests." },
+  "entries": [
+    { "lemma": "tiền", "pos": "noun", "senses": [{ "gloss": "money", "translations": ["money"] }], "examples": [{ "text": "Tôi không có tiền.", "translation": "I don't have money.", "target": "tiền" }], "tags": ["money"], "curatedOrder": 1 },
+    { "lemma": "cám ơn", "pos": "phrase", "senses": [{ "gloss": "thank you", "translations": ["thank you", "thanks"] }], "examples": [{ "text": "Cám ơn anh nhiều.", "translation": "Thank you very much.", "target": "Cám ơn" }], "tags": ["greetings"], "regionalNote": "Southern spelling; standard written form: cảm ơn.", "curatedOrder": 2 },
+    { "lemma": "xe buýt", "pos": "noun", "senses": [{ "gloss": "bus", "translations": ["bus"] }], "examples": [{ "text": "Tôi đi xe buýt đi làm.", "translation": "I take the bus to work.", "target": "xe buýt" }], "tags": ["transport"], "curatedOrder": 3 },
+    { "lemma": "ly", "pos": "noun", "senses": [{ "gloss": "glass", "translations": ["glass", "cup"] }], "examples": [{ "text": "Cho tôi một ly nước.", "translation": "Give me a glass of water.", "target": "ly" }], "tags": ["food-drink"], "regionalNote": "Northern: cốc.", "curatedOrder": 4 },
+    { "lemma": "nước", "pos": "noun", "senses": [{ "gloss": "water", "translations": ["water"] }], "examples": [{ "text": "Cho tôi một ly nước.", "translation": "Give me a glass of water.", "target": "nước" }], "tags": ["food-drink"], "curatedOrder": 5 },
+    { "lemma": "đi", "pos": "verb", "senses": [{ "gloss": "to go", "translations": ["to go", "go"] }], "examples": [{ "text": "Mình đi chợ nha.", "translation": "Let's go to the market.", "target": "đi" }], "tags": ["basic-verbs"], "curatedOrder": 6 },
+    { "lemma": "má", "pos": "noun", "senses": [{ "gloss": "mom", "translations": ["mom", "mother"] }], "examples": [{ "text": "Má tôi nấu ăn rất ngon.", "translation": "My mom cooks very well.", "target": "Má" }], "tags": ["family"], "regionalNote": "Northern: mẹ.", "curatedOrder": 7 },
+    { "lemma": "ma", "pos": "noun", "senses": [{ "gloss": "ghost", "translations": ["ghost"] }], "examples": [{ "text": "Em sợ ma.", "translation": "I'm afraid of ghosts.", "target": "ma" }], "tags": ["people"], "curatedOrder": 8 }
+  ]
+}

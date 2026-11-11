@@ -1,0 +1,189 @@
+{"lemma":"ban đêm","text":"Anh ấy đang làm công việc ban đêm là một vũ công thoát y.","replace":{"text":"Ban đêm, đường phố Sài Gòn vẫn rất đông vui.","translation":"At night, the streets of Saigon are still very lively.","target":"Ban đêm","sense":0}}
+{"lemma":"buồng","text":"Chị gọi cô gái trong buồng tắm ra, nói ăn mặc chỉnh tề và ngồi xuống cạnh Nhu.","replace":{"text":"Bà ngoại đang ngủ trưa trong buồng.","translation":"Grandma is taking a nap in her room.","target":"buồng","sense":0}}
+{"lemma":"bóng","text":"Cây gậy bị mất ngày hôm qua, cùng với những quả bóng.","keep":true}
+{"lemma":"bơm","text":"Các đđv đến để cung cấp kiến thức thông tin phòng chống hiv / AIDS và cả phương tiện LBKT như bao cao su, bơm kim tiêm RBKT cho những người bán dâm trên đường phố.","replace":{"text":"Anh cho tôi mượn cái bơm xe đạp được không?","translation":"Could you lend me your bicycle pump?","target":"bơm","sense":0}}
+{"lemma":"bắt gặp","text":"Anh ta bị mẹ bắt gặp đang thủ dâm.","replace":{"text":"Má bắt gặp em trai tôi đang lén ăn bánh trong bếp.","translation":"Mom caught my little brother sneaking cake in the kitchen.","target":"bắt gặp","sense":0}}
+{"lemma":"bằng chứng","text":"Bằng chứng duy nhất là dấu vết tinh trùng ở cái quần lót.","replace":{"text":"Hóa đơn này là bằng chứng tôi đã trả tiền rồi.","translation":"This receipt is proof that I already paid.","target":"bằng chứng","sense":0}}
+{"lemma":"bề","text":"Không chịu thì nó đánh đập và xù tiền, rồi tụi choai choai hay chơi trò bề hội đồng nữa, biết đứa nào nhiễm, đứa nào không nhiễm \".","replace":{"text":"Bề mặt cái bàn gỗ này rất láng.","translation":"The surface of this wooden table is very smooth.","target":"Bề","sense":0}}
+{"lemma":"bỏ mẹ","text":"Bỏ mẹ, tôi quên đem theo chìa khoá rồi!","drop":true}
+{"lemma":"bỏ mẹ","text":"Trời hôm nay nóng bỏ mẹ, ra đường muốn xỉu.","drop":true}
+{"lemma":"bớt","text":"Bớt ngu lại đi.","replace":{"text":"Chị ơi, bớt cho em một chút được không?","translation":"Could you give me a little discount, ma'am?","target":"bớt","sense":0}}
+{"lemma":"châm","text":"Ba châm lửa đốt đống lá khô sau vườn.","keep":true,"sense":1}
+{"lemma":"chích","text":"Trên các sân khấu thông tin cổ động bây giờ, HIV vẫn còn được nhìn bằng hình ảnh áo choàng đen tử thần với cái lưỡi hái đi cùng với mại dâm và ống kim chích.","replace":{"text":"Hôm nay má dẫn em bé đi chích ngừa.","translation":"Today Mom is taking the baby to get vaccinated.","target":"chích","sense":2}}
+{"lemma":"chó chết","text":"Cái máy in chó chết này lại kẹt giấy nữa rồi!","drop":true}
+{"lemma":"chó chết","text":"Làm rơi điện thoại xuống nước, anh ấy buột miệng: “Chó chết!”","drop":true}
+{"lemma":"chó đẻ","text":"Cô giáo cấm học sinh nói “chó đẻ” với bạn bè.","drop":true}
+{"lemma":"chó đẻ","text":"“Đồ chó đẻ” là một câu chửi rất tục.","drop":true}
+{"lemma":"chúng nó","text":"Chúng nó đã làm tình tối qua.","replace":{"text":"Chúng nó đã đi xem phim tối qua.","translation":"They went to see a movie last night.","target":"Chúng nó","sense":0}}
+{"lemma":"chăn","text":"Suốt mùa đông, tôi ngủ với hai cái chăn","keep":true}
+{"lemma":"chết tiệt","text":"Tao không lấy cái ô tô chết tiệt của mày, trời ạ!","drop":true}
+{"lemma":"chết tiệt","text":"Trời đất ơi, tôi có lấy cái xe hơi chết tiệt của anh đâu!","drop":true}
+{"lemma":"chết tiệt","text":"Trời ạ, tôi không lấy cái xe chết tiệt của cô!","drop":true}
+{"lemma":"chọc","text":"Chọc lộn người rồi cưng.","keep":true,"sense":2}
+{"lemma":"chọn lựa","text":"Những người khách chọn lựa cô nào tùy ý để cùng vào phòng hát karaoke.","replace":{"text":"Ở chợ, má chọn lựa từng trái xoài thật kỹ.","translation":"At the market, Mom chooses each mango very carefully.","target":"chọn lựa","sense":0}}
+{"lemma":"chừng","text":"Khi mẹ nó đi vắng, nó trông chừng em.","keep":true}
+{"lemma":"con hoang","text":"Ngày xưa, đứa trẻ không cha thường bị gọi là con hoang.","drop":true}
+{"lemma":"con hoang","text":"“Con hoang” là một từ rất xúc phạm, đừng bao giờ dùng nó.","drop":true}
+{"lemma":"con mẹ","text":"Con mẹ hôm nay ngoan quá trời!","keep":true}
+{"lemma":"con mẹ","text":"Gọi phụ nữ lớn tuổi là con mẹ là rất vô lễ.","keep":true,"sense":1}
+{"lemma":"cá voi","text":"Cá voi là một loài động vật có vú khổng lồ sống ở biển.","keep":true}
+{"lemma":"cá voi","text":"Cá voi là một loài động vật có vú khổng lồ sống ở đại dương.","keep":true}
+{"lemma":"cá voi","text":"Cá voi thuộc loài động vật có vú.","keep":true}
+{"lemma":"cô dâu","text":"Nhan đề \"kẻ gian dâm sắp trở thành cô dâu\" in đậm chạy dài gần hết khổ giấy.","replace":{"text":"Cô dâu mặc áo dài đỏ trong lễ đám hỏi.","translation":"The bride wore a red ao dai at the engagement ceremony.","target":"cô dâu","sense":0}}
+{"lemma":"cưỡng hiếp","text":"Loan bảo ở nhà tên Hồng một tuần thì hầu như ngày nào cũng bị nó cưỡng hiếp.","drop":true}
+{"lemma":"cầu thang","text":"Đánh xe chạy thẳng vào nhà nghỉ một cách thành thạo và họ dẫn nhau lên cầu thang.","replace":{"text":"Thang máy bị hư nên chúng tôi phải đi cầu thang bộ.","translation":"The elevator was broken, so we had to take the stairs.","target":"cầu thang","sense":0}}
+{"lemma":"cắn","text":"Muỗi cắn và hút máu.","keep":true}
+{"lemma":"cứt","text":"Coi chừng giẫm phải cứt chó ngoài hẻm!","drop":true}
+{"lemma":"cứt","text":"Xe mới rửa xong đã bị dính cứt chim.","drop":true}
+{"lemma":"dám","text":"Này thằng chó, mày dám trộm xe của tao à. Bây giờ tao sẽ đấm vỡ mặt mày đấy.","replace":{"text":"Em gái tôi không dám ngủ một mình.","translation":"My little sister doesn't dare to sleep alone.","target":"dám","sense":0}}
+{"lemma":"dâm","text":"Nội dung bức thư này kể rõ các hành động bạo dâm, thú tính, dã man của cha con tên Hồng với ít nhất là ba nạn nhân.","drop":true}
+{"lemma":"dương vật","text":"Tôi có một dương vật to!","replace":{"text":"Dương vật là một bộ phận của hệ sinh dục nam.","translation":"The penis is part of the male reproductive system.","target":"Dương vật","sense":0}}
+{"lemma":"dấu vết","text":"Bằng chứng duy nhất là dấu vết tinh trùng ở cái quần lót.","replace":{"text":"Trên bãi cát vẫn còn dấu vết của mấy con rùa biển.","translation":"There are still traces of sea turtles on the beach.","target":"dấu vết","sense":0}}
+{"lemma":"dở hơi","text":"Thằng bạn tôi hơi dở hơi, nửa đêm gọi điện hỏi chuyện tào lao.","keep":true}
+{"lemma":"giải toả","text":"Tôi cần vào nhà vệ sinh để giải tỏa.","replace":{"text":"Đi dạo công viên giúp tôi giải toả căng thẳng.","translation":"A walk in the park helps me relieve stress.","target":"giải toả","sense":1}}
+{"lemma":"gái điếm","text":"Nhiều người cho rằng gái điếm là cách gọi thiếu tôn trọng.","drop":true}
+{"lemma":"gái điếm","text":"Trong phim, cô ấy đóng vai một gái điếm có tấm lòng nhân hậu.","drop":true}
+{"lemma":"gậy","text":"Cây gậy bị mất ngày hôm qua, cùng với những quả bóng.","keep":true}
+{"lemma":"gợi","text":"Manga dạo này có quá nhiều cảnh bạo lực và gợi dục.","replace":{"text":"Câu chuyện của cô giáo gợi sự tò mò của cả lớp.","translation":"The teacher's story sparked the whole class's curiosity.","target":"gợi","sense":0}}
+{"lemma":"gợi cảm","text":"Ai mà chẳng muốn mình trẻ trung và gợi cảm?","replace":{"text":"Chiếc đầm này hơi gợi cảm để mặc đi làm.","translation":"This dress is a little too sexy to wear to work.","target":"gợi cảm","sense":0}}
+{"lemma":"hiếp dâm","text":"Các nạn nhân bị hiếp dâm cần được hỗ trợ tâm lý.","drop":true}
+{"lemma":"hiếp dâm","text":"Tội hiếp dâm bị pháp luật xử phạt rất nặng.","drop":true}
+{"lemma":"hoang","text":"Bầy chó hoang đã tru suốt đêm.","keep":true,"sense":1}
+{"lemma":"hoài","text":"Chẳng ai thèm đoái hoài đến chúng ta cả.","replace":{"text":"Tôi gọi điện cho anh hoài mà không ai bắt máy.","translation":"I kept calling you, but nobody picked up.","target":"hoài","sense":0}}
+{"lemma":"huynh","text":"Trong phim cổ trang, cô gái gọi chàng trai lớn tuổi hơn là huynh.","keep":true}
+{"lemma":"hành nghề","text":"Thời gian rảnh, Vy chăm sóc một đứa bé VN 6 tuổi tên Trang, con của một phụ nữ Việt lỡ có thai khi hành nghề mại dâm tại Thái Lan LBKT theo lời Vy, hiện không biết đang sống ở đâu RBKT.","replace":{"text":"Bác sĩ phải có giấy phép mới được hành nghề.","translation":"Doctors must have a license before they can practice.","target":"hành nghề","sense":0}}
+{"lemma":"hòn","text":"Trên biển có những hòn đảo.","keep":true,"sense":1}
+{"lemma":"hút","text":"Cô ấy phải dừng hút thuốc.","keep":true,"sense":1}
+{"lemma":"hút","text":"Người ta không hút thuốc ở đây.","keep":true,"sense":1}
+{"lemma":"hút","text":"Tôi hút thuốc có được không?","keep":true,"sense":1}
+{"lemma":"hạt","text":"Lạc không phải hạt mà thuộc họ đậu.","keep":true}
+{"lemma":"hậu môn","text":"Bệnh trĩ có thể gây đau và chảy máu ở hậu môn.","keep":true}
+{"lemma":"hậu môn","text":"Nhiệt kế đo ở hậu môn cho kết quả chính xác nhất.","keep":true}
+{"lemma":"hở","text":"Giấu đầu hở đuôi.","replace":{"text":"Nói dối như vậy chỉ là giấu đầu hở đuôi.","translation":"Lying like that is just hiding your head and leaving your tail exposed.","target":"hở","sense":1}}
+{"lemma":"in","text":"Nhan đề \"kẻ gian dâm sắp trở thành cô dâu\" in đậm chạy dài gần hết khổ giấy.","replace":{"text":"Anh in giùm em mấy tờ này được không?","translation":"Could you print these pages for me?","target":"in","sense":0}}
+{"lemma":"khiêu dâm","text":"Phụ huynh lo con xem phải phim khiêu dâm trên mạng.","drop":true}
+{"lemma":"khiêu dâm","text":"Trang web này bị chặn vì có nội dung khiêu dâm.","drop":true}
+{"lemma":"khoái","text":"Phương pháp xuất tinh ngược được cho là có thể giúp đàn ông có nhiều cơn cực khoái.","replace":{"text":"Được ba khen, thằng bé khoái lắm.","translation":"The little boy was really pleased when his dad praised him.","target":"khoái","sense":0}}
+{"lemma":"khỉ","text":"Mày bị cái khỉ gì vậy?","replace":{"text":"Con khỉ đang ăn trái chuối trên cây.","translation":"The monkey is eating a banana in the tree.","target":"khỉ","sense":0}}
+{"lemma":"khốn kiếp","text":"Ba dặn con không được nói “khốn kiếp” ở trường.","drop":true}
+{"lemma":"khốn kiếp","text":"Khốn kiếp, mình lại để quên chìa khoá trong xe!","drop":true}
+{"lemma":"khốn nạn","text":"Má dặn không được chửi ai là khốn nạn.","drop":true}
+{"lemma":"khốn nạn","text":"“Khốn nạn” là một từ chửi rất nặng trong tiếng Việt.","drop":true}
+{"lemma":"khổng lồ","text":"Cá voi là một loài động vật có vú khổng lồ sống ở biển.","keep":true}
+{"lemma":"khởi tố","text":"Đặc biệt, trong vụ án đang được xét xử có hai bị cáo đi mua dâm hai cô gái chưa thành niên thì bị khởi tố và truy tố.","replace":{"text":"Công ty bị khởi tố vì xả rác thải ra sông.","translation":"The company was prosecuted for dumping waste into the river.","target":"khởi tố","sense":0}}
+{"lemma":"làm tình","text":"Chúng nó đã làm tình tối qua.","drop":true}
+{"lemma":"làm tình","text":"Tụi nó đã làm tình tối qua.","drop":true}
+{"lemma":"lây","text":"Giang mai là một loại bệnh lây qua đường tình dục.","keep":true}
+{"lemma":"lên tiếng","text":"Vks nhân dân tỉnh đã có động thái nào khi lộ ra việc ông Phương cùng ba đối tượng mua dâm bị dư luận lên tiếng?","replace":{"text":"Nếu không đồng ý thì bạn cứ lên tiếng nha.","translation":"If you don't agree, just speak up.","target":"lên tiếng","sense":0}}
+{"lemma":"lót","text":"Bằng chứng duy nhất là dấu vết tinh trùng ở cái quần lót.","replace":{"text":"Má lót lá chuối dưới đáy nồi trước khi hấp bánh.","translation":"Mom lines the bottom of the pot with banana leaves before steaming the cakes.","target":"lót","sense":0}}
+{"lemma":"lọt","text":"Môi giới mại dâm người chưa thành niên ở Bình Dương: có sót người, lọt tội?","replace":{"text":"Chìa khóa xe lọt xuống cống mất rồi.","translation":"The car key fell through into the drain.","target":"lọt","sense":0}}
+{"lemma":"muỗi","text":"Muỗi cắn và hút máu.","keep":true}
+{"lemma":"mãi","text":"Điếm thì vẫn mãi là điếm thôi!","replace":{"text":"Em bé khóc mãi mà không chịu ngủ.","translation":"The baby keeps crying and won't go to sleep.","target":"mãi","sense":0}}
+{"lemma":"môi giới","text":"Môi giới mại dâm người chưa thành niên ở Bình Dương: có sót người, lọt tội?","replace":{"text":"Trung tâm này chuyên môi giới việc làm thêm cho sinh viên.","translation":"This center specializes in finding part-time jobs for students.","target":"môi giới","sense":0}}
+{"lemma":"mút","text":"Thằng bé hay mút ngón tay khi ngủ.","keep":true}
+{"lemma":"mút","text":"Trời nóng, tụi nhỏ ngồi mút kem ngoài hiên.","keep":true}
+{"lemma":"mại dâm","text":"Môi giới mại dâm người chưa thành niên ở Bình Dương: có sót người, lọt tội?","drop":true}
+{"lemma":"mại dâm","text":"Tôi nghe nói mẹ của Brush là gái mại dâm.","drop":true}
+{"lemma":"mẹ kiếp","text":"Câu “mẹ kiếp” là lời chửi thề, trẻ con không được nói.","drop":true}
+{"lemma":"mẹ kiếp","text":"Mẹ kiếp, lại làm rớt điện thoại nữa rồi!","drop":true}
+{"lemma":"ngu","text":"Bớt ngu lại đi.","replace":{"text":"Tôi thấy mình ngu thật, lại quên chìa khóa ở nhà.","translation":"I feel really stupid; I left my keys at home again.","target":"ngu","sense":0}}
+{"lemma":"ngộ","text":"Cuối cùng tôi cũng có thể lĩnh ngộ ra được điều thú vị về cờ shogi chuyên nghiệp rồi.","keep":true,"sense":6}
+{"lemma":"ngộ","text":"Cuộc đời con người ngắn dài không quan trọng, quan trọng khi nào mình ngộ ra.","keep":true,"sense":6}
+{"lemma":"ngộ","text":"Ngộ nhỡ cô ấy từ chối thì sao?","keep":true,"sense":4}
+{"lemma":"nhiệt huyết","text":"Các bạn trẻ làm tình nguyện với tất cả nhiệt huyết.","replace":{"text":"Các bạn trẻ đi tình nguyện ở miền Tây với tất cả nhiệt huyết.","translation":"The young people volunteer in the Mekong Delta with all their enthusiasm.","target":"nhiệt huyết","sense":0}}
+{"lemma":"nho nhỏ","text":"Đó là một cái giếng nho nhỏ, nước trong vắt được \"tu\" từ những \"vú\" đá trên thăm thẳm trần cao rơi nhẹ và đều xuống.","keep":true}
+{"lemma":"nhà nghỉ","text":"Đánh xe chạy thẳng vào nhà nghỉ một cách thành thạo và họ dẫn nhau lên cầu thang.","replace":{"text":"Cả nhà tôi ở một nhà nghỉ nhỏ gần biển Vũng Tàu.","translation":"My whole family stayed at a small guesthouse near the beach in Vung Tau.","target":"nhà nghỉ","sense":0}}
+{"lemma":"nhảm nhí","text":"Nhảm nhí, làm gì có ma!","keep":true,"sense":1}
+{"lemma":"nhảm nhí","text":"Đừng tin mấy tin đồn nhảm nhí trên mạng.","keep":true,"sense":2}
+{"lemma":"núm","text":"Vùng hình tròn xung quanh núm vú được gọi là quầng vú.","keep":true}
+{"lemma":"nữ giới","text":"Ung thư vú là bệnh thường gặp ở nữ giới.","keep":true}
+{"lemma":"phò","text":"Đồ con phò.","replace":{"text":"Trong phim cổ trang, vị quan trung thành phò vua suốt đời.","translation":"In the period drama, the loyal mandarin serves the king all his life.","target":"phò","sense":1}}
+{"lemma":"phối","text":"Anh ấy cho con chó cái phối với một con chó thuần chủng.","keep":true,"sense":1}
+{"lemma":"qua đời","text":"Mary đã qua đời do căn bệnh ung thư vú.","keep":true}
+{"lemma":"quan hệ","text":"Tôi muốn một người bạn để quan hệ tình dục hơn là một người vợ.","replace":{"text":"Hai gia đình đã có quan hệ thân thiết từ lâu.","translation":"The two families have had a close relationship for a long time.","target":"quan hệ","sense":0}}
+{"lemma":"quyến rũ","text":"Có một điều gì đó rất quyến rũ ở em.","keep":true,"sense":1}
+{"lemma":"quyến rũ","text":"Cô ấy đã từng là một người phụ nữ quyến rũ.","keep":true,"sense":1}
+{"lemma":"quyến rũ","text":"Tom và Mary nói là họ thấy tôi quyến rũ.","keep":true,"sense":1}
+{"lemma":"quần","text":"Cậu đã cởi quần ở đâu vậy?","replace":{"text":"Cái quần này hơi chật, chị có cỡ lớn hơn không?","translation":"These pants are a bit tight; do you have a bigger size?","target":"quần","sense":0}}
+{"lemma":"siêu âm","text":"Chị Lan đi siêu âm để biết giới tính em bé.","keep":true}
+{"lemma":"sưng","text":"Con chuột hamster của tôi bị sưng một bên tinh hoàn.","keep":true}
+{"lemma":"sưng","text":"Con hamster của tôi đang bị sưng một bên tinh hoàn.","keep":true}
+{"lemma":"sương","text":"Mắt. lạnh tanh như hơi sương khuya phả xuống: \"chán thấy mẹ, gặp toàn khách bèo nhưng cũng phải đi.","replace":{"text":"Sáng sớm, những giọt sương còn đọng trên lá.","translation":"Early in the morning, dewdrops still cling to the leaves.","target":"sương","sense":0}}
+{"lemma":"sờ","text":"Có phải là anh ta đã sờ vú bạn không?","replace":{"text":"Trời tối quá, tôi phải sờ tường để tìm công tắc đèn.","translation":"It was so dark that I had to feel along the wall for the light switch.","target":"sờ","sense":0}}
+{"lemma":"tham","text":"Khi hồi âm, hãy trích dẫn số tham chiếu bên trên.","keep":true,"sense":1}
+{"lemma":"thành niên","text":"Môi giới mại dâm người chưa thành niên ở Bình Dương: có sót người, lọt tội?","replace":{"text":"Người chưa thành niên không được mua thuốc lá.","translation":"Minors are not allowed to buy cigarettes.","target":"thành niên","sense":0}}
+{"lemma":"thành niên","text":"Đặc biệt, trong vụ án đang được xét xử có hai bị cáo đi mua dâm hai cô gái chưa thành niên thì bị khởi tố và truy tố.","replace":{"text":"Ở Việt Nam, mười tám tuổi là tuổi thành niên.","translation":"In Vietnam, eighteen is the age of majority.","target":"thành niên","sense":0}}
+{"lemma":"thành thạo","text":"Đánh xe chạy thẳng vào nhà nghỉ một cách thành thạo và họ dẫn nhau lên cầu thang.","replace":{"text":"Chị tôi lái xe máy rất thành thạo.","translation":"My older sister rides a motorbike very skillfully.","target":"thành thạo","sense":1}}
+{"lemma":"thèm","text":"Không ai thèm quan tâm đến chúng ta hết.","replace":{"text":"Con mèo không thèm nhìn tới đồ ăn mới.","translation":"The cat won't even look at its new food.","target":"thèm","sense":1}}
+{"lemma":"thèm","text":"Tôi đéo thèm quan tâm.","replace":{"text":"Bé Na giận nên không thèm nói chuyện với ai.","translation":"Little Na is upset, so she won't talk to anyone.","target":"thèm","sense":1}}
+{"lemma":"thúc đẩy","text":"Tập thể dục có thể thúc đẩy đời sống tình dục tốt hơn.","replace":{"text":"Du lịch giúp thúc đẩy kinh tế của Đà Lạt.","translation":"Tourism helps boost Da Lat's economy.","target":"thúc đẩy","sense":0}}
+{"lemma":"thăng hoa","text":"Long não để lâu ngoài không khí sẽ thăng hoa hết.","keep":true}
+{"lemma":"thủ dâm","text":"Anh ta bị mẹ bắt gặp đang thủ dâm.","drop":true}
+{"lemma":"thủ dâm","text":"Con gái cũng thủ dâm phải không?","drop":true}
+{"lemma":"thủ dâm","text":"Cậu ta bị mẹ bắt gặp đang thủ dâm.","drop":true}
+{"lemma":"tinh hoàn","text":"Con chuột hamster của tôi bị sưng một bên tinh hoàn.","keep":true}
+{"lemma":"tinh hoàn","text":"Con hamster của tôi đang bị sưng một bên tinh hoàn.","keep":true}
+{"lemma":"tinh trùng","text":"Bằng chứng duy nhất là dấu vết tinh trùng ở cái quần lót.","replace":{"text":"Trong giờ sinh học, chúng tôi học về trứng và tinh trùng.","translation":"In biology class, we learned about eggs and sperm.","target":"tinh trùng","sense":0}}
+{"lemma":"tiểu","text":"Tôi cần đi tiểu.","keep":true,"sense":1}
+{"lemma":"trinh","text":"Ngày xưa, cô dâu phải còn trinh khi về nhà chồng.","drop":true}
+{"lemma":"trinh","text":"Người xưa có câu: chữ trinh đáng giá ngàn vàng.","drop":true}
+{"lemma":"truy tố","text":"Đặc biệt, trong vụ án đang được xét xử có hai bị cáo đi mua dâm hai cô gái chưa thành niên thì bị khởi tố và truy tố.","replace":{"text":"Hai nhân viên ngân hàng bị truy tố vì làm giả giấy tờ.","translation":"Two bank employees were prosecuted for forging documents.","target":"truy tố","sense":0}}
+{"lemma":"truyện tranh","text":"Truyện tranh dạo này có quá nhiều nóng bạo lực.","replace":{"text":"Em trai tôi để dành tiền mua truyện tranh mới.","translation":"My little brother is saving up to buy new comic books.","target":"truyện tranh","sense":0}}
+{"lemma":"tròn","text":"Vùng hình tròn xung quanh núm vú được gọi là quầng vú.","keep":true}
+{"lemma":"trần truồng","text":"Mấy đứa nhỏ trần truồng tắm sông vào buổi trưa.","replace":{"text":"Thằng bé cười khúc khích khi thấy bức tượng trần truồng trong bảo tàng.","translation":"The little boy giggled when he saw the naked statue in the museum.","target":"trần truồng","sense":0}}
+{"lemma":"trần truồng","text":"Thằng bé tắm xong chạy trần truồng khắp nhà.","replace":{"text":"Trong truyện cổ tích, hoàng đế trần truồng đi diễu hành mà không biết.","translation":"In the fairy tale, the emperor parades around naked without realizing it.","target":"trần truồng","sense":0}}
+{"lemma":"trẻ con","text":"Bạn có thể đừng đối xử với tôi như trẻ con chỉ vì tôi dốt tiếng Anh nữa có được không?","keep":true}
+{"lemma":"trẻ trung","text":"Ai mà chẳng muốn mình trẻ trung và gợi cảm?","replace":{"text":"Bà ngoại tôi ăn mặc rất trẻ trung.","translation":"My grandmother dresses very youthfully.","target":"trẻ trung","sense":0}}
+{"lemma":"tu","text":"Đó là một cái giếng nho nhỏ, nước trong vắt được \"tu\" từ những \"vú\" đá trên thăm thẳm trần cao rơi nhẹ và đều xuống.","keep":true}
+{"lemma":"tuyên truyền","text":"Mười năm qua, các đđv đã tiếp cận hơn 58.000 lượt người, cấp 444.700 bao cao su và hơn 11.200 bơm kim tiêm, 152.480 tờ bướm tuyên truyền.","keep":true}
+{"lemma":"tuỳ ý","text":"Những người khách chọn lựa cô nào tùy ý để cùng vào phòng hát karaoke.","replace":{"text":"Trong buổi tiệc, khách cứ lấy đồ ăn tuỳ ý.","translation":"At the party, guests can help themselves to as much food as they like.","target":"tuỳ ý","sense":0}}
+{"lemma":"tã","text":"Con tôi đã tè vào tã của nó.","keep":true}
+{"lemma":"tè","text":"Con tôi đã tè vào tã của nó.","keep":true}
+{"lemma":"tình báo","text":"Ông ngoại từng làm tình báo trong thời chiến.","replace":{"text":"Tôi thích đọc tiểu thuyết tình báo vào cuối tuần.","translation":"I like reading spy novels on weekends.","target":"tình báo","sense":0}}
+{"lemma":"tình dục","text":"Giang mai là một loại bệnh lây qua đường tình dục.","keep":true}
+{"lemma":"tình dục","text":"Tôi muốn một người bạn để quan hệ tình dục hơn là một người vợ.","drop":true}
+{"lemma":"tình dục","text":"Tập thể dục có thể thúc đẩy đời sống tình dục tốt hơn.","drop":true}
+{"lemma":"tí","text":"Bạn đi dạo một tí đi.","keep":true,"sense":1}
+{"lemma":"tí","text":"Chờ tí, có ai đang gõ cửa.","keep":true,"sense":1}
+{"lemma":"tí","text":"Tôi chỉ thấy hơi chóng mặt một tí.","keep":true,"sense":1}
+{"lemma":"tức","text":"Mày làm tao tức quá!","replace":{"text":"Tôi tức lắm vì bị kẹt xe cả tiếng đồng hồ.","translation":"I'm so frustrated because I was stuck in traffic for a whole hour.","target":"tức","sense":1}}
+{"lemma":"ung thư","text":"Mary đã qua đời do căn bệnh ung thư vú.","keep":true}
+{"lemma":"vãi","text":"Tôi béo vãi.","replace":{"text":"Má tôi vãi lúa cho gà ăn ngoài sân.","translation":"My mom scatters rice for the chickens in the yard.","target":"vãi","sense":0}}
+{"lemma":"vãi","text":"Đừng để quần áo của bạn vương vãi khắp nơi trên sàn nhà.","keep":true}
+{"lemma":"vú","text":"Cá voi là một loài động vật có vú khổng lồ sống ở biển.","keep":true,"sense":1}
+{"lemma":"vú","text":"Cá voi thuộc loài động vật có vú.","keep":true,"sense":1}
+{"lemma":"vú","text":"Có phải là anh ta đã sờ vú bạn không?","replace":{"text":"Phụ nữ nên tự khám vú mỗi tháng một lần.","translation":"Women should do a breast self-exam once a month.","target":"vú","sense":0}}
+{"lemma":"vũ","text":"Anh ấy đang làm công việc ban đêm là một vũ công thoát y.","replace":{"text":"Em gái tôi mơ ước trở thành vũ công ba lê.","translation":"My little sister dreams of becoming a ballet dancer.","target":"vũ","sense":2}}
+{"lemma":"vương","text":"Đừng để quần áo của bạn vương vãi khắp nơi trên sàn nhà.","keep":true}
+{"lemma":"vắng","text":"Khi mẹ nó đi vắng, nó trông chừng em.","keep":true}
+{"lemma":"vội vàng","text":"Nhận \"quà\" xong, các cô tản ra thật nhanh và cô nào cũng vội vàng giấu bao cao su vào mép thành cầu.","replace":{"text":"Thấy trời mưa, má vội vàng chạy ra rút đồ vô.","translation":"Seeing it rain, Mom hurried out to bring the laundry in.","target":"vội vàng","sense":1}}
+{"lemma":"xu","text":"Mấy hôm nay không còn một xu trả tiền thuê nhà nên ra đây ở luôn rồi, gặp mấy cha công an chạy chết mẹ luôn! \".","replace":{"text":"Ông nội kể hồi xưa một tô phở chỉ có mấy xu.","translation":"Grandpa says that in the old days a bowl of pho cost only a few cents.","target":"xu","sense":0}}
+{"lemma":"xuất tinh","text":"Phương pháp xuất tinh ngược được cho là có thể giúp đàn ông có nhiều cơn cực khoái.","drop":true}
+{"lemma":"xét xử","text":"Đặc biệt, trong vụ án đang được xét xử có hai bị cáo đi mua dâm hai cô gái chưa thành niên thì bị khởi tố và truy tố.","replace":{"text":"Tòa án sẽ xét xử vụ kiện giữa hai công ty vào tháng sau.","translation":"The court will hear the lawsuit between the two companies next month.","target":"xét xử","sense":0}}
+{"lemma":"y","text":"Anh ta hễ mở mồm ra là y như rằng sẽ phàn nàn về điều gì đó.","keep":true,"sense":2}
+{"lemma":"y","text":"Anh ấy đang làm công việc ban đêm là một vũ công thoát y.","replace":{"text":"Chị tôi đang học ngành y ở Sài Gòn.","translation":"My older sister is studying medicine in Saigon.","target":"y","sense":1}}
+{"lemma":"y","text":"Tôi có quyển từ điển giống y hệt.","keep":true,"sense":2}
+{"lemma":"âm đạo","text":"Bác sĩ nói chị ấy bị viêm âm đạo nhẹ.","keep":true}
+{"lemma":"âm đạo","text":"Sinh thường là sinh con qua đường âm đạo.","keep":true}
+{"lemma":"ăn chơi","text":"Đoàn đã vào vai một thanh niên ăn chơi để tiếp cận với khoảng 20 gái mại dâm.","replace":{"text":"Anh ta ăn chơi phung phí hết tiền của ba má.","translation":"He squandered all his parents' money on partying.","target":"ăn chơi","sense":1}}
+{"lemma":"điếm","text":"Chơi cờ với nó phải coi chừng, nó điếm lắm.","keep":true,"sense":2}
+{"lemma":"điếm","text":"Thằng Tèo đánh bài điếm quá nên không ai chơi chung.","keep":true,"sense":2}
+{"lemma":"đuôi","text":"Giấu đầu hở đuôi.","replace":{"text":"Con chó vẫy đuôi mừng khi thấy ba tôi về.","translation":"The dog wags its tail happily when it sees my dad come home.","target":"đuôi","sense":0}}
+{"lemma":"đái","text":"Tôi cần đi đái.","drop":true}
+{"lemma":"đái tháo đường","text":"Bác sĩ nói ba có nguy cơ mắc bệnh đái tháo đường.","keep":true}
+{"lemma":"đái tháo đường","text":"Người bị đái tháo đường nên hạn chế ăn đồ ngọt.","keep":true}
+{"lemma":"đéo","text":"Cái đéo gì vậy?","drop":true}
+{"lemma":"đéo","text":"Mày làm cái đéo gì thì làm.","drop":true}
+{"lemma":"đéo","text":"Tôi đéo quan tâm.","drop":true}
+{"lemma":"đít","text":"Ngồi xe đò cả ngày, đau đít quá trời.","replace":{"text":"Ông tôi đeo cặp kính dày như đít chai.","translation":"My grandpa wears glasses as thick as the bottom of a bottle.","target":"đít","sense":1}}
+{"lemma":"đít","text":"Đít nồi bị cháy đen vì nấu lửa lớn quá.","keep":true,"sense":1}
+{"lemma":"đĩ","text":"\"con đĩ chắc chỉ có nước chết!\" - Thư nghiến răng...","drop":true}
+{"lemma":"đĩ","text":"Tôi nghe nói mẹ của Brush là đĩ.","drop":true}
+{"lemma":"đấm","text":"Này thằng chó, mày dám trộm xe của tao à. Bây giờ tao sẽ đấm vỡ mặt mày đấy.","replace":{"text":"Tối nào tôi cũng đấm lưng cho bà nội.","translation":"Every evening I give my grandma a back rub with my fists.","target":"đấm","sense":0}}
+{"lemma":"đậm","text":"Nhan đề \"kẻ gian dâm sắp trở thành cô dâu\" in đậm chạy dài gần hết khổ giấy.","replace":{"text":"Má tôi thích uống cà phê đậm vào buổi sáng.","translation":"My mom likes to drink strong coffee in the morning.","target":"đậm","sense":0}}
+{"lemma":"đếch","text":"Tao đếch quan tâm tới nó.","drop":true}
+{"lemma":"đếch","text":"Tôi đếch quan tâm.","drop":true}
+{"lemma":"đếch","text":"Tôi đếch thèm quan tâm.","drop":true}
+{"lemma":"đối xử","text":"Bạn có thể đừng đối xử với tôi như trẻ con chỉ vì tôi dốt tiếng Anh nữa có được không?","keep":true}
+{"lemma":"động thái","text":"Vks nhân dân tỉnh đã có động thái nào khi lộ ra việc ông Phương cùng ba đối tượng mua dâm bị dư luận lên tiếng?","replace":{"text":"Công ty chưa có động thái gì sau khi khách hàng phàn nàn.","translation":"The company hasn't made any move since the customers complained.","target":"động thái","sense":0}}
+{"lemma":"đời sống","text":"Tập thể dục có thể thúc đẩy đời sống tình dục tốt hơn.","replace":{"text":"Đời sống ở quê yên bình hơn ở thành phố.","translation":"Life in the countryside is more peaceful than in the city.","target":"đời sống","sense":0}}
